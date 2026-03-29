@@ -25,6 +25,40 @@
         }
     </script>
 
+    <!-- Firebase SDK (ES Module) -->
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-app.js";
+        import { getAuth, signInWithPopup, GoogleAuthProvider, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-auth.js";
+        import { getFirestore, doc, setDoc, getDoc } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore.js";
+
+        const firebaseConfig = {
+            apiKey: "AIzaSyCNrvDMnlN_geijgRguQrolnTIZ_rdZwyw",
+            authDomain: "sokudoku-stories-db.firebaseapp.com",
+            projectId: "sokudoku-stories-db",
+            storageBucket: "sokudoku-stories-db.firebasestorage.app",
+            messagingSenderId: "979353290932",
+            appId: "1:979353290932:web:f0c512cfbe64a7afe36fe1",
+            measurementId: "G-XCM39MNG46"
+        };
+
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+        const db = getFirestore(app);
+
+        // Expose Firebase services to global scope for script.js
+        window.firebaseApp = app;
+        window.firebaseAuth = auth;
+        window.firebaseDb = db;
+        window.firebaseGoogleProvider = new GoogleAuthProvider();
+        
+        window.firebaseSignIn = () => signInWithPopup(auth, window.firebaseGoogleProvider);
+        window.firebaseSignOut = () => signOut(auth);
+        window.firebaseOnAuthStateChanged = (callback) => onAuthStateChanged(auth, callback);
+        window.firebaseDoc = doc;
+        window.firebaseSetDoc = setDoc;
+        window.firebaseGetDoc = getDoc;
+    </script>
+
     <meta name="robots" content="noindex, nofollow">
     <script>
         const pass = sessionStorage.getItem('authorized');

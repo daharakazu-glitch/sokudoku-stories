@@ -24,6 +24,8 @@ let state = {
   // New Features State
   showHighlights: true,
   showTranslation: true,
+  user: null,
+  pronunciationScores: {},
   recordingState: {
     isRecording: false,
     targetId: null,
@@ -77,6 +79,21 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Init Voice
     initVoice();
 
+    // Init Auth Listener
+    if (window.firebaseOnAuthStateChanged) {
+      window.firebaseOnAuthStateChanged(async (user) => {
+        setState({ user });
+        if (user) {
+          await loadUserData();
+        } else {
+          setState({ 
+             selectedIds: new Set(VOCAB_LIST.map(v => v.id)),
+             pronunciationScores: {} 
+          });
+        }
+      });
+    }
+
     // Initial Render
     render();
     lucide.createIcons();
@@ -86,6 +103,44 @@ document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('app-root').innerHTML = `<div class="p-4 text-red-500">Error loading data: ${e.message}</div>`;
   }
 });
+
+// --- Firebase Sync Logic ---
+async function loadUserData() {
+  if (!state.user || !window.firebaseGetDoc) return;
+  const storyId = APP_META.subTitle.split(' ')[0];
+  const docRef = window.firebaseDoc(window.firebaseDb, "users", state.user.uid, "stories", `story_${storyId}`);
+  try {
+    const docSnap = await window.firebaseGetDoc(docRef);
+    if (docSnap.exists()) {
+      const data = docSnap.data();
+      setState({
+        selectedIds: new Set(data.selectedIds || []),
+        pronunciationScores: data.pronunciationScores || {}
+      });
+    }
+  } catch (e) {
+    console.error("Error loading user data", e);
+  }
+}
+
+let saveTimeout = null;
+function debouncedSave() {
+  if (!state.user || !window.firebaseSetDoc) return;
+  if (saveTimeout) clearTimeout(saveTimeout);
+  saveTimeout = setTimeout(async () => {
+    const storyId = APP_META.subTitle.split(' ')[0];
+    const docRef = window.firebaseDoc(window.firebaseDb, "users", state.user.uid, "stories", `story_${storyId}`);
+    try {
+      await window.firebaseSetDoc(docRef, {
+        selectedIds: Array.from(state.selectedIds),
+        pronunciationScores: state.pronunciationScores,
+        lastUpdated: new Date().toISOString()
+      }, { merge: true });
+    } catch (e) {
+      console.error("Error saving user data", e);
+    }
+  }, 1500);
+}
 
 function initVoice() {
   const setVoice = () => {
@@ -120,6 +175,7 @@ function toggleSelect(id) {
   const newSet = new Set(state.selectedIds);
   if (newSet.has(id)) newSet.delete(id); else newSet.add(id);
   setState({ selectedIds: newSet });
+  debouncedSave();
 }
 
 function toggleAll() {
@@ -128,6 +184,7 @@ function toggleAll() {
   } else {
     setState({ selectedIds: new Set(VOCAB_LIST.map(v => v.id)) });
   }
+  debouncedSave();
 }
 
 function toggleMenu() {
@@ -269,6 +326,9 @@ function startRecording(id, type, targetText) {
     const confidence = event.results[0][0].confidence;
     const { score, feedback } = checkPronunciation(targetText, transcript, confidence);
 
+    const key = `${id}_${type}`;
+    const bestScore = Math.max(state.pronunciationScores[key] || 0, score);
+
     setState({
       recordingState: {
         isRecording: false,
@@ -277,8 +337,13 @@ function startRecording(id, type, targetText) {
         transcript: transcript,
         score: score,
         feedback: feedback
+      },
+      pronunciationScores: {
+        ...state.pronunciationScores,
+        [key]: bestScore
       }
     });
+    debouncedSave();
   };
 
   recognition.onerror = (event) => {
@@ -415,18 +480,35 @@ function renderHeader() {
     `<option value="${v.name}" ${state.voice?.name === v.name ? 'selected' : ''} class="text-black">${v.name}</option>`
   ).join('');
 
+  const authSection = state.user 
+    ? `
+      <div class="flex items-center gap-3">
+        <img src="${state.user.photoURL}" alt="Profile" class="w-8 h-8 rounded-full border-2 border-white/50" referrerpolicy="no-referrer">
+        <span class="text-sm font-bold truncate max-w-[100px] hidden sm:inline-block">${state.user.displayName.split(' ')[0]}</span>
+        <button onclick="window.firebaseSignOut()" class="text-xs bg-slate-800 hover:bg-slate-700 px-3 py-1.5 rounded transition">Logout</button>
+      </div>
+    `
+    : `
+      <button onclick="window.firebaseSignIn()" class="flex items-center gap-2 bg-white text-blue-900 hover:bg-blue-50 px-4 py-2 rounded font-bold text-sm transition shadow">
+        <i data-lucide="user" class="w-4 h-4"></i> Login
+      </button>
+    `;
+
   return `
     <header class="bg-blue-900 text-white p-5 shadow sticky top-0 z-20">
-        <div class="max-w-4xl mx-auto flex justify-between items-center">
-          <div>
-            <h1 class="font-bold text-2xl md:text-3xl leading-tight">${APP_META.title}</h1>
-            <p class="text-blue-200 text-lg mt-1">${APP_META.subTitle}</p>
+        <div class="max-w-4xl mx-auto flex justify-between items-center gap-4">
+          <div class="flex-1">
+            <h1 class="font-bold text-2xl md:text-3xl leading-tight truncate px-1">${APP_META.title}</h1>
+            <p class="text-blue-200 text-lg mt-1 truncate px-1">${APP_META.subTitle}</p>
           </div>
-          <div class="bg-black/20 p-2 rounded flex items-center">
-            <i data-lucide="volume-2" class="text-blue-200 mr-2 w-5 h-5"></i>
-            <select class="bg-transparent text-white text-base max-w-[200px]" onchange="setVoice(this.value)">
-                ${options}
-            </select>
+          <div class="flex flex-col sm:flex-row items-end sm:items-center gap-3">
+            ${authSection}
+            <div class="bg-black/20 p-2 rounded flex items-center">
+              <i data-lucide="volume-2" class="text-blue-200 mr-2 w-5 h-5"></i>
+              <select class="bg-transparent text-white text-base max-w-[120px] sm:max-w-[180px]" onchange="setVoice(this.value)">
+                  ${options}
+              </select>
+            </div>
           </div>
         </div>
     </header>

@@ -26,9 +26,46 @@
             }
         }
     </script>
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-app.js";
+        import { getAuth, signInWithPopup, GoogleAuthProvider, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-auth.js";
+
+        const firebaseConfig = {
+            apiKey: "AIzaSyCNrvDMnlN_geijgRguQrolnTIZ_rdZwyw",
+            authDomain: "sokudoku-stories-db.firebaseapp.com",
+            projectId: "sokudoku-stories-db",
+            storageBucket: "sokudoku-stories-db.firebasestorage.app",
+            messagingSenderId: "979353290932",
+            appId: "1:979353290932:web:f0c512cfbe64a7afe36fe1",
+            measurementId: "G-XCM39MNG46"
+        };
+
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+        const provider = new GoogleAuthProvider();
+
+        const authDiv = document.getElementById('auth-container');
+
+        onAuthStateChanged(auth, (user) => {
+            if (user) {
+                authDiv.innerHTML = `
+                    <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+                        <img src="${user.photoURL}" style="width:30px; height:30px; border-radius:50%;">
+                        <strong>${user.displayName}</strong>
+                        <button id="btn-logout" style="padding:5px 10px; cursor:pointer;">Logout</button>
+                    </div>
+                `;
+                document.getElementById('btn-logout').onclick = () => signOut(auth);
+            } else {
+                authDiv.innerHTML = `<button id="btn-login" style="padding:10px 20px; font-weight:bold; background:#1e3a8a; color:white; border:none; border-radius:5px; cursor:pointer;">Googleログインして学習を保存</button>`;
+                document.getElementById('btn-login').onclick = () => signInWithPopup(auth, provider);
+            }
+        });
+    </script>
 </head>
 <body>
 
+    <div id="auth-container" style="text-align: center; margin-bottom: 20px;"></div>
     <h1>速読英単語 ストーリー一覧</h1>
     <p class="notice">※GitHub Pagesの設定後、反映までに数分かかる場合があります。<br>「File not found」となる場合は、1〜2分待ってからページを再読み込みしてください。</p>
     
