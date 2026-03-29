@@ -45,12 +45,12 @@
         const provider = new GoogleAuthProvider();
         
         // Import Firestore to save profile on portal login
-        import { getFirestore, doc, setDoc } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore.js";
+        import { getFirestore, doc, setDoc, collection, getDocs } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore.js";
         const db = getFirestore(app);
 
         const authDiv = document.getElementById('auth-container');
 
-        onAuthStateChanged(auth, (user) => {
+        onAuthStateChanged(auth, async (user) => {
             if (user) {
                 // Sync profile data
                 setDoc(doc(db, "users", user.uid), {
@@ -60,14 +60,69 @@
                     lastLogin: new Date().toISOString()
                 }, { merge: true }).catch(e => console.error("Profile sync error", e));
 
+                // Display loading state
+                authDiv.innerHTML = `<div style="padding:20px; text-align:center; color:#64748b;">Loading your progress...</div>`;
+
+                // Fetch student progress
+                let totalWords = 0;
+                let scores = [];
+                let startedStories = new Set();
+                try {
+                    const storiesSnap = await getDocs(collection(db, "users", user.uid, "stories"));
+                    storiesSnap.forEach(doc => {
+                        const data = doc.data();
+                        const storyNum = doc.id.replace('story_', ''); // e.g., "01"
+                        startedStories.add(storyNum);
+                        if (data.selectedIds) totalWords += data.selectedIds.length;
+                        if (data.pronunciationScores) {
+                            Object.values(data.pronunciationScores).forEach(s => { if(typeof s === 'number') scores.push(s); });
+                        }
+                    });
+                } catch (err) { console.error("Error fetching progress", err); }
+
+                let avgScore = scores.length ? Math.round(scores.reduce((a,b)=>a+b,0)/scores.length) : '-';
+
                 authDiv.innerHTML = `
-                    <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
-                        <img src="${user.photoURL}" style="width:30px; height:30px; border-radius:50%;">
-                        <strong>${user.displayName}</strong>
-                        <button id="btn-logout" style="padding:5px 10px; cursor:pointer;">Logout</button>
+                    <div style="background: white; border-radius: 12px; padding: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); max-width: 650px; margin: 0 auto; text-align: left; border: 1px solid #e2e8f0;">
+                        <div style="display:flex; justify-content:space-between; align-items:center; border-bottom: 2px solid #f8fafc; padding-bottom: 20px; margin-bottom: 20px;">
+                            <div style="display:flex; align-items:center; gap:15px;">
+                                <img src="${user.photoURL}" style="width:60px; height:60px; border-radius:50%; border:3px solid #f1f5f9; object-fit: cover;">
+                                <div>
+                                    <h2 style="margin:0; font-size:1.3rem; color:#0f172a;">${user.displayName}</h2>
+                                    <span style="font-size:0.85rem; color:#64748b; font-weight:bold; letter-spacing:0.5px; text-transform:uppercase;">My Progress</span>
+                                </div>
+                            </div>
+                            <button id="btn-logout" style="background:#f1f5f9; color:#475569; border:none; padding:10px 20px; border-radius:8px; font-weight:bold; cursor:pointer; transition:all 0.2s;" onmouseover="this.style.background='#e2e8f0'" onmouseout="this.style.background='#f1f5f9'">Logout</button>
+                        </div>
+                        <div style="display:flex; gap:15px; justify-content:space-between;">
+                            <div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:20px 15px; text-align:center;">
+                                <div style="font-size:0.75rem; color:#64748b; font-weight:bold; margin-bottom:8px; text-transform:uppercase;">Checkmarks</div>
+                                <div style="font-size:1.8rem; font-weight:bold; color:#3b82f6; line-height:1;">${totalWords}</div>
+                            </div>
+                            <div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:20px 15px; text-align:center;">
+                                <div style="font-size:0.75rem; color:#64748b; font-weight:bold; margin-bottom:8px; text-transform:uppercase;">Stories Started</div>
+                                <div style="font-size:1.8rem; font-weight:bold; color:#10b981; line-height:1;">${startedStories.size}</div>
+                            </div>
+                            <div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:20px 15px; text-align:center;">
+                                <div style="font-size:0.75rem; color:#64748b; font-weight:bold; margin-bottom:8px; text-transform:uppercase;">Avg Score</div>
+                                <div style="font-size:1.8rem; font-weight:bold; color:#f59e0b; line-height:1;">${avgScore}</div>
+                            </div>
+                        </div>
                     </div>
                 `;
                 document.getElementById('btn-logout').onclick = () => signOut(auth);
+
+                // Highlight started stories in the grid by looping through 1-71
+                for (let i = 1; i <= 71; i++) {
+                    const numStr = i.toString().padStart(2, '0');
+                    const link = document.getElementById(`link-story-${numStr}`);
+                    if (link && startedStories.has(numStr)) {
+                        link.style.backgroundColor = '#eff6ff';
+                        link.style.borderColor = '#bfdbfe';
+                        link.style.color = '#1d4ed8';
+                        link.innerHTML += '<br><span style="font-size:0.7rem; background:#3b82f6; color:white; padding:3px 8px; border-radius:12px; margin-top:8px; display:inline-block;">In Progress</span>';
+                    }
+                }
             } else {
                 authDiv.innerHTML = `<button id="btn-login" style="padding:10px 20px; font-weight:bold; background:#1e3a8a; color:white; border:none; border-radius:5px; cursor:pointer;">Googleログインして学習を保存</button>`;
                 document.getElementById('btn-login').onclick = () => signInWithPopup(auth, provider).catch(e => {
@@ -97,6 +152,7 @@
         for (let i = 1; i <= 71; i++) {
             const numStr = i.toString().padStart(2, '0');
             const link = document.createElement('a');
+            link.id = `link-story-${numStr}`;
             link.href = `web_app_story_${numStr}/index.html`;
             link.textContent = `Story ${numStr}`;
             grid.appendChild(link);
