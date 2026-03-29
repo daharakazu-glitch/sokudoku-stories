@@ -58,7 +58,14 @@
                 document.getElementById('btn-logout').onclick = () => signOut(auth);
             } else {
                 authDiv.innerHTML = `<button id="btn-login" style="padding:10px 20px; font-weight:bold; background:#1e3a8a; color:white; border:none; border-radius:5px; cursor:pointer;">Googleログインして学習を保存</button>`;
-                document.getElementById('btn-login').onclick = () => signInWithPopup(auth, provider);
+                document.getElementById('btn-login').onclick = () => signInWithPopup(auth, provider).catch(e => {
+                    console.error(e);
+                    if (e.code === 'auth/unauthorized-domain') {
+                        alert("【エラー】Firebaseの設定で、このウェブサイトのURLが許可されていません。「承認済みドメイン」に daharakazu-glitch.github.io を追加してください。");
+                    } else {
+                        alert("ログインエラー: " + e.message);
+                    }
+                });
             }
         });
     </script>

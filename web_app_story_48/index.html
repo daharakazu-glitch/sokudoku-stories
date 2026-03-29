@@ -51,7 +51,14 @@
         window.firebaseDb = db;
         window.firebaseGoogleProvider = new GoogleAuthProvider();
         
-        window.firebaseSignIn = () => signInWithPopup(auth, window.firebaseGoogleProvider);
+        window.firebaseSignIn = () => signInWithPopup(auth, window.firebaseGoogleProvider).catch(e => {
+            console.error(e);
+            if (e.code === 'auth/unauthorized-domain') {
+                alert("【エラー】Firebaseの設定で、このウェブサイトのURLが許可されていません。「承認済みドメイン」に daharakazu-glitch.github.io を追加してください。");
+            } else {
+                alert("ログインエラー: " + e.message);
+            }
+        });
         window.firebaseSignOut = () => signOut(auth);
         window.firebaseOnAuthStateChanged = (callback) => onAuthStateChanged(auth, callback);
         window.firebaseDoc = doc;
