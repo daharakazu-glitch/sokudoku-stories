@@ -43,11 +43,23 @@
         const app = initializeApp(firebaseConfig);
         const auth = getAuth(app);
         const provider = new GoogleAuthProvider();
+        
+        // Import Firestore to save profile on portal login
+        import { getFirestore, doc, setDoc } from "https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore.js";
+        const db = getFirestore(app);
 
         const authDiv = document.getElementById('auth-container');
 
         onAuthStateChanged(auth, (user) => {
             if (user) {
+                // Sync profile data
+                setDoc(doc(db, "users", user.uid), {
+                    displayName: user.displayName,
+                    email: user.email,
+                    photoURL: user.photoURL,
+                    lastLogin: new Date().toISOString()
+                }, { merge: true }).catch(e => console.error("Profile sync error", e));
+
                 authDiv.innerHTML = `
                     <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
                         <img src="${user.photoURL}" style="width:30px; height:30px; border-radius:50%;">

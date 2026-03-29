@@ -84,6 +84,15 @@ document.addEventListener('DOMContentLoaded', async () => {
       window.firebaseOnAuthStateChanged(async (user) => {
         setState({ user });
         if (user) {
+          // Sync profile data to root user document for teacher dashboard
+          if (window.firebaseSetDoc && window.firebaseDoc && window.firebaseDb) {
+             window.firebaseSetDoc(window.firebaseDoc(window.firebaseDb, "users", user.uid), {
+                displayName: user.displayName,
+                email: user.email,
+                photoURL: user.photoURL,
+                lastLogin: new Date().toISOString()
+             }, { merge: true }).catch(e => console.error("Error saving profile", e));
+          }
           await loadUserData();
         } else {
           setState({ 
