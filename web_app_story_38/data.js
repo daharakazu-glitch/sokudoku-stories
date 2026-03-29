@@ -1,0 +1,419 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "38　フェイクニュースの拡散 (1)　[社会]",
+  "text": {
+    "en": "① Some people [[HL]]argue [[/HL]]that it is only [[HL]]automated [[/HL]]robots, sometimes called “bots,” that are [[HL]]responsible [[/HL]]for the [[HL]]spread [[/HL]]of [[HL]]fake [[/HL]]news stories. But a new study shows that data science [[HL]]contradicts [[/HL]]that idea. In fact, it seems we like fake news, seek it out, and spread it much more quickly than the truth.\n\n② To investigate how fake news spreads, MIT data scientist Soroush Vosoughi and his colleagues collected 12 years of data from *Twitter. Using bot technology [[HL]]software [[/HL]]and fact-checking websites, they [[HL]]identified [[/HL]]a set of 126,000 “fake news” stories shared on Twitter 4.5 million times by about 3 million people. They looked at how quickly those stories spread compared to tweets that were proved to be true. What they found was that fake stories reached more people and spread faster than real stories. A false news story was 70 percent more likely to earn a retweet than a true one. While fake news was found in every category, from business to sports and science, false political stories, not [[HL]]surprisingly[[/HL]], were the most likely to be retweeted. Vosoughi says, “It seems to be [[HL]]pretty [[/HL]]clear from our study that false information [[HL]]beats [[/HL]]true information. And that is not just because of bots. It might have something to do with human nature.”\n\n(211 words)",
+    "ja": "*Twitter「ツイッター〔現在は X(エックス)〕」\n\n❶　[[HL]]フェイク[[/HL]]ニュース記事の[[HL]]拡散[[/HL]]の[[HL]]原因となって[[/HL]]いるのは，時に「ボット」と呼ばれる[[HL]]自動化された[[/HL]]ロボットだけだ[[HL]]と主張する[[/HL]]人もいる。だが，新たな調査によって，データ科学はその考え[[HL]]と相反する[[/HL]]ことがわかっている。実のところ，私たちはフェイクニュースを好み，それを探し出し，真実よりもずっと速く拡散しているようなのだ。\n\n❷　フェイクニュースがどのように広まるかを調査するため，MIT（マサチューセッツ工科大学）のデータ科学者ソローシュ・ボスギと彼の同僚はツイッターから12年分のデータを収集した。ボット技術の[[HL]]ソフトウェア[[/HL]]とファクトチェックのウェブサイトを使い，彼らは12万6000件の“フェイクニュース”の投稿があること[[HL]]を確認した[[/HL]]。それらはツイッターで約300万人によって450万回共有されていた。彼らは，これらの投稿が，正しいと証明されたツイートと比較して，どれだけ速く広まったかを調べた。その結果判明したのは，フェイクの話の方が本当の話よりも多くの人に届き，より速く広まるということだった。虚偽のニュース記事は，正しい記事よりもリツイートされる可能性が70%高かった。フェイクニュースはビジネスからスポーツ，科学に至るまで，あらゆる分野で見られたが，[[HL]]驚くべき[[/HL]]ことではないが〔やはり〕，虚偽の政治記事が最も多くリツイートされる傾向にあった。「我々の調査から，虚偽の情報が正しい情報[[HL]]に勝る[[/HL]]のは[[HL]]かなり[[/HL]]明らかなようだ。そして，それはボットのせいだけではない。それは人間の性質と関係があるのかもしれない。」とボスギ氏は語る。"
+  },
+  "vocabulary": [
+    {
+      "id": 1101,
+      "word": "argue",
+      "definition": "【他】【自】主張する（≒insist）；議論する",
+      "examples": [
+        {
+          "en": "She argued with him about the new plan.",
+          "ja": "（（彼女は彼と新しい計画について議論した。））"
+        }
+      ]
+    },
+    {
+      "id": "1101-1",
+      "word": "argument",
+      "definition": "【名】議論；論拠",
+      "examples": []
+    },
+    {
+      "id": 1102,
+      "word": "assert",
+      "definition": "【他】〈正当性など〉を主張する",
+      "examples": [
+        {
+          "en": "You need to assert yourself more in meetings.",
+          "ja": "（（あなたは会議でもっと自己主張するべきだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1103,
+      "word": "criticize",
+      "definition": "【他】を批判する；を批評する",
+      "examples": [
+        {
+          "en": "He criticized me for not handing in the report in time.",
+          "ja": "（（彼は期限内にレポートを提出しなかったと私を批判した。））"
+        }
+      ]
+    },
+    {
+      "id": "1103-1",
+      "word": "criticism",
+      "definition": "【名】批判；批評",
+      "examples": []
+    },
+    {
+      "id": 1104,
+      "word": "critic",
+      "definition": "【名】評論家",
+      "examples": [
+        {
+          "en": "The art critic wrote a book on how to analyze art works.",
+          "ja": "（（その美術評論家は美術作品の分析方法についての本を書いた。））"
+        }
+      ]
+    },
+    {
+      "id": 1105,
+      "word": "accuse",
+      "definition": "【他】を訴える；を非難する",
+      "examples": [
+        {
+          "en": "The manager accused his worker of stealing the company secrets.",
+          "ja": "（（マネージャーは従業員が会社の機密を盗んだと訴えた。））"
+        }
+      ]
+    },
+    {
+      "id": 1106,
+      "word": "automate",
+      "definition": "【他】【自】自動化する",
+      "examples": [
+        {
+          "en": "Since the company automated production, they have made huge profits.",
+          "ja": "（（会社は生産を自動化して以来，莫大な利益を上げている。））"
+        }
+      ]
+    },
+    {
+      "id": 1107,
+      "word": "responsible",
+      "definition": "【形】責任がある；の原因である《for》",
+      "examples": [
+        {
+          "en": "A bus driver is responsible for the safety of passengers.",
+          "ja": "（（バスの運転手は乗客の安全に責任がある。））"
+        }
+      ]
+    },
+    {
+      "id": "1107-1",
+      "word": "responsibility",
+      "definition": "【名】責任",
+      "examples": []
+    },
+    {
+      "id": "1107-2",
+      "word": "responsive",
+      "definition": "【形】反応がよい；敏感な",
+      "examples": []
+    },
+    {
+      "id": 1108,
+      "word": "due",
+      "definition": "【形】《due to》が原因で；払われるべき；《…する》はずで《to do》；到着予定で",
+      "examples": [
+        {
+          "en": "Your parcel is due on Monday.",
+          "ja": "（（小包は月曜日に届く予定だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1109,
+      "word": "blame",
+      "definition": "【他】を非難する；のせいにする　【名】責任；非難",
+      "examples": [
+        {
+          "en": "My sister blamed me for making our parents angry.",
+          "ja": "（（妹は両親を怒らせたことで私を責めた。））"
+        }
+      ]
+    },
+    {
+      "id": 1110,
+      "word": "spread",
+      "definition": "【他】を広げる　【自】広がる　【名】広がり；普及",
+      "examples": [
+        {
+          "en": "The virus quickly spread through the class.",
+          "ja": "（（ウイルスはあっという間にクラス中に広まった。））"
+        }
+      ]
+    },
+    {
+      "id": 1111,
+      "word": "scatter",
+      "definition": "【他】をまき散らす　【自】分散する　【名】散布",
+      "examples": [
+        {
+          "en": "The child's toys lay scattered on the floor.",
+          "ja": "（（子供のおもちゃが床に散乱していた。））"
+        }
+      ]
+    },
+    {
+      "id": 1112,
+      "word": "prolong",
+      "definition": "【他】を延長する",
+      "examples": [
+        {
+          "en": "Doing exercise every day can prolong your life.",
+          "ja": "（（毎日運動すれば寿命を延ばすことができる。））"
+        }
+      ]
+    },
+    {
+      "id": 1113,
+      "word": "fake",
+      "definition": "【形】【名】偽物（の）",
+      "examples": [
+        {
+          "en": "The picture I bought at the market was a fake.",
+          "ja": "（（私が市場で買った絵は偽物だった。））"
+        }
+      ]
+    },
+    {
+      "id": 1114,
+      "word": "pretend",
+      "definition": "【自】【他】ふりをする；装う",
+      "examples": [
+        {
+          "en": "The man pretended to be listening to his wife.",
+          "ja": "（（その男は妻の話を聞いているふりをした。））"
+        }
+      ]
+    },
+    {
+      "id": 1115,
+      "word": "imitate",
+      "definition": "【他】をまねる",
+      "examples": [
+        {
+          "en": "Researchers found that apes imitate the actions of humans.",
+          "ja": "（（研究者たちは，類人猿が人間の行動をまねることを発見した。））"
+        }
+      ]
+    },
+    {
+      "id": "1115-1",
+      "word": "imitation",
+      "definition": "【名】まね；模造品",
+      "examples": []
+    },
+    {
+      "id": "1115-2",
+      "word": "mimic",
+      "definition": "【他】をまねる，によく似ている",
+      "examples": []
+    },
+    {
+      "id": "1115-3",
+      "word": "mock",
+      "definition": "【他】をあざける；をまねしてばかにする",
+      "examples": []
+    },
+    {
+      "id": 1116,
+      "word": "contradict",
+      "definition": "【他】を否定する；と矛盾する",
+      "examples": [
+        {
+          "en": "That contradicts what you said yesterday.",
+          "ja": "（（それは昨日あなたが言ったことと矛盾している。））"
+        }
+      ]
+    },
+    {
+      "id": "1116-1",
+      "word": "contradiction",
+      "definition": "【名】否定；矛盾",
+      "examples": []
+    },
+    {
+      "id": "1116-2",
+      "word": "contradictory",
+      "definition": "【形】矛盾している",
+      "examples": []
+    },
+    {
+      "id": 1117,
+      "word": "conflict",
+      "definition": "【名】対立；紛争；不一致　【自】《～と》対立する《with》",
+      "examples": [
+        {
+          "en": "The conflict between the army and the people lasted for two days.",
+          "ja": "（（軍と民衆の対立は2日続いた。））"
+        }
+      ]
+    },
+    {
+      "id": 1118,
+      "word": "contrary",
+      "definition": "【形】反対の　【名】《the》逆",
+      "examples": [
+        {
+          "en": "Contrary to all his teachers' expectations, he passed the examination easily.",
+          "ja": "（（すべての教師の予想に反して，彼は簡単に試験に合格した。））"
+        }
+      ]
+    },
+    {
+      "id": 1119,
+      "word": "paradox",
+      "definition": "【名】矛盾；逆説",
+      "examples": [
+        {
+          "en": "“Everything I say is a lie” is a popular example of a paradox.",
+          "ja": "（（「私の言うことはすべてうそだ」は逆説のよく知られた例だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1120,
+      "word": "dilemma",
+      "definition": "【名】ジレンマ，板ばさみ",
+      "examples": [
+        {
+          "en": "The trolley problem is an example of a moral dilemma.",
+          "ja": "（（トロッコ問題は道徳的ジレンマの一例である。））"
+        }
+      ]
+    },
+    {
+      "id": 1121,
+      "word": "irony",
+      "definition": "【名】皮肉",
+      "examples": [
+        {
+          "en": "The irony is that the famous dentist had false teeth.",
+          "ja": "（（その有名な歯科医が入れ歯だったのは皮肉だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1122,
+      "word": "software",
+      "definition": "【名】ソフトウェア",
+      "examples": [
+        {
+          "en": "You can download the software for the printer from our website.",
+          "ja": "（（プリンターのソフトウェアは当社のウェブサイトからダウンロードできます。））"
+        }
+      ]
+    },
+    {
+      "id": 1123,
+      "word": "identify",
+      "definition": "【他】を特定する；の身元を確認する；を同一視する",
+      "examples": [
+        {
+          "en": "The police finally identified the cause of the fire.",
+          "ja": "（（警察はついにその火事の原因を特定した。））"
+        }
+      ]
+    },
+    {
+      "id": "1123-1",
+      "word": "identity",
+      "definition": "【名】自己同一性；身元",
+      "examples": []
+    },
+    {
+      "id": "1123-2",
+      "word": "identification",
+      "definition": "【名】身分証明書；身元確認",
+      "examples": []
+    },
+    {
+      "id": 1124,
+      "word": "identical",
+      "definition": "【形】《～と》まったく同じの《to》",
+      "examples": [
+        {
+          "en": "Here are two identical copies; one for you and the other for me.",
+          "ja": "（（ここにまったく同じものが2枚あります。1枚はあなたのもの，もう1枚は私のものです。））"
+        }
+      ]
+    },
+    {
+      "id": "1124-1",
+      "word": "certify",
+      "definition": "【他】を証明する；を保証する",
+      "examples": []
+    },
+    {
+      "id": "1124-2",
+      "word": "certificate",
+      "definition": "【名】証明書",
+      "examples": []
+    },
+    {
+      "id": 1125,
+      "word": "verify",
+      "definition": "【他】が正しいか確認する",
+      "examples": [
+        {
+          "en": "The researchers conducted an experiment to verify their claim.",
+          "ja": "（（研究者たちは，その主張が正しいか確かめるために実験を行った。））"
+        }
+      ]
+    },
+    {
+      "id": 1126,
+      "word": "signature",
+      "definition": "【名】〈書類などへの〉署名",
+      "examples": [
+        {
+          "en": "Please put your signature at the bottom of the page.",
+          "ja": "（（ページの一番下に署名をしてください。））"
+        }
+      ]
+    },
+    {
+      "id": "1126-1",
+      "word": "fingerprint",
+      "definition": "【名】指紋",
+      "examples": []
+    },
+    {
+      "id": 1127,
+      "word": "surprisingly",
+      "definition": "【副】驚くほど（に）；〈文修飾〉驚いたことに",
+      "examples": [
+        {
+          "en": "Surprisingly, my friend arrived on time for the first time ever.",
+          "ja": "（（驚いたことに，私の友人は初めて時間通りに到着した。））"
+        }
+      ]
+    },
+    {
+      "id": 1128,
+      "word": "pretty",
+      "definition": "【副】かなり　【形】かわいらしい",
+      "examples": [
+        {
+          "en": "I did pretty well in the interview.",
+          "ja": "（（私は面接でかなりうまくやった。））"
+        }
+      ]
+    },
+    {
+      "id": 1129,
+      "word": "beat",
+      "definition": "【自】【他】たたく；打ち負かす　beat＞beat(en)　【名】たたくこと；鼓動",
+      "examples": [
+        {
+          "en": "The champion easily beat the new player.",
+          "ja": "（（チャンピオンは新人選手に簡単に勝った。））"
+        }
+      ]
+    },
+    {
+      "id": "1129-1",
+      "word": "punch",
+      "definition": "【名】パンチ；迫力　【他】をこぶしで殴る",
+      "examples": []
+    }
+  ]
+};

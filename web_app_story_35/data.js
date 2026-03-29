@@ -1,0 +1,638 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "35　言葉はどれほど人を傷つけるか (3)　[言語]",
+  "text": {
+    "en": "① Is it true that words hurt us? This question was [[HL]]investigated [[/HL]]by Eisenberger, Lieberman and Williams in a famous Science [[HL]]article [[/HL]]in 2003. They studied the brains of thirteen Western undergraduates. The students played a computerised ball-throwing game during the test. The students were told that they were playing against two other humans when, in fact, they were playing against a computer. During the game, however, the other ‘human’ players ignored the real player. The scientists [[HL]]observed [[/HL]]which brain parts were [[HL]]active [[/HL]]when the humans were being ignored. The scientists found that the brain activated in the same places as when people are hurt physically. They [[HL]]concluded [[/HL]]that words have the same power to hurt us as physical [[HL]]objects[[/HL]].\n\n② We can easily [[HL]]attack [[/HL]]others anonymously on the internet. A key [[HL]]issue centres [[/HL]]on finding a [[HL]]balance [[/HL]]between [[HL]]tougher [[/HL]]regulations and [[HL]]freedom [[/HL]]of expression. A professional wrestler and [[HL]]cast [[/HL]]member on a TV [[HL]]reality [[/HL]]show [[HL]]committed suicide [[/HL]]in May 2020 after [[HL]]receiving [[/HL]]many hateful messages on social [[HL]]media[[/HL]]. To [[HL]]address [[/HL]]the growing concern about online [[HL]]harassment[[/HL]], the Japanese government [[HL]]introduced stricter [[/HL]]laws against online [[HL]]bullying[[/HL]].\n\n(184 words)",
+    "ja": "❶　言葉が私たちを傷つけるというのは本当だろうか。この疑問は，2003年にアイゼンバーガー，リーバーマン，ウィリアムズによる，『サイエンス』誌に載った有名な[[HL]]論文[[/HL]]において[[HL]]調査され[[/HL]]た。彼らは，13人の欧米の大学生の脳を研究した。実験中，学生らはコンピューターで操作するボール投げのゲームをした。学生らは，他の2人の人間と対戦していると聞かされていたが，実際はコンピューターと対戦していた。だが，ゲーム中，他方の「人間」のプレイヤーは本物のプレイヤーを無視した。研究者たちは，人間が無視されている時，脳のどの部分が[[HL]]活発[[/HL]]だったか[[HL]]を観察した[[/HL]]。研究者たちは，身体的に傷つけられた場合と同じ脳の部分が活性化したことを発見した。彼らは，言葉には形のある[[HL]]物体[[/HL]]と同じように私たちを傷つける力がある[[HL]]と結論づけた[[/HL]]。\n\n❷　私たちは，インターネット上で，匿名で簡単に他人[[HL]]を攻撃[[/HL]]できる。重要な[[HL]]課題[[/HL]]は，[[HL]]より厳しい[[/HL]]規制と表現の[[HL]]自由[[/HL]]の[[HL]]バランス[[/HL]]を見つけることが[[HL]]中心となっている[[/HL]]。テレビの[[HL]]リアリティ[[/HL]]番組の[[HL]]出演者[[/HL]]であったプロレスラーが，ソーシャル[[HL]]メディア[[/HL]]で多くの憎しみに満ちたメッセージを受け取ったのち，2020年5月に[[HL]]自殺した[[/HL]]。オンラインの[[HL]]嫌がらせ[[/HL]]に関する懸念の高まり[[HL]]に対処する[[/HL]]ため，日本政府はネット[[HL]]いじめ[[/HL]]に対し，[[HL]]より厳しい[[/HL]]法律[[HL]]を導入した[[/HL]]。"
+  },
+  "vocabulary": [
+    {
+      "id": 997,
+      "word": "investigate",
+      "definition": "【他】〈事件など〉を調査する",
+      "examples": [
+        {
+          "en": "The police are investigating the crime.",
+          "ja": "（（警察はその犯罪を捜査している。））"
+        }
+      ]
+    },
+    {
+      "id": "997-1",
+      "word": "investigation",
+      "definition": "【名】調査",
+      "examples": []
+    },
+    {
+      "id": "997-2",
+      "word": "investigator",
+      "definition": "【名】捜査官；研究者",
+      "examples": []
+    },
+    {
+      "id": 998,
+      "word": "article",
+      "definition": "【名】記事，論文；品物；条項",
+      "examples": [
+        {
+          "en": "There was a great article about our restaurant in the paper.",
+          "ja": "（（私たちのレストランについての素晴らしい記事が新聞に掲載された。））"
+        }
+      ]
+    },
+    {
+      "id": 999,
+      "word": "observe",
+      "definition": "【他】を観察する；を述べる；に気づく；〈法律など〉を遵守する",
+      "examples": [
+        {
+          "en": "The scientist observed the animals for days to understand their lifestyle.",
+          "ja": "（（科学者は動物の生活様式を理解するために何日も動物を観察した。））"
+        }
+      ]
+    },
+    {
+      "id": "999-1",
+      "word": "observation",
+      "definition": "【名】観察；監視",
+      "examples": []
+    },
+    {
+      "id": "999-2",
+      "word": "observer",
+      "definition": "【名】観察者；目撃者",
+      "examples": []
+    },
+    {
+      "id": 1000,
+      "word": "active",
+      "definition": "【形】積極的な；活動的な，活発な",
+      "examples": [
+        {
+          "en": "He is very active and enjoys all kinds of outdoor activities.",
+          "ja": "（（彼はとても活動的で，あらゆる野外活動を楽しんでいる。））"
+        }
+      ]
+    },
+    {
+      "id": "1000-1",
+      "word": "activate",
+      "definition": "【他】を活性化する；を作動させる",
+      "examples": []
+    },
+    {
+      "id": "1000-2",
+      "word": "activist",
+      "definition": "【名】〈政治運動などの〉活動家",
+      "examples": []
+    },
+    {
+      "id": "1000-3",
+      "word": "inactive",
+      "definition": "【形】不活発な；休止中の",
+      "examples": []
+    },
+    {
+      "id": 1001,
+      "word": "conclude",
+      "definition": "【他】と結論づける；を終える　【自】終える",
+      "examples": [
+        {
+          "en": "To conclude my speech, I would like to make some suggestions for improvement.",
+          "ja": "（（スピーチを終えるにあたって，改善すべき点をいくつか提案したいと思います。））"
+        }
+      ]
+    },
+    {
+      "id": "1001-1",
+      "word": "conclusion",
+      "definition": "【名】結論；終結",
+      "examples": []
+    },
+    {
+      "id": 1002,
+      "word": "summarize",
+      "definition": "【他】を要約する",
+      "examples": [
+        {
+          "en": "I would like to summarize the key points of the presentation.",
+          "ja": "（（プレゼンテーションの要点を要約したい。））"
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "word": "object",
+      "definition": "【自】反対する《to》　【名】物；目的；対象",
+      "examples": [
+        {
+          "en": "She objected to the questions by the police officer.",
+          "ja": "（（彼女は警官からの質問に抗議した。））"
+        }
+      ]
+    },
+    {
+      "id": 1004,
+      "word": "attack",
+      "definition": "【名】攻撃；非難；〈病気の〉発作　【他】を攻撃する；を非難する",
+      "examples": [
+        {
+          "en": "The dog suddenly attacked the small child.",
+          "ja": "（（その犬は突然小さな子供を襲った。））"
+        }
+      ]
+    },
+    {
+      "id": 1005,
+      "word": "invasion",
+      "definition": "【名】侵入；侵略；侵害",
+      "examples": [
+        {
+          "en": "The invasion of our country is against international law.",
+          "ja": "（（我が国への侵略は国際法に違反している。））"
+        }
+      ]
+    },
+    {
+      "id": "1005-1",
+      "word": "invade",
+      "definition": "【他】に侵入する；を侵害する",
+      "examples": []
+    },
+    {
+      "id": "1005-2",
+      "word": "penetrate",
+      "definition": "【自】【他】入り込む；貫通する",
+      "examples": []
+    },
+    {
+      "id": 1006,
+      "word": "issue",
+      "definition": "【名】問題；発行（物）；子孫　【他】を発行する",
+      "examples": [
+        {
+          "en": "The main issue is where the government is going to get the money.",
+          "ja": "（（主な問題は，政府がどこでお金を手に入れるかということだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1007,
+      "word": "descendant",
+      "definition": "【名】子孫",
+      "examples": [
+        {
+          "en": "He found out that he was a descendant of the King of England.",
+          "ja": "（（彼は自分がイングランド王の子孫であることを知った。））"
+        }
+      ]
+    },
+    {
+      "id": "1007-1",
+      "word": "descend",
+      "definition": "【他】《be –ed》由来する；を降りる　【自】降りる",
+      "examples": []
+    },
+    {
+      "id": 1008,
+      "word": "offspring",
+      "definition": "【名】《単複両扱い》子（孫）",
+      "examples": [
+        {
+          "en": "Genes are inherited from parents to offspring.",
+          "ja": "（（遺伝子は親から子へ受け継がれる。））"
+        }
+      ]
+    },
+    {
+      "id": 1009,
+      "word": "center",
+      "definition": "【名】中心，中央　【自】《～に》集中する《on》　【他】を中心に置く",
+      "examples": [
+        {
+          "en": "New York is the center of the financial world.",
+          "ja": "（（ニューヨークは金融界の中心地だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1010,
+      "word": "core",
+      "definition": "【名】《the》中心；核心；〈果物の〉芯",
+      "examples": [
+        {
+          "en": "Although it is a very large company, its core business is still car production.",
+          "ja": "（（非常に大きな会社だが，中核事業はいまだに自動車製造だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1010-1",
+      "word": "headquarters",
+      "definition": "【名】本部，本社",
+      "examples": []
+    },
+    {
+      "id": 1011,
+      "word": "edge",
+      "definition": "【名】端；ふち；刃",
+      "examples": [
+        {
+          "en": "Be careful! That glass is close to the edge of the table.",
+          "ja": "（（気をつけて！ グラスがテーブルの端に近いよ。））"
+        }
+      ]
+    },
+    {
+      "id": 1012,
+      "word": "tip",
+      "definition": "【名】先（端）；秘訣；チップ",
+      "examples": [
+        {
+          "en": "I can't remember the word, but it is on the tip of my tongue.",
+          "ja": "（（その言葉は思い出せないが，舌の先にはある〔すぐそこまで出かかっている〕。））"
+        }
+      ]
+    },
+    {
+      "id": 1013,
+      "word": "balance",
+      "definition": "【名】均衡；調和；残高　【他】のバランスをとる",
+      "examples": [
+        {
+          "en": "It is important to get the correct balance between study and rest.",
+          "ja": "（（勉強と休養のバランスを正しくとることが重要だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1014,
+      "word": "tough",
+      "definition": "【形】困難な；丈夫な；固い；厳しい",
+      "examples": [
+        {
+          "en": "It was a tough decision to leave the job.",
+          "ja": "（（その仕事を辞めるのは厳しい決断だった。））"
+        }
+      ]
+    },
+    {
+      "id": 1015,
+      "word": "harsh",
+      "definition": "【形】〈状況などが〉厳しい；不快な",
+      "examples": [
+        {
+          "en": "Due to the harsh weather, the outdoor concert was canceled.",
+          "ja": "（（厳しい天候のため，その屋外コンサートは中止された。））"
+        }
+      ]
+    },
+    {
+      "id": 1016,
+      "word": "firm",
+      "definition": "【名】会社　【形】堅い；安定した",
+      "examples": [
+        {
+          "en": "Despite the rain, the ground is still very firm.",
+          "ja": "（（雨が降っているにもかかわらず，地面はまだとても固い。））"
+        }
+      ]
+    },
+    {
+      "id": 1017,
+      "word": "rigid",
+      "definition": "【形】堅い；厳格な",
+      "examples": [
+        {
+          "en": "Our education system is too rigid and focuses too heavily on tests.",
+          "ja": "（（私たちの教育制度はあまりにも厳格で，過度にテストに重点を置いている。））"
+        }
+      ]
+    },
+    {
+      "id": "1017-1",
+      "word": "rigorous",
+      "definition": "【形】厳密な；厳格な",
+      "examples": []
+    },
+    {
+      "id": 1018,
+      "word": "freedom",
+      "definition": "【名】自由",
+      "examples": [
+        {
+          "en": "When I got a job, I had the freedom to do whatever I wanted.",
+          "ja": "（（就職した頃は，好きなことをする自由があった。））"
+        }
+      ]
+    },
+    {
+      "id": 1019,
+      "word": "cast",
+      "definition": "【他】を投げかける；に役を当てる　cast＞cast　【名】配役，キャスト",
+      "examples": [
+        {
+          "en": "The bright lights cast shadows on the walls.",
+          "ja": "（（明るい照明が壁に影を落としている。））"
+        }
+      ]
+    },
+    {
+      "id": 1020,
+      "word": "pitch",
+      "definition": "【名】音の高さ　【他】を投げる",
+      "examples": [
+        {
+          "en": "Voice pitch influences how we perceive the contents of the speech.",
+          "ja": "（（声の高さは我々がスピーチの内容をどのように感じるかに影響を与える。））"
+        }
+      ]
+    },
+    {
+      "id": 1021,
+      "word": "shed",
+      "definition": "【他】〈光〉を当てる；を落とす；〈涙など〉を流す shed > shed　【名】小屋",
+      "examples": [
+        {
+          "en": "The documentary shed light on who was actually running the company.",
+          "ja": "（（そのドキュメンタリーは，誰が実際に会社を経営していたのかに光を当てた。））"
+        }
+      ]
+    },
+    {
+      "id": 1022,
+      "word": "reality",
+      "definition": "【名】現実；実在（⇔fiction, ideal）",
+      "examples": [
+        {
+          "en": "The reality of his situation became clear to him.",
+          "ja": "（（彼の状況の実態が明らかになった。））"
+        }
+      ]
+    },
+    {
+      "id": "1022-1",
+      "word": "realistic",
+      "definition": "【形】現実的な；実際的な",
+      "examples": []
+    },
+    {
+      "id": "1022-2",
+      "word": "unrealistic",
+      "definition": "【形】非現実的な",
+      "examples": []
+    },
+    {
+      "id": 1023,
+      "word": "practical",
+      "definition": "【形】現実的な；実用的な",
+      "examples": [
+        {
+          "en": "He is very good at giving practical advice on life's problems.",
+          "ja": "（（彼は人生の問題に対して実践的なアドバイスをするのが非常に得意だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1024,
+      "word": "commit",
+      "definition": "【他】〈罪〉を犯す；〈真剣に〉に取り組む；を約束する",
+      "examples": [
+        {
+          "en": "He went to prison as he had committed two robberies.",
+          "ja": "（（彼は2件の強盗事件を起こしたので，刑務所に入った。））"
+        }
+      ]
+    },
+    {
+      "id": "1024-1",
+      "word": "commitment",
+      "definition": "【名】公約；献身",
+      "examples": []
+    },
+    {
+      "id": 1025,
+      "word": "commission",
+      "definition": "【名】委任；（制作の）依頼；委員会；手数料",
+      "examples": [
+        {
+          "en": "The artist received a lot of commissions from them.",
+          "ja": "（（その画家は彼らからたくさんの仕事の依頼を受けた。））"
+        }
+      ]
+    },
+    {
+      "id": 1026,
+      "word": "suicide",
+      "definition": "【名】自殺",
+      "examples": [
+        {
+          "en": "The group's aim is to prevent young people from committing suicide.",
+          "ja": "（（その団体の目的は若者の自殺を防ぐことだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1027,
+      "word": "receive",
+      "definition": "【他】を受け取る；を被る",
+      "examples": [
+        {
+          "en": "I received your parcel in the post.",
+          "ja": "（（郵便であなたの小包を受け取った。））"
+        }
+      ]
+    },
+    {
+      "id": "1027-1",
+      "word": "receipt",
+      "definition": "【名】受領；領収証",
+      "examples": []
+    },
+    {
+      "id": "1027-2",
+      "word": "recipient",
+      "definition": "【名】受取人；〈臓器などの〉受容者",
+      "examples": []
+    },
+    {
+      "id": 1028,
+      "word": "donate",
+      "definition": "【他】を寄付する；〈臓器など〉を提供する",
+      "examples": [
+        {
+          "en": "He donated a lot of money to charity.",
+          "ja": "（（彼は慈善団体に多額のお金を寄付した。））"
+        }
+      ]
+    },
+    {
+      "id": "1028-1",
+      "word": "donor",
+      "definition": "【名】寄贈者；ドナー",
+      "examples": []
+    },
+    {
+      "id": 1029,
+      "word": "media",
+      "definition": "【名】〈単複両扱い〉《the》マスメディア　>medium【名】情報伝達手段　[複] media",
+      "examples": [
+        {
+          "en": "The media enjoys too much power in my country.",
+          "ja": "（（私の国ではマスメディアが過剰な権力を享受している。））"
+        }
+      ]
+    },
+    {
+      "id": 1030,
+      "word": "address",
+      "definition": "【他】〈課題など〉に取り組む；に宛てて出す；に話しかける　【名】住所；演説",
+      "examples": [
+        {
+          "en": "The speaker addressed the audience politely.",
+          "ja": "（（講演者は聴衆に丁寧に語りかけた。））"
+        }
+      ]
+    },
+    {
+      "id": 1031,
+      "word": "tackle",
+      "definition": "【他】に取り組む　【名】タックル",
+      "examples": [
+        {
+          "en": "It is very difficult to tackle the problem of child labor.",
+          "ja": "（（児童労働の問題に取り組むのは非常に難しい。））"
+        }
+      ]
+    },
+    {
+      "id": 1032,
+      "word": "harassment",
+      "definition": "【名】嫌がらせ；悩みの種",
+      "examples": [
+        {
+          "en": "It is difficult to control the problem of online harassment.",
+          "ja": "（（インターネット上の嫌がらせの問題を制御するのは難しい。））"
+        }
+      ]
+    },
+    {
+      "id": "1032-1",
+      "word": "harass",
+      "definition": "【他】を困らせる",
+      "examples": []
+    },
+    {
+      "id": 1033,
+      "word": "introduce",
+      "definition": "【他】を導入する；を紹介する",
+      "examples": [
+        {
+          "en": "I would like to introduce our speaker tonight.",
+          "ja": "（（今夜の講演者を紹介します。））"
+        }
+      ]
+    },
+    {
+      "id": "1033-1",
+      "word": "introduction",
+      "definition": "【名】導入；紹介",
+      "examples": []
+    },
+    {
+      "id": 1034,
+      "word": "insert",
+      "definition": "【他】を挿入する",
+      "examples": [
+        {
+          "en": "Please insert your bank card into the machine.",
+          "ja": "（（銀行のカードを機械に挿入してください。））"
+        }
+      ]
+    },
+    {
+      "id": 1035,
+      "word": "install",
+      "definition": "【他】を取り付ける；をインストールする",
+      "examples": [
+        {
+          "en": "I have installed the game software on my computer.",
+          "ja": "（（コンピューターにゲームソフトをインストールした。））"
+        }
+      ]
+    },
+    {
+      "id": 1036,
+      "word": "attach",
+      "definition": "【他】を取り付ける；を添付する；に愛着を持たせる",
+      "examples": [
+        {
+          "en": "A copy of the photograph is attached to this email.",
+          "ja": "（（写真1部をこのメールに添付します。））"
+        }
+      ]
+    },
+    {
+      "id": "1036-1",
+      "word": "detach",
+      "definition": "【他】を切り離す",
+      "examples": []
+    },
+    {
+      "id": 1037,
+      "word": "strict",
+      "definition": "【形】厳しい；厳密な",
+      "examples": [
+        {
+          "en": "There are many strict rules in the school.",
+          "ja": "（（その学校にはたくさんの厳しい規則がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1038,
+      "word": "restrict",
+      "definition": "【他】を制限する",
+      "examples": [
+        {
+          "en": "Access to the lounge is restricted to passengers with business class tickets.",
+          "ja": "（（ラウンジの利用はビジネスクラスのチケットを持つ乗客に限られている。））"
+        }
+      ]
+    },
+    {
+      "id": "1038-1",
+      "word": "restriction",
+      "definition": "【名】制限",
+      "examples": []
+    },
+    {
+      "id": 1039,
+      "word": "bully",
+      "definition": "【他】をいじめる　【名】いじめっ子　＞bullying（いじめ）",
+      "examples": [
+        {
+          "en": "The school tried to find out who was bullying the smaller children.",
+          "ja": "（（学校は誰が小さい子供たちをいじめているのか突き止めようとした。））"
+        }
+      ]
+    },
+    {
+      "id": 1040,
+      "word": "threaten",
+      "definition": "【他】を脅迫する；をおびやかす",
+      "examples": [
+        {
+          "en": "The man threatened the shoppers with a knife.",
+          "ja": "（（その男は買い物客をナイフで脅した。））"
+        }
+      ]
+    },
+    {
+      "id": "1040-1",
+      "word": "threat",
+      "definition": "【名】脅威；脅迫",
+      "examples": []
+    }
+  ]
+};

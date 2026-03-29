@@ -1,0 +1,638 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "19　ハエの特殊能力 (1)　[科学]",
+  "text": {
+    "en": "① A fly can do one thing extremely well: fly.  Recently a team of British scientists [[HL]]declared [[/HL]]that the common *housefly is the most [[HL]]talented [[/HL]]*aerodynamicist on the [[HL]]planet[[/HL]], [[HL]]superior [[/HL]]to any bird, bat, or bee.  A housefly can make six [[HL]]turns [[/HL]]a second; *hover; fly [[HL]]straight [[/HL]]up, down, or [[HL]]backward[[/HL]]; land on the [[HL]]ceiling[[/HL]]; and [[HL]]perform [[/HL]]various other *show-off maneuvers.  And it has a brain smaller than a *sesame seed.\n\n② Michael Dickinson, who studies fly [[HL]]flight [[/HL]]in his [[HL]]lab [[/HL]]at the California [[HL]]Institute [[/HL]]of [[HL]]Technology[[/HL]], says the housefly isn’t actually the best flier.  “*Hoverflies are *the be-all and end-all,” he says.  They can hover in one [[HL]]spot[[/HL]], [[HL]]dash [[/HL]]to another location, and then [[HL]]race [[/HL]]back to their original hovering point — [[HL]]precisely[[/HL]].\n\n③ Scientists, engineers, and [[HL]]military [[/HL]]researchers want to know how [[HL]]creatures [[/HL]]with such small brains can do that.  Maybe they could *reverse-engineer a fly to make a [[HL]]robotic device [[/HL]]that could *reconnoiter [[HL]]dangerous [[/HL]]places, such as [[HL]]earthquake [[/HL]]zones or [[HL]]collapsed mines[[/HL]].\t（161 words）",
+    "ja": "*housefly「イエバエ」　*aerodynamicist「空気力学者」　*hover「空中でとどまる」\n\n*show-off maneuver「見せびらかすような巧みな飛翔」　*sesame「ゴマ」\n\n*hoverfly「ハナアブ」　*the be-all and end-all「究極のもの」\n\n*reverse-engineer「を解析して模倣する」　*reconnoiter「を偵察する」\n\n❶　ハエはあることを極めてうまく行うことができる。飛ぶことである。最近，英国の科学者のチームが，どこにでもいるイエバエが，[[HL]]地球[[/HL]]上で最も[[HL]]才能ある[[/HL]]空気力学者であり，どんな鳥やコウモリやハチよりも[[HL]]優れていると断言した[[/HL]]。イエバエは，1秒間に6回[[HL]]方向転換[[/HL]]したり，空中でとどまったり，上，下あるいは[[HL]]後方へまっすぐに[[/HL]]飛んだり，[[HL]]天井[[/HL]]にとまったりすることができる上に，他にもさまざまな見せびらかすような巧みな飛翔[[HL]]をやってのける[[/HL]]ことができる。それなのに，イエバエの脳はゴマよりも小さいのである。\n\n❷　マイケル・ディキンソンは，カリフォルニア[[HL]]工科大学[[/HL]]にある自身の[[HL]]研究室[[/HL]]でハエの[[HL]]飛行[[/HL]]を研究しているが，最も優秀な飛行士は実はイエバエではないと述べている。「ハナアブこそが究極なのです」と彼は語る。ハナアブはある[[HL]]地点[[/HL]]で空中にとどまり，別の地点に[[HL]]急行し[[/HL]]，さらにそれから初めにとどまっていた地点に[[HL]]急いで[[/HL]]戻ることができる。それも[[HL]]正確に[[/HL]]。\n\n❸　科学者，技術者，そして[[HL]]軍事[[/HL]]研究者は，これほど小さな脳しか持たない[[HL]]生き物[[/HL]]に，どうしてそのようことができるのか知ろうとしている。もしかしたらハエを分析して模倣することで，[[HL]]地震[[/HL]]の発生地帯や[[HL]]崩落した鉱山[[/HL]]といった[[HL]]危険な[[/HL]]場所を偵察することができる[[HL]]ロボット装置[[/HL]]を作れるかもしれないのだ。"
+  },
+  "vocabulary": [
+    {
+      "id": 463,
+      "word": "declare",
+      "definition": "【他】を宣言する；を明言する",
+      "examples": [
+        {
+          "en": "The president declared that the war was over.",
+          "ja": "（（大統領は戦争は終わったと宣言した。））"
+        }
+      ]
+    },
+    {
+      "id": "463-1",
+      "word": "declaration",
+      "definition": "【名】宣言；発表",
+      "examples": []
+    },
+    {
+      "id": 464,
+      "word": "announce",
+      "definition": "【他】を発表する",
+      "examples": [
+        {
+          "en": "The school announced that there would be a new principal next year.",
+          "ja": "（（学校は来年新しい校長が来ると発表した。））"
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "word": "talented",
+      "definition": "【形】才能ある",
+      "examples": [
+        {
+          "en": "He is a very talented artist.",
+          "ja": "（（彼はとても才能のある芸術家だ。））"
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "word": "planet",
+      "definition": "【名】《the》地球；惑星",
+      "examples": [
+        {
+          "en": "There are eight planets in our solar system.",
+          "ja": "（（太陽系には8つの惑星がある。））"
+        }
+      ]
+    },
+    {
+      "id": "466-1",
+      "word": "planetary",
+      "definition": "【形】惑星の",
+      "examples": []
+    },
+    {
+      "id": "466-2",
+      "word": "asteroid",
+      "definition": "【名】小惑星；ヒトデ",
+      "examples": []
+    },
+    {
+      "id": "466-3",
+      "word": "Mars",
+      "definition": "【名】火星",
+      "examples": []
+    },
+    {
+      "id": 467,
+      "word": "superior",
+      "definition": "【形】より優れた；上位の　【名】上司",
+      "examples": [
+        {
+          "en": "These shoes are far superior to those in quality.",
+          "ja": "（（この靴はあの靴よりも品質がはるかに優れている。））"
+        }
+      ]
+    },
+    {
+      "id": "467-1",
+      "word": "inferior",
+      "definition": "【形】より劣った",
+      "examples": []
+    },
+    {
+      "id": 468,
+      "word": "turn",
+      "definition": "【自】【他】変わる；回転する；曲がる；振り返る　【名】回転；順番；方向転換",
+      "examples": [
+        {
+          "en": "In general, plant leaves turn yellow in autumn.",
+          "ja": "（（一般的に植物の葉は秋に黄色になる。））"
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "word": "straight",
+      "definition": "【形】まっすぐな　【副】まっすぐに；直接",
+      "examples": [
+        {
+          "en": "Draw a straight line between the two circles.",
+          "ja": "（（２つの円の間に直線を１本引いてください。））"
+        }
+      ]
+    },
+    {
+      "id": 470,
+      "word": "frank",
+      "definition": "【形】率直な",
+      "examples": [
+        {
+          "en": "To be frank, I do not want to leave school.",
+          "ja": "（（率直に言うと，私は学校を辞めたくない。））"
+        }
+      ]
+    },
+    {
+      "id": "470-1",
+      "word": "frankly",
+      "definition": "【副】率直に",
+      "examples": []
+    },
+    {
+      "id": 471,
+      "word": "backward",
+      "definition": "【副】後ろへ　【形】後ろの；〈進歩などが〉遅れた",
+      "examples": [
+        {
+          "en": "The swing moved backward and forward.",
+          "ja": "（（ブランコが前後に動いた。））"
+        }
+      ]
+    },
+    {
+      "id": 472,
+      "word": "ceiling",
+      "definition": "【名】天井；〈金額などの〉上限",
+      "examples": [
+        {
+          "en": "I decided to paint the ceiling of my room light blue.",
+          "ja": "（（私は部屋の天井を水色に塗ることにした。））"
+        }
+      ]
+    },
+    {
+      "id": 473,
+      "word": "perform",
+      "definition": "【他】〈仕事など〉を行う；を上演〔演奏〕する　【自】うまくいく",
+      "examples": [
+        {
+          "en": "Many robots perform simple tasks that people find boring.",
+          "ja": "（（多くのロボットは，人々が退屈に感じる単純作業を行う。））"
+        }
+      ]
+    },
+    {
+      "id": "473-1",
+      "word": "performance",
+      "definition": "【名】遂行；成績；演奏；上演",
+      "examples": []
+    },
+    {
+      "id": 474,
+      "word": "conduct",
+      "definition": "【他】〈調査など〉を行う；を指揮する　【名】〈道徳上の〉行為",
+      "examples": [
+        {
+          "en": "For my project, I conducted a survey of students in our college.",
+          "ja": "（（プロジェクトのために，私は大学の学生を対象に調査を行った。））"
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "word": "flight",
+      "definition": "【名】飛行；定期航空便（の飛行機）",
+      "examples": [
+        {
+          "en": "My flight departs at 10 o'clock in the morning.",
+          "ja": "（（私の飛行機は朝の10時に出発する。））"
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "word": "aviation",
+      "definition": "【名】飛行；航空；航空学",
+      "examples": [
+        {
+          "en": "I dream of being an aviation engineer and designing new aircraft.",
+          "ja": "（（私は航空技師になり，新しい飛行機を設計するのを夢見ている。））"
+        }
+      ]
+    },
+    {
+      "id": "476-1",
+      "word": "aircraft",
+      "definition": "【名】航空機",
+      "examples": []
+    },
+    {
+      "id": 477,
+      "word": "lab",
+      "definition": "【名】実験室；研究所（＝laboratory）",
+      "examples": [
+        {
+          "en": "Our college has special labs for the science majors.",
+          "ja": "（（私たちの大学には科学専攻学生のための特別な研究室がある。））"
+        }
+      ]
+    },
+    {
+      "id": "477-1",
+      "word": "laboratory",
+      "definition": "【名】研究室；実験室",
+      "examples": []
+    },
+    {
+      "id": 478,
+      "word": "institute",
+      "definition": "【名】（工科）大学；研究所；協会",
+      "examples": [
+        {
+          "en": "Our research institute is funded by the government.",
+          "ja": "（（私たちの研究所は政府から資金援助を受けている。））"
+        }
+      ]
+    },
+    {
+      "id": 479,
+      "word": "institution",
+      "definition": "【名】機関；施設；社会制度",
+      "examples": [
+        {
+          "en": "He works for an educational institution which helps children with learning difficulties.",
+          "ja": "（（彼は学習困難な子供たちを支援する教育機関で働いている。））"
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "word": "technology",
+      "definition": "【名】科学技術",
+      "examples": [
+        {
+          "en": "Modern technology has made our lives much more convenient.",
+          "ja": "（（現代の科学技術によって私たちの生活ははるかに便利になった。））"
+        }
+      ]
+    },
+    {
+      "id": "480-1",
+      "word": "technological",
+      "definition": "【形】科学技術の",
+      "examples": []
+    },
+    {
+      "id": 481,
+      "word": "spot",
+      "definition": "【名】点；場所　【他】を見つける",
+      "examples": [
+        {
+          "en": "He spotted the bird easily among the trees.",
+          "ja": "（（彼は木々の間から簡単にその鳥を見つけた。））"
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "word": "dash",
+      "definition": "【自】急いで行く",
+      "examples": [
+        {
+          "en": "He dashed across the street to join his friends.",
+          "ja": "（（彼は友人と合流しようと通りを急いで横切った。））"
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "word": "race",
+      "definition": "【名】人種；競争　【自】競争する；急いで行く",
+      "examples": [
+        {
+          "en": "There are people of many races living in London.",
+          "ja": "（（ロンドンには多くの人種の人々が住んでいる。））"
+        }
+      ]
+    },
+    {
+      "id": "483-1",
+      "word": "racial",
+      "definition": "【形】人種〔民族〕の",
+      "examples": []
+    },
+    {
+      "id": "483-2",
+      "word": "racism",
+      "definition": "【名】人種差別（政策；主義）",
+      "examples": []
+    },
+    {
+      "id": 484,
+      "word": "ethnic",
+      "definition": "【形】民族の，民族的な",
+      "examples": [
+        {
+          "en": "The mountains of northern Thailand are home to many ethnic groups.",
+          "ja": "（（タイ北部の山岳地帯には多くの民族集団が住んでいる。））"
+        }
+      ]
+    },
+    {
+      "id": "484-1",
+      "word": "ethnicity",
+      "definition": "【名】民族性",
+      "examples": []
+    },
+    {
+      "id": 485,
+      "word": "native",
+      "definition": "【形】出生地の；母語の；その土地固有の　【名】～生まれの人",
+      "examples": [
+        {
+          "en": "He speaks English and Chinese in addition to his native language.",
+          "ja": "（（彼は母語に加えて英語と中国語を話す。））"
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "word": "tribe",
+      "definition": "【名】部族，種族",
+      "examples": [
+        {
+          "en": "I want to know more about the tribes of North America.",
+          "ja": "（（北アメリカの部族についてもっと知りたい。））"
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "word": "precisely",
+      "definition": "【副】正確に（≒exactly）",
+      "examples": [
+        {
+          "en": "I will meet you at precisely 12 o'clock.",
+          "ja": "（（12時ちょうどに会いましょう。））"
+        }
+      ]
+    },
+    {
+      "id": "487-1",
+      "word": "precise",
+      "definition": "【形】正確な",
+      "examples": []
+    },
+    {
+      "id": "487-2",
+      "word": "precision",
+      "definition": "【名】正確さ",
+      "examples": []
+    },
+    {
+      "id": 488,
+      "word": "exact",
+      "definition": "【形】正確な（≒correct）；まさにその",
+      "examples": [
+        {
+          "en": "We need the exact measurements.",
+          "ja": "（（正確な寸法が必要だ。））"
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "word": "accurate",
+      "definition": "【形】正確な；精密な",
+      "examples": [
+        {
+          "en": "He made a fairly accurate map of the way to his home.",
+          "ja": "（（彼は自宅までの道のりのかなり正確な地図を作った。））"
+        }
+      ]
+    },
+    {
+      "id": "489-1",
+      "word": "accuracy",
+      "definition": "【名】正確さ；精度",
+      "examples": []
+    },
+    {
+      "id": "489-2",
+      "word": "accurately",
+      "definition": "【副】正確に",
+      "examples": []
+    },
+    {
+      "id": "489-3",
+      "word": "inaccurate",
+      "definition": "【形】不正確な",
+      "examples": []
+    },
+    {
+      "id": 490,
+      "word": "military",
+      "definition": "【形】軍隊の　【名】《the》軍隊",
+      "examples": [
+        {
+          "en": "The United States has military bases in many countries.",
+          "ja": "（（アメリカは多くの国に軍隊の基地を持っている。））"
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "word": "army",
+      "definition": "【名】（陸上の）軍隊",
+      "examples": [
+        {
+          "en": "I have wanted to join the army ever since I was a child.",
+          "ja": "（（私は子供の頃からずっと陸軍に入りたいと思っていた。））"
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "word": "marine",
+      "definition": "【形】海の　【名】【形】海兵隊（の）",
+      "examples": [
+        {
+          "en": "Global warming affects the habitats of marine animals.",
+          "ja": "（（地球温暖化は海洋動物の生息地に影響を与える。））"
+        }
+      ]
+    },
+    {
+      "id": "492-1",
+      "word": "navy",
+      "definition": "【名】海軍",
+      "examples": []
+    },
+    {
+      "id": 493,
+      "word": "creature",
+      "definition": "【名】〈植物を除く〉生き物；動物",
+      "examples": [
+        {
+          "en": "There are many deep-sea creatures that we have never seen.",
+          "ja": "（（私たちが見たことのない深海生物がたくさんいる。））"
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "word": "robotic",
+      "definition": "【形】自動的な；ロボットの",
+      "examples": [
+        {
+          "en": "Jeff bought a robotic vacuum cleaner for his wife.",
+          "ja": "（（ジェフは妻にロボット掃除機を買った。））"
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "word": "device",
+      "definition": "【名】装置；工夫",
+      "examples": [
+        {
+          "en": "He has a small device that tells him where his smartphone is.",
+          "ja": "（（彼はスマートフォンの位置を教えてくれる小さな装置を持っている。））"
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "word": "devise",
+      "definition": "【他】を考案する；を工夫する",
+      "examples": [
+        {
+          "en": "They devised a new method for converting sunlight into electricity.",
+          "ja": "（（彼らは太陽光を電気に変換する新しい手法を考案した。））"
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "word": "dangerous",
+      "definition": "【形】危険な",
+      "examples": [
+        {
+          "en": "Many parts of the city are dangerous for tourists.",
+          "ja": "（（その街の多くの場所は観光客にとって危険だ。））"
+        }
+      ]
+    },
+    {
+      "id": 498,
+      "word": "endanger",
+      "definition": "【他】を危険にさらす",
+      "examples": [
+        {
+          "en": "Man's actions have endangered many species of animals.",
+          "ja": "（（人間の行為が多くの動物種を絶滅の危機にさらしている。））"
+        }
+      ]
+    },
+    {
+      "id": 499,
+      "word": "fierce",
+      "definition": "【形】〈行為などが〉激しい；凶暴な",
+      "examples": [
+        {
+          "en": "Reports say that there is fierce fighting occurring near the government offices.",
+          "ja": "（（報道によると官庁の近くで激しい戦闘が起きている。））"
+        }
+      ]
+    },
+    {
+      "id": 500,
+      "word": "earthquake",
+      "definition": "【名】地震",
+      "examples": [
+        {
+          "en": "This area had another earthquake last night.",
+          "ja": "（（この地域では昨夜もまた地震があった。））"
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "word": "volcano",
+      "definition": "【名】火山",
+      "examples": [
+        {
+          "en": "Mauna Loa is one of the largest active volcanoes in the world.",
+          "ja": "（（マウナ・ロアは世界最大の活火山の１つだ。））"
+        }
+      ]
+    },
+    {
+      "id": "501-1",
+      "word": "volcanic",
+      "definition": "【形】火山（性）の",
+      "examples": []
+    },
+    {
+      "id": 502,
+      "word": "erupt",
+      "definition": "【自】〈火山が〉噴火する",
+      "examples": [
+        {
+          "en": "A volcano in Iceland has erupted again this morning.",
+          "ja": "（（今朝，アイスランドの火山が再び噴火した。））"
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "word": "collapse",
+      "definition": "【名】【自】崩壊（する）；〈病気などで突然〉倒れる（こと）",
+      "examples": [
+        {
+          "en": "Many buildings collapsed in the earthquake.",
+          "ja": "（（この地震で多くの建物が倒壊した。））"
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "word": "extinction",
+      "definition": "【名】絶滅",
+      "examples": [
+        {
+          "en": "Climate change is causing the extinction of many kinds of animals.",
+          "ja": "（（気候変動は多くの種類の動物の絶滅を引き起こしている。））"
+        }
+      ]
+    },
+    {
+      "id": "504-1",
+      "word": "extinct",
+      "definition": "【形】絶滅した",
+      "examples": []
+    },
+    {
+      "id": 505,
+      "word": "explode",
+      "definition": "【自】爆発する；急増する",
+      "examples": [
+        {
+          "en": "The government of India is concerned about the country’s exploding population.",
+          "ja": "（（インド政府は急増する国内の人口について懸念している。））"
+        }
+      ]
+    },
+    {
+      "id": "505-1",
+      "word": "explosion",
+      "definition": "【名】爆発；急増",
+      "examples": []
+    },
+    {
+      "id": "505-2",
+      "word": "explosive",
+      "definition": "【形】爆発性の；〈数の増加などが〉爆発的な",
+      "examples": []
+    },
+    {
+      "id": 506,
+      "word": "mine",
+      "definition": "【名】鉱山；地雷",
+      "examples": [
+        {
+          "en": "About 7% of diamonds come from mines in South Africa.",
+          "ja": "（（ダイヤモンドの約7％は南アフリカの鉱山から産出されている。））"
+        }
+      ]
+    },
+    {
+      "id": "506-1",
+      "word": "miner",
+      "definition": "【名】鉱夫；炭鉱労働者",
+      "examples": []
+    }
+  ]
+}

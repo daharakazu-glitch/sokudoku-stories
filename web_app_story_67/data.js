@@ -1,0 +1,247 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "67　夏目漱石のロンドン生活 (2)　[伝記]",
+  "text": {
+    "en": "On November 1, Sōseki took a train to Cambridge to see Charles Andrews, the *dean of *Pembroke College. He had with him a letter of introduction written by Grace Catherine Nott, a [[HL]]missionary [[/HL]]who had been stationed in Kumamoto and who, by [[HL]]coincidence[[/HL]], had just returned to her family in England as a [[HL]]fellow passenger [[/HL]]on *the Preussen. Dean Andrews introduced him to a Japanese exchange student who showed him around the campus that afternoon and the following morning. By the time Sōseki returned to London that evening, he had decided against Cambridge. The [[HL]]tuition[[/HL]], 400 to 500 yen, would leave him no money to buy books. Moreover, he had learned that Cambridge University men spent their afternoons playing sports and their evenings at social events, and that was not for him. Sōseki *conjectured that things at Oxford would be the same. He had *toyed with the idea of going to the University of Edinburgh, but he was [[HL]]afraid [[/HL]]that the Scottish *brogue, which he likened to the “zu-zu” [[HL]]dialect [[/HL]]of the Sendai area, would be more than he could handle. That left London, a *tangle of [[HL]]noisy [[/HL]]streets “[[HL]]buried [[/HL]]under *horse manure.” In its [[HL]]favor[[/HL]], London offered the theaters in the West End and [[HL]]countless [[/HL]]secondhand bookshops.\n\n(208 words)",
+    "ja": "*dean「学生監(学生の規律に責任を負う者)」\n\n*Pembroke College「ペンブルックカレッジ(ケンブリッジ大学の学寮の1つ)」\n\n*the Preussen「プロイセン号(客船の名前)」 *conjecture「と推測する」\n\n*toy with ~「(空想など)で遊ぶ」 *brogue「地方なまり」\n\n*tangle「もつれ,こんがらがり」  *horse manure「馬糞」\n\n11月1日，漱石はペンブルックカレッジの学生監チャールズ・アンドルーズに会うため，列車でケンブリッジに向かった。彼はグレース・キャサリン・ノットが書いた紹介状を持っていた。彼女は熊本に派遣されていた[[HL]]宣教師[[/HL]]で，[[HL]]偶然[[/HL]]にも，プロイセン号の[[HL]]同乗者[[/HL]]としてイギリスの家族のもとに戻ったばかりだった。学生監アンドルーズは漱石を日本人留学生に紹介し，その留学生がその日の午後と翌朝，漱石にキャンパスを案内した。その日の夕方，漱石がロンドンに戻る頃には，ケンブリッジ大学への入学を断念していた。400円から500円という[[HL]]授業料[[/HL]]では，本を買うお金も残らない。さらに，ケンブリッジ大学の男子学生は，午後はスポーツ，夜は社交行事をして過ごすことを知ったが，それは漱石には向いていなかった。漱石は，オックスフォードでも同じだろうと推測した。エディンバラ大学への進学も空想したが，スコットランドのなまりは，彼はそれを仙台地方の「ズーズー」[[HL]]弁[[/HL]]にたとえているが，自分には対応できないのではないか[[HL]]と心配し[[/HL]]た。その結果，「馬糞の下に[[HL]]埋まっている[[/HL]]」[[HL]]騒々し[[/HL]]い通りが絡み合ったロンドンが残った。ロンドンの[[HL]]利点[[/HL]]としては，ウェストエンドの劇場や[[HL]]無数の[[/HL]]古本屋に通うことができるという点があった。"
+  },
+  "vocabulary": [
+    {
+      "id": 1798,
+      "word": "missionary",
+      "definition": "【名】宣教師",
+      "examples": [
+        {
+          "en": "He has strong religious beliefs, so he became a missionary in Africa.",
+          "ja": "（（彼は強い信仰心を持っているので，アフリカで宣教師になった。））"
+        }
+      ]
+    },
+    {
+      "id": "1798-1",
+      "word": "mission",
+      "definition": "【名】（特別）任務；使節（団）",
+      "examples": []
+    },
+    {
+      "id": "1798-2",
+      "word": "messenger",
+      "definition": "【名】伝言を伝える人；使者",
+      "examples": []
+    },
+    {
+      "id": 1799,
+      "word": "coincidence",
+      "definition": "【名】偶然の一致",
+      "examples": [
+        {
+          "en": "It was a real coincidence to meet you here today.",
+          "ja": "（（今日ここであなたに会ったのは本当に偶然だった。））"
+        }
+      ]
+    },
+    {
+      "id": "1799-1",
+      "word": "coincide",
+      "definition": "【自】《～と》同時に起こる；一致する《with》",
+      "examples": []
+    },
+    {
+      "id": 1800,
+      "word": "fellow",
+      "definition": "【名】仲間；やつ　【形】仲間の；同じ場にいる",
+      "examples": [
+        {
+          "en": "I get on really well with my fellow workers.",
+          "ja": "（（私は同僚ととてもうまくやっている。））"
+        }
+      ]
+    },
+    {
+      "id": 1801,
+      "word": "peer",
+      "definition": "【名】同僚；同等の人　【自】〈見にくいので〉凝視する《at》",
+      "examples": [
+        {
+          "en": "He peered at my screen.",
+          "ja": "（（彼は私のスクリーンをのぞき込んだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1802,
+      "word": "passenger",
+      "definition": "【名】乗客",
+      "examples": [
+        {
+          "en": "All of the passengers managed to leave the plane safely.",
+          "ja": "（（乗客は全員無事にその飛行機を降りることができた。））"
+        }
+      ]
+    },
+    {
+      "id": 1803,
+      "word": "tuition",
+      "definition": "【名】授業料；指導；教授",
+      "examples": [
+        {
+          "en": "This organization provides tuition for junior high school students.",
+          "ja": "（（多くの大学生が中学生に指導を提供する。））"
+        }
+      ]
+    },
+    {
+      "id": 1804,
+      "word": "afraid",
+      "definition": "【形】恐れて；心配して",
+      "examples": [
+        {
+          "en": "She is really afraid of spiders.",
+          "ja": "（（彼女はクモを本当に怖がっている。））"
+        }
+      ]
+    },
+    {
+      "id": "1804-1",
+      "word": "dread",
+      "definition": "【名】恐怖　【他】を恐れる",
+      "examples": []
+    },
+    {
+      "id": 1805,
+      "word": "dialect",
+      "definition": "【名】方言",
+      "examples": [
+        {
+          "en": "I have difficulty understanding the dialect of the people in the area.",
+          "ja": "（（その地域の人の方言を理解するのに苦労している。））"
+        }
+      ]
+    },
+    {
+      "id": 1806,
+      "word": "accent",
+      "definition": "【名】なまり；アクセント",
+      "examples": [
+        {
+          "en": "She speaks English with a slight Spanish accent.",
+          "ja": "（（彼女は少しスペイン語なまりの英語を話す。））"
+        }
+      ]
+    },
+    {
+      "id": 1807,
+      "word": "linguistic",
+      "definition": "【形】言語（学）の",
+      "examples": [
+        {
+          "en": "Many people blame English for the reduction in linguistic diversity in the world.",
+          "ja": "（（多くの人は，世界の言語多様性の減少を英語のせいにする。））"
+        }
+      ]
+    },
+    {
+      "id": "1807-1",
+      "word": "linguist",
+      "definition": "【名】言語学者",
+      "examples": []
+    },
+    {
+      "id": 1808,
+      "word": "bilingual",
+      "definition": "【形】【名】２カ国語を話す（人）",
+      "examples": [
+        {
+          "en": "She’s bilingual in Japanese and English.",
+          "ja": "（（彼女は日本語と英語のバイリンガルだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1808-1",
+      "word": "bilingualism",
+      "definition": "【名】2言語使用（能力）",
+      "examples": []
+    },
+    {
+      "id": "1808-2",
+      "word": "monolingual",
+      "definition": "【形】1カ国語を使用する",
+      "examples": []
+    },
+    {
+      "id": "1808-3",
+      "word": "multilingual",
+      "definition": "【形】多言語を使用する",
+      "examples": []
+    },
+    {
+      "id": 1809,
+      "word": "noisy",
+      "definition": "【形】騒々しい",
+      "examples": [
+        {
+          "en": "This coffee shop is so noisy that I can’t study here.",
+          "ja": "（（この喫茶店はとてもうるさいので，私はここで勉強できない。））"
+        }
+      ]
+    },
+    {
+      "id": 1810,
+      "word": "bury",
+      "definition": "【他】〈死者や物〉を埋める",
+      "examples": [
+        {
+          "en": "The story is about some boys looking for buried treasure.",
+          "ja": "（（その話は埋蔵された宝を探す少年たちに関するものだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1810-1",
+      "word": "embed",
+      "definition": "【他】を埋め込む",
+      "examples": []
+    },
+    {
+      "id": 1811,
+      "word": "favor",
+      "definition": "【名】親切な行為；支持 　【他】を支持する",
+      "examples": [
+        {
+          "en": "Could you do me a favor and buy some milk from the supermarket?",
+          "ja": "（（お願いがあるのですが，スーパーで牛乳を買ってきてくれませんか。））"
+        }
+      ]
+    },
+    {
+      "id": "1811-1",
+      "word": "favorable",
+      "definition": "【形】好意的な；都合のよい",
+      "examples": []
+    },
+    {
+      "id": "1811-2",
+      "word": "courtesy",
+      "definition": "【名】礼儀正しさ；親切",
+      "examples": []
+    },
+    {
+      "id": 1812,
+      "word": "countless",
+      "definition": "【形】無数の",
+      "examples": [
+        {
+          "en": "I’ve told you countless times to tidy up your room.",
+          "ja": "（（私は君に部屋を片付けるように数えきれないほど言った。））"
+        }
+      ]
+    },
+    {
+      "id": "1812-1",
+      "word": "trillion",
+      "definition": "【名】1兆",
+      "examples": []
+    }
+  ]
+};

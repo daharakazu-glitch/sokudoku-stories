@@ -1,0 +1,423 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "52　ウナギの生態 (3)　[科学]",
+  "text": {
+    "en": "① At the end of this period a change takes place. The eel’s eyes and nose become larger, and its skin changes to a silvery colour. Now called a silver eel, it is ready to [[HL]]embark [[/HL]]on the last great adventure of its life, the long [[HL]]return journey [[/HL]]to the place where it was born.\n\n② On autumn nights, especially when rainstorms are causing the rivers and streams to [[HL]]rise [[/HL]]or flood, the silver eels leave the places where they have spent so long and start out on their great [[HL]]migration[[/HL]]. Some may be [[HL]]obliged [[/HL]]to pass over land from their ponds to reach a suitable river running to the sea. This they can do because the eel is able to live a considerable time out of water, in [[HL]]damp [[/HL]]surroundings such as wet grass, because it [[HL]]breathes [[/HL]]in large part through its skin, like a frog. At length they reach the sea, and set out to [[HL]]cross [[/HL]]the Atlantic Ocean to the Sargasso Sea, south-east of Bermuda. Six or seven months later they [[HL]]arrive[[/HL]], and there, having [[HL]]laid [[/HL]]their eggs, they die.\n\n(181 words)",
+    "ja": "❶　この期間の終わりに，ある変化が起こる。ウナギの目と鼻は大きくなり，皮は銀色に変わる。そして今や銀ウナギと呼ばれ，ウナギは生涯最後の大冒険，生まれた場所への長い[[HL]]帰路の旅[[/HL]]に[[HL]]乗り出す[[/HL]]準備ができているのだ。\n\n❷　秋の夜，特に暴風雨で川や小川の水位が[[HL]]上がっ[[/HL]]たり氾濫したりすると，銀ウナギは非常に長い時間を過ごした場所を離れ，大[[HL]]移動[[/HL]]を始める。中には，海へと通じる適切な川に到達するために，池を出て陸地を通ら[[HL]]なければならない[[/HL]]ウナギもいる。このようなことができるのは，ウナギはカエルのように主に皮膚を通して[[HL]]呼吸する[[/HL]]ため，ぬれた草むらなどの[[HL]]湿った[[/HL]]環境においては，かなりの時間を水の外で生きられるからだ。ついに海へたどり着くと，彼らは大西洋[[HL]]を横断し[[/HL]]，バミューダ南東のサルガッソー海を目指す。6，7カ月後に[[HL]]到着し[[/HL]]，そこでウナギは卵[[HL]]を産んだ[[/HL]]ら，その一生を終える。"
+  },
+  "vocabulary": [
+    {
+      "id": 1449,
+      "word": "embark",
+      "definition": "【自】《～に》着手する《on》；乗船〔搭乗〕する",
+      "examples": [
+        {
+          "en": "They embarked on the project to plant trees two years ago.",
+          "ja": "（（彼らはその木を植える計画に2年前に着手した。））"
+        }
+      ]
+    },
+    {
+      "id": 1450,
+      "word": "sail",
+      "definition": "【自】航行する　【名】帆；航海",
+      "examples": [
+        {
+          "en": "The ship sails for the United States.",
+          "ja": "（（その船はアメリカ合衆国に向けて航行する。））"
+        }
+      ]
+    },
+    {
+      "id": 1451,
+      "word": "navigate",
+      "definition": "【自】航行する；うまく切り抜ける",
+      "examples": [
+        {
+          "en": "In the past, sailors navigated by the stars.",
+          "ja": "（（昔は船乗りは星を見て航行していた。））"
+        }
+      ]
+    },
+    {
+      "id": 1452,
+      "word": "return",
+      "definition": "【他】を戻す　【自】戻る　【名】戻り；返却；利益　【形】帰りの，戻りの",
+      "examples": [
+        {
+          "en": "I returned home as I had forgotten my homework.",
+          "ja": "（（宿題を忘れてしまったので家に戻った。））"
+        }
+      ]
+    },
+    {
+      "id": 1453,
+      "word": "journey",
+      "definition": "【名】旅行；行程（に要する時間）",
+      "examples": [
+        {
+          "en": "My journey to college takes about 45 minutes.",
+          "ja": "（（大学までの通学には約45分かかる。））"
+        }
+      ]
+    },
+    {
+      "id": 1454,
+      "word": "commute",
+      "definition": "【自】通勤〔通学〕する",
+      "examples": [
+        {
+          "en": "I have to commute to the office every day.",
+          "ja": "（（私は毎日オフィスに通勤しなければならない。））"
+        }
+      ]
+    },
+    {
+      "id": "1454-1",
+      "word": "commuter",
+      "definition": "【名】通勤〔通学〕者",
+      "examples": []
+    },
+    {
+      "id": 1455,
+      "word": "luggage",
+      "definition": "【名】手荷物 （≒baggage）",
+      "examples": [
+        {
+          "en": "I lost my luggage on the flight.",
+          "ja": "（（飛行機で荷物を紛失した。））"
+        }
+      ]
+    },
+    {
+      "id": 1456,
+      "word": "rise",
+      "definition": "【自】上がる；増える　rose＞risen [rɪźn]　【名】上昇；増加",
+      "examples": [
+        {
+          "en": "The elevator quickly rose to the top floor.",
+          "ja": "（（エレベーターはすぐに最上階まで上がった。））"
+        }
+      ]
+    },
+    {
+      "id": 1457,
+      "word": "arise",
+      "definition": "【自】生じる；起因する《from》　arose＞arisen",
+      "examples": [
+        {
+          "en": "Various health risks arise from an unhealthy diet.",
+          "ja": "（（さまざまな健康リスクは不健康な食事に起因する。））"
+        }
+      ]
+    },
+    {
+      "id": 1458,
+      "word": "soar",
+      "definition": "【自】急上昇する；空高く上がる",
+      "examples": [
+        {
+          "en": "The company's sales soared by 10 percent in 2024.",
+          "ja": "（（その会社の売上は2024年に10%急上昇した。））"
+        }
+      ]
+    },
+    {
+      "id": 1459,
+      "word": "dawn",
+      "definition": "【名】《the》〈時代などの〉始まり；夜明け　【自】夜が明ける",
+      "examples": [
+        {
+          "en": "In winter dawn comes really late.",
+          "ja": "（（冬は夜明けが来るのが本当に遅い。））"
+        }
+      ]
+    },
+    {
+      "id": 1460,
+      "word": "migration",
+      "definition": "【名】移住；移動",
+      "examples": [
+        {
+          "en": "There has been a large migration of people to the city.",
+          "ja": "（（都市への人の大移動があった。））"
+        }
+      ]
+    },
+    {
+      "id": "1460-1",
+      "word": "migrant",
+      "definition": "【名】移住者；渡り鳥",
+      "examples": []
+    },
+    {
+      "id": "1460-2",
+      "word": "migrate",
+      "definition": "【自】移住〔移動〕する",
+      "examples": []
+    },
+    {
+      "id": 1461,
+      "word": "immigration",
+      "definition": "【名】〈他国からの〉移住",
+      "examples": [
+        {
+          "en": "One way to solve the shortage of workers is to allow immigration.",
+          "ja": "（（労働者不足を解決する一つの方法は他国からの移住を受け入れることだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1461-1",
+      "word": "immigrant",
+      "definition": "【名】〈他国からの〉移住者",
+      "examples": []
+    },
+    {
+      "id": 1462,
+      "word": "inhabit",
+      "definition": "【他】に住む",
+      "examples": [
+        {
+          "en": "Humans inhabit nearly every corner of the earth.",
+          "ja": "（（人間は地球のほぼ全域をすみかとしている。））"
+        }
+      ]
+    },
+    {
+      "id": "1462-1",
+      "word": "inhabitant",
+      "definition": "【名】〈通例［複］〉住民",
+      "examples": []
+    },
+    {
+      "id": 1463,
+      "word": "habitat",
+      "definition": "【名】〈動物の〉生息地",
+      "examples": [
+        {
+          "en": "The jungle is the natural habitat for thousands of different animals.",
+          "ja": "（（ジャングルは何千種類もの動物にとって自然の生息地である。））"
+        }
+      ]
+    },
+    {
+      "id": 1464,
+      "word": "oblige",
+      "definition": "【他】〈法や義務で〉に強制する；の要求を聞き入れる",
+      "examples": [
+        {
+          "en": "You are not obliged to say anything.",
+          "ja": "（（あなたは何か言うことを強いられていない。））"
+        }
+      ]
+    },
+    {
+      "id": "1464-1",
+      "word": "obligation",
+      "definition": "【名】義務；恩義",
+      "examples": []
+    },
+    {
+      "id": 1465,
+      "word": "duty",
+      "definition": "【名】任務；義務；関税",
+      "examples": [
+        {
+          "en": "One of the duties of my job is to clean the tables.",
+          "ja": "（（私の職務の１つはテーブルをきれいにすることだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1466,
+      "word": "compel",
+      "definition": "【他】Ａに…することを強いる《～ A to do》　 compelled＞compelled",
+      "examples": [
+        {
+          "en": "The scandal compelled him to resign.",
+          "ja": "（（そのスキャンダルにより，彼は辞任することを余儀なくされた。））"
+        }
+      ]
+    },
+    {
+      "id": "1466-1",
+      "word": "compulsory",
+      "definition": "【形】義務的な；強制的な",
+      "examples": []
+    },
+    {
+      "id": 1467,
+      "word": "damp",
+      "definition": "【形】湿った，じめじめした",
+      "examples": [
+        {
+          "en": "The clothes are still a little damp, but they will dry quickly.",
+          "ja": "（（その服はまだ少し湿っているが，すぐに乾くだろう。））"
+        }
+      ]
+    },
+    {
+      "id": "1467-1",
+      "word": "moisture",
+      "definition": "【名】湿気；水分",
+      "examples": []
+    },
+    {
+      "id": 1468,
+      "word": "evaporate",
+      "definition": "【自】蒸発する；徐々に消える",
+      "examples": [
+        {
+          "en": "The rain evaporated very quickly in the sunshine.",
+          "ja": "（（その雨は太陽光であっという間に蒸発した。））"
+        }
+      ]
+    },
+    {
+      "id": "1468-1",
+      "word": "vapor",
+      "definition": "【名】蒸気",
+      "examples": []
+    },
+    {
+      "id": 1469,
+      "word": "steam",
+      "definition": "【名】蒸気",
+      "examples": [
+        {
+          "en": "The coffee was so hot that steam was rising from it.",
+          "ja": "（（コーヒーはとても熱かったので，湯気が立ち上っていた。））"
+        }
+      ]
+    },
+    {
+      "id": 1470,
+      "word": "bubble",
+      "definition": "【名】泡",
+      "examples": [
+        {
+          "en": "Force out any air bubbles when applying the film to the screen.",
+          "ja": "（（画面にフィルムを貼る際には気泡を外に押し出してください。））"
+        }
+      ]
+    },
+    {
+      "id": 1471,
+      "word": "breathe",
+      "definition": "【自】【他】呼吸する",
+      "examples": [
+        {
+          "en": "I like going to the mountains and breathing the fresh air.",
+          "ja": "（（私は山に行って新鮮な空気を吸うのが好きだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1472,
+      "word": "sigh",
+      "definition": "【自】【名】ため息（をつく）",
+      "examples": [
+        {
+          "en": "She sighed with relief when she got the news.",
+          "ja": "（（彼女はその知らせを受けて安堵のため息をついた。））"
+        }
+      ]
+    },
+    {
+      "id": 1473,
+      "word": "cross",
+      "definition": "【自】【他】横切る　【名】十字（路）；混合物",
+      "examples": [
+        {
+          "en": "I crossed the street to get to the bank on the other side.",
+          "ja": "（（私は向こう側の銀行に行くために通りを横切った。））"
+        }
+      ]
+    },
+    {
+      "id": 1474,
+      "word": "arrive",
+      "definition": "【自】《～に》着く《at，in》",
+      "examples": [
+        {
+          "en": "Your plane arrives in Paris at 8 o'clock.",
+          "ja": "（（あなたの飛行機（の便）は8時にパリに到着する。））"
+        }
+      ]
+    },
+    {
+      "id": "1474-1",
+      "word": "arrival",
+      "definition": "【名】到着",
+      "examples": []
+    },
+    {
+      "id": 1475,
+      "word": "destination",
+      "definition": "【名】（予定の）目的地",
+      "examples": [
+        {
+          "en": "We will reach our final destination at 3 o'clock.",
+          "ja": "（（私たちは最終目的地に3時に着く。））"
+        }
+      ]
+    },
+    {
+      "id": 1476,
+      "word": "lay",
+      "definition": "【他】を置く；を横たえる；〈卵〉を産む；〈基盤など〉を築く　laid ＞ laid",
+      "examples": [
+        {
+          "en": "His theory laid the foundation of modern computer science.",
+          "ja": "（（彼の理論が現代のコンピューター科学の基礎を築いた。））"
+        }
+      ]
+    },
+    {
+      "id": "1476-1",
+      "word": "situate",
+      "definition": "【他】を置く",
+      "examples": []
+    },
+    {
+      "id": 1477,
+      "word": "layer",
+      "definition": "【名】層",
+      "examples": [
+        {
+          "en": "He put a layer of sugar on top of the cake.",
+          "ja": "（（彼はそのケーキの上に砂糖の層を加えた。））"
+        }
+      ]
+    },
+    {
+      "id": 1478,
+      "word": "layout",
+      "definition": "【名】設計，配置；レイアウト",
+      "examples": [
+        {
+          "en": "The map shows the layout of the amusement park.",
+          "ja": "（（その地図は遊園地のレイアウトを示している。））"
+        }
+      ]
+    },
+    {
+      "id": 1479,
+      "word": "dispose",
+      "definition": "【自】処分する《of》　【他】を配置する",
+      "examples": [
+        {
+          "en": "We dispose of plastic waste on Mondays and burnable waste on Wednesdays.",
+          "ja": "（（私たちはプラスチックゴミは月曜日に，可燃ゴミは水曜日に処分する。））"
+        }
+      ]
+    },
+    {
+      "id": "1479-1",
+      "word": "disposal",
+      "definition": "【名】処分；配置",
+      "examples": []
+    }
+  ]
+}

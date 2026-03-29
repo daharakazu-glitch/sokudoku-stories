@@ -1,0 +1,426 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "29　ダイエットに関する意外な論文 (1)　[人間]",
+  "text": {
+    "en": "① No more TV dinners, no more snacking with Paul McCartney on the kitchen stereo and certainly no listening to the more [[HL]]intellectual [[/HL]]bits of Radio 4 over breakfast. If you want to lose [[HL]]weight[[/HL]], the best accompaniment to a meal is the [[HL]]sound [[/HL]]of your own [[HL]]chewing[[/HL]], a study suggests. Psychologists in the US have found that people consume less food when they can hear themselves eating. They believe the [[HL]]effect [[/HL]]to be so powerful that even simply telling somebody that they are eating a *crunchy snack makes them eat less. In a [[HL]]considerable benefit [[/HL]]to those who cannot get through a packet of *crisps without making the noise of a small gunfight, experiments show that the more people [[HL]]concentrate [[/HL]]on the noise of their meal, the less they eat and they think the [[HL]]flavours [[/HL]]are more intense.\n\n② Gina Mohr, assistant [[HL]]professor [[/HL]]of marketing at Colorado State University, said the findings suggested that people who wanted to diet could cut down on [[HL]]distracting [[/HL]]sounds. In one experiment, Dr Mohr and a [[HL]]colleague [[/HL]]asked 71 students to sit in a [[HL]]room [[/HL]]with a bowl of ten pretzels while wearing a pair of headphones. Half of the [[HL]]participants [[/HL]]had their ears flooded with white noise, [[HL]]drowning out [[/HL]]the sound of their chewing. They ate an average of four pretzels each. The other half, who were able to hear themselves eat much more distinctly, took 2.8 each.\n\n(234 words)",
+    "ja": "*crunchy「パリパリと音がする」 *crisps「ポテトチップス」\n\n❶　テレビを見ながら夕食を食べるのも，台所のステレオでポール・マッカートニーを聞きながら軽食をつまむのも，そしてもちろん朝食時にRadio4（BBCの総合ラジオ番組）でより[[HL]]知的な[[/HL]]番組の一部に耳を傾けるのも，もうやめなければならない。[[HL]]体重[[/HL]]を減らしたいのであれば，食事のお供に最もよいのは，自分の[[HL]]咀嚼音[[/HL]]だということが，ある研究により示唆されている。アメリカの心理学者らが，自分自身の食べている音が聞こえている時には摂取する食べ物の量は少なくなるということを発見した。彼らは，その[[HL]]効果[[/HL]]はとても強力なので，自分はパリパリと音がするスナックを食べているのだと誰かに伝えるだけで，食べる量は少なくなると考えている。ポテトチップス1袋を平らげるのに小さな銃撃戦くらいの音を立てるような人たちにとって[[HL]]大きな恩恵[[/HL]]となるのだが，自分の食事の音に[[HL]]集中すれ[[/HL]]ばするほど食べる量は少なくなり，また[[HL]]風味[[/HL]]がより強く感じられるということが，実験によって明らかになっている。\n\n❷　コロラド州立大学でマーケティング学の助[[HL]]教[[/HL]]を務めるジーナ・モーアが言うには，その発見が示唆しているのは，[[HL]]ダイエットをし[[/HL]]たい人は[[HL]]気が散るような[[/HL]]音を減らせばよいということだった。ある実験において，モーア博士とその[[HL]]同僚[[/HL]]は学生71名に対して，10枚のプレッツェルが入ったボウルを持って，ヘッドホンをつけた状態で，[[HL]]部屋[[/HL]]の中に座るように言った。[[HL]]参加者[[/HL]]の半分は，耳をホワイトノイズでいっぱいにされて〔ホワイトノイズを大音量で聞かされて〕，自分の咀嚼音は[[HL]]かき消さ[[/HL]]れていた。彼らは1人につき平均4枚のプレッツェルを食べた。残り半分の参加者たちは，自分が食べている音をはるかに明瞭に聞くことができたのだが，1人につき平均2.8枚食べた。"
+  },
+  "vocabulary": [
+    {
+      "id": 823,
+      "word": "intellectual",
+      "definition": "【形】知的な　【名】知識人",
+      "examples": [
+        {
+          "en": "He enjoys intellectual discussions about politics and society.",
+          "ja": "（（彼は政治や社会についての知的な議論を楽しんでいる。））"
+        }
+      ]
+    },
+    {
+      "id": "823-1",
+      "word": "intellect",
+      "definition": "【名】知性",
+      "examples": []
+    },
+    {
+      "id": 824,
+      "word": "literally",
+      "definition": "【副】文字通りに",
+      "examples": [
+        {
+          "en": "Don't take his remarks too literally.",
+          "ja": "（（彼の言葉をあまり文字通りに受け取ってはいけない。））"
+        }
+      ]
+    },
+    {
+      "id": "824-1",
+      "word": "literal",
+      "definition": "【形】文字通りの",
+      "examples": []
+    },
+    {
+      "id": 825,
+      "word": "literary",
+      "definition": "【形】文学の",
+      "examples": [
+        {
+          "en": "Great literary works provide us with lessons in life.",
+          "ja": "（（優れた文学作品は我々に人生の教訓を与えてくれる。））"
+        }
+      ]
+    },
+    {
+      "id": 826,
+      "word": "literacy",
+      "definition": "【名】読み書きの能力；教養のあること",
+      "examples": [
+        {
+          "en": "The government aims to increase the literacy rate.",
+          "ja": "（（政府は識字率の向上を目指している。））"
+        }
+      ]
+    },
+    {
+      "id": "826-1",
+      "word": "literate",
+      "definition": "【形】読み書きできる",
+      "examples": []
+    },
+    {
+      "id": "826-2",
+      "word": "illiterate",
+      "definition": "【形】読み書きのできない",
+      "examples": []
+    },
+    {
+      "id": 827,
+      "word": "weight",
+      "definition": "【名】重量；体重；重要さ",
+      "examples": [
+        {
+          "en": "She lost so much weight that she looked like a different person.",
+          "ja": "（（彼女はあまりにも体重を減らしたので別人のように見えた。））"
+        }
+      ]
+    },
+    {
+      "id": "827-1",
+      "word": "weigh",
+      "definition": "【自】の重さがある　【他】の重さを量る",
+      "examples": []
+    },
+    {
+      "id": 828,
+      "word": "ton",
+      "definition": "【名】〈重量の単位〉トン；多量",
+      "examples": [
+        {
+          "en": "It is estimated that there are tons of plastic waste in the ocean.",
+          "ja": "（（海にはたくさんのプラスチックごみがあると推定されている。））"
+        }
+      ]
+    },
+    {
+      "id": 829,
+      "word": "outweigh",
+      "definition": "【他】より重要である；に勝る；より重い",
+      "examples": [
+        {
+          "en": "The advantages far outweigh any disadvantages.",
+          "ja": "（（メリットがどんなデメリットをもはるかに上回る。））"
+        }
+      ]
+    },
+    {
+      "id": 830,
+      "word": "obesity",
+      "definition": "【名】（病的な）肥満",
+      "examples": [
+        {
+          "en": "Obesity rates are rising in most countries.",
+          "ja": "（（肥満率はほとんどの国で上昇している。））"
+        }
+      ]
+    },
+    {
+      "id": "830-1",
+      "word": "obese",
+      "definition": "【形】肥満の",
+      "examples": []
+    },
+    {
+      "id": 831,
+      "word": "fat",
+      "definition": "【形】太っている　【名】脂肪（分）",
+      "examples": [
+        {
+          "en": "I think you are not so fat.",
+          "ja": "（（君はそれほど太っていないと思うよ。））"
+        }
+      ]
+    },
+    {
+      "id": 832,
+      "word": "overweight",
+      "definition": "【形】太りすぎの",
+      "examples": [
+        {
+          "en": "He's a little overweight.",
+          "ja": "（（彼は少し太りすぎだ。））"
+        }
+      ]
+    },
+    {
+      "id": 833,
+      "word": "sound",
+      "definition": "【名】音　【自】に思われる　【他】を鳴らす　【形】健全な；確かな",
+      "examples": [
+        {
+          "en": "That sounds like a great plan.",
+          "ja": "（（それは素晴らしい計画だと思う。））"
+        }
+      ]
+    },
+    {
+      "id": 834,
+      "word": "tongue",
+      "definition": "【名】舌；言語；話し方",
+      "examples": [
+        {
+          "en": "His mother tongue is English, but he speaks Spanish at work.",
+          "ja": "（（彼の母語は英語だが，職場ではスペイン語を話す。））"
+        }
+      ]
+    },
+    {
+      "id": 835,
+      "word": "chew",
+      "definition": "【他】を噛む　【名】噛むこと",
+      "examples": [
+        {
+          "en": "Chew your food well before you swallow it.",
+          "ja": "（（食べ物はよく噛んでから飲み込みましょう。））"
+        }
+      ]
+    },
+    {
+      "id": 836,
+      "word": "effect",
+      "definition": "【名】影響；結果（≒result, ⇔cause）",
+      "examples": [
+        {
+          "en": "A lack of sleep will have a serious effect on your ability to study.",
+          "ja": "（（睡眠不足は勉強の能力に深刻な影響を及ぼす。））"
+        }
+      ]
+    },
+    {
+      "id": 837,
+      "word": "considerable",
+      "definition": "【形】〈数量・程度が〉かなりの",
+      "examples": [
+        {
+          "en": "We spent a considerable amount of time preparing for the festival.",
+          "ja": "（（その祭の準備にかなりの時間を費やした。））"
+        }
+      ]
+    },
+    {
+      "id": "837-1",
+      "word": "considerably",
+      "definition": "【副】かなり",
+      "examples": []
+    },
+    {
+      "id": "837-2",
+      "word": "considerate",
+      "definition": "【形】思いやりのある",
+      "examples": []
+    },
+    {
+      "id": 838,
+      "word": "benefit",
+      "definition": "【名】利益；恩恵（≒profit）　【自】利益を得る　【他】に利益を与える",
+      "examples": [
+        {
+          "en": "You may not see the benefit of it now, but you will later.",
+          "ja": "（（今はその利点がわからないかもしれないけど，後でわかるよ。））"
+        }
+      ]
+    },
+    {
+      "id": "838-1",
+      "word": "beneficial",
+      "definition": "【形】《～に》有益な《to》",
+      "examples": []
+    },
+    {
+      "id": 839,
+      "word": "profitable",
+      "definition": "【形】利益になる",
+      "examples": [
+        {
+          "en": "After three years, the company finally became profitable.",
+          "ja": "（（3年後，その会社はついに利益を出せるようになった。））"
+        }
+      ]
+    },
+    {
+      "id": 840,
+      "word": "concentrate",
+      "definition": "【自】専念〔集中〕する《on》　 【他】を集中させる《on》",
+      "examples": [
+        {
+          "en": "I was concentrating on my book and didn't hear the doorbell ring.",
+          "ja": "（（本に集中していて，ドアベルが鳴るのが聞こえなかった。））"
+        }
+      ]
+    },
+    {
+      "id": 841,
+      "word": "flavor",
+      "definition": "【名】風味　【他】に風味をつける",
+      "examples": [
+        {
+          "en": "What flavor would you like?",
+          "ja": "（（どんな味がよいですか。））"
+        }
+      ]
+    },
+    {
+      "id": "841-1",
+      "word": "fragrance",
+      "definition": "【名】香り",
+      "examples": []
+    },
+    {
+      "id": "841-2",
+      "word": "odor",
+      "definition": "【名】におい；悪臭",
+      "examples": []
+    },
+    {
+      "id": 842,
+      "word": "professor",
+      "definition": "【名】教授",
+      "examples": [
+        {
+          "en": "The professor distributed handouts to his students.",
+          "ja": "（（教授は学生にプリントを配った。））"
+        }
+      ]
+    },
+    {
+      "id": 843,
+      "word": "diet",
+      "definition": "【名】食事；ダイエット；《the D-》国会　【自】ダイエットをする",
+      "examples": [
+        {
+          "en": "You should change your diet if you want to stay healthy.",
+          "ja": "（（健康でいたいなら食事を変えるべきだ。））"
+        }
+      ]
+    },
+    {
+      "id": "843-1",
+      "word": "supper",
+      "definition": "【名】夕食",
+      "examples": []
+    },
+    {
+      "id": 844,
+      "word": "distract",
+      "definition": "【他】〈注意など〉をそらす",
+      "examples": [
+        {
+          "en": "My younger brother always distracts me when I am trying to study.",
+          "ja": "（（私が勉強しようとすると，弟がいつも私の気をそらしてくる。））"
+        }
+      ]
+    },
+    {
+      "id": "844-1",
+      "word": "distracting",
+      "definition": "【形】人の気をそらす（ような）",
+      "examples": []
+    },
+    {
+      "id": "844-2",
+      "word": "distraction",
+      "definition": "【名】気を散らすもの",
+      "examples": []
+    },
+    {
+      "id": "844-3",
+      "word": "divert",
+      "definition": "【他】〈方向など〉を転換する；〈注意〉をそらす",
+      "examples": []
+    },
+    {
+      "id": 845,
+      "word": "extract",
+      "definition": "【他】を取り出す；を抽出する　【名】抽出物；抜粋",
+      "examples": [
+        {
+          "en": "Maple syrup is extracted from the maple tree.",
+          "ja": "（（メープルシロップはカエデの木から抽出される。））"
+        }
+      ]
+    },
+    {
+      "id": 846,
+      "word": "colleague",
+      "definition": "【名】同僚",
+      "examples": [
+        {
+          "en": "Luckily, I get on really well with my colleagues at my part-time job.",
+          "ja": "（（幸運にも，私はアルバイト先の同僚ととてもうまくやっている。））"
+        }
+      ]
+    },
+    {
+      "id": "846-1",
+      "word": "coworker",
+      "definition": "【名】仕事仲間，同僚",
+      "examples": []
+    },
+    {
+      "id": 847,
+      "word": "room",
+      "definition": "【名】部屋；空間；余地",
+      "examples": [
+        {
+          "en": "There is no room for improvement in your report!",
+          "ja": "（（あなたのレポートには改善の余地はありません〔完璧です〕！））"
+        }
+      ]
+    },
+    {
+      "id": 848,
+      "word": "spare",
+      "definition": "【他】〈時間など〉を割く；を省く　【形】余分の；予備の",
+      "examples": [
+        {
+          "en": "Could you spare me a few minutes?",
+          "ja": "（（私に数分割いてくださいますか。））"
+        }
+      ]
+    },
+    {
+      "id": 849,
+      "word": "participant",
+      "definition": "【名】参加者",
+      "examples": [
+        {
+          "en": "There were over 25 participants in the quiz.",
+          "ja": "（（クイズの参加者は25人以上いた。））"
+        }
+      ]
+    },
+    {
+      "id": "849-1",
+      "word": "participate",
+      "definition": "【自】参加する《in》（≒take part（in ～））",
+      "examples": []
+    },
+    {
+      "id": "849-2",
+      "word": "participation",
+      "definition": "【名】参加",
+      "examples": []
+    },
+    {
+      "id": 850,
+      "word": "drown",
+      "definition": "【自】おぼれ死ぬ　【他】を溺死させる；をかき消す《out》",
+      "examples": [
+        {
+          "en": "He rescued a child drowning in the lake.",
+          "ja": "（（彼は湖で溺れて死にかけている子供を助けた。））"
+        }
+      ]
+    }
+  ]
+};

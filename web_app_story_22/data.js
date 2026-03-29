@@ -1,0 +1,443 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "22　ごみゼロへの挑戦 (2)　[環境]",
+  "text": {
+    "en": "① Recycling and reusing, however, are not enough to keep our world from becoming [[HL]]swallowed [[/HL]]up in waste.  Kamikatsu also makes an effort to get people to brush up their [[HL]]understanding [[/HL]]of the environment and make society as a whole think ‘why?’  Why are you buying or selling the product?  Is it good for the environment?  Will it become a favorite [[HL]]possession [[/HL]]or will it be thrown away after one use?  [[HL]]Whereas [[/HL]]before some believed they had a [[HL]]sacred [[/HL]]right to buy or produce [[HL]]whatever [[/HL]]they [[HL]]desired[[/HL]], now they realize that their actions affect the world around them.\n\n② In [[HL]]recent [[/HL]]years, Kamikatsu [[HL]]built [[/HL]]a [[HL]]complex facility [[/HL]]called the Zero Waste Center.  A hotel [[HL]]located [[/HL]]in the [[HL]]grounds [[/HL]]of this facility is [[HL]]run [[/HL]]on the understanding that creating a waste-free society [[HL]]applies [[/HL]]not only to [[HL]]individuals[[/HL]], but also to businesses.  For example, instead of offering an individual soap [[HL]]bar [[/HL]]to each [[HL]]guest[[/HL]], it encourages them to cut off the amount of soap they need at the front desk.  [[HL]]Fitting [[/HL]]into a new [[HL]]strategy [[/HL]]is not easy, but through its actions, Kamikatsu is leading the nation in finding ways to [[HL]]gain [[/HL]]the prize of a [[HL]]truly [[/HL]]waste-free society.\n\n（195 words）",
+    "ja": "❶　しかし，リサイクルと再利用だけでは，私たちの世界がごみに[[HL]]飲み込まれる[[/HL]]のを防ぐのに十分ではない。上勝町は，人々に環境に関する[[HL]]理解[[/HL]]を向上させたり，社会全体に「なぜ？」と考えさせたりするようにも努めている。なぜあなたはその製品を買ったり売ったりしているのか。それは環境によいものなのだろうか。それはお気に入りの[[HL]]持ち物[[/HL]]になるのだろうか，それとも一度使っただけで捨てられてしまうのだろうか。以前は，自分たちが[[HL]]望むものは何でも[[/HL]]買ったり生産したりする[[HL]]不可侵の[[/HL]]権利が自分たちにはあると考える人もいた[[HL]]が[[/HL]]，今彼らは自分たちの行動が周囲の世界に影響を及ぼすことに気づいている。\n\n❷　[[HL]]近[[/HL]]年，上勝町はゼロ・ウェイストセンターという[[HL]]複合施設を建てた[[/HL]]。この施設の[[HL]]敷地[[/HL]]内に[[HL]]位置している[[/HL]]ホテルは，ごみのない社会を創ることは，[[HL]]個人[[/HL]]だけでなく企業にも[[HL]]適用される[[/HL]]という理解のもとに[[HL]]運営されて[[/HL]]いる。例えば，各[[HL]]宿泊客[[/HL]]に個別の固形石けん〔[[HL]]棒状[[/HL]]石けん〕を提供する代わりに，フロントデスクで石けんを必要量だけ切り取ることを宿泊客に勧めている。新しい[[HL]]戦略[[/HL]]に[[HL]]適応する[[/HL]]のは簡単ではないが，その行動を通じて，上勝町は[[HL]]真に[[/HL]]ごみのない社会という価値あるもの[[HL]]を得る[[/HL]]ための方法を見つけることにおいて，国の先頭に立っている。"
+  },
+  "vocabulary": [
+    {
+      "id": 593,
+      "word": "swallow",
+      "definition": "【他】【自】飲み込む　【名】ツバメ",
+      "examples": [
+        {
+          "en": "I always find it difficult to swallow medicine.",
+          "ja": "（（私はいつも薬を飲み込むのが難しいと思う。））"
+        }
+      ]
+    },
+    {
+      "id": 594,
+      "word": "understanding",
+      "definition": "【名】理解；知識",
+      "examples": [
+        {
+          "en": "It was my understanding that you would buy the train tickets.",
+          "ja": "（（あなたが列車の切符を買ってくれるという理解でいました。））"
+        }
+      ]
+    },
+    {
+      "id": 595,
+      "word": "possession",
+      "definition": "【名】所有（物）",
+      "examples": [
+        {
+          "en": "I try to keep my valuable possessions in a safe place.",
+          "ja": "（（貴重品は安全な場所に保管するようにしている。））"
+        }
+      ]
+    },
+    {
+      "id": "595-1",
+      "word": "possess",
+      "definition": "【他】を所有している",
+      "examples": []
+    },
+    {
+      "id": 596,
+      "word": "whereas",
+      "definition": "【接】（その）一方で； …だけれども（≒while）",
+      "examples": [
+        {
+          "en": "I am a morning person, whereas my brother is a night owl.",
+          "ja": "（（私は朝型ですが，兄は夜型です。））"
+        }
+      ]
+    },
+    {
+      "id": 597,
+      "word": "sacred",
+      "definition": "【形】神聖な；きわめて重要な，侵してはならない",
+      "examples": [
+        {
+          "en": "Please remove your shoes as this is a sacred building.",
+          "ja": "（（ここは神聖な建物ですので，靴を脱いでください。））"
+        }
+      ]
+    },
+    {
+      "id": "597-1",
+      "word": "holy",
+      "definition": "【形】神聖な",
+      "examples": []
+    },
+    {
+      "id": 598,
+      "word": "whatever",
+      "definition": "【代】…することは何でも；何が〔何を〕…しようとも",
+      "examples": [
+        {
+          "en": "You can do whatever you want.",
+          "ja": "（（あなたが望むことは何でもできます。））"
+        }
+      ]
+    },
+    {
+      "id": 599,
+      "word": "desire",
+      "definition": "【名】願望，欲望　【他】を強く望む",
+      "examples": [
+        {
+          "en": "The only things he desired were fame and wealth.",
+          "ja": "（（彼が望んだのは名声と富だけだった。））"
+        }
+      ]
+    },
+    {
+      "id": "599-1",
+      "word": "desirable",
+      "definition": "【形】〈あることが〉望ましい",
+      "examples": []
+    },
+    {
+      "id": 600,
+      "word": "recent",
+      "definition": "【形】最近の",
+      "examples": [
+        {
+          "en": "A recent article in the newspaper said that he would leave his team.",
+          "ja": "（（最近の新聞記事には，彼がチームを去るだろうと書かれていた。））"
+        }
+      ]
+    },
+    {
+      "id": 601,
+      "word": "nowadays",
+      "definition": "【副】この頃；最近では",
+      "examples": [
+        {
+          "en": "Nowadays, I usually spend my time reading and sleeping.",
+          "ja": "（（最近は本を読んだり，寝たりして過ごすことが多い。））"
+        }
+      ]
+    },
+    {
+      "id": 602,
+      "word": "lately",
+      "definition": "【副】最近（は），近頃",
+      "examples": [
+        {
+          "en": "Lately I’ve been feeling very tired.",
+          "ja": "（（最近，私はとても疲れを感じている。））"
+        }
+      ]
+    },
+    {
+      "id": 603,
+      "word": "build",
+      "definition": "【他】を建てる；を造る",
+      "examples": [
+        {
+          "en": "They are building a new block of apartments near the station.",
+          "ja": "（（彼らは駅の近くに新しいアパートの区画を造っている。））"
+        }
+      ]
+    },
+    {
+      "id": "603-1",
+      "word": "rebuild",
+      "definition": "【他】を建て直す；を再建する",
+      "examples": []
+    },
+    {
+      "id": "603-2",
+      "word": "erect",
+      "definition": "【他】を建てる　【形】直立した",
+      "examples": []
+    },
+    {
+      "id": 604,
+      "word": "construction",
+      "definition": "【名】建設（⇔destruction）；建築物",
+      "examples": [
+        {
+          "en": "The station is still under construction and won't be ready until the summer.",
+          "ja": "（（駅はまだ建設中で，夏までは完成しない。））"
+        }
+      ]
+    },
+    {
+      "id": "604-1",
+      "word": "construct",
+      "definition": "【他】を建設する",
+      "examples": []
+    },
+    {
+      "id": 605,
+      "word": "architecture",
+      "definition": "【名】建築（学）；建築様式",
+      "examples": [
+        {
+          "en": "The architecture of London is a mix of many different styles.",
+          "ja": "（（ロンドンの建築はさまざまなスタイルが混在している。））"
+        }
+      ]
+    },
+    {
+      "id": "605-1",
+      "word": "architectural",
+      "definition": "【形】建築上の；建築学の",
+      "examples": []
+    },
+    {
+      "id": 606,
+      "word": "complex",
+      "definition": "【形】複雑な，複合的な　【名】複合体",
+      "examples": [
+        {
+          "en": "He opened the device to show the complex machinery inside.",
+          "ja": "（（彼は装置を開けて中の複雑な機械を見せた。））"
+        }
+      ]
+    },
+    {
+      "id": "606-1",
+      "word": "complexity",
+      "definition": "【名】複雑さ",
+      "examples": []
+    },
+    {
+      "id": 607,
+      "word": "complicated",
+      "definition": "【形】複雑な",
+      "examples": [
+        {
+          "en": "It is a really complicated problem that will take a long time to solve.",
+          "ja": "（（それは解決には長い時間がかかる，本当に複雑な問題だ。））"
+        }
+      ]
+    },
+    {
+      "id": 608,
+      "word": "facility",
+      "definition": "【名】施設；機能；才能",
+      "examples": [
+        {
+          "en": "Our university has great facilities for the students to use.",
+          "ja": "（（私たちの大学には学生が利用できる素晴らしい施設がある。））"
+        }
+      ]
+    },
+    {
+      "id": "608-1",
+      "word": "facilitate",
+      "definition": "【他】を容易にする；を促進する",
+      "examples": []
+    },
+    {
+      "id": 609,
+      "word": "locate",
+      "definition": "【他】《be －d》位置する；を探し出す",
+      "examples": [
+        {
+          "en": "The tower is located in the central part of the city.",
+          "ja": "（（その塔は街の中心部に位置している。））"
+        }
+      ]
+    },
+    {
+      "id": 610,
+      "word": "ground",
+      "definition": "【名】根拠；地面；土（地）",
+      "examples": [
+        {
+          "en": "I have good grounds for believing it.",
+          "ja": "（（私にはそれを信じる十分な根拠がある。））"
+        }
+      ]
+    },
+    {
+      "id": 611,
+      "word": "run",
+      "definition": "【他】を経営する　【自】立候補する《for》；走る",
+      "examples": [
+        {
+          "en": "My dream is to run my own business.",
+          "ja": "（（私の夢は自分の事業を経営することです。））"
+        }
+      ]
+    },
+    {
+      "id": 612,
+      "word": "manage",
+      "definition": "【他】どうにか…する《to do》；を運営する",
+      "examples": [
+        {
+          "en": "I managed to catch the train even though I was late.",
+          "ja": "（（遅れたが何とか電車に乗れた。））"
+        }
+      ]
+    },
+    {
+      "id": 613,
+      "word": "apply",
+      "definition": "【自】当てはまる《to》；申し込む《for》　【他】を適用する；〈薬など〉を塗る",
+      "examples": [
+        {
+          "en": "I decided to apply for the job at the restaurant.",
+          "ja": "（（レストランでの仕事に応募することにした。））"
+        }
+      ]
+    },
+    {
+      "id": "613-1",
+      "word": "application",
+      "definition": "【名】申し込み；適用；アプリケーション",
+      "examples": []
+    },
+    {
+      "id": "613-2",
+      "word": "applicant",
+      "definition": "【名】志願者",
+      "examples": []
+    },
+    {
+      "id": 614,
+      "word": "individual",
+      "definition": "【名】個人　【形】個々の；個人の",
+      "examples": [
+        {
+          "en": "The government should protect the rights of individuals.",
+          "ja": "（（政府は個人の権利を守るべきだ。））"
+        }
+      ]
+    },
+    {
+      "id": "614-1",
+      "word": "individualism",
+      "definition": "【名】個人主義",
+      "examples": []
+    },
+    {
+      "id": "614-2",
+      "word": "individuality",
+      "definition": "【名】個人；個性",
+      "examples": []
+    },
+    {
+      "id": "614-3",
+      "word": "individually",
+      "definition": "【副】個々に；それぞれ",
+      "examples": []
+    },
+    {
+      "id": 615,
+      "word": "bar",
+      "definition": "【名】棒；酒場；筋，しま　【他】を禁止する；をふさぐ",
+      "examples": [
+        {
+          "en": "This application is able to read bar codes.",
+          "ja": "（（このアプリケーションはバーコードを読み取ることができます。））"
+        }
+      ]
+    },
+    {
+      "id": 616,
+      "word": "guest",
+      "definition": "【名】招待客；宿泊客",
+      "examples": [
+        {
+          "en": "Hotel guests are welcome to use the pool at any time.",
+          "ja": "（（ホテルの宿泊客はいつでもプールを利用できる。））"
+        }
+      ]
+    },
+    {
+      "id": 617,
+      "word": "fit",
+      "definition": "【自】合う　【他】〈大きさなどが〉に合う；を合わせる；を収める　【形】体調がよい",
+      "examples": [
+        {
+          "en": "He fitted his schedule to mine.",
+          "ja": "（（彼は自分の予定を私の予定に合わせてくれた。））"
+        }
+      ]
+    },
+    {
+      "id": "617-1",
+      "word": "fitness",
+      "definition": "【名】健康；適（合）性",
+      "examples": []
+    },
+    {
+      "id": 618,
+      "word": "strategy",
+      "definition": "【名】戦略，方策",
+      "examples": [
+        {
+          "en": "We need to develop a clear strategy to make this company successful.",
+          "ja": "（（この会社を成功させるためには，明確な戦略を立てる必要がある。））"
+        }
+      ]
+    },
+    {
+      "id": "618-1",
+      "word": "strategic",
+      "definition": "【形】戦略（上）の，戦略的な",
+      "examples": []
+    },
+    {
+      "id": "618-2",
+      "word": "tactic",
+      "definition": "【名】《[複] 単複両扱い》戦術",
+      "examples": []
+    },
+    {
+      "id": 619,
+      "word": "gain",
+      "definition": "【他】を手に入れる；〈利益〉を得る　【自】増加する　【名】利益；増加",
+      "examples": [
+        {
+          "en": "The more I speak English, the more confidence I gain.",
+          "ja": "（（英語を話せば話すほど自信を得るものだ。））"
+        }
+      ]
+    },
+    {
+      "id": 620,
+      "word": "acquire",
+      "definition": "【他】を習得する；を手に入れる",
+      "examples": [
+        {
+          "en": "He acquired his skills in English by living in New York for a year.",
+          "ja": "（（彼は1年間ニューヨークに住んで英語の技能を習得した。））"
+        }
+      ]
+    },
+    {
+      "id": "620-1",
+      "word": "acquisition",
+      "definition": "【名】〈知識などの〉習得",
+      "examples": []
+    },
+    {
+      "id": "620-2",
+      "word": "reap",
+      "definition": "【他】を収穫する；〈恩恵など〉を得る",
+      "examples": []
+    },
+    {
+      "id": 621,
+      "word": "truly",
+      "definition": "【副】本当に",
+      "examples": [
+        {
+          "en": "I truly think that we should move house.",
+          "ja": "（（私は本当に引っ越すべきだと思う。））"
+        }
+      ]
+    }
+  ]
+};

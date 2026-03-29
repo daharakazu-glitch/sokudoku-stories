@@ -1,0 +1,442 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "43　hyggeとは (1)　[文化]",
+  "text": {
+    "en": "① There is an interesting [[HL]]custom [[/HL]]that comes from Norway and Denmark called hygge. This [[HL]]concept [[/HL]]basically [[HL]]refers [[/HL]]to creating a [[HL]]pleasant [[/HL]]or warm [[HL]]atmosphere [[/HL]]in order to enjoy the good things in life with those whom you love. For example, having dinner in soft candlelight while eating delicious homemade food with your loved ones is a type of hygge. Or watching a heartwarming movie with your friends, under a [[HL]]cozy [[/HL]]blanket with a fire [[HL]]roaring [[/HL]]in the fireplace, can also be [[HL]]regarded [[/HL]]as hygge. [[HL]]Essentially[[/HL]], it is the idea of being around the people you love, [[HL]]exchanging [[/HL]]ideas and opinions about [[HL]]topics [[/HL]]of [[HL]]interest [[/HL]]with them ― in other words, sharing ― in an environment that is [[HL]]relaxing[[/HL]], warm, and friendly.\n\n②　The term hygge actually [[HL]]originated [[/HL]]in old Norwegian and meant “well-being.” It first appeared in Danish literature around the end of the 18th century and today is more [[HL]]closely associated [[/HL]]with Denmark, rather than Norway, as a cultural [[HL]]tradition[[/HL]]. Even though some people associate hygge only with winter activities, it can occur [[HL]]anytime [[/HL]]and anywhere, in any season. In fact, Danish people can add hygge to any situation or opportunity they may find themselves in.\n\n(194 words)",
+    "ja": "❶　ノルウェーやデンマークで生まれた「ヒュッゲ」と呼ばれる興味深い[[HL]]習慣[[/HL]]がある。この[[HL]]概念[[/HL]]は，基本的に，人生の楽しみを，愛する人たちとともに享受するために，[[HL]]心地よく[[/HL]]て温かい[[HL]]雰囲気[[/HL]]を作り出すことを[[HL]]指す[[/HL]]。例えば，愛する人たちとおいしい手料理を食べながら，柔らかいろうそくの灯りの中で夕食をとることは，ヒュッゲの一種だ。あるいは，暖炉の火が[[HL]]ごうごうと燃える[[/HL]]中，[[HL]]心地よい[[/HL]]毛布にくるまって，友人たちと心温まる映画を見るのもヒュッゲと[[HL]]みなされ[[/HL]]るだろう。[[HL]]基本的に[[/HL]]，ヒュッゲとは，[[HL]]リラックスでき[[/HL]]，温かく，親しみやすい環境のもと，愛する人々に囲まれて[[HL]]興[[/HL]]味のある[[HL]]話題[[/HL]]についての考えや意見[[HL]]を交換する[[/HL]]，つまり，共有することである。\n\n❷　ヒュッゲという語は，実は古ノルウェー語に[[HL]]由来し[[/HL]]，「幸福」を意味していた。18世紀末頃，デンマークの文献に初めて登場し，今日では，文化的[[HL]]伝統[[/HL]]として，ノルウェーよりもむしろデンマークと[[HL]]密接に結びついている[[/HL]]。ヒュッゲと聞くと冬の活動だけを連想する人もいるが，ヒュッゲは[[HL]]いつでも[[/HL]]，どこでも，どの季節でも生まれ得る。実際，デンマーク人はどのような状況や機会に居合わせても，そこにヒュッゲを加えることができる。"
+  },
+  "vocabulary": [
+    {
+      "id": 1238,
+      "word": "custom",
+      "definition": "【名】慣習；［複］関税；［複］税関",
+      "examples": [
+        {
+          "en": "Customs vary from country to country.",
+          "ja": "（（慣習は国によって異なる。））"
+        }
+      ]
+    },
+    {
+      "id": "1238-1",
+      "word": "accustom",
+      "definition": "【他】を慣らす, をなじませる",
+      "examples": []
+    },
+    {
+      "id": 1239,
+      "word": "conventional",
+      "definition": "【形】従来の；型にはまった",
+      "examples": [
+        {
+          "en": "My friend doesn't trust conventional medicine and uses only herbs and plants.",
+          "ja": "（（私の友人は従来の薬を信用せず，ハーブと植物だけを使っている。））"
+        }
+      ]
+    },
+    {
+      "id": "1239-1",
+      "word": "convention",
+      "definition": "【名】慣習；大会",
+      "examples": []
+    },
+    {
+      "id": 1240,
+      "word": "concept",
+      "definition": "【名】概念；基本的な考え",
+      "examples": [
+        {
+          "en": "This book explains how the concept of zero was discovered.",
+          "ja": "（（この本はどのようにゼロという概念が発見されたかを説明している。））"
+        }
+      ]
+    },
+    {
+      "id": "1240-1",
+      "word": "conception",
+      "definition": "【名】概念；構想",
+      "examples": []
+    },
+    {
+      "id": 1241,
+      "word": "notion",
+      "definition": "【名】概念；考え",
+      "examples": [
+        {
+          "en": "She had a notion that she could hitchhike to London.",
+          "ja": "（（彼女はロンドンまでヒッチハイクできるという考えを持っていた。））"
+        }
+      ]
+    },
+    {
+      "id": 1242,
+      "word": "refer",
+      "definition": "【自】言及する；《～を》参照する《to》；《～を》指す《to》　 referred＞referred＞referring",
+      "examples": [
+        {
+          "en": "Please refer to the instruction booklet that came with your new TV.",
+          "ja": "（（新しいテレビに付属していた取扱説明書を参照してください。））"
+        }
+      ]
+    },
+    {
+      "id": "1242-1",
+      "word": "reference",
+      "definition": "【名】言及；参照；照会",
+      "examples": []
+    },
+    {
+      "id": "1242-2",
+      "word": "encyclopedia",
+      "definition": "【名】百科事典",
+      "examples": []
+    },
+    {
+      "id": 1243,
+      "word": "pleasant",
+      "definition": "【形】楽しい；心地よい",
+      "examples": [
+        {
+          "en": "What a pleasant surprise to meet you here!",
+          "ja": "（（ここであなたに会えるとは嬉しい驚きです！））"
+        }
+      ]
+    },
+    {
+      "id": 1244,
+      "word": "delight",
+      "definition": "【他】を喜ばせる　【名】大喜び",
+      "examples": [
+        {
+          "en": "He was delighted to receive the job offer.",
+          "ja": "（（彼はその仕事のオファーを受けて喜んでいた。））"
+        }
+      ]
+    },
+    {
+      "id": 1245,
+      "word": "atmosphere",
+      "definition": "【名】《the》大気；雰囲気",
+      "examples": [
+        {
+          "en": "There was a great atmosphere at the concert.",
+          "ja": "（（そのコンサートには素晴らしい雰囲気があった。））"
+        }
+      ]
+    },
+    {
+      "id": "1245-1",
+      "word": "atmospheric",
+      "definition": "【形】大気（中）の",
+      "examples": []
+    },
+    {
+      "id": 1246,
+      "word": "cozy",
+      "definition": "【形】居心地のよい",
+      "examples": [
+        {
+          "en": "My room is quite small, but it is very cozy and comfortable.",
+          "ja": "（（私の部屋はかなり狭いが，とても居心地がよく快適だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1247,
+      "word": "roar",
+      "definition": "【自】うなる；ほえる；ごうごうと鳴る　【名】うなり声；轟音",
+      "examples": [
+        {
+          "en": "The roar of the crowd could be heard outside the stadium.",
+          "ja": "（（観客の大歓声はスタジアムの外でも聞こえた。））"
+        }
+      ]
+    },
+    {
+      "id": 1248,
+      "word": "scream",
+      "definition": "【自】【他】〈甲高い声で〉叫ぶ　【名】悲鳴",
+      "examples": [
+        {
+          "en": "The child screamed at his father for help.",
+          "ja": "（（その子供は助けを求めて父親に向かって叫んだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1248-1",
+      "word": "exclaim",
+      "definition": "【自】【他】〈興奮して〉叫ぶ",
+      "examples": []
+    },
+    {
+      "id": 1249,
+      "word": "regard",
+      "definition": "【他】《～ A as B》AをBとみなす；を評価する　【名】点",
+      "examples": [
+        {
+          "en": "We regard him as the best baseball player in Japan.",
+          "ja": "（（私たちは彼を日本で最高の野球選手だと評価している。））"
+        }
+      ]
+    },
+    {
+      "id": "1249-1",
+      "word": "disregard",
+      "definition": "【他】を無視する",
+      "examples": []
+    },
+    {
+      "id": 1250,
+      "word": "regardless",
+      "definition": "【形】無頓着な；《～に》関係なく《of》",
+      "examples": [
+        {
+          "en": "I will go abroad, regardless of what you say.",
+          "ja": "（（あなたが何を言おうと関係なく，私は海外に行きます。））"
+        }
+      ]
+    },
+    {
+      "id": 1251,
+      "word": "essentially",
+      "definition": "【副】本質的に；〈文修飾〉基本的には",
+      "examples": [
+        {
+          "en": "It is essentially a sales job.",
+          "ja": "（（それは基本的には営業の仕事だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1251-1",
+      "word": "essential",
+      "definition": "【形】不可欠の；本質的な",
+      "examples": []
+    },
+    {
+      "id": "1251-2",
+      "word": "essence",
+      "definition": "【名】本質",
+      "examples": []
+    },
+    {
+      "id": 1252,
+      "word": "indispensable",
+      "definition": "【形】不可欠な",
+      "examples": [
+        {
+          "en": "Water is indispensable to life.",
+          "ja": "（（水は生命には不可欠だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1253,
+      "word": "exchange",
+      "definition": "【他】を交換する《for》　【名】交換",
+      "examples": [
+        {
+          "en": "I managed to exchange the shirt for one that was the right size.",
+          "ja": "（（私はそのシャツを，サイズの合ったものとなんとか交換できた。））"
+        }
+      ]
+    },
+    {
+      "id": "1253-1",
+      "word": "barter",
+      "definition": "【他】【自】物々交換する",
+      "examples": []
+    },
+    {
+      "id": 1254,
+      "word": "switch",
+      "definition": "【他】を変える；を交換する　【名】スイッチ",
+      "examples": [
+        {
+          "en": "Could you switch on the lights, please?",
+          "ja": "（（電気をつけていただけますか。））"
+        }
+      ]
+    },
+    {
+      "id": 1255,
+      "word": "topic",
+      "definition": "【名】話題；主題",
+      "examples": [
+        {
+          "en": "I enjoy the class because the topics we talk about are really interesting.",
+          "ja": "（（私たちが話す話題が本当に面白いので，私はその授業を楽しんでいる。））"
+        }
+      ]
+    },
+    {
+      "id": 1256,
+      "word": "interest",
+      "definition": "【名】利益；利子；興味　【他】に興味を起こさせる",
+      "examples": [
+        {
+          "en": "He has a real interest in the history of Kyoto.",
+          "ja": "（（彼は京都の歴史にとても興味をもっている。））"
+        }
+      ]
+    },
+    {
+      "id": "1256-1",
+      "word": "interestingly",
+      "definition": "【副】面白いことに",
+      "examples": []
+    },
+    {
+      "id": 1257,
+      "word": "relax",
+      "definition": "【他】をくつろがせる　【自】くつろぐ　>relaxing【形】ほっとする",
+      "examples": [
+        {
+          "en": "When I want to relax, I take a bath.",
+          "ja": "（（リラックスしたい時，私は風呂に入る。））"
+        }
+      ]
+    },
+    {
+      "id": "1257-1",
+      "word": "relaxation",
+      "definition": "【名】休息；緩和",
+      "examples": []
+    },
+    {
+      "id": 1258,
+      "word": "loose",
+      "definition": "【形】ゆるい；解き放たれて",
+      "examples": [
+        {
+          "en": "It is more comfortable to wear loose clothes in summer.",
+          "ja": "（（夏はゆったりした服装を着る方が快適だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1259,
+      "word": "originate",
+      "definition": "【自】《～から》始まる；発生する《in，from》",
+      "examples": [
+        {
+          "en": "Although curry originated in India, many countries have their own versions.",
+          "ja": "（（カレーはインド発祥だが，多くの国々は独自のバージョンを持っている。））"
+        }
+      ]
+    },
+    {
+      "id": "1259-1",
+      "word": "origin",
+      "definition": "【名】起源；出身",
+      "examples": []
+    },
+    {
+      "id": 1260,
+      "word": "originally",
+      "definition": "【副】もともと",
+      "examples": [
+        {
+          "en": "Originally I wanted to study science, but I have changed to studying English.",
+          "ja": "（（もともと科学を勉強したかったが，英語を勉強することに変更した。））"
+        }
+      ]
+    },
+    {
+      "id": 1261,
+      "word": "closely",
+      "definition": "【副】密接に；綿密に",
+      "examples": [
+        {
+          "en": "Our senses of smell and taste are very closely related.",
+          "ja": "（（私たちの嗅覚と味覚は非常に密接に関連している。））"
+        }
+      ]
+    },
+    {
+      "id": 1262,
+      "word": "associate",
+      "definition": "【他】を関連付ける；を連想する　【自】《～と》つき合う《with》　【名】仲間",
+      "examples": [
+        {
+          "en": "Most people associate Japan with Mt. Fuji and samurai.",
+          "ja": "（（多くの人が日本を富士山とサムライに関連付ける。））"
+        }
+      ]
+    },
+    {
+      "id": "1262-1",
+      "word": "association",
+      "definition": "【名】連想；連合；協会",
+      "examples": []
+    },
+    {
+      "id": 1263,
+      "word": "ally",
+      "definition": "【名】同盟国，協力者　【自】《～と》同盟を結ぶ《with, to》",
+      "examples": [
+        {
+          "en": "The president of the country criticized the allies in his speech.",
+          "ja": "（（その国の大統領はスピーチの中で同盟国を批判した。））"
+        }
+      ]
+    },
+    {
+      "id": "1263-1",
+      "word": "alliance",
+      "definition": "【名】同盟，連合",
+      "examples": []
+    },
+    {
+      "id": "1263-2",
+      "word": "coalition",
+      "definition": "【名】連立政府；連合",
+      "examples": []
+    },
+    {
+      "id": 1264,
+      "word": "federal",
+      "definition": "【形】連邦の",
+      "examples": [
+        {
+          "en": "The U.S. federal government is sometimes referred to as \"Washington.\"",
+          "ja": "（（米国連邦政府は「ワシントン」と呼ばれることもある。））"
+        }
+      ]
+    },
+    {
+      "id": 1265,
+      "word": "tradition",
+      "definition": "【名】伝統；慣習",
+      "examples": [
+        {
+          "en": "Having a picnic under the cherry blossoms is a famous tradition in Japan.",
+          "ja": "（（桜の木の下でピクニックをすることは有名な日本の伝統だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1266,
+      "word": "heritage",
+      "definition": "【名】〈文化的〉遺産",
+      "examples": [
+        {
+          "en": "Japan has a lot of world heritage sites.",
+          "ja": "（（日本には多くの世界遺産がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1267,
+      "word": "anytime",
+      "definition": "【副】…する時はいつでも；常に",
+      "examples": [
+        {
+          "en": "You can come anytime in the afternoon.",
+          "ja": "（（午後はいつでも来ていいよ。））"
+        }
+      ]
+    }
+  ]
+};

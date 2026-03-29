@@ -1,0 +1,469 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "40　メルボルンのデジタル緑化活動 (1)　[環境]",
+  "text": {
+    "en": "Most people would agree that parks with a lot of nature and green areas are important for cities of all sizes. Some of the benefits of having green spaces in [[HL]]urban [[/HL]]areas are that they have the ability to absorb [[HL]]carbon [[/HL]]dioxide, [[HL]]soak up excess rainfall[[/HL]], and reduce city [[HL]]temperatures[[/HL]]. A [[HL]]promising project [[/HL]]that many large cities around the world have taken part in is called the Million Tree [[HL]]Initiative[[/HL]]. Cities such as London, New York, and Ottawa have made [[HL]]pledges [[/HL]]to plant a large number of trees in their cities. This *government-based program has increased the amount of nature in those cities, but [[HL]]maintaining [[/HL]]it has proven to be a more difficult [[HL]]task [[/HL]]than [[HL]]anticipated[[/HL]]. Keeping the trees healthy in new green areas is a long-term task that requires the [[HL]]financial [[/HL]]support of the local government and the involvement of residents.\n\n(142 words)",
+    "ja": "*government-based「政府主導の」\n\nどんな規模の都市であっても，自然や緑地の多い公園が重要であることにはほとんどの人が同意するだろう。[[HL]]都市[[/HL]]部に緑地があることの利点には，二酸化[[HL]]炭素を吸収し[[/HL]]，[[HL]]過剰な雨[[/HL]]を[[HL]]吸収し[[/HL]]，都市の[[HL]]気温[[/HL]]を下げる機能がある，などがある。世界中の多くの大都市が参加している[[HL]]今後期待される計画[[/HL]]があり，それは「ミリオンツリー[[HL]]構想[[/HL]]」と呼ばれている。ロンドン，ニューヨーク，オタワなどの都市は，街に大量の木を植えることを[[HL]]誓約[[/HL]]した。この政府主導のプログラムは，これらの都市の自然の量を増やしてきたが，それ[[HL]]を維持すること[[/HL]]は[[HL]]予想され[[/HL]]た以上に困難な[[HL]]課題[[/HL]]であることがわかった。新しい緑地で樹木を健康に保つことは，地方自治体の[[HL]]経済的[[/HL]]支援と住民の参加を必要とする長期的な課題である。"
+  },
+  "vocabulary": [
+    {
+      "id": 1159,
+      "word": "urban",
+      "definition": "【形】都市〔都会〕の",
+      "examples": [
+        {
+          "en": "We decided to move to an urban area rather than live in the countryside.",
+          "ja": "（（私たちは田舎に住むよりも都市部に引っ越すことにした。））"
+        }
+      ]
+    },
+    {
+      "id": "1159-1",
+      "word": "urbanization",
+      "definition": "【名】都市化",
+      "examples": []
+    },
+    {
+      "id": "1159-2",
+      "word": "metropolitan",
+      "definition": "【形】大都市の",
+      "examples": []
+    },
+    {
+      "id": 1160,
+      "word": "rural",
+      "definition": "【形】田舎の",
+      "examples": [
+        {
+          "en": "More and more people are moving from rural areas to cities.",
+          "ja": "（（より多くの人々が田舎の地域から都会に移り住むようになっている。））"
+        }
+      ]
+    },
+    {
+      "id": 1161,
+      "word": "absorb",
+      "definition": "【他】を吸収する；を夢中にさせる",
+      "examples": [
+        {
+          "en": "This new material absorbs water, so it is really useful in the kitchen.",
+          "ja": "（（この新素材は水を吸収するので，キッチンでとても重宝している。））"
+        }
+      ]
+    },
+    {
+      "id": 1162,
+      "word": "crazy",
+      "definition": "【形】夢中で《about》；正気でない",
+      "examples": [
+        {
+          "en": "My sister is crazy about gardening.",
+          "ja": "（（妹はガーデニングに夢中だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1163,
+      "word": "carbon",
+      "definition": "【名】炭素",
+      "examples": [
+        {
+          "en": "Global warming is mainly caused by rising carbon emissions.",
+          "ja": "（（地球温暖化は主に炭素排出量の増加によって引き起こされる。））"
+        }
+      ]
+    },
+    {
+      "id": "1163-1",
+      "word": "carbon dioxide",
+      "definition": "【名】二酸化炭素",
+      "examples": []
+    },
+    {
+      "id": 1164,
+      "word": "coal",
+      "definition": "【名】石炭",
+      "examples": [
+        {
+          "en": "There used to be many coal mines in the north of England.",
+          "ja": "（（かつてイングランド北部には多くの炭鉱があった。））"
+        }
+      ]
+    },
+    {
+      "id": "1164-1",
+      "word": "ash",
+      "definition": "【名】灰",
+      "examples": []
+    },
+    {
+      "id": 1165,
+      "word": "soak",
+      "definition": "【他】を浸す；を吸収する《up》　【自】浸る",
+      "examples": [
+        {
+          "en": "It was raining heavily, so I got really soaked.",
+          "ja": "（（雨がひどかったので，本当にびしょ濡れになった。））"
+        }
+      ]
+    },
+    {
+      "id": "1165-1",
+      "word": "bathe",
+      "definition": "【自】【他】入浴する〔させる〕",
+      "examples": []
+    },
+    {
+      "id": "1165-2",
+      "word": "immerse",
+      "definition": "【他】を沈める，を浸す",
+      "examples": []
+    },
+    {
+      "id": 1166,
+      "word": "excess",
+      "definition": "【形】余分の，超過した　【名】超過；過度",
+      "examples": [
+        {
+          "en": "You have to pay for any excess luggage when you travel on an airplane.",
+          "ja": "（（飛行機での旅行の際には、超過手荷物には料金を支払わなければならない。））"
+        }
+      ]
+    },
+    {
+      "id": "1166-1",
+      "word": "excessive",
+      "definition": "【形】過度の",
+      "examples": []
+    },
+    {
+      "id": "1166-2",
+      "word": "overly",
+      "definition": "【副】過度に",
+      "examples": []
+    },
+    {
+      "id": "1166-3",
+      "word": "redundant",
+      "definition": "【形】不必要な，冗長な",
+      "examples": []
+    },
+    {
+      "id": "1166-4",
+      "word": "leftover",
+      "definition": "【形】残り物の　【名】食べ残し",
+      "examples": []
+    },
+    {
+      "id": 1167,
+      "word": "rainfall",
+      "definition": "【名】降雨；降雨量",
+      "examples": [
+        {
+          "en": "This area is known for its heavy rainfall in spring.",
+          "ja": "（（この地域は春に雨が多いことで知られている。））"
+        }
+      ]
+    },
+    {
+      "id": "1167-1",
+      "word": "precipitation",
+      "definition": "【名】降雨〔雪〕；降水（量）",
+      "examples": []
+    },
+    {
+      "id": "1167-2",
+      "word": "thunderstorm",
+      "definition": "【名】雷雨",
+      "examples": []
+    },
+    {
+      "id": "1167-3",
+      "word": "rainbow",
+      "definition": "【名】虹",
+      "examples": []
+    },
+    {
+      "id": 1168,
+      "word": "hurricane",
+      "definition": "【名】ハリケーン",
+      "examples": [
+        {
+          "en": "A hurricane is approaching Hawaii.",
+          "ja": "（（ハリケーンがハワイに接近している。））"
+        }
+      ]
+    },
+    {
+      "id": 1169,
+      "word": "tropical",
+      "definition": "【形】熱帯の",
+      "examples": [
+        {
+          "en": "Many countries are cutting down their tropical rainforests to expand agriculture.",
+          "ja": "（（多くの国が農業の拡大のために熱帯雨林を伐採している。））"
+        }
+      ]
+    },
+    {
+      "id": "1169-1",
+      "word": "rainforest",
+      "definition": "【名】（熱帯）雨林",
+      "examples": []
+    },
+    {
+      "id": 1170,
+      "word": "temperature",
+      "definition": "【名】温度；気温；体温",
+      "examples": [
+        {
+          "en": "Today the temperature is a really pleasant 22 degrees.",
+          "ja": "（（今日は気温が非常に快適な22度だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1171,
+      "word": "humidity",
+      "definition": "【名】湿気，湿度",
+      "examples": [
+        {
+          "en": "When you leave the air-conditioned airport, the humidity of Singapore really hits you.",
+          "ja": "（（エアコンの効いた空港を出ると，シンガポールの湿気がとても身にしみる。））"
+        }
+      ]
+    },
+    {
+      "id": 1172,
+      "word": "sweat",
+      "definition": "【自】汗をかく　【名】汗",
+      "examples": [
+        {
+          "en": "It's so hot today that I'm soaked with sweat.",
+          "ja": "（（今日はとても暑いので汗だくだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1173,
+      "word": "promising",
+      "definition": "【形】有望な，期待のもてる",
+      "examples": [
+        {
+          "en": "In high school he was a promising baseball player.",
+          "ja": "（（彼は高校では有望な野球選手だった。））"
+        }
+      ]
+    },
+    {
+      "id": 1174,
+      "word": "promise",
+      "definition": "【自】【他】約束する　【名】約束；見込み",
+      "examples": [
+        {
+          "en": "I promised my mother that I would wash the dishes every day.",
+          "ja": "（（母に毎日皿洗いをすると約束した。））"
+        }
+      ]
+    },
+    {
+      "id": 1175,
+      "word": "appointment",
+      "definition": "【名】任命；〈会合の〉約束；〈病院などの〉予約",
+      "examples": [
+        {
+          "en": "I have an appointment at the hairdresser's at two o'clock.",
+          "ja": "（（私は2時に美容院に行く予約をしている。））"
+        }
+      ]
+    },
+    {
+      "id": "1175-1",
+      "word": "appoint",
+      "definition": "【他】〈役職に〉を指名する；〈時など〉を指定する",
+      "examples": []
+    },
+    {
+      "id": 1176,
+      "word": "project",
+      "definition": "【名】（事業）計画　【他】を見積もる；を投影する",
+      "examples": [
+        {
+          "en": "We worked on the project during the summer holiday.",
+          "ja": "（（私たちは夏休みの間にその計画に取り組んだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1176-1",
+      "word": "projection",
+      "definition": "【名】見積もり；映写",
+      "examples": []
+    },
+    {
+      "id": 1177,
+      "word": "launch",
+      "definition": "【他】〈事業など〉を開始する；〈ロケットなど〉を打ち上げる　【名】開始；発射",
+      "examples": [
+        {
+          "en": "The space agency successfully launched their new rocket.",
+          "ja": "（（宇宙局は新しいロケットの打ち上げに成功した。））"
+        }
+      ]
+    },
+    {
+      "id": 1178,
+      "word": "initiative",
+      "definition": "【名】主導権；新提案，新構想",
+      "examples": [
+        {
+          "en": "He took the initiative in proposing the plan.",
+          "ja": "（（彼はその計画を提案するのに主導権を取った。））"
+        }
+      ]
+    },
+    {
+      "id": 1179,
+      "word": "initial",
+      "definition": "【形】初めの　【名】頭文字",
+      "examples": [
+        {
+          "en": "We have completed the initial stage of the project.",
+          "ja": "（（私たちはプロジェクトの初期段階を完了した。））"
+        }
+      ]
+    },
+    {
+      "id": "1179-1",
+      "word": "initially",
+      "definition": "【副】初めのうちは；最初に",
+      "examples": []
+    },
+    {
+      "id": "1179-2",
+      "word": "initiate",
+      "definition": "【他】に着手する",
+      "examples": []
+    },
+    {
+      "id": 1180,
+      "word": "pledge",
+      "definition": "【他】を誓う　【名】誓約",
+      "examples": [
+        {
+          "en": "On graduation day, the students pledged to meet again in 10 years.",
+          "ja": "（（卒業の日，学生たちは10年後の再会を誓った。））"
+        }
+      ]
+    },
+    {
+      "id": 1181,
+      "word": "maintain",
+      "definition": "【他】を維持する；を主張する（≒ insist）",
+      "examples": [
+        {
+          "en": "The new teacher found it hard to maintain discipline in the class.",
+          "ja": "（（新任の教師はクラスの規律を維持するのが難しいと感じていた。））"
+        }
+      ]
+    },
+    {
+      "id": "1181-1",
+      "word": "maintenance",
+      "definition": "【名】維持；整備",
+      "examples": []
+    },
+    {
+      "id": 1182,
+      "word": "task",
+      "definition": "【名】課題；（やるべき）仕事；任務",
+      "examples": [
+        {
+          "en": "Our main task today is to sell as many products as we can.",
+          "ja": "（（今日の我々の主な仕事は，できるだけ多くの製品を売ることだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1183,
+      "word": "burden",
+      "definition": "【名】重荷，負担",
+      "examples": [
+        {
+          "en": "The scholarship will ease the financial burden on students.",
+          "ja": "（（その奨学金は学生への経済的負担を減らすだろう。））"
+        }
+      ]
+    },
+    {
+      "id": 1184,
+      "word": "anticipate",
+      "definition": "【他】を予想する",
+      "examples": [
+        {
+          "en": "I didn't anticipate so many questions after my presentation.",
+          "ja": "（（私のプレゼンテーションのあと，これほど多くの質問がくるとは予想していなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1184-1",
+      "word": "anticipation",
+      "definition": "【名】予想；期待",
+      "examples": []
+    },
+    {
+      "id": 1185,
+      "word": "financial",
+      "definition": "【形】財政の；金融の",
+      "examples": [
+        {
+          "en": "The financial crisis of 2018 hurt many countries in Asia.",
+          "ja": "（（2018年の金融危機はアジアの多くの国に打撃を与えた。））"
+        }
+      ]
+    },
+    {
+      "id": "1185-1",
+      "word": "finance",
+      "definition": "【名】財政（学）；財源",
+      "examples": []
+    },
+    {
+      "id": "1185-2",
+      "word": "financially",
+      "definition": "【副】財政的に；経済的に",
+      "examples": []
+    },
+    {
+      "id": "1185-3",
+      "word": "monetary",
+      "definition": "【形】通貨の；金融の",
+      "examples": []
+    },
+    {
+      "id": "1185-4",
+      "word": "clone",
+      "definition": "【名】クローン",
+      "examples": []
+    },
+    {
+      "id": "1185-5",
+      "word": "mineral",
+      "definition": "【名】鉱物；ミネラル",
+      "examples": []
+    },
+    {
+      "id": "1185-6",
+      "word": "methane",
+      "definition": "【名】メタン",
+      "examples": []
+    },
+    {
+      "id": "1185-7",
+      "word": "crystal",
+      "definition": "【名】【形】結晶（の）；水晶（の）",
+      "examples": []
+    }
+  ]
+};

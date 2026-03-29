@@ -1,0 +1,619 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "25　国によって異なる笑顔の意味 (2)　[文化]",
+  "text": {
+    "en": "① So why is this? Why do some societies not encourage [[HL]]casual [[/HL]]smiling? I got my answer when I came across a paper by Kuba Krys, a psychologist at the *Polish Academy of Sciences. In some countries, smiling might not be a sign of [[HL]]warmth [[/HL]]or even [[HL]]respect[[/HL]]. It’s [[HL]]evidence [[/HL]]that you’re a [[HL]]fool [[/HL]]― a tricky fool.\n\n② Krys [[HL]]focused [[/HL]]on a country’s “social [[HL]]stability[[/HL]].” Countries that are low on this [[HL]]scale [[/HL]]tend to have social systems like [[HL]]law courts [[/HL]]and health-care that are [[HL]]unreliable [[/HL]]and [[HL]]unstable[[/HL]]. Therefore, people there view the future as [[HL]]unpredictable [[/HL]]and uncontrollable.\n\n③ Smiling is a sign of certainty and [[HL]]confidence[[/HL]], so when people in those countries smile, it might seem [[HL]]odd [[/HL]]to others around them. Why would you smile when [[HL]]fate [[/HL]]is an [[HL]]invisible [[/HL]]danger waiting to hurt you? You might, in those “low stability” countries, even be considered [[HL]]stupid [[/HL]]for smiling.\n\n(145 words)",
+    "ja": "*Polish Academy of Sciences「ポーランド科学アカデミー」\n\n❶　では，これはなぜなのか。なぜ，ある社会では[[HL]]気楽[[/HL]]に微笑むことを勧めないのだろうか。私は，ポーランド科学アカデミーの心理学者であるクバ・クリスの論文を見つけた時に，私なりの答えを得た。いくつかの国では，微笑むことは[[HL]]温かさ[[/HL]]，ましてや[[HL]]敬意[[/HL]]の表れではないことがある。それは，[[HL]]愚か者[[/HL]]，それも油断のならない愚か者であることの[[HL]]証拠[[/HL]]なのだ。\n\n❷　クリスは，その国の「社会的[[HL]]安定性[[/HL]]」に[[HL]]着目した[[/HL]]。この[[HL]]尺度[[/HL]]が低い国では，傾向として法廷〔裁判〕や医療などの社会制度が，[[HL]]信頼性に欠け[[/HL]]，[[HL]]不安定[[/HL]]である。それゆえに，そうした国の人々は，将来を[[HL]]予測不可能で[[/HL]]制御できないものとみなしている。\n\n❸　微笑むことは確かさと[[HL]]自信[[/HL]]の表れなので，それらの国の人々が微笑むと，それは周りの人々には[[HL]]奇妙に[[/HL]]映るかもしれないのである。[[HL]]目に見えない[[/HL]]危険があなたに害をなそうと待ち構えているのが[[HL]]運命[[/HL]]だという時に，なぜ微笑んだりするのだろう。そのような「安定性の低い」国においては，微笑むことで[[HL]]愚かだ[[/HL]]とみなされることさえあるのである。"
+  },
+  "vocabulary": [
+    {
+      "id": 680,
+      "word": "casual",
+      "definition": "【形】何気ない；形式ばらない，気楽な",
+      "examples": [
+        {
+          "en": "We went for a casual walk along the river.",
+          "ja": "（（私たちは川沿いを気楽に散歩した。））"
+        }
+      ]
+    },
+    {
+      "id": "680-1",
+      "word": "casualty",
+      "definition": "【名】〈事故・戦闘などの〉死傷者；災害",
+      "examples": []
+    },
+    {
+      "id": 681,
+      "word": "warmth",
+      "definition": "【名】温〔暖〕かさ",
+      "examples": [
+        {
+          "en": "I could feel the warmth of the sun on my face.",
+          "ja": "（（顔に太陽の暖かさを感じられた。））"
+        }
+      ]
+    },
+    {
+      "id": "681-1",
+      "word": "hospitality",
+      "definition": "【名】もてなし",
+      "examples": []
+    },
+    {
+      "id": 682,
+      "word": "respect",
+      "definition": "【他】を尊敬する；を尊重する　【名】尊敬；尊重；点〈≒point〉",
+      "examples": [
+        {
+          "en": "Everybody respects him because of all the help he provides.",
+          "ja": "（（彼が提供するすべての助けのおかげで，誰もが彼を尊敬している。））"
+        }
+      ]
+    },
+    {
+      "id": "682-1",
+      "word": "respectful",
+      "definition": "【形】丁重な；礼儀正しい",
+      "examples": []
+    },
+    {
+      "id": 683,
+      "word": "respectively",
+      "definition": "【副】それぞれ",
+      "examples": [
+        {
+          "en": "You passed your English and math tests with scores of 89% and 78% respectively.",
+          "ja": "（（あなたは英語と数学のテストにそれぞれ89％と78％の得点で合格した。））"
+        }
+      ]
+    },
+    {
+      "id": "683-1",
+      "word": "respective",
+      "definition": "【形】それぞれの",
+      "examples": []
+    },
+    {
+      "id": 684,
+      "word": "evidence",
+      "definition": "【名】証拠〈≒proof〉",
+      "examples": [
+        {
+          "en": "The police searched the house for evidence of the murder.",
+          "ja": "（（警察は殺人の証拠がないかその家を捜索した。））"
+        }
+      ]
+    },
+    {
+      "id": "684-1",
+      "word": "evident",
+      "definition": "【形】明白な",
+      "examples": []
+    },
+    {
+      "id": "684-2",
+      "word": "evidently",
+      "definition": "【副】明らかに；〈文修飾〉見たところ…らしい",
+      "examples": []
+    },
+    {
+      "id": 685,
+      "word": "fool",
+      "definition": "【名】愚か者　【他】をばかにする",
+      "examples": [
+        {
+          "en": "Stop acting like a fool and do some work.",
+          "ja": "（（ばかみたいな行動はやめて，仕事をしなさい。））"
+        }
+      ]
+    },
+    {
+      "id": "685-1",
+      "word": "foolish",
+      "definition": "【形】愚かな",
+      "examples": []
+    },
+    {
+      "id": 686,
+      "word": "ridiculous",
+      "definition": "【形】ばかげた",
+      "examples": [
+        {
+          "en": "Spending a year relaxing before college is a ridiculous idea.",
+          "ja": "（（大学入学前の1年間をのんびり過ごすなんてばかげた考えだ。））"
+        }
+      ]
+    },
+    {
+      "id": 687,
+      "word": "focus",
+      "definition": "【他】を集中させる　【自】《～に》集中する；着目する《on》　【名】重点；集中力",
+      "examples": [
+        {
+          "en": "He tried to focus on his homework, but he was too tired.",
+          "ja": "（（彼は宿題に集中しようとしたが，疲れすぎていた。））"
+        }
+      ]
+    },
+    {
+      "id": 688,
+      "word": "stability",
+      "definition": "【名】安定（性）",
+      "examples": [
+        {
+          "en": "The new law brought stability to the foreign exchange markets.",
+          "ja": "（（新しい法律は外国為替市場に安定をもたらした。））"
+        }
+      ]
+    },
+    {
+      "id": "688-1",
+      "word": "stable",
+      "definition": "【形】安定した",
+      "examples": []
+    },
+    {
+      "id": "688-2",
+      "word": "stabilize",
+      "definition": "【他】を安定させる　【自】安定する",
+      "examples": []
+    },
+    {
+      "id": 689,
+      "word": "scale",
+      "definition": "【名】段階；規模；尺度；はかり",
+      "examples": [
+        {
+          "en": "On a scale of 1 to 10, the movie is 7.",
+          "ja": "（（その映画は1点から10点の尺度で7点だ。））"
+        }
+      ]
+    },
+    {
+      "id": 690,
+      "word": "criterion",
+      "definition": "【名】〈価値判断の〉基準　[複] criteria",
+      "examples": [
+        {
+          "en": "All the candidates are assessed based on objective criteria.",
+          "ja": "（（すべての志願者が客観的な基準に基づいて評価される。））"
+        }
+      ]
+    },
+    {
+      "id": 691,
+      "word": "axis",
+      "definition": "【名】軸",
+      "examples": [
+        {
+          "en": "The world spins on its axis.",
+          "ja": "（（世界は地軸に基づいて回転している。））"
+        }
+      ]
+    },
+    {
+      "id": 692,
+      "word": "index",
+      "definition": "【名】索引；指標",
+      "examples": [
+        {
+          "en": "How often you exercise is an index of good health.",
+          "ja": "（（どのくらい運動するかはよい健康の指標だ。））"
+        }
+      ]
+    },
+    {
+      "id": 693,
+      "word": "law",
+      "definition": "【名】法（律）；〈自然界の〉法則",
+      "examples": [
+        {
+          "en": "The new law will help young people go to university.",
+          "ja": "（（その新しい法律は若者の大学進学を支援する。））"
+        }
+      ]
+    },
+    {
+      "id": "693-1",
+      "word": "lawyer",
+      "definition": "【名】弁護士，法律家",
+      "examples": []
+    },
+    {
+      "id": "693-2",
+      "word": "lawsuit",
+      "definition": "【名】（民事）訴訟",
+      "examples": []
+    },
+    {
+      "id": 694,
+      "word": "legislation",
+      "definition": "【名】法律；立法",
+      "examples": [
+        {
+          "en": "The Diet has passed new legislation to reduce the use of oil.",
+          "ja": "（（国会は石油の使用を減らすための新しい法律を可決した。））"
+        }
+      ]
+    },
+    {
+      "id": "694-1",
+      "word": "legitimate",
+      "definition": "【形】正当な；合法的な",
+      "examples": []
+    },
+    {
+      "id": 695,
+      "word": "council",
+      "definition": "【名】〈地方〉議会（≒ local authority）；会議",
+      "examples": [
+        {
+          "en": "The city council has decided to build a new library.",
+          "ja": "（（市議会は新しい図書館の建設を決定した。））"
+        }
+      ]
+    },
+    {
+      "id": 696,
+      "word": "parliament",
+      "definition": "【名】議会；〈英〉国会",
+      "examples": [
+        {
+          "en": "I watched Parliament discuss the economy on television.",
+          "ja": "（（私はテレビで国会が経済について議論するのを見た。））"
+        }
+      ]
+    },
+    {
+      "id": 697,
+      "word": "justice",
+      "definition": "【名】正義；公正；裁判（官）",
+      "examples": [
+        {
+          "en": "The justice system of the country is not working.",
+          "ja": "（（この国の司法制度は機能していない。））"
+        }
+      ]
+    },
+    {
+      "id": 698,
+      "word": "violate",
+      "definition": "【他】に違反する；を侵害する",
+      "examples": [
+        {
+          "en": "The law might violate the privacy of citizens.",
+          "ja": "（（その法律は市民のプライバシーを侵害するおそれがある。））"
+        }
+      ]
+    },
+    {
+      "id": "698-1",
+      "word": "violation",
+      "definition": "【名】違反；妨害",
+      "examples": []
+    },
+    {
+      "id": 699,
+      "word": "contract",
+      "definition": "【名】契約（書）　【他】を契約する；〈病気〉にかかる；を縮める",
+      "examples": [
+        {
+          "en": "We finally signed the contract for our new house.",
+          "ja": "（（私たちはついに新居の契約書にサインした。））"
+        }
+      ]
+    },
+    {
+      "id": 700,
+      "word": "treaty",
+      "definition": "【名】条約",
+      "examples": [
+        {
+          "en": "The two countries finally agreed and signed a peace treaty.",
+          "ja": "（（両国は最終的に合意し，平和条約に調印した。））"
+        }
+      ]
+    },
+    {
+      "id": 701,
+      "word": "court",
+      "definition": "【名】法廷；裁判所〔官〕",
+      "examples": [
+        {
+          "en": "The court decided that the president had stolen the money.",
+          "ja": "（（裁判所は社長がお金を盗んだと結論づけた。））"
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "word": "criminal",
+      "definition": "【名】犯罪者　【形】犯罪の",
+      "examples": [
+        {
+          "en": "The police chased the criminal after he escaped from the station.",
+          "ja": "（（警察は犯罪者が駅から逃走したあと追いかけた。））"
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "word": "guilty",
+      "definition": "【形】罪悪感を覚えて；《～の》罪を犯した《of》",
+      "examples": [
+        {
+          "en": "I felt guilty buying the cake as I was on a diet.",
+          "ja": "（（ダイエット中だったので，ケーキを買うことに罪悪感を感じた。））"
+        }
+      ]
+    },
+    {
+      "id": "703-1",
+      "word": "guilt",
+      "definition": "【名】罪悪感；有罪，罪",
+      "examples": []
+    },
+    {
+      "id": 704,
+      "word": "theft",
+      "definition": "【名】窃盗（罪）",
+      "examples": [
+        {
+          "en": "The lady was so angry at the theft of her mobile phone.",
+          "ja": "（（その女性は携帯電話を盗まれたことにとても怒っていた。））"
+        }
+      ]
+    },
+    {
+      "id": 705,
+      "word": "murder",
+      "definition": "【名】殺人（事件）",
+      "examples": [
+        {
+          "en": "The man was arrested for murder five years later.",
+          "ja": "（（その男は5年後に殺人で逮捕された。））"
+        }
+      ]
+    },
+    {
+      "id": 706,
+      "word": "unreliable",
+      "definition": "【形】信頼できない",
+      "examples": [
+        {
+          "en": "Don't ask him to do it as he is really unreliable.",
+          "ja": "（（彼は本当に信頼できないので，彼にその件を頼まないでください。））"
+        }
+      ]
+    },
+    {
+      "id": 707,
+      "word": "unstable",
+      "definition": "【形】不安定な",
+      "examples": [
+        {
+          "en": "The mixture was rather unstable and suddenly exploded.",
+          "ja": "（（その混合物はかなり不安定で，突然爆発した。））"
+        }
+      ]
+    },
+    {
+      "id": 708,
+      "word": "unpredictable",
+      "definition": "【形】予測できない",
+      "examples": [
+        {
+          "en": "The weather in the UK is so unpredictable.",
+          "ja": "（（イギリスの天気は非常に予測できない。））"
+        }
+      ]
+    },
+    {
+      "id": "708-1",
+      "word": "predictable",
+      "definition": "【形】予測できる",
+      "examples": []
+    },
+    {
+      "id": 709,
+      "word": "confidence",
+      "definition": "【名】自信；信頼",
+      "examples": [
+        {
+          "en": "He has no confidence in himself.",
+          "ja": "（（彼は自分にまったく自信がない。））"
+        }
+      ]
+    },
+    {
+      "id": "709-1",
+      "word": "confident",
+      "definition": "【形】《～について》自信のある《about，in》；確信している",
+      "examples": []
+    },
+    {
+      "id": 710,
+      "word": "odd",
+      "definition": "【形】奇妙な；臨時の；奇数の〈⇔even〉　【名】《the -s》可能性",
+      "examples": [
+        {
+          "en": "This weather is really odd as it is snowing in May.",
+          "ja": "（（5月に雪が降るなんて，この天気は本当に奇妙だ。））"
+        }
+      ]
+    },
+    {
+      "id": "710-1",
+      "word": "bizarre",
+      "definition": "【形】奇妙な",
+      "examples": []
+    },
+    {
+      "id": 711,
+      "word": "fate",
+      "definition": "【名】運命",
+      "examples": [
+        {
+          "en": "It was fate that brought us together.",
+          "ja": "（（私たちを引き合わせたのは運命だった。））"
+        }
+      ]
+    },
+    {
+      "id": 712,
+      "word": "destiny",
+      "definition": "【名】運命",
+      "examples": [
+        {
+          "en": "You have the power to control your destiny.",
+          "ja": "（（あなたには自分の運命を思い通りにする力がある。））"
+        }
+      ]
+    },
+    {
+      "id": 713,
+      "word": "fatal",
+      "definition": "【形】致命的な；取り返しのつかない",
+      "examples": [
+        {
+          "en": "There was a fatal accident on the motorway and three people were killed.",
+          "ja": "（（高速道路で死亡事故があり，3人が亡くなった。））"
+        }
+      ]
+    },
+    {
+      "id": "713-1",
+      "word": "fatality",
+      "definition": "【名】死；死亡者",
+      "examples": []
+    },
+    {
+      "id": 714,
+      "word": "invisible",
+      "definition": "【形】《～に》見えない《to》",
+      "examples": [
+        {
+          "en": "The mountain was invisible from my house due to the dense fog.",
+          "ja": "（（濃い霧のせいで私の家からその山は見えなかった。））"
+        }
+      ]
+    },
+    {
+      "id": 715,
+      "word": "visible",
+      "definition": "【形】（目に）見える《to》",
+      "examples": [
+        {
+          "en": "The star is visible to the naked eye.",
+          "ja": "（（その星は肉眼にも見える。））"
+        }
+      ]
+    },
+    {
+      "id": 716,
+      "word": "stupid",
+      "definition": "【形】ばかな",
+      "examples": [
+        {
+          "en": "It was a stupid idea to go surfing in January.",
+          "ja": "（（1月にサーフィンに行くなんてばかな考えだった。））"
+        }
+      ]
+    },
+    {
+      "id": 717,
+      "word": "silly",
+      "definition": "【形】愚かな",
+      "examples": [
+        {
+          "en": "It would be silly to think that everyone agrees with you.",
+          "ja": "（（みんなが自分に賛同してくれると考えるのは愚かだろう。））"
+        }
+      ]
+    },
+    {
+      "id": "717-1",
+      "word": "absurd",
+      "definition": "【形】ばかげた",
+      "examples": []
+    },
+    {
+      "id": 718,
+      "word": "check",
+      "definition": "【名】検査；点検；クローク〔預かり所〕；小切手（= cheque）　【他】を調べる；を阻止する",
+      "examples": [
+        {
+          "en": "He wrote a check for 10 dollars.",
+          "ja": "（（彼は10ドルの小切手を書いた。））"
+        }
+      ]
+    },
+    {
+      "id": 719,
+      "word": "drive",
+      "definition": "【他】を駆り立てる；〈車〉を運転する　【自】運転する　drove＞driven　【名】衝動；ドライブ",
+      "examples": [
+        {
+          "en": "The major change in economy was driven by globalization.",
+          "ja": "（（その経済の大きな変化は国際化によって駆り立てられた。））"
+        }
+      ]
+    },
+    {
+      "id": 720,
+      "word": "will",
+      "definition": "【助】…だろう；…するつもりだ　【名】意志；遺言",
+      "examples": [
+        {
+          "en": "If you have the will to succeed, you probably will.",
+          "ja": "（（成功したい意志があるなら，きっと成功するだろう。））"
+        }
+      ]
+    },
+    {
+      "id": 721,
+      "word": "save",
+      "definition": "【他】を救う；を貯蓄する；を節約する　【前】を除いて",
+      "examples": [
+        {
+          "en": "I am trying to save money to go on holiday.",
+          "ja": "（（私は休暇に行くためにお金を貯めようとしている。））"
+        }
+      ]
+    },
+    {
+      "id": 722,
+      "word": "serve",
+      "definition": "【他】【自】役立つ；〈食事を〉出す；仕える",
+      "examples": [
+        {
+          "en": "Sorry, but I can't serve you.",
+          "ja": "（（すみませんが，あなたのお役に立てません。））"
+        }
+      ]
+    },
+    {
+      "id": 723,
+      "word": "bear",
+      "definition": "【他】に耐える；〈責任〉を持つ；〈子〉を産む；を有する；を生じる　bore＞born(e)　【名】クマ",
+      "examples": [
+        {
+          "en": "She can't bear the sight of blood.",
+          "ja": "（（彼女は血を見ることに耐えられない。））"
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "word": "bill",
+      "definition": "【名】請求書；紙幣；法案",
+      "examples": [
+        {
+          "en": "The new bill will allow people who are 18 to vote.",
+          "ja": "（（新法案では18歳から投票できるようになる。））"
+        }
+      ]
+    }
+  ]
+}

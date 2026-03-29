@@ -1,0 +1,670 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "46　「評価」の落とし穴　 [教育]",
+  "text": {
+    "en": "① [[HL]]Evaluation [[/HL]]is everywhere. At school, students are [[HL]]constantly [[/HL]]evaluated on their understanding of taught materials, which can possibly impact their future [[HL]]paths[[/HL]]. In the workplace, too, the performance of workers is often [[HL]]measured [[/HL]]and [[HL]]described [[/HL]]in numbers, which may affect their [[HL]]promotions [[/HL]]and [[HL]]salaries[[/HL]]. Such numbers are often considered scientific, [[HL]]objective[[/HL]], and therefore fair. They also give clear goals to people, and they might help people work with greater [[HL]]motivation[[/HL]]. Carefully designed evaluation, in theory, should help improve the performance of people.\n\n② However, Jerry Muller, the author of The Tyranny of Metrics, points out that if everything is measured in terms of numbers, people may end up making [[HL]]choices [[/HL]]that are unwise. For example, everyone would agree that [[HL]]surgeons [[/HL]]should be evaluated [[HL]]based [[/HL]]on their surgical skills. If the surgery success rate of Doctor A is 100% while that of Doctor B is 50%, most people would say the [[HL]]former [[/HL]]is a better surgeon and perhaps should get a higher salary. However, what if Doctor B is accepting more [[HL]]patients [[/HL]]with complex and difficult conditions and therefore his patients are less likely to [[HL]]survive[[/HL]]? If the salary of surgeons is determined [[HL]]primarily [[/HL]]based on success rate, wouldn’t some surgeons [[HL]]refuse [[/HL]]to operate on patients who have a [[HL]]limited [[/HL]]chance of survival?\n\n(211 words)",
+    "ja": "❶　[[HL]]評価[[/HL]]はいたるところにある。学校では，生徒たちは教わった教材（の内容）を理解しているかについて[[HL]]常に[[/HL]]評価され，それはことによると彼らの将来の[[HL]]進路[[/HL]]に影響を与えることがある。職場でも，従業員の業績は数字で[[HL]]測られ[[/HL]]たり，[[HL]]表され[[/HL]]たりすることが多く，これが[[HL]]昇進[[/HL]]や[[HL]]給与[[/HL]]に影響することがある。このような数値はたいてい科学的，[[HL]]客観的[[/HL]]であり，それゆえに公平だと考えられている。そのような数字はまた，人々に明確な目標を与え，より高い[[HL]]モチベーション[[/HL]]をもって働く手助けをする。入念に設計された評価は，理論的には，人々のパフォーマンスを高めるのに役立つはずである。\n\n❷　しかしながら，The Tyranny of Metrics（評価の暴虐）の著者であるジェリー・ミュラーは，もしすべてが数字の観点で測られると，人々は賢明とは言えない[[HL]]選択[[/HL]]をする羽目になるかもしれないと指摘する。例えば，[[HL]]外科医[[/HL]]はその人の手術の技量に[[HL]]基づいて[[/HL]]評価されるべきだということについては誰もが賛同するだろう。もし，医師Aの手術成功率は100%で，医師Bが50%ならば，ほとんどの人は[[HL]]前者[[/HL]]の方が優れた外科医で，おそらくより高い給料を得るべきだと言うだろう。しかし，もし医師Bが，より多くの複雑で厳しい容体の[[HL]]患者を受け入れ[[/HL]]ており，それゆえに患者が[[HL]]生存する[[/HL]]可能性がより低いのだとしたらどうだろう。外科医の給料が[[HL]]主に[[/HL]]成功率に基づいて決定されるのなら，生存の可能性が[[HL]]低い[[/HL]]患者の手術[[HL]]を拒否する[[/HL]]外科医もいるのではないだろうか。"
+  },
+  "vocabulary": [
+    {
+      "id": 1297,
+      "word": "evaluation",
+      "definition": "【名】評価",
+      "examples": [
+        {
+          "en": "We asked the agent for an evaluation of our house before we sold it.",
+          "ja": "（（私たちは家を売る前に，仲介業者に家の査定を依頼した。））"
+        }
+      ]
+    },
+    {
+      "id": "1297-1",
+      "word": "evaluate",
+      "definition": "【他】を評価する",
+      "examples": []
+    },
+    {
+      "id": 1298,
+      "word": "constantly",
+      "definition": "【副】絶えず",
+      "examples": [
+        {
+          "en": "Why do you constantly change your mind?",
+          "ja": "（（なぜあなたはいつも考えを変えるのですか。））"
+        }
+      ]
+    },
+    {
+      "id": "1298-1",
+      "word": "constant",
+      "definition": "【形】絶え間のない；一定の",
+      "examples": []
+    },
+    {
+      "id": "1298-2",
+      "word": "invariably",
+      "definition": "【副】変わることなく; いつも",
+      "examples": []
+    },
+    {
+      "id": 1299,
+      "word": "consistent",
+      "definition": "【形】一貫した；継続的な，安定した",
+      "examples": [
+        {
+          "en": "Your grades have been consistent over the whole term.",
+          "ja": "（（あなたの成績は学期全体を通して安定している。））"
+        }
+      ]
+    },
+    {
+      "id": "1299-1",
+      "word": "consistently",
+      "definition": "【副】絶えず；一貫して",
+      "examples": []
+    },
+    {
+      "id": "1299-2",
+      "word": "consistency",
+      "definition": "【名】一貫性",
+      "examples": []
+    },
+    {
+      "id": 1300,
+      "word": "irregular",
+      "definition": "【形】不規則な",
+      "examples": [
+        {
+          "en": "Sleeping irregular hours is not good for you.",
+          "ja": "（（不規則な時間帯に寝ることは体によくない。））"
+        }
+      ]
+    },
+    {
+      "id": 1301,
+      "word": "path",
+      "definition": "【名】小道；進路",
+      "examples": [
+        {
+          "en": "We walked along the path to that temple.",
+          "ja": "（（私たちはその寺に続く小道を歩いた。））"
+        }
+      ]
+    },
+    {
+      "id": 1302,
+      "word": "pave",
+      "definition": "【他】を舗装する《通例be -d》",
+      "examples": [
+        {
+          "en": "The local authority decided to pave the shopping street.",
+          "ja": "（（地元当局は商店街を舗装することを決定した。））"
+        }
+      ]
+    },
+    {
+      "id": "1302-1",
+      "word": "pavement",
+      "definition": "【名】舗装道路；歩道〈英〉",
+      "examples": []
+    },
+    {
+      "id": "1302-2",
+      "word": "intersection",
+      "definition": "【名】交差点",
+      "examples": []
+    },
+    {
+      "id": 1303,
+      "word": "pedestrian",
+      "definition": "【名】歩行者",
+      "examples": [
+        {
+          "en": "This street is for pedestrians only, so no cars are allowed to use it.",
+          "ja": "（（この通りは歩行者専用であり，車は使用することを許可されていない。））"
+        }
+      ]
+    },
+    {
+      "id": 1304,
+      "word": "stumble",
+      "definition": "【自】つまずく　【名】つまずき",
+      "examples": [
+        {
+          "en": "He was so tired that he stumbled on his way home.",
+          "ja": "（（彼はとても疲れていたので，家に帰る途中でつまずいた。））"
+        }
+      ]
+    },
+    {
+      "id": 1305,
+      "word": "drag",
+      "definition": "【他】〈重い物〉を引きずる　【自】のろのろと進む",
+      "examples": [
+        {
+          "en": "He dragged the chair across the floor.",
+          "ja": "（（彼はその椅子を引きずって床を横断した。））"
+        }
+      ]
+    },
+    {
+      "id": 1306,
+      "word": "crawl",
+      "definition": "【自】這う；のろのろ進む",
+      "examples": [
+        {
+          "en": "The baby crawled toward his mother.",
+          "ja": "（（赤ちゃんは母親に向かって這っていった。））"
+        }
+      ]
+    },
+    {
+      "id": 1307,
+      "word": "measure",
+      "definition": "【自】【他】測る；評価する　【名】手段；対策",
+      "examples": [
+        {
+          "en": "Could you measure the size of the table?",
+          "ja": "（（そのテーブルの大きさを測っていただけますか。））"
+        }
+      ]
+    },
+    {
+      "id": "1307-1",
+      "word": "measurement",
+      "definition": "【名】測定",
+      "examples": []
+    },
+    {
+      "id": 1308,
+      "word": "describe",
+      "definition": "【他】を描写する；を述べる；を説明する",
+      "examples": [
+        {
+          "en": "I can't describe how happy I felt.",
+          "ja": "（（私は自分がどれだけ幸せに感じたかを言い表せない。））"
+        }
+      ]
+    },
+    {
+      "id": "1308-1",
+      "word": "description",
+      "definition": "【名】描写；記述；説明書",
+      "examples": []
+    },
+    {
+      "id": 1309,
+      "word": "promotion",
+      "definition": "【名】昇進；（販売）促進",
+      "examples": [
+        {
+          "en": "Given your accomplishments, you will soon get a promotion.",
+          "ja": "（（その成果を考慮すると，君はすぐに昇進するだろう。））"
+        }
+      ]
+    },
+    {
+      "id": 1310,
+      "word": "promote",
+      "definition": "【他】を促進する；を昇進させる",
+      "examples": [
+        {
+          "en": "Educating the staff promotes the development of the company in the long run.",
+          "ja": "（（長い目で見ればスタッフの教育が会社の発展を促進する。））"
+        }
+      ]
+    },
+    {
+      "id": 1311,
+      "word": "salary",
+      "definition": "【名】〈月々の〉給料",
+      "examples": [
+        {
+          "en": "You will receive an increase in your salary after your first year.",
+          "ja": "（（１年目を終えると，あなたの給料は上がるでしょう。））"
+        }
+      ]
+    },
+    {
+      "id": 1312,
+      "word": "wallet",
+      "definition": "【名】札入れ；財布",
+      "examples": [
+        {
+          "en": "My girlfriend bought me a new leather wallet.",
+          "ja": "（（ガールフレンドが私に新しい革の財布を買ってくれた。））"
+        }
+      ]
+    },
+    {
+      "id": 1313,
+      "word": "objective",
+      "definition": "【形】客観的な　【名】目標",
+      "examples": [
+        {
+          "en": "Our team's main objective is to reach the final of the competition.",
+          "ja": "（（私たちのチームの一番の目標は大会の決勝戦に進出することだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1313-1",
+      "word": "objection",
+      "definition": "【名】抗議；反対",
+      "examples": []
+    },
+    {
+      "id": 1314,
+      "word": "subjective",
+      "definition": "【形】主観的な",
+      "examples": [
+        {
+          "en": "Our subjective sense of time is inaccurate.",
+          "ja": "（（私たちの主観的な時間の感覚は不正確だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1315,
+      "word": "motivation",
+      "definition": "【名】動機づけ；やる気",
+      "examples": [
+        {
+          "en": "Some students have no motivation to learn a second language.",
+          "ja": "（（第二言語を学ぶ意欲がない学生もいる。））"
+        }
+      ]
+    },
+    {
+      "id": "1315-1",
+      "word": "motivate",
+      "definition": "【他】〈人〉に動機を与える《to do》",
+      "examples": []
+    },
+    {
+      "id": 1316,
+      "word": "motive",
+      "definition": "【名】動機",
+      "examples": [
+        {
+          "en": "He has a motive for studying French.",
+          "ja": "（（彼にはフランス語を学ぶ動機がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1317,
+      "word": "incentive",
+      "definition": "【名】動機；励み",
+      "examples": [
+        {
+          "en": "You have a huge incentive to study hard.",
+          "ja": "（（あなたには一生懸命勉強する大きな動機がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1318,
+      "word": "inspire",
+      "definition": "【他】を鼓舞する；〈感情〉を喚起する",
+      "examples": [
+        {
+          "en": "Her victory at the championship really inspired me to try harder.",
+          "ja": "（（彼女のその選手権での優勝は，私をさらに努力するよう奮い立たせた。））"
+        }
+      ]
+    },
+    {
+      "id": "1318-1",
+      "word": "inspiration",
+      "definition": "【名】ひらめき",
+      "examples": []
+    },
+    {
+      "id": 1319,
+      "word": "choice",
+      "definition": "【名】選択（の自由）",
+      "examples": [
+        {
+          "en": "All the cakes look so delicious that it is difficult to make a choice.",
+          "ja": "（（どのケーキもとてもおいしそうなので，選択するのが難しい。））"
+        }
+      ]
+    },
+    {
+      "id": 1320,
+      "word": "option",
+      "definition": "【名】選択肢；選択（の自由）",
+      "examples": [
+        {
+          "en": "You need to consider all your options before you make a decision.",
+          "ja": "（（決断を下す前に，すべての選択肢を検討する必要がある。））"
+        }
+      ]
+    },
+    {
+      "id": "1320-1",
+      "word": "optional",
+      "definition": "【形】随意〔任意〕の",
+      "examples": []
+    },
+    {
+      "id": 1321,
+      "word": "vote",
+      "definition": "【名】【自】投票（する）",
+      "examples": [
+        {
+          "en": "People aged 18 and over can now vote in Japan.",
+          "ja": "（（日本では現在は18歳以上の人々が投票できる。））"
+        }
+      ]
+    },
+    {
+      "id": 1322,
+      "word": "poll",
+      "definition": "【名】世論調査；《the》投票　【他】〈票〉を獲得する",
+      "examples": [
+        {
+          "en": "The press conducted a poll of 2,000 people on the subject of the election.",
+          "ja": "（（その報道機関は2,000人の人々に選挙について世論調査を行った。））"
+        }
+      ]
+    },
+    {
+      "id": 1323,
+      "word": "elect",
+      "definition": "【他】【自】（投票で）選ぶ",
+      "examples": [
+        {
+          "en": "He was elected chair of the university.",
+          "ja": "（（彼は大学の理事長に選ばれた。））"
+        }
+      ]
+    },
+    {
+      "id": 1324,
+      "word": "surgeon",
+      "definition": "【名】外科医",
+      "examples": [
+        {
+          "en": "The surgeon completed the operation in less than 2 hours.",
+          "ja": "（（その外科医は2時間未満でその手術を終えた。））"
+        }
+      ]
+    },
+    {
+      "id": "1324-1",
+      "word": "surgical",
+      "definition": "【形】外科（医）の",
+      "examples": []
+    },
+    {
+      "id": "1324-2",
+      "word": "surgery",
+      "definition": "【名】手術；外科",
+      "examples": []
+    },
+    {
+      "id": 1325,
+      "word": "base",
+      "definition": "【他】の基礎を《～に》置く《on》　【名】土台，基礎",
+      "examples": [
+        {
+          "en": "This story is based on fact.",
+          "ja": "（（この話は事実に基づいている。））"
+        }
+      ]
+    },
+    {
+      "id": "1325-1",
+      "word": "basement",
+      "definition": "【名】地下室",
+      "examples": []
+    },
+    {
+      "id": 1326,
+      "word": "former",
+      "definition": "【形】前（者）の　【名】《the》〈２つのうちの〉前者",
+      "examples": [
+        {
+          "en": "My former teacher is now working in China.",
+          "ja": "（（私の以前の先生は今中国で働いている。））"
+        }
+      ]
+    },
+    {
+      "id": "1326-1",
+      "word": "formerly",
+      "definition": "【副】以前は",
+      "examples": []
+    },
+    {
+      "id": 1327,
+      "word": "latter",
+      "definition": "【形】後者の；後半の　【名】《the》〈２つのうちの〉後者",
+      "examples": [
+        {
+          "en": "The latter half of the 18th century saw great changes in industry.",
+          "ja": "（（18世紀後半には産業に大きな変化が起こった。））"
+        }
+      ]
+    },
+    {
+      "id": 1328,
+      "word": "accept",
+      "definition": "【他】を受け入れる；を承認する",
+      "examples": [
+        {
+          "en": "She accepted his offer of a cup of coffee.",
+          "ja": "（（彼女は彼のコーヒー１杯の申し出を受け入れた。））"
+        }
+      ]
+    },
+    {
+      "id": "1328-1",
+      "word": "acceptance",
+      "definition": "【名】受け入れ",
+      "examples": []
+    },
+    {
+      "id": "1328-2",
+      "word": "acceptable",
+      "definition": "【形】受け入れられる",
+      "examples": []
+    },
+    {
+      "id": "1328-3",
+      "word": "unacceptable",
+      "definition": "【形】容認できない",
+      "examples": []
+    },
+    {
+      "id": 1329,
+      "word": "patient",
+      "definition": "【名】患者　【形】忍耐強い",
+      "examples": [
+        {
+          "en": "There was a long line of patients at the clinic.",
+          "ja": "（（その診療所には患者の長い列があった。））"
+        }
+      ]
+    },
+    {
+      "id": "1329-1",
+      "word": "patience",
+      "definition": "【名】忍耐",
+      "examples": []
+    },
+    {
+      "id": 1330,
+      "word": "tolerate",
+      "definition": "【他】を許す，を大目に見る；に耐える",
+      "examples": [
+        {
+          "en": "I will not tolerate this bad behavior.",
+          "ja": "（（私はこの悪い振る舞いを許容しない。））"
+        }
+      ]
+    },
+    {
+      "id": "1330-1",
+      "word": "tolerance",
+      "definition": "【名】寛容（さ）；抵抗力",
+      "examples": []
+    },
+    {
+      "id": "1330-2",
+      "word": "tolerant",
+      "definition": "【形】寛容な；耐性がある",
+      "examples": []
+    },
+    {
+      "id": 1331,
+      "word": "endure",
+      "definition": "【他】に耐える",
+      "examples": [
+        {
+          "en": "I endured the long meeting without complaining.",
+          "ja": "（（私は文句を言うことなく，その長い会議に耐えた。））"
+        }
+      ]
+    },
+    {
+      "id": 1332,
+      "word": "temper",
+      "definition": "【名】気性；短気；機嫌　【他】を加減する",
+      "examples": [
+        {
+          "en": "She lost her temper and started to shout at me.",
+          "ja": "（（彼女はカッとなって私に怒鳴り始めた。））"
+        }
+      ]
+    },
+    {
+      "id": "1332-1",
+      "word": "temperament",
+      "definition": "【名】気質，気性",
+      "examples": []
+    },
+    {
+      "id": 1333,
+      "word": "survive",
+      "definition": "【自】生き残る　【他】から生き延びる",
+      "examples": [
+        {
+          "en": "He survived on the island for three weeks until he was rescued.",
+          "ja": "（（彼は救助されるまで島で3週間生き延びた。））"
+        }
+      ]
+    },
+    {
+      "id": "1333-1",
+      "word": "survival",
+      "definition": "【名】生き残ること",
+      "examples": []
+    },
+    {
+      "id": 1334,
+      "word": "primarily",
+      "definition": "【副】主として；第一に",
+      "examples": [
+        {
+          "en": "The target group for the fashion is primarily high school students.",
+          "ja": "（（このファッションのターゲット層は主に高校生である。））"
+        }
+      ]
+    },
+    {
+      "id": "1334-1",
+      "word": "primary",
+      "definition": "【形】最も重要な；初等の",
+      "examples": []
+    },
+    {
+      "id": "1334-2",
+      "word": "foremost",
+      "definition": "【形】最も重要な　【副】まず第一に",
+      "examples": []
+    },
+    {
+      "id": 1335,
+      "word": "refuse",
+      "definition": "【他】…するのを断る《to do》；を断る（≒decline） 【名】ゴミ",
+      "examples": [
+        {
+          "en": "She refused to apologize as she had done nothing wrong.",
+          "ja": "（（彼女は何も悪いことはしていないので謝ることを拒否した。））"
+        }
+      ]
+    },
+    {
+      "id": "1335-1",
+      "word": "refusal",
+      "definition": "【名】拒絶",
+      "examples": []
+    },
+    {
+      "id": 1336,
+      "word": "deny",
+      "definition": "【他】を否定する",
+      "examples": [
+        {
+          "en": "The boy denied that he had taken the money.",
+          "ja": "（（その少年はその金を取ったことを否定した。））"
+        }
+      ]
+    },
+    {
+      "id": "1336-1",
+      "word": "denial",
+      "definition": "【名】否定",
+      "examples": []
+    },
+    {
+      "id": 1337,
+      "word": "reject",
+      "definition": "【他】を拒絶する",
+      "examples": [
+        {
+          "en": "They rejected our offer to buy their house.",
+          "ja": "（（彼らは，彼らの家を買うという我々の申し出を拒否した。））"
+        }
+      ]
+    },
+    {
+      "id": "1337-1",
+      "word": "rejection",
+      "definition": "【名】拒絶",
+      "examples": []
+    },
+    {
+      "id": 1338,
+      "word": "limit",
+      "definition": "【他】を制限する；を抑える　【名】限界；制限《on》",
+      "examples": [
+        {
+          "en": "There is a speed limit of 30km an hour in this area of town.",
+          "ja": "（（町のこの地域では，時速30キロの速度制限がある。））"
+        }
+      ]
+    },
+    {
+      "id": "1338-1",
+      "word": "limitation",
+      "definition": "【名】制限；限界",
+      "examples": []
+    },
+    {
+      "id": "1338-2",
+      "word": "limited",
+      "definition": "【形】限られた；わずかな",
+      "examples": []
+    },
+    {
+      "id": "1338-3",
+      "word": "unlimited",
+      "definition": "【形】無制限の",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "01　お茶の木の種類　[文化]",
+  "text": {
+    "en": "Green tea has a long [[HL]]history[[/HL]] in Japan and strong [[HL]]ties[[/HL]] with Japanese [[HL]]culture[[/HL]].  Because of this, one might think that green tea comes from a [[HL]]plant unique [[/HL]]to Japan.  However, all tea, no matter what its color or [[HL]]taste[[/HL]], comes from the same plant.  Then what [[HL]]causes [[/HL]]the differences in taste and color?  They are, in [[HL]]fact[[/HL]], the result of different ways of growing the tea and [[HL]]treating [[/HL]]it after it is picked.\n\n（74 words）",
+    "ja": "緑茶には，日本における長い[[HL]]歴史[[/HL]]と，日本[[HL]]文化[[/HL]]との強い[[HL]]結びつき[[/HL]]がある。このため，緑茶は日本に[[HL]]特有の植物[[/HL]]から作られていると思う人がいるかもしれない。しかし，すべてのお茶は，その色あるいは[[HL]]味[[/HL]]がどのようなものかは[[HL]]問題[[/HL]]ではなく〔どのようなものであっても〕，同じ植物から作られている。それでは何が味や色における違い[[HL]]をもたらす[[/HL]]のか。それらは，実際のところ，お茶を育て，お茶が摘み取られたあとにそれ[[HL]]を処理する[[/HL]]，さまざまな方法〔方法の違い〕の結果なのである。"
+  },
+  "vocabulary": [
+    {
+      "id": 1,
+      "word": "history",
+      "definition": "【名】歴史（学）；経歴",
+      "examples": [
+        {
+          "en": "He is the best player in football history.",
+          "ja": "（（彼はサッカーの歴史上最高の選手だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1-1",
+      "word": "historian",
+      "definition": "【名】歴史家",
+      "examples": []
+    },
+    {
+      "id": "1-2",
+      "word": "historical",
+      "definition": "【形】歴史の",
+      "examples": []
+    },
+    {
+      "id": 2,
+      "word": "tie",
+      "definition": "【名】つながり；ネクタイ；同点　【他】を結ぶ；をつなぐ",
+      "examples": [
+        {
+          "en": "Life satisfaction is closely tied to health.",
+          "ja": "（（人生の満足度は健康と密接に関係している。））"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "word": "unite",
+      "definition": "【他】【自】一体にする〔なる〕",
+      "examples": [
+        {
+          "en": "The new manager has united the team and they have started to win games.",
+          "ja": "（（新監督はチームを結束させ，彼らは試合に勝ち始めた。））"
+        }
+      ]
+    },
+    {
+      "id": "3-1",
+      "word": "unify",
+      "definition": "【他】を統一する",
+      "examples": []
+    },
+    {
+      "id": "3-2",
+      "word": "bind",
+      "definition": "【他】を縛る；を結びつける",
+      "examples": []
+    },
+    {
+      "id": 4,
+      "word": "culture",
+      "definition": "【名】文化；教養；培養　【他】を 培養する",
+      "examples": [
+        {
+          "en": "One good reason for traveling abroad is to experience different cultures.",
+          "ja": "（（海外旅行をする妥当な理由の１つは，異文化を体験することだ。））"
+        }
+      ]
+    },
+    {
+      "id": "4-1",
+      "word": "cultural",
+      "definition": "【形】文化的な",
+      "examples": []
+    },
+    {
+      "id": "4-2",
+      "word": "cultivate",
+      "definition": "【他】〈技能など〉を養う；を栽培する；を耕す",
+      "examples": []
+    },
+    {
+      "id": "4-3",
+      "word": "cultivation",
+      "definition": "【名】育成；耕作",
+      "examples": []
+    },
+    {
+      "id": 5,
+      "word": "plant",
+      "definition": "【名】植物；工場　【他】を植える",
+      "examples": [
+        {
+          "en": "There was a fire at the power plant.",
+          "ja": "（（発電所で火事があった。））"
+        }
+      ]
+    },
+    {
+      "id": "5-1",
+      "word": "plantation",
+      "definition": "【名】大農園",
+      "examples": []
+    },
+    {
+      "id": 6,
+      "word": "unique",
+      "definition": "【形】特有の《to》；唯一の",
+      "examples": [
+        {
+          "en": "These flowers are unique to this part of the country.",
+          "ja": "（（この花はその国のこの地方に特有のものだ。））"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "word": "characteristic",
+      "definition": "【名】【形】特徴（的な）《of》",
+      "examples": [
+        {
+          "en": "One of the characteristics of a successful business person is a willingness to take risks.",
+          "ja": "（（成功する実業家の特徴の1つは進んでリスクを取ることだ。））"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "word": "matter",
+      "definition": "【名】問題；物質；［複］事態　【自】重要である",
+      "examples": [
+        {
+          "en": "It doesn't matter to me what he does.",
+          "ja": "（（彼が何をしようと私にとっては重要ではない。））"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "word": "taste",
+      "definition": "【名】味；好み《for》　【自】味がする　【他】の味を見る",
+      "examples": [
+        {
+          "en": "I like his taste in clothes.",
+          "ja": "（（私は彼の服の趣味が好きだ。））"
+        }
+      ]
+    },
+    {
+      "id": "9-1",
+      "word": "tasty",
+      "definition": "【形】風味のある",
+      "examples": []
+    },
+    {
+      "id": "9-2",
+      "word": "spice",
+      "definition": "【名】薬味；香辛料",
+      "examples": []
+    },
+    {
+      "id": 10,
+      "word": "edible",
+      "definition": "【形】食べることのできる；食用の",
+      "examples": [
+        {
+          "en": "In the woodlands there are many edible mushrooms.",
+          "ja": "（（森林地帯にはたくさんの食用のキノコがある。））"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "word": "cause",
+      "definition": "【他】を引き起こす　【名】原因；理由",
+      "examples": [
+        {
+          "en": "The accident was caused by his careless driving.",
+          "ja": "（（その事故は彼の不注意な運転によって引き起こされた。））"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "word": "account",
+      "definition": "【自】占める；説明する；原因となる《for》　【名】説明；口座；報告",
+      "examples": [
+        {
+          "en": "I can't account for why he moved abroad.",
+          "ja": "（（私は彼がなぜ海外に引っ越したのか説明できない。））"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "word": "fact",
+      "definition": "【名】事実",
+      "examples": [
+        {
+          "en": "It’s a fact that he quit his job last year.",
+          "ja": "（（彼が去年仕事を辞めたのは事実だ。））"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "word": "treat",
+      "definition": "【他】を扱う；を治療する；を処理する　【名】ごほうび；ごちそう",
+      "examples": [
+        {
+          "en": "The only way to treat the illness is rest and relaxation.",
+          "ja": "（（病気を治す唯一の方法は休養とリラックスです。））"
+        }
+      ]
+    },
+    {
+      "id": "14-1",
+      "word": "treatment",
+      "definition": "【名】治療；取り扱い",
+      "examples": []
+    }
+  ]
+};

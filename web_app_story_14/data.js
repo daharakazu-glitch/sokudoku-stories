@@ -1,0 +1,230 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "14　遊びを通して学ぶこと (2)　[教育]",
+  "text": {
+    "en": "① Another point to consider is how much time children have to play.  Some people say that four to five hours a day of playing outdoors with others is [[HL]]necessary[[/HL]], even for twelve-year-olds.  It is very [[HL]]doubtful[[/HL]], however, [[HL]]whether [[/HL]]any Japanese children get that much free time.  [[HL]]Concerned [[/HL]]about their future in an [[HL]]increasingly [[/HL]]competitive society, parents generally tell their children to study more; very few would tell them to go out and play.\n\n② What do these children do at home when they are not studying?  They tend to [[HL]]spend [[/HL]]time by themselves.  They play video games or watch TV, for instance.  These activities do not teach them how to get along with others.  This can only be learned through playing with other children.  They need to play without being told what to do by adults in order to learn about [[HL]]leadership [[/HL]]and group harmony on their own.  [[HL]]Outdoor [[/HL]]space is particularly [[HL]]suitable [[/HL]]for this purpose.  Children need a [[HL]]proper [[/HL]]outdoor environment where they can freely spend their time playing with friends.\t（171 words）",
+    "ja": "❶　考慮すべきもう1つの点は，子供にどれくらい遊ぶ時間があるかということである。12歳の子供でさえも，他の子供と一緒に屋外で1日に4，5時間遊ぶことが[[HL]]必要[[/HL]]だと言う人もいる。しかし，どの日本の子供にもそれだけの自由時間がある[[HL]]かどうか[[/HL]]は非常に[[HL]]疑わしい[[/HL]]。[[HL]]ますます[[/HL]]競争が激しさを増す社会における子供の将来[[HL]]を心配して[[/HL]]，親はたいてい子供にもっと勉強するように言う。外に出て遊ぶように言う親は，ほとんどいないだろう。\n\n❷　このような子供は，勉強していない時には家で何をするのだろうか。彼らは1人で[[HL]]過ごす[[/HL]]傾向がある。例えば，テレビゲームをしたり，テレビを見たりする。このような活動は，彼らに他人との付き合い方を教えてはくれない。こうしたことは，他の子供と一緒に遊ぶことを通してしか学べないのだ。子供は，[[HL]]リーダーシップ[[/HL]]や集団の調和について自ら学ぶために，大人から何をすべきかを指図されることなく遊ぶ必要がある。[[HL]]屋外の[[/HL]]空間は，こうした目的に特に[[HL]]適して[[/HL]]いる。子供には，自由に友達と一緒に遊んで過ごせる[[HL]]適切な[[/HL]]屋外環境が必要である。"
+  },
+  "vocabulary": [
+    {
+      "id": 326,
+      "word": "necessary",
+      "definition": "【形】必要な",
+      "examples": [
+        {
+          "en": "It is necessary for you to complete this form.",
+          "ja": "（（この用紙に記入していただく必要があります。））"
+        }
+      ]
+    },
+    {
+      "id": "326-1",
+      "word": "necessarily",
+      "definition": "【副】必ず",
+      "examples": []
+    },
+    {
+      "id": "326-2",
+      "word": "necessity",
+      "definition": "【名】必要（性）；必需品",
+      "examples": []
+    },
+    {
+      "id": "326-3",
+      "word": "unnecessary",
+      "definition": "【形】不必要な",
+      "examples": []
+    },
+    {
+      "id": 327,
+      "word": "doubtful",
+      "definition": "【形】〈物事が〉疑わしい；〈人が〉疑っている《of，about》",
+      "examples": [
+        {
+          "en": "It is doubtful that they will arrive on time.",
+          "ja": "（（彼らが時間通りに到着するかは疑わしい。））"
+        }
+      ]
+    },
+    {
+      "id": 328,
+      "word": "doubt",
+      "definition": "【自】【他】疑う；ではないと思う（⇔believe）　【名】疑い",
+      "examples": [
+        {
+          "en": "I doubt I will have enough money to go to the concert.",
+          "ja": "（（コンサートに行くのに十分なお金はないと思う。））"
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "word": "whether",
+      "definition": "【接】〈名詞節を導いて〉…かどうか；《…する》（べき）かどうか《to do》；《～ A or B》AであろうとBであろうと",
+      "examples": [
+        {
+          "en": "I don’t know whether he will come today.",
+          "ja": "（（彼が今日来るかどうかわからない。））"
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "word": "concern",
+      "definition": "【他】を心配させる；に関係する　【名】心配；関心",
+      "examples": [
+        {
+          "en": "I am concerned about my father as he is sick.",
+          "ja": "（（父が病気なので心配している。））"
+        }
+      ]
+    },
+    {
+      "id": "330-1",
+      "word": "concerned",
+      "definition": "【形】心配して；関心を持って；〈【名】の後で〉関係する",
+      "examples": []
+    },
+    {
+      "id": 331,
+      "word": "anxious",
+      "definition": "【形】心配して《about》；切望して《for, to do》",
+      "examples": [
+        {
+          "en": "I am really anxious about my test results.",
+          "ja": "（（私はテストの結果が本当に心配だ。））"
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "word": "increasingly",
+      "definition": "【副】ますます（≒ more and more）",
+      "examples": [
+        {
+          "en": "Tablet computers are becoming increasingly common in classrooms.",
+          "ja": "（（タブレットコンピューターは教室でますます一般的になってきている。））"
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "word": "spend",
+      "definition": "【他】を費やす；《～に/～するのに》を過ごす《on/on〔in〕 …ing》",
+      "examples": [
+        {
+          "en": "I spent over 10,000 yen today.",
+          "ja": "（（私は今日10,000円を超える金額を費やした。））"
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "word": "leadership",
+      "definition": "【名】リーダーシップ；リーダーの地位",
+      "examples": [
+        {
+          "en": "He showed great leadership.",
+          "ja": "（（彼は素晴らしいリーダーシップを発揮した。））"
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "word": "outdoor",
+      "definition": "【形】屋外の",
+      "examples": [
+        {
+          "en": "I enjoy all outdoor activities.",
+          "ja": "（（私は野外活動全般を楽しんでいます。））"
+        }
+      ]
+    },
+    {
+      "id": "335-1",
+      "word": "indoor",
+      "definition": "【形】屋内の",
+      "examples": []
+    },
+    {
+      "id": 336,
+      "word": "suitable",
+      "definition": "【形】適切な《for》",
+      "examples": [
+        {
+          "en": "Some computer games are not suitable for small children.",
+          "ja": "（（コンピューターゲームの一部は小さい子供には適切ではない。））"
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "word": "correct",
+      "definition": "【形】正しい；適切な　【他】を訂正する",
+      "examples": [
+        {
+          "en": "The teacher gave us the correct answers after we completed the test.",
+          "ja": "（（私たちがテストを終えた後，先生は正解を教えてくれた。））"
+        }
+      ]
+    },
+    {
+      "id": "337-1",
+      "word": "correctly",
+      "definition": "【副】正しく",
+      "examples": []
+    },
+    {
+      "id": "337-2",
+      "word": "correction",
+      "definition": "【名】訂正",
+      "examples": []
+    },
+    {
+      "id": "337-3",
+      "word": "incorrect",
+      "definition": "【形】間違った；適切でない",
+      "examples": []
+    },
+    {
+      "id": 338,
+      "word": "proper",
+      "definition": "【形】適切な；〈社会的に〉正しい",
+      "examples": [
+        {
+          "en": "After graduation, he started his first proper job.",
+          "ja": "（（卒業後，彼は初めてまともな仕事に就いた。））"
+        }
+      ]
+    },
+    {
+      "id": "338-1",
+      "word": "improper",
+      "definition": "【形】不道徳な；違法な",
+      "examples": []
+    },
+    {
+      "id": 339,
+      "word": "appropriate",
+      "definition": "【形】〈特定の人や状況に〉適切な",
+      "examples": [
+        {
+          "en": "We can take the appropriate action if we have time for preparation.",
+          "ja": "（（準備する時間があれば，私たちは適切な行動を取ることができる。））"
+        }
+      ]
+    },
+    {
+      "id": "339-1",
+      "word": "appropriately",
+      "definition": "【副】適切に",
+      "examples": []
+    },
+    {
+      "id": "339-2",
+      "word": "inappropriate",
+      "definition": "【形】不適切な",
+      "examples": []
+    }
+  ]
+};

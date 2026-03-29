@@ -1,0 +1,610 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "08　ジェンダーバイアスとその克服 (1)　[社会]",
+  "text": {
+    "en": "① [[HL]]Gender bias [[/HL]]is [[HL]]deeply rooted [[/HL]]in culture, and it is sometimes [[HL]]amazing [[/HL]]how [[HL]]fixed [[/HL]]children’s [[HL]]views [[/HL]]are, even at an early stage of their lives. We [[HL]]tend [[/HL]]to find more boys than girls who wish to be [[HL]]professional [[/HL]]athletes. Doctors and scientists are often more popular as future [[HL]]occupations [[/HL]]among boys, though more girls have [[HL]]similar [[/HL]]goals in these fields than a [[HL]]decade [[/HL]]ago.\n\n② Gender bias is also rooted in [[HL]]perceptions[[/HL]]. One day at a British school, four professionals ― a firefighter, a scientist, a [[HL]]ballet [[/HL]]dancer, and a nurse ― were [[HL]]invited [[/HL]]to meet the students. This was an [[HL]]occasion [[/HL]]to [[HL]]challenge [[/HL]]the gender bias [[HL]]held [[/HL]]by the children. They were [[HL]]excited [[/HL]]to learn that a strong, muscular man was a ballet dancer, and a [[HL]]rather [[/HL]]short, [[HL]]slim [[/HL]]woman was a [[HL]]courageous [[/HL]]firefighter.\n\n(132 words)",
+    "ja": "❶　[[HL]]性別[[/HL]]による[[HL]]偏見[[/HL]]〔ジェンダーバイアス〕は文化に[[HL]]深く根ざしており[[/HL]]，人生の早い段階でさえ，子供たちの[[HL]]考え[[/HL]]がいかに[[HL]]固定化されて[[/HL]]いるかに驚[[HL]]かされる[[/HL]]ことがある。私たちは，[[HL]]プロ[[/HL]]のアスリートになりたい女子よりも男子を多く見る[[HL]]傾向がある[[/HL]]。医師や科学者は将来の[[HL]]職業[[/HL]]として男子の間でより人気が高いことが多い。とはいえ，[[HL]]10年[[/HL]]前よりもこれらの分野で[[HL]]似た[[/HL]]目標をもつ女子は多くなっている。\n\n❷　性別による偏見は[[HL]]認識[[/HL]]にも根づいている。ある日，英国のある学校に，消防士，科学者，[[HL]]バレエ[[/HL]]ダンサー，看護師という４人の職業人が[[HL]]招かれ[[/HL]]，生徒たちに紹介された。これは，子供たちによって[[HL]]抱かれている[[/HL]]性別による偏見[[HL]]に異議を唱える[[/HL]]〔を見直す〕[[HL]]機会[[/HL]]だった。子供たちは，たくましく，筋骨隆々の男性がバレエダンサー，[[HL]]かなり[[/HL]]小柄で[[HL]]細身の[[/HL]]女性が勇[[HL]]敢[[/HL]]な消防士であると知ると，[[HL]]わくわくし[[/HL]]た。"
+  },
+  "vocabulary": [
+    {
+      "id": 132,
+      "word": "gender",
+      "definition": "【名】〈社会的・文化的〉性（差）",
+      "examples": [
+        {
+          "en": "The gender difference in wages is still very high.",
+          "ja": "（（賃金における性差はまだ非常に大きい。））"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "word": "sex",
+      "definition": "【名】性（別）",
+      "examples": [
+        {
+          "en": "Either sex can use these toilets.",
+          "ja": "（（このトイレはどちらの性別でも使える。））"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "word": "bias",
+      "definition": "【名】偏見；（悪い）先入観《against》",
+      "examples": [
+        {
+          "en": "Our preferences are often influenced by unconscious biases.",
+          "ja": "（（私たちの好みはしばしば無意識の偏見の影響を受ける。））"
+        }
+      ]
+    },
+    {
+      "id": "134-1",
+      "word": "biased",
+      "definition": "【形】偏見を抱いた",
+      "examples": []
+    },
+    {
+      "id": 135,
+      "word": "prejudice",
+      "definition": "【名】偏見；先入観《against》",
+      "examples": [
+        {
+          "en": "We should judge a person without racial prejudice.",
+          "ja": "（（私たちは人種的偏見をもたずに人を評価しなければならない。））"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "word": "stereotype",
+      "definition": "【名】固定観念",
+      "examples": [
+        {
+          "en": "This is a stereotype of the typical Japanese office worker.",
+          "ja": "（（これは典型的な日本の会社員の固定観念だ。））"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "word": "deeply",
+      "definition": "【副】非常に；深く",
+      "examples": [
+        {
+          "en": "He fell deeply in love with a girl in school.",
+          "ja": "（（彼は学校の女の子と深く恋に落ちた。））"
+        }
+      ]
+    },
+    {
+      "id": "137-1",
+      "word": "deepen",
+      "definition": "【他】を深める 　【自】深まる",
+      "examples": []
+    },
+    {
+      "id": 138,
+      "word": "shallow",
+      "definition": "【形】浅い；浅はかな",
+      "examples": [
+        {
+          "en": "The river is very shallow here, so it is easy to walk across.",
+          "ja": "（（ここは川がとても浅いので歩いて渡るのは簡単だ。））"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "word": "root",
+      "definition": "【名】根；根源　【他】《be –ed》定着して；を根付かせる",
+      "examples": [
+        {
+          "en": "The problem is deeply rooted in the history of the region.",
+          "ja": "（（その問題はその地域の歴史に深く根ざしている。））"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "word": "stem",
+      "definition": "【自】生じる；由来する《from》　【名】茎；幹",
+      "examples": [
+        {
+          "en": "The theory stems from an ancient tradition.",
+          "ja": "（（その理論は古い伝統に由来している。））"
+        }
+      ]
+    },
+    {
+      "id": "140-1",
+      "word": "trunk",
+      "definition": "【名】〈木の〉幹；〈自動車の〉トランク；ゾウの鼻",
+      "examples": []
+    },
+    {
+      "id": 141,
+      "word": "amazing",
+      "definition": "【形】素晴らしい；びっくりさせるような",
+      "examples": [
+        {
+          "en": "The travel to London this summer was an amazing experience for me.",
+          "ja": "（（この夏のロンドン旅行は私にとって素晴らしい経験だった。））"
+        }
+      ]
+    },
+    {
+      "id": "141-1",
+      "word": "amaze",
+      "definition": "【他】をびっくりさせる",
+      "examples": []
+    },
+    {
+      "id": 142,
+      "word": "startle",
+      "definition": "【他】をびっくりさせる",
+      "examples": [
+        {
+          "en": "I was startled to be spoken to by a stranger.",
+          "ja": "（（知らない人に話しかけられたのでびっくりした。））"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "word": "fix",
+      "definition": "【他】を修理する（≒repair）；を固定する；〈食事など〉を用意する",
+      "examples": [
+        {
+          "en": "I tried to fix my computer, but only made it worse.",
+          "ja": "（（私はコンピューターを修理しようとしたが，悪化させただけだった。））"
+        }
+      ]
+    },
+    {
+      "id": "143-1",
+      "word": "fixed",
+      "definition": "【形】固定した；決められた",
+      "examples": []
+    },
+    {
+      "id": 144,
+      "word": "pin",
+      "definition": "【他】をピンで留める；を組み伏せる",
+      "examples": [
+        {
+          "en": "It is difficult to pin down the exact cause of the problem.",
+          "ja": "（（その問題の正確な原因を突き止めるのは難しい。））"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "word": "view",
+      "definition": "【名】見解《about, on》；眺め；視野　【他】を見る；を《～と》みなす《as》",
+      "examples": [
+        {
+          "en": "I have a wonderful view of Mt. Fuji from my window.",
+          "ja": "（（私の家の窓からは富士山の素晴らしい眺めを見ることができる。））"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "word": "tend",
+      "definition": "【自】《…する》傾向がある；…しがちである《to do》",
+      "examples": [
+        {
+          "en": "I tend to stay at home in the evenings.",
+          "ja": "（（私は夜は家にいることが多い。））"
+        }
+      ]
+    },
+    {
+      "id": "146-1",
+      "word": "tendency",
+      "definition": "【名】傾向",
+      "examples": []
+    },
+    {
+      "id": 147,
+      "word": "incline",
+      "definition": "【他】を《…する》気にさせる《to do》；を傾ける",
+      "examples": [
+        {
+          "en": "I am inclined to go to Spain this year.",
+          "ja": "（（今年はスペインに行きたいと思っている。））"
+        }
+      ]
+    },
+    {
+      "id": "147-1",
+      "word": "inclination",
+      "definition": "【名】好み；傾向；傾き",
+      "examples": []
+    },
+    {
+      "id": 148,
+      "word": "professional",
+      "definition": "【形】専門的な；プロの",
+      "examples": [
+        {
+          "en": "He decided to become a professional baseball player.",
+          "ja": "（（彼はプロ野球選手になることを決めた。））"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "word": "occupation",
+      "definition": "【名】職業；占領",
+      "examples": [
+        {
+          "en": "He has a good occupation, which gives him a good salary.",
+          "ja": "（（彼はよい職業に就いており，よい給料をもらっている。））"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "word": "occupy",
+      "definition": "【他】を占める；を占領する",
+      "examples": [
+        {
+          "en": "My hobbies occupy most of my free time.",
+          "ja": "（（趣味が私の自由時間のほとんどを占めている。））"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "word": "similar",
+      "definition": "【形】《～に》似ている《to》",
+      "examples": [
+        {
+          "en": "Mouse brains are similar to human brains in some ways.",
+          "ja": "（（いくつかの点でマウスの脳は人間の脳に似ている。））"
+        }
+      ]
+    },
+    {
+      "id": "151-1",
+      "word": "similarly",
+      "definition": "【副】同様に",
+      "examples": []
+    },
+    {
+      "id": "151-2",
+      "word": "similarity",
+      "definition": "【名】類似（点）",
+      "examples": []
+    },
+    {
+      "id": 152,
+      "word": "alike",
+      "definition": "【形】【副】同様の〔に〕",
+      "examples": [
+        {
+          "en": "Kate and her sister look very much alike.",
+          "ja": "（（ケイトと姉は非常によく似ている。））"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "word": "resemble",
+      "definition": "【他】に似ている",
+      "examples": [
+        {
+          "en": "He resembles his father in many ways.",
+          "ja": "（（彼は多くの点で父親に似ている。））"
+        }
+      ]
+    },
+    {
+      "id": "153-1",
+      "word": "twin",
+      "definition": "【名】［複］双子　【形】双子の；対の",
+      "examples": []
+    },
+    {
+      "id": 154,
+      "word": "decade",
+      "definition": "【名】10年間",
+      "examples": [
+        {
+          "en": "I have lived in Japan for over three decades.",
+          "ja": "（（私は30年以上日本に住んでいる。））"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "word": "perception",
+      "definition": "【名】認識；知覚",
+      "examples": [
+        {
+          "en": "The Internet has changed people's perception of the world.",
+          "ja": "（（インターネットは人々の世界に対する認識を変えた。））"
+        }
+      ]
+    },
+    {
+      "id": "155-1",
+      "word": "perceive",
+      "definition": "【他】を知覚〔認識〕する",
+      "examples": []
+    },
+    {
+      "id": 156,
+      "word": "recognize",
+      "definition": "【他】を認識する；を認める",
+      "examples": [
+        {
+          "en": "After 10 years, I didn't recognize my classmate.",
+          "ja": "（（10年後，私は同級生がわからなかった。））"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "word": "ballet",
+      "definition": "【名】バレエ",
+      "examples": [
+        {
+          "en": "My daughter took ballet lessons every Friday evening.",
+          "ja": "（（娘は毎週金曜日の夕方にバレエを習っていた。））"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "word": "invite",
+      "definition": "【他】を招待する；に依頼する",
+      "examples": [
+        {
+          "en": "I would like to invite you to my birthday party next Sunday.",
+          "ja": "（（来週の日曜日，私の誕生日パーティーにあなたを招待したい。））"
+        }
+      ]
+    },
+    {
+      "id": "158-1",
+      "word": "invitation",
+      "definition": "【名】招待（状）",
+      "examples": []
+    },
+    {
+      "id": 159,
+      "word": "occasion",
+      "definition": "【名】機会；〈特別な〉行事；場合",
+      "examples": [
+        {
+          "en": "On special occasions my family goes to an Italian restaurant near our house.",
+          "ja": "（（特別な機会には家族で家の近くのイタリアンレストランに行きます。））"
+        }
+      ]
+    },
+    {
+      "id": "159-1",
+      "word": "occasional",
+      "definition": "【形】時折の",
+      "examples": []
+    },
+    {
+      "id": "159-2",
+      "word": "occasionally",
+      "definition": "【副】時々",
+      "examples": []
+    },
+    {
+      "id": 160,
+      "word": "challenge",
+      "definition": "【名】難題；課題　【他】に異議を唱える；〈人〉に挑む",
+      "examples": [
+        {
+          "en": "Many people like to have a challenge in their lives.",
+          "ja": "（（多くの人は人生の課題に取り組むことを好む。））"
+        }
+      ]
+    },
+    {
+      "id": "160-1",
+      "word": "challenging",
+      "definition": "【形】やりがいのある",
+      "examples": []
+    },
+    {
+      "id": 161,
+      "word": "dare",
+      "definition": "【他】あえて…する《（to） do》",
+      "examples": [
+        {
+          "en": "Nobody dares to go to such a dangerous place.",
+          "ja": "（（だれもそのような危ない場所にあえて行こうとはしない。））"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "word": "hold",
+      "definition": "【他】と考える；を持っている；を保つ；を催す　【自】（法律などが）有効である",
+      "examples": [
+        {
+          "en": "The meeting will be held next Friday.",
+          "ja": "（（その打ち合わせは来週金曜日に開かれる予定だ。））"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "word": "reserve",
+      "definition": "【他】を予約する【名】蓄え；遠慮；〈動植物の〉保護区",
+      "examples": [
+        {
+          "en": "I reserved hotel rooms for our holiday in Osaka.",
+          "ja": "（（大阪での休暇のためにホテルの部屋を予約した。））"
+        }
+      ]
+    },
+    {
+      "id": "163-1",
+      "word": "reservoir",
+      "definition": "【名】貯水池",
+      "examples": []
+    },
+    {
+      "id": 164,
+      "word": "cancel",
+      "definition": "【他】を取り消す；を中止する",
+      "examples": [
+        {
+          "en": "The lesson was canceled because our teacher was sick.",
+          "ja": "（（先生が病気のため，レッスンが中止された。））"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "word": "excite",
+      "definition": "【他】を興奮させる",
+      "examples": [
+        {
+          "en": "I was so excited before the concert.",
+          "ja": "（（私はコンサートの前にとても興奮していた。））"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "word": "astonish",
+      "definition": "【他】を驚嘆させる",
+      "examples": [
+        {
+          "en": "I was astonished that I had passed the test.",
+          "ja": "（（自分が試験に合格したことに非常に驚いた。））"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "word": "rather",
+      "definition": "【副】むしろ；かなり（≒quite）；やや",
+      "examples": [
+        {
+          "en": "I'd rather go for a walk than watch a movie.",
+          "ja": "（（映画を見るよりむしろ散歩に行きたい。））"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "word": "somewhat",
+      "definition": "【副】いくぶん",
+      "examples": [
+        {
+          "en": "I was somewhat surprised to hear that you had changed schools.",
+          "ja": "（（あなたが転校したと聞いていくぶん驚いた。））"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "word": "slim",
+      "definition": "【形】細身の；〈可能性などが〉わずかな",
+      "examples": [
+        {
+          "en": "There is a slim chance that I can go to the party.",
+          "ja": "（（私がパーティーに行ける可能性はわずかだ。））"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "word": "lean",
+      "definition": "【自】寄りかかる　【形】〈筋肉質で〉やせた",
+      "examples": [
+        {
+          "en": "I waited for him for about 10 minutes, leaning against a tree.",
+          "ja": "（（私は木に寄りかかりながら，彼を10分ほど待った。））"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "word": "thin",
+      "definition": "【形】薄い；細い；〈病気などで〉やせた",
+      "examples": [
+        {
+          "en": "There was a thin layer of ice on the pond.",
+          "ja": "（（池には薄い氷の層が張っていた。））"
+        }
+      ]
+    },
+    {
+      "id": "171-1",
+      "word": "thick",
+      "definition": "【形】厚い；太い；〈液体・気体が〉濃い",
+      "examples": []
+    },
+    {
+      "id": 172,
+      "word": "courageous",
+      "definition": "【形】勇敢な",
+      "examples": [
+        {
+          "en": "The soldier won a medal because he was so courageous.",
+          "ja": "（（その兵士はとても勇敢だったのでメダルを獲得した。））"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "word": "bold",
+      "definition": "【形】大胆な；際立った",
+      "examples": [
+        {
+          "en": "They made a bold attempt to promote the new product.",
+          "ja": "（（彼らは新製品の販売を促進するために大胆な試みを行った。））"
+        }
+      ]
+    },
+    {
+      "id": "173-1",
+      "word": "salesperson",
+      "definition": "【名】店員；販売員",
+      "examples": []
+    },
+    {
+      "id": "173-2",
+      "word": "conductor",
+      "definition": "【名】指揮者；車掌",
+      "examples": []
+    },
+    {
+      "id": "173-3",
+      "word": "actor",
+      "definition": "【名】行為者；俳優",
+      "examples": []
+    },
+    {
+      "id": "173-4",
+      "word": "actress",
+      "definition": "【名】女優",
+      "examples": []
+    },
+    {
+      "id": "173-5",
+      "word": "crew",
+      "definition": "【名】〈単複両扱い；集合的に〉乗組員",
+      "examples": []
+    },
+    {
+      "id": "173-6",
+      "word": "elite",
+      "definition": "【名】〈集合的に〉エリート",
+      "examples": []
+    }
+  ]
+};

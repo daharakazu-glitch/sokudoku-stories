@@ -1,0 +1,663 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "33　言葉はどれほど人を傷つけるか (1)　[言語]",
+  "text": {
+    "en": "① When one child says [[HL]]nasty [[/HL]]things to another, the second child may feel bad and run to their parents. The adults tell the child to say back [[HL]]calmly [[/HL]]to the other child, ‘[[HL]]sticks [[/HL]]and stones may break my [[HL]]bones[[/HL]], but words will never hurt me’. The expression [[HL]]aims [[/HL]]to teach the child to avoid physical fighting, to keep calm during [[HL]]stressful [[/HL]]times, and to develop into a more [[HL]]resilient [[/HL]]person. That was the [[HL]]intention [[/HL]]of the expression when it was first recorded in the middle of the 19th century. Recently, however, the second half of the proverb has been altered to [[HL]]reflect [[/HL]]a [[HL]]major [[/HL]]change in society: the idea that words can hurt.\n\n② Unquestionably, the world is [[HL]]cruel[[/HL]]. People have [[HL]]opinions [[/HL]]and ideas that are different from our own, and they may say them in ways we do not like. As we [[HL]]deal [[/HL]]with more [[HL]]diverse [[/HL]]people, we must learn to [[HL]]cope [[/HL]]with different [[HL]]viewpoints [[/HL]]respectfully and productively. [[HL]]Moreover[[/HL]], having different beliefs is healthy for society. This is [[HL]]demonstrated [[/HL]]in a [[HL]]famous quotation [[/HL]]by Voltaire’s *biographer Evelyn Beatrice Hall; “I [[HL]]disapprove [[/HL]]of what you say, but I will [[HL]]defend [[/HL]]to the death your right to say it”. A strong [[HL]]democracy [[/HL]]needs people who can express their different viewpoints powerfully. The theory is that the best ideas will [[HL]]surface [[/HL]]and keep society healthy.\n\n(222 words)",
+    "ja": "*biographer「伝記作家」\n\n❶　ある子供が別の子供に[[HL]]意地悪な[[/HL]]ことを言うと，言われた方の子は嫌な気分になって両親のもとへ駆け寄るかもしれない。大人はその子に「[[HL]]棒[[/HL]]や石は私の[[HL]]骨[[/HL]]を折るかもしれない。でも言葉が私を傷つけることは絶対ないんだ」と相手の子に[[HL]]冷静に[[/HL]]言い返すように言うものだ。この表現は，子供が身体を使ったけんかを避け，[[HL]]ストレスがかかる[[/HL]]時に落ち着きを保ち，より[[HL]]立ち直りの早い[[/HL]]人に成長するように教えることを[[HL]]意図する[[/HL]]ものだ。この表現が19世紀半ばに初めて記録された頃には，それが[[HL]]狙い[[/HL]]だった。しかし，最近では，このことわざの後半部分には社会の[[HL]]大きな[[/HL]]変化[[HL]]を反映して[[/HL]]変更が加えられている。つまり「言葉は人を傷つけることがある」という考えだ。\n\n❷　疑うべくもなく，世界は[[HL]]残酷[[/HL]]である。人々は自分とは異なる[[HL]]意見[[/HL]]や考えをもっており，自分が好まない言い方でそれを言うかもしれない。より[[HL]]多様な[[/HL]]人々に[[HL]]対応する[[/HL]]中で，私たちは敬意をもって，かつ生産的に，異なる[[HL]]見解[[/HL]]に[[HL]]対処する[[/HL]]方法を学ばなければならない。[[HL]]さらに[[/HL]]，さまざまな信念をもつことは，社会にとって健全である。これは，ヴォルテールの伝記作家であるエヴリン・ベアトリス・ホールによる[[HL]]有名な引用[[/HL]]「私はあなたが言うことに賛成しないが，あなたがそれを言う権利[[HL]]は[[/HL]]命を賭けて[[HL]]守る[[/HL]]。」に[[HL]]表れて[[/HL]]いる。強い[[HL]]民主主義[[/HL]]には，自分たちのさまざまな見解を力強く表現することができる人たちが必要だ。（そうすれば）理論上は，最良の考えが[[HL]]表面化し[[/HL]]，社会を健全に保つだろう。"
+  },
+  "vocabulary": [
+    {
+      "id": 939,
+      "word": "nasty",
+      "definition": "【形】意地の悪い；不快な",
+      "examples": [
+        {
+          "en": "He is a really nasty person.",
+          "ja": "（（彼は本当に意地悪な人だ。））"
+        }
+      ]
+    },
+    {
+      "id": 940,
+      "word": "mess",
+      "definition": "【名】散らかっている状態",
+      "examples": [
+        {
+          "en": "After the children's party, the parents helped clean up the mess.",
+          "ja": "（（子供たちのパーティーのあと，親たちは散らかしたものを片付けるのを手伝った。））"
+        }
+      ]
+    },
+    {
+      "id": "940-1",
+      "word": "messy",
+      "definition": "【形】散らかった",
+      "examples": []
+    },
+    {
+      "id": "940-2",
+      "word": "foul",
+      "definition": "【形】汚い；不快な",
+      "examples": []
+    },
+    {
+      "id": 941,
+      "word": "calmly",
+      "definition": "【副】静かに；落ち着いて",
+      "examples": [
+        {
+          "en": "He walked calmly into the interview.",
+          "ja": "（（彼は落ち着いてインタビューに入っていった。））"
+        }
+      ]
+    },
+    {
+      "id": 942,
+      "word": "calm",
+      "definition": "【形】落ち着いた　【自】静まる　【他】を静める《down》",
+      "examples": [
+        {
+          "en": "He has a calm voice that makes everybody feel relaxed.",
+          "ja": "（（彼は誰もがリラックスできる落ち着いた声の持ち主だ。））"
+        }
+      ]
+    },
+    {
+      "id": 943,
+      "word": "stick",
+      "definition": "【自】固執する；くっつく　【他】〈be＋過去分詞で〉行き詰まる；を貼り付ける　stuck＞stuck　【名】棒",
+      "examples": [
+        {
+          "en": "I was stuck as I couldn't find an answer to the puzzle.",
+          "ja": "（（パズルの答えが見つからず，行き詰まってしまった。））"
+        }
+      ]
+    },
+    {
+      "id": "943-1",
+      "word": "sticky",
+      "definition": "【形】ねばねばする；粘着性の",
+      "examples": []
+    },
+    {
+      "id": "943-2",
+      "word": "pierce",
+      "definition": "【他】を刺す",
+      "examples": []
+    },
+    {
+      "id": 944,
+      "word": "inject",
+      "definition": "【他】を注射〔注入〕する；〈人〉に《～を》注射する《with》",
+      "examples": [
+        {
+          "en": "The doctor injected the patient with some medicine to make her sleep.",
+          "ja": "（（医師は患者を眠らせるために薬を注射した。））"
+        }
+      ]
+    },
+    {
+      "id": 945,
+      "word": "pump",
+      "definition": "【他】を（ポンプで）くみ上げる；を注入する　【名】ポンプ",
+      "examples": [
+        {
+          "en": "At that time, people around here pumped water from the well.",
+          "ja": "（（当時，この辺りの人々はこの井戸から水をくみ上げていた。））"
+        }
+      ]
+    },
+    {
+      "id": 946,
+      "word": "needle",
+      "definition": "【名】針",
+      "examples": [
+        {
+          "en": "Hedgehogs have needles to protect themselves from enemies.",
+          "ja": "（（ハリネズミは敵から身を守るための針を持っている。））"
+        }
+      ]
+    },
+    {
+      "id": 947,
+      "word": "bone",
+      "definition": "【名】骨；骨組み",
+      "examples": [
+        {
+          "en": "I once fell from a tree and broke two bones in my arm.",
+          "ja": "（（私は昔，木から落ちて腕の骨を2本折った。））"
+        }
+      ]
+    },
+    {
+      "id": 948,
+      "word": "joint",
+      "definition": "【形】共同の　【名】関節",
+      "examples": [
+        {
+          "en": "This is a joint project involving our university and the publishing company.",
+          "ja": "（（これは私たちの大学と出版社の合同事業だ。））"
+        }
+      ]
+    },
+    {
+      "id": "948-1",
+      "word": "knot",
+      "definition": "【名】 結び目　【他】〈ひもなど〉を結ぶ",
+      "examples": []
+    },
+    {
+      "id": "948-2",
+      "word": "flesh",
+      "definition": "【名】〈人・動物の〉肉；果肉",
+      "examples": []
+    },
+    {
+      "id": 949,
+      "word": "aim",
+      "definition": "【名】目的　【自】目指す；ねらう　【他】《be aimed at で》を目標にする；《…しよう》と試みる《to do》",
+      "examples": [
+        {
+          "en": "The company aims to expand its business by 25%.",
+          "ja": "（（会社は25％の事業拡大を目指している。））"
+        }
+      ]
+    },
+    {
+      "id": 950,
+      "word": "sake",
+      "definition": "【名】利益；目的",
+      "examples": [
+        {
+          "en": "She changed jobs for the sake of her children.",
+          "ja": "（（彼女は子供たちのために転職した。））"
+        }
+      ]
+    },
+    {
+      "id": 951,
+      "word": "stressful",
+      "definition": "【形】ストレスの多い",
+      "examples": [
+        {
+          "en": "Working for that company is really stressful.",
+          "ja": "（（その会社で働くのは本当にストレスが多い。））"
+        }
+      ]
+    },
+    {
+      "id": "951-1",
+      "word": "stress",
+      "definition": "【名】ストレス；強調　【他】にストレスを与える；を強調する",
+      "examples": []
+    },
+    {
+      "id": 952,
+      "word": "resilient",
+      "definition": "【形】回復力のある；弾力性のある",
+      "examples": [
+        {
+          "en": "She has had a very difficult life, but she is really resilient.",
+          "ja": "（（彼女はとても大変な人生を送ってきたが，本当に回復力がある。））"
+        }
+      ]
+    },
+    {
+      "id": "952-1",
+      "word": "resilience",
+      "definition": "【名】回復力；弾力",
+      "examples": []
+    },
+    {
+      "id": 953,
+      "word": "restore",
+      "definition": "【他】を回復〔修復〕させる〔する〕；を戻す",
+      "examples": [
+        {
+          "en": "It took a couple of days to restore power to the town.",
+          "ja": "（（その町の電力を復旧させるのに2，3日かかった。））"
+        }
+      ]
+    },
+    {
+      "id": "953-1",
+      "word": "restoration",
+      "definition": "【名】回復；返還",
+      "examples": []
+    },
+    {
+      "id": 954,
+      "word": "intention",
+      "definition": "【名】意図",
+      "examples": [
+        {
+          "en": "My intention is to retire when I am 60 years old.",
+          "ja": "（（私は60歳で引退するつもりだ。））"
+        }
+      ]
+    },
+    {
+      "id": "954-1",
+      "word": "intentional",
+      "definition": "【形】意図的な",
+      "examples": []
+    },
+    {
+      "id": "954-2",
+      "word": "intentionally",
+      "definition": "【副】意図的に",
+      "examples": []
+    },
+    {
+      "id": 955,
+      "word": "random",
+      "definition": "【形】無作為の；手当たり次第の",
+      "examples": [
+        {
+          "en": "The most secure passwords consist of a series of random letters.",
+          "ja": "（（最も安全なパスワードは無作為な文字列で構成される。））"
+        }
+      ]
+    },
+    {
+      "id": 956,
+      "word": "reflect",
+      "definition": "【他】【自】反映する；反射する；熟考する",
+      "examples": [
+        {
+          "en": "His success reflects the fact that he worked so hard.",
+          "ja": "（（彼の成功は彼が一生懸命働いた事実を反映している。））"
+        }
+      ]
+    },
+    {
+      "id": "956-1",
+      "word": "reflection",
+      "definition": "【名】〈光・熱などの〉反射；熟考",
+      "examples": []
+    },
+    {
+      "id": 957,
+      "word": "major",
+      "definition": "【形】重大な；主要な；大部分の　【自】専攻する《in》",
+      "examples": [
+        {
+          "en": "Fast foods are the major cause of people being overweight.",
+          "ja": "（（ファストフードは人々が太りすぎる主な原因だ。））"
+        }
+      ]
+    },
+    {
+      "id": 958,
+      "word": "chief",
+      "definition": "【形】主要な（≒main）；最高位の　【名】長（官）",
+      "examples": [
+        {
+          "en": "He is the chief of our section.",
+          "ja": "（（彼は私たちのセクションの長だ。））"
+        }
+      ]
+    },
+    {
+      "id": 959,
+      "word": "cruel",
+      "definition": "【形】残酷な；〈物事が〉つらい",
+      "examples": [
+        {
+          "en": "He likes to play cruel jokes on his friends.",
+          "ja": "（（彼は友人に残酷な冗談を言うのが好きだ。））"
+        }
+      ]
+    },
+    {
+      "id": "959-1",
+      "word": "cruelty",
+      "definition": "【名】残酷さ；虐待",
+      "examples": []
+    },
+    {
+      "id": 960,
+      "word": "abuse",
+      "definition": "【名】乱用；虐待　【他】を乱用する；を虐待する",
+      "examples": [
+        {
+          "en": "People in public office mustn't abuse their power.",
+          "ja": "（（公職に就く人は権力を乱用してはいけない。））"
+        }
+      ]
+    },
+    {
+      "id": 961,
+      "word": "opinion",
+      "definition": "【名】意見",
+      "examples": [
+        {
+          "en": "My opinion is that smoking should be completely banned.",
+          "ja": "（（私の意見では，喫煙は全面的に禁止されるべきだ。））"
+        }
+      ]
+    },
+    {
+      "id": 962,
+      "word": "thought",
+      "definition": "【名】考え；思いつき",
+      "examples": [
+        {
+          "en": "I had a sudden thought and realized how to solve the problem.",
+          "ja": "（（ふと考えが浮かび，問題を解決する方法に気づいた。））"
+        }
+      ]
+    },
+    {
+      "id": 963,
+      "word": "deal",
+      "definition": "【名】量；取り引き   【自】扱う；取り引きする　dealt＞dealt",
+      "examples": [
+        {
+          "en": "The waiter dealt with the angry customer very well.",
+          "ja": "（（ウェイターは怒っている客に非常にうまく対応した。））"
+        }
+      ]
+    },
+    {
+      "id": 964,
+      "word": "diverse",
+      "definition": "【形】さまざまな",
+      "examples": [
+        {
+          "en": "People from diverse backgrounds work for this company.",
+          "ja": "（（この会社では多様な経歴の人が働いている。））"
+        }
+      ]
+    },
+    {
+      "id": "964-1",
+      "word": "diversity",
+      "definition": "【名】多様性；相違",
+      "examples": []
+    },
+    {
+      "id": "964-2",
+      "word": "diversify",
+      "definition": "【他】〈事業など〉を多角化する",
+      "examples": []
+    },
+    {
+      "id": 965,
+      "word": "biodiversity",
+      "definition": "【名】生物多様性",
+      "examples": [
+        {
+          "en": "The aim of the program is to preserve the biodiversity of this area.",
+          "ja": "（（その計画の目標はこの地域の生物多様性を保護することだ。））"
+        }
+      ]
+    },
+    {
+      "id": 966,
+      "word": "cope",
+      "definition": "【自】《～に》うまく対処する《with》",
+      "examples": [
+        {
+          "en": "I have no idea how to cope with the increasing workload.",
+          "ja": "（（増大する仕事量にどのように対処していいのかわからない。））"
+        }
+      ]
+    },
+    {
+      "id": 967,
+      "word": "viewpoint",
+      "definition": "【名】見地，見解",
+      "examples": [
+        {
+          "en": "Let me hear your viewpoint on this matter.",
+          "ja": "（（この件について君の見解を聞かせてほしい。））"
+        }
+      ]
+    },
+    {
+      "id": 968,
+      "word": "perspective",
+      "definition": "【名】観点；見通し；遠近法",
+      "examples": [
+        {
+          "en": "We should consider the problem from a broader perspective.",
+          "ja": "（（その問題はもっと広い視野で考えるべきだ。））"
+        }
+      ]
+    },
+    {
+      "id": 969,
+      "word": "prospective",
+      "definition": "【形】予期される",
+      "examples": [
+        {
+          "en": "I think we have found a prospective buyer for our house.",
+          "ja": "（（私たちの家を買ってくれそうな人が見つかったと思う。））"
+        }
+      ]
+    },
+    {
+      "id": "969-1",
+      "word": "prospect",
+      "definition": "【名】見込み；［複］将来性",
+      "examples": []
+    },
+    {
+      "id": "969-2",
+      "word": "spectator",
+      "definition": "【名】〈特にスポーツの〉観客",
+      "examples": []
+    },
+    {
+      "id": 970,
+      "word": "mindset",
+      "definition": "【名】考え方，思考",
+      "examples": [
+        {
+          "en": "If you don't change your mindset, you will never succeed.",
+          "ja": "（（考え方を変えなければ成功はない。））"
+        }
+      ]
+    },
+    {
+      "id": 971,
+      "word": "moreover",
+      "definition": "【副】さらに（≒ in addition）",
+      "examples": [
+        {
+          "en": "The usage of this word is wrong. Moreover, the whole sentence doesn't make sense.",
+          "ja": "（（この単語の用法が間違っている。その上，文全体の意味が分からない。））"
+        }
+      ]
+    },
+    {
+      "id": 972,
+      "word": "demonstrate",
+      "definition": "【他】を証明する；を実演する；を示す　【自】デモをする",
+      "examples": [
+        {
+          "en": "The salesperson demonstrated how the machine worked.",
+          "ja": "（（その販売員は機械がどのように機能するかを実演した。））"
+        }
+      ]
+    },
+    {
+      "id": "972-1",
+      "word": "demonstration",
+      "definition": "【名】デモ；実演",
+      "examples": []
+    },
+    {
+      "id": 973,
+      "word": "famous",
+      "definition": "【形】《～で》有名な《for》",
+      "examples": [
+        {
+          "en": "Kyoto is famous for its historical buildings.",
+          "ja": "（（京都は歴史的な建築物で有名だ。））"
+        }
+      ]
+    },
+    {
+      "id": "973-1",
+      "word": "fame",
+      "definition": "【名】名声",
+      "examples": []
+    },
+    {
+      "id": 974,
+      "word": "quotation",
+      "definition": "【名】引用",
+      "examples": [
+        {
+          "en": "If you use a quotation in your report, remember to include the source.",
+          "ja": "（（レポートの中で引用を使う場合は，引用元を入れることを忘れないように。））"
+        }
+      ]
+    },
+    {
+      "id": "974-1",
+      "word": "quote",
+      "definition": "【他】を引用する",
+      "examples": []
+    },
+    {
+      "id": 975,
+      "word": "cite",
+      "definition": "【他】を引用する；〈例などとして〉を挙げる《as》",
+      "examples": [
+        {
+          "en": "Smoking is often cited as a cause of lung cancer.",
+          "ja": "（（喫煙はよく肺がんの原因に挙げられる。））"
+        }
+      ]
+    },
+    {
+      "id": 976,
+      "word": "disapprove",
+      "definition": "【自】《～に》賛成しない《of》",
+      "examples": [
+        {
+          "en": "My mother really disapproves of me doing kick-boxing.",
+          "ja": "（（母は私がキックボクシングをすることにとても反対している。））"
+        }
+      ]
+    },
+    {
+      "id": 977,
+      "word": "approve",
+      "definition": "【自】《～に》賛成する《of》　【他】〈計画・考えなど〉を承認する",
+      "examples": [
+        {
+          "en": "I can't approve of his plan.",
+          "ja": "（（彼の計画には賛成できない。））"
+        }
+      ]
+    },
+    {
+      "id": "977-1",
+      "word": "approval",
+      "definition": "【名】賛成",
+      "examples": []
+    },
+    {
+      "id": "977-2",
+      "word": "condemn",
+      "definition": "【他】を非難する；に有罪の判決を出す",
+      "examples": []
+    },
+    {
+      "id": 978,
+      "word": "defend",
+      "definition": "【自】【他】守る",
+      "examples": [
+        {
+          "en": "Many martial arts help you defend yourself in a dangerous situation.",
+          "ja": "（（多くの格闘技は，危険な状況で自分自身を守るのに役立つ。））"
+        }
+      ]
+    },
+    {
+      "id": "978-1",
+      "word": "defense",
+      "definition": "【名】防衛",
+      "examples": []
+    },
+    {
+      "id": "978-2",
+      "word": "defensive",
+      "definition": "【形】防衛の",
+      "examples": []
+    },
+    {
+      "id": "978-3",
+      "word": "shield",
+      "definition": "【名】盾　【他】を保護する",
+      "examples": []
+    },
+    {
+      "id": "978-4",
+      "word": "sword",
+      "definition": "【名】剣",
+      "examples": []
+    },
+    {
+      "id": 979,
+      "word": "democracy",
+      "definition": "【名】民主主義（国）",
+      "examples": [
+        {
+          "en": "Our country's democracy works, but it has a lot of problems.",
+          "ja": "（（我が国の民主主義は機能しているが，多くの問題を抱えている。））"
+        }
+      ]
+    },
+    {
+      "id": "979-1",
+      "word": "democratic",
+      "definition": "【形】民主主義の；民主的な",
+      "examples": []
+    },
+    {
+      "id": 980,
+      "word": "liberty",
+      "definition": "【名】〈拘束のない〉自由",
+      "examples": [
+        {
+          "en": "The concept of liberty is very important in American politics.",
+          "ja": "（（自由という概念はアメリカの政治において非常に重要だ。））"
+        }
+      ]
+    },
+    {
+      "id": "980-1",
+      "word": "liberate",
+      "definition": "【他】を自由にする",
+      "examples": []
+    },
+    {
+      "id": "980-2",
+      "word": "liberal",
+      "definition": "【形】自由主義の；寛大な",
+      "examples": []
+    },
+    {
+      "id": "980-3",
+      "word": "republican",
+      "definition": "【形】共和制〔主義〕の",
+      "examples": []
+    },
+    {
+      "id": 981,
+      "word": "surface",
+      "definition": "【名】表面；《the》外観 　【自】表面化する，明るみに出る",
+      "examples": [
+        {
+          "en": "The surface of the table was covered with dust.",
+          "ja": "（（テーブルの表面は埃で覆われていた。））"
+        }
+      ]
+    }
+  ]
+};

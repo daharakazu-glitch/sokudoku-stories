@@ -1,0 +1,443 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "53　香りと記憶の関係 (1)　[科学]",
+  "text": {
+    "en": "① The delicious [[HL]]scent[[/HL]], or [[HL]]smell[[/HL]], of baking bread coming out from the open doors of a nearby bakery can act like a time machine, [[HL]]instantly transporting [[/HL]]you from a busy street in New York to a tiny cafe in Paris that you visited years ago. Scent [[HL]]particles[[/HL]], in general, can [[HL]]revive memories [[/HL]]that have been long forgotten. But why do smells sometimes trigger powerful memories, especially emotional ones?\n\n② The short answer is that the brain [[HL]]regions [[/HL]]that process smells, memories, and emotions are very much connected. In fact, the way that your [[HL]]sense [[/HL]]of smell is [[HL]]wired [[/HL]]to your brain is unique among your senses.\n\n③ A scent is a chemical particle that [[HL]]floats [[/HL]]in through the nose and into the brain’s *olfactory area, the place where the sensation is first processed to be understandable by the brain. Brain cells then carry that information to a tiny area of the brain called the *amygdala, where emotions are processed, and then to the *hippocampus, where learning and memory formation take place.\n\n(169 words)",
+    "ja": "*olfactory area 「嗅覚野」 *amygdala「扁桃体」 *hippocampus「海馬」\n\n❶　近所のパン屋の開いたドアから漂ってくるパンの焼けるおいしそうな[[HL]]香り[[/HL]]，つまり[[HL]]におい[[/HL]]は，タイムマシンのように作用し，ニューヨークの騒がしい通りから，何年も前に訪れたパリの[[HL]]小さな[[/HL]]カフェへと[[HL]]瞬時に連れて行ってくれる[[/HL]]ことがある。香りの[[HL]]粒子[[/HL]]は，一般的に，長い間忘れられていた[[HL]]記憶を蘇らせる[[/HL]]ことができる。だが，なぜにおいは時に強烈な記憶，特に感情的な記憶を呼び起こすのだろうか。\n\n❷　ごく簡潔に答えるなら，嗅覚，記憶，感情を処理する脳の[[HL]]領域[[/HL]]が非常に強くつながっているから，ということになる。実際，嗅[[HL]]覚[[/HL]]の脳への[[HL]]つながり[[/HL]]方は，五感の中でも独特なのだ。\n\n❸　香りは，鼻を通して脳の嗅覚野へ[[HL]]流れ[[/HL]]込む化学粒子だが，嗅覚野では，まずその感覚が脳によって理解できるように処理される。そして脳細胞はその情報を，感情を処理する扁桃体と呼ばれる脳の小さな領域へ運び，さらに学習と記憶の形成がなされる海馬に運ばれていく。"
+  },
+  "vocabulary": [
+    {
+      "id": 1480,
+      "word": "scent",
+      "definition": "【名】香り，（よい）におい",
+      "examples": [
+        {
+          "en": "The scent of the roses was really beautiful.",
+          "ja": "（（そのバラの香りは本当に素晴らしかった。））"
+        }
+      ]
+    },
+    {
+      "id": 1481,
+      "word": "smell",
+      "definition": "【他】のにおいをかぐ　【自】《～の》においがする《of》　【名】におい",
+      "examples": [
+        {
+          "en": "I love the smell of coffee, but I don't like the taste.",
+          "ja": "（（コーヒーのにおいは好きだが，味は好きではない。））"
+        }
+      ]
+    },
+    {
+      "id": "1481-1",
+      "word": "sniff",
+      "definition": "【他】のにおいを（くんくん）かぐ",
+      "examples": []
+    },
+    {
+      "id": 1482,
+      "word": "instantly",
+      "definition": "【副】すぐに，即座に",
+      "examples": [
+        {
+          "en": "He recognized me instantly even though we hadn't met for over 10 years.",
+          "ja": "（（10年以上会っていなかったのに，彼はすぐに私に気づいた。））"
+        }
+      ]
+    },
+    {
+      "id": "1482-1",
+      "word": "instant",
+      "definition": "【形】即刻の　【名】瞬間",
+      "examples": []
+    },
+    {
+      "id": 1483,
+      "word": "shortly",
+      "definition": "【副】まもなく；少し（前；後）",
+      "examples": [
+        {
+          "en": "My father started a new business shortly after I graduated from college.",
+          "ja": "（（私が大学を卒業してまもなく，父は新しい事業を始めた。））"
+        }
+      ]
+    },
+    {
+      "id": 1484,
+      "word": "immediate",
+      "definition": "【形】即座の；目下の；すぐ近くの",
+      "examples": [
+        {
+          "en": "This injury needs the immediate attention of a doctor.",
+          "ja": "（（このけがは緊急の医師の手当てが必要だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1485,
+      "word": "transport",
+      "definition": "【他】を輸送する；〈人〉を〈別の場所〔時〕に〉いるような気持ちにさせる　【名】交通手段；輸送機関；運搬",
+      "examples": [
+        {
+          "en": "We will transport your goods to you at the end of this week.",
+          "ja": "（（今週末に商品をお届けします。））"
+        }
+      ]
+    },
+    {
+      "id": 1486,
+      "word": "import",
+      "definition": "【他】を輸入する　【名】輸入（品）",
+      "examples": [
+        {
+          "en": "Most of our food is imported from Europe.",
+          "ja": "（（我々の食品のほとんどはヨーロッパから輸入されている。））"
+        }
+      ]
+    },
+    {
+      "id": 1487,
+      "word": "export",
+      "definition": "【他】を輸出する　【名】輸出（品）",
+      "examples": [
+        {
+          "en": "We export our products to customers all over the world.",
+          "ja": "（（私たちは世界中の顧客に製品を輸出している。））"
+        }
+      ]
+    },
+    {
+      "id": 1488,
+      "word": "vehicle",
+      "definition": "【名】乗り物；伝達手段",
+      "examples": [
+        {
+          "en": "There was an accident on the expressway involving over 10 vehicles.",
+          "ja": "（（高速道路で10台以上の車が絡む事故があった。））"
+        }
+      ]
+    },
+    {
+      "id": 1489,
+      "word": "automobile",
+      "definition": "【名】自動車",
+      "examples": [
+        {
+          "en": "This city is well known for automobile manufacturing.",
+          "ja": "（（この都市は自動車製造業で有名だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1490,
+      "word": "aboard",
+      "definition": "【副】【前】〈乗り物〉（に）乗って",
+      "examples": [
+        {
+          "en": "I was aboard the plane from Japan to South Korea then.",
+          "ja": "（（私はその時日本から韓国への飛行機に乗っていた。））"
+        }
+      ]
+    },
+    {
+      "id": 1491,
+      "word": "tiny",
+      "definition": "【形】とても小さい；ごくわずかの",
+      "examples": [
+        {
+          "en": "The plant was covered with tiny insects.",
+          "ja": "（（その植物はとても小さな虫で覆われていた。））"
+        }
+      ]
+    },
+    {
+      "id": "1491-1",
+      "word": "miniature",
+      "definition": "【形】小型の　【名】ミニチュア",
+      "examples": []
+    },
+    {
+      "id": 1492,
+      "word": "minimize",
+      "definition": "【他】を最小限にする",
+      "examples": [
+        {
+          "en": "To minimize the risk of infection, please wash your hands regularly with alcohol.",
+          "ja": "（（感染のリスクを最小化するため，定期的にアルコールで手を洗ってください。））"
+        }
+      ]
+    },
+    {
+      "id": "1492-1",
+      "word": "minimal",
+      "definition": "【形】最小（限）の；極小の",
+      "examples": []
+    },
+    {
+      "id": "1492-2",
+      "word": "minimum",
+      "definition": "【名】【形】最低限（の）",
+      "examples": []
+    },
+    {
+      "id": "1492-3",
+      "word": "niche",
+      "definition": "【名】すき間市場；適所",
+      "examples": []
+    },
+    {
+      "id": 1493,
+      "word": "particle",
+      "definition": "【名】粒子；微量",
+      "examples": [
+        {
+          "en": "The particles of dust drifted in the sunlight.",
+          "ja": "（（ほこりの粒子が太陽光の中を漂った。））"
+        }
+      ]
+    },
+    {
+      "id": 1494,
+      "word": "molecule",
+      "definition": "【名】分子",
+      "examples": [
+        {
+          "en": "Two atoms of hydrogen and one atom of oxygen make one molecule of water.",
+          "ja": "（（水素原子2つと酸素原子1つで水分子になる。））"
+        }
+      ]
+    },
+    {
+      "id": "1494-1",
+      "word": "molecular",
+      "definition": "【形】分子の",
+      "examples": []
+    },
+    {
+      "id": "1494-2",
+      "word": "enzyme",
+      "definition": "【名】酵素",
+      "examples": []
+    },
+    {
+      "id": "1494-3",
+      "word": "ferment",
+      "definition": "【他】を発酵させる；〈感情など〉を 刺激する",
+      "examples": []
+    },
+    {
+      "id": 1495,
+      "word": "revive",
+      "definition": "【他】を蘇生させる；を復活させる　【自】生き返る",
+      "examples": [
+        {
+          "en": "The doctor tried to revive the patient.",
+          "ja": "（（医師はその患者を蘇生させようとした。））"
+        }
+      ]
+    },
+    {
+      "id": "1495-1",
+      "word": "revival",
+      "definition": "【名】復活；再上演〔上映〕",
+      "examples": []
+    },
+    {
+      "id": "1495-2",
+      "word": "recreate",
+      "definition": "【他】を元気づける，に気晴らしさせる；を再現する",
+      "examples": []
+    },
+    {
+      "id": "1495-3",
+      "word": "recreation",
+      "definition": "【名】レクリエーション；気晴らし",
+      "examples": []
+    },
+    {
+      "id": 1496,
+      "word": "amusement",
+      "definition": "【名】面白さ；娯楽",
+      "examples": [
+        {
+          "en": "The teacher played some music for the children's amusement.",
+          "ja": "（（先生は，その子供たちの楽しみのために音楽を流した。））"
+        }
+      ]
+    },
+    {
+      "id": 1497,
+      "word": "refresh",
+      "definition": "【他】〈人〉を元気づける；〈記憶〉を蘇らせる",
+      "examples": [
+        {
+          "en": "I feel really refreshed after a long bath.",
+          "ja": "（（長い風呂の後は本当にすっきりする。））"
+        }
+      ]
+    },
+    {
+      "id": 1498,
+      "word": "resume",
+      "definition": "【自】【他】再開する　【名】《résumé》履歴書",
+      "examples": [
+        {
+          "en": "The bank will resume operations on July 5th.",
+          "ja": "（（その銀行は7月5日に営業を再開する。））"
+        }
+      ]
+    },
+    {
+      "id": 1499,
+      "word": "memory",
+      "definition": "【名】記憶（力）；思い出",
+      "examples": [
+        {
+          "en": "I have a terrible memory and always forget people's names.",
+          "ja": "（（私は記憶力が悪く，いつも人の名前を忘れてしまう。））"
+        }
+      ]
+    },
+    {
+      "id": "1499-1",
+      "word": "memorable",
+      "definition": "【形】記憶すべき",
+      "examples": []
+    },
+    {
+      "id": "1499-2",
+      "word": "memorization",
+      "definition": "【名】暗記",
+      "examples": []
+    },
+    {
+      "id": 1500,
+      "word": "region",
+      "definition": "【名】地域（≒area）；分野",
+      "examples": [
+        {
+          "en": "He comes from the northern, cooler region of the country.",
+          "ja": "（（彼はその国の北部の涼しい地域の出身だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1500-1",
+      "word": "regional",
+      "definition": "【形】地方の",
+      "examples": []
+    },
+    {
+      "id": 1501,
+      "word": "district",
+      "definition": "【名】地域；地区",
+      "examples": [
+        {
+          "en": "The local district school is the best in the city.",
+          "ja": "（（その地元の地区の学校は市内で一番だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1501-1",
+      "word": "province",
+      "definition": "【名】州；〈中国などの〉省；《the［複］》地方",
+      "examples": []
+    },
+    {
+      "id": "1501-2",
+      "word": "county",
+      "definition": "【名】〈米国の州の下位の行政区画〉郡",
+      "examples": []
+    },
+    {
+      "id": "1501-3",
+      "word": "ward",
+      "definition": "【名】区",
+      "examples": []
+    },
+    {
+      "id": 1502,
+      "word": "sense",
+      "definition": "【名】感覚；思慮；意識；意味　【他】を感じる",
+      "examples": [
+        {
+          "en": "Creating a sense of belonging is important for both employers and employees.",
+          "ja": "（（帰属意識を生み出すことは雇用者と従業員の両方にとって重要だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1503,
+      "word": "sensible",
+      "definition": "【形】分別のある；賢明な",
+      "examples": [
+        {
+          "en": "A sensible person would never say such a thing.",
+          "ja": "（（分別のある人なら決してそのようなことは言わないだろう。））"
+        }
+      ]
+    },
+    {
+      "id": 1504,
+      "word": "nonsense",
+      "definition": "【名】ばかげた考え〔言動〕",
+      "examples": [
+        {
+          "en": "Stop talking nonsense and think before you speak.",
+          "ja": "（（ばかげたことを言うのはやめて，話す前に考えなさい。））"
+        }
+      ]
+    },
+    {
+      "id": 1505,
+      "word": "wire",
+      "definition": "【名】針金；ケーブル；《米》電報　【他】をつなぐ",
+      "examples": [
+        {
+          "en": "I finally learned how to wire a plug.",
+          "ja": "（（やっとプラグをつなぐ方法を覚えた。））"
+        }
+      ]
+    },
+    {
+      "id": "1505-1",
+      "word": "telegraph",
+      "definition": "【名】電信，電報",
+      "examples": []
+    },
+    {
+      "id": 1506,
+      "word": "float",
+      "definition": "【自】浮く；漂う；流れる　【他】を浮かべる",
+      "examples": [
+        {
+          "en": "Her balloon floated up into the air.",
+          "ja": "（（彼女の風船は空へ浮かんでいった。））"
+        }
+      ]
+    },
+    {
+      "id": 1507,
+      "word": "drift",
+      "definition": "【自】漂う；移り変わる　【名】漂流物",
+      "examples": [
+        {
+          "en": "The stick slowly drifted down the river.",
+          "ja": "（（その棒はゆっくりと川を流れていった。））"
+        }
+      ]
+    },
+    {
+      "id": 1508,
+      "word": "swing",
+      "definition": "【自】揺れ動く",
+      "examples": [
+        {
+          "en": "The pendulum swings back and forth.",
+          "ja": "（（振り子は前後に揺れ動く。））"
+        }
+      ]
+    }
+  ]
+};

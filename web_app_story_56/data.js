@@ -1,0 +1,219 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "56　コティングリー妖精事件 (2)　[歴史]",
+  "text": {
+    "en": "① In fact, the two girls, Elsie and Frances, used a very easy trick to create these fake photographs: they cut out fairy pictures from a book and put them in front of a camera. This simple [[HL]]technique [[/HL]]was effective, and many adults were *entranced by the girls’ trick. Perhaps they, too, had [[HL]]secretly [[/HL]]wanted to believe in the existence of fairies ever since they were children.\n\n② Why was Arthur Conan Doyle so easily tricked? Most people in this era had limited knowledge of photography, and some of them believed everything that appeared in photographs was real. However, photograph [[HL]]modification [[/HL]]has existed since the beginning of photography. In “A [[HL]]Scandal [[/HL]]in Bohemia,” a popular short story by Conan Doyle, Sherlock Holmes [[HL]]implies [[/HL]]that photographs are [[HL]]reliable [[/HL]]pieces of evidence. Some fans of Sherlock Holmes might think that our favourite [[HL]]detective[[/HL]]’s[[HL]] [[/HL]]unusually poor judgment about photography is caused by the author’s [[HL]]misunderstanding [[/HL]]of it.\n\n(152 words)",
+    "ja": "*entranced「魅了されて」\n\n❶　実際のところ，その2人の少女，エルシーとフランシスは，偽造写真を作り出すためにとても簡単なトリックを使った。彼女らは，本から妖精の絵を切り取り，カメラの前に置いたのだ。この単純な[[HL]]技法[[/HL]]は効果的で，多くの大人が彼女たちのトリックに魅了されてしまった。おそらく大人たちも，[[HL]]ひそかに[[/HL]]幼い頃からずっと妖精の存在を信じたかったのだろう。\n\n❷　なぜ，アーサー・コナン・ドイルはいともたやすく騙されてしまったのだろうか。この時代のほとんどの人は，写真撮影について限られた知識しかなく，写真に写っているものはすべて本物だと信じてしまう人もいた。しかし，写真の[[HL]]修正[[/HL]]は，写真撮影というものが生まれた当初から存在した。コナン・ドイルの人気短編小説『ボヘミアの[[HL]]醜聞[[/HL]]』では，シャーロック・ホームズが，写真は[[HL]]信頼できる[[/HL]]証拠品である[[HL]]とほのめかしている[[/HL]]。シャーロック・ホームズのファンの中には，私たちの大好きな[[HL]]探偵[[/HL]]が写真に関して彼らしくないお粗末な判断をしたのは，写真についての著者の[[HL]]誤解[[/HL]]によるものだと考える人もいるかもしれない。"
+  },
+  "vocabulary": [
+    {
+      "id": 1567,
+      "word": "technique",
+      "definition": "【名】技術，技法，テクニック",
+      "examples": [
+        {
+          "en": "The best technique is to make the customers laugh.",
+          "ja": "（（一番の手法は客を笑わせることだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1568,
+      "word": "secretly",
+      "definition": "【副】内密に，ひそかに",
+      "examples": [
+        {
+          "en": "They were secretly exchanging text messages in the meeting.",
+          "ja": "（（彼らは会議中にひそかにテキストメッセージをやり取りしていた。））"
+        }
+      ]
+    },
+    {
+      "id": "1568-1",
+      "word": "confidential",
+      "definition": "【形】秘密の；信用のおける",
+      "examples": []
+    },
+    {
+      "id": "1568-2",
+      "word": "anonymous",
+      "definition": "【形】匿名の",
+      "examples": []
+    },
+    {
+      "id": 1569,
+      "word": "modification",
+      "definition": "【名】〈～に対する〉修正《to》",
+      "examples": [
+        {
+          "en": "The plan needs no modifications as it is perfect already.",
+          "ja": "（（この計画はすでに完璧なので，修正を必要としない。））"
+        }
+      ]
+    },
+    {
+      "id": "1569-1",
+      "word": "modify",
+      "definition": "【他】を修正する",
+      "examples": []
+    },
+    {
+      "id": "1569-2",
+      "word": "rewrite",
+      "definition": "【他】を書き直す　【名】書き直し",
+      "examples": []
+    },
+    {
+      "id": "1569-3",
+      "word": "mutation",
+      "definition": "【名】突然変異",
+      "examples": []
+    },
+    {
+      "id": 1570,
+      "word": "scandal",
+      "definition": "【名】スキャンダル，醜聞",
+      "examples": [
+        {
+          "en": "The Prime Minister resigned due to a political scandal.",
+          "ja": "（（政治的スキャンダルにより首相は辞任した。））"
+        }
+      ]
+    },
+    {
+      "id": 1571,
+      "word": "rumor",
+      "definition": "【名】うわさ",
+      "examples": [
+        {
+          "en": "There is a rumor that the idol is going to get married soon.",
+          "ja": "（（そのアイドルがもうすぐ結婚するといううわさがある。））"
+        }
+      ]
+    },
+    {
+      "id": "1571-1",
+      "word": "gossip",
+      "definition": "【名】うわさ話；ゴシップ",
+      "examples": []
+    },
+    {
+      "id": 1572,
+      "word": "imply",
+      "definition": "【他】を暗示する；を示す",
+      "examples": [
+        {
+          "en": "Are you implying that I am lying to you?",
+          "ja": "（（私があなたに嘘をついていると言いたいのですか。））"
+        }
+      ]
+    },
+    {
+      "id": "1572-1",
+      "word": "implication",
+      "definition": "【名】〈予想される〉影響《for》；含意",
+      "examples": []
+    },
+    {
+      "id": 1573,
+      "word": "implicit",
+      "definition": "【形】暗黙の",
+      "examples": [
+        {
+          "en": "Everybody saw it as an implicit promise to help the company.",
+          "ja": "（（誰もがそれを会社を助けるための暗黙の約束とみなした。））"
+        }
+      ]
+    },
+    {
+      "id": 1574,
+      "word": "indication",
+      "definition": "【名】しるし，兆候；指示",
+      "examples": [
+        {
+          "en": "There are clear indications of climate change.",
+          "ja": "（（気候変動の明らかな兆候がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1575,
+      "word": "reliable",
+      "definition": "【形】信頼できる",
+      "examples": [
+        {
+          "en": "The trains in Japan are far more reliable than those in other countries.",
+          "ja": "（（日本の電車は他の国よりはるかに信頼できる。））"
+        }
+      ]
+    },
+    {
+      "id": 1576,
+      "word": "faith",
+      "definition": "【名】信頼；信仰（≒belief）",
+      "examples": [
+        {
+          "en": "You need to have faith in yourself if you want to succeed.",
+          "ja": "（（成功したければ自分に信頼を持つ必要がある。））"
+        }
+      ]
+    },
+    {
+      "id": "1576-1",
+      "word": "faithful",
+      "definition": "【形】忠実な",
+      "examples": []
+    },
+    {
+      "id": 1577,
+      "word": "detective",
+      "definition": "【名】刑事；探偵　【形】調査の",
+      "examples": [
+        {
+          "en": "It was a mystery movie with a famous actor as the detective.",
+          "ja": "（（それは有名な俳優が刑事であるミステリー映画だった。））"
+        }
+      ]
+    },
+    {
+      "id": 1578,
+      "word": "arrest",
+      "definition": "【他】を逮捕する　【名】逮捕",
+      "examples": [
+        {
+          "en": "The men were arrested for fighting in the shopping mall.",
+          "ja": "（（男たちはショッピングモールで喧嘩をしたことで逮捕された。））"
+        }
+      ]
+    },
+    {
+      "id": "1578-1",
+      "word": "hostage",
+      "definition": "【名】人質",
+      "examples": []
+    },
+    {
+      "id": 1579,
+      "word": "misunderstanding",
+      "definition": "【名】誤解",
+      "examples": [
+        {
+          "en": "There has been a misunderstanding; that isn’t what I meant.",
+          "ja": "（（誤解があります。私が言いたかったのはそういうことではありません。））"
+        }
+      ]
+    },
+    {
+      "id": "1579-1",
+      "word": "misunderstand",
+      "definition": "【他】【自】誤解する",
+      "examples": []
+    },
+    {
+      "id": "1579-2",
+      "word": "friction",
+      "definition": "【名】摩擦；不和",
+      "examples": []
+    }
+  ]
+};

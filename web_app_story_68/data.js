@@ -1,0 +1,253 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "68　夏目漱石のロンドン生活 (3)　[伝記]",
+  "text": {
+    "en": "① On November 5, Sōseki went to the National [[HL]]Gallery [[/HL]]and from there to the University College of London, where he left a letter [[HL]]petitioning [[/HL]]Professor William Paton Ker for [[HL]]permission [[/HL]]to audit his lectures. A Scotsman, Ker was an [[HL]]authority [[/HL]]on English [[HL]]medieval [[/HL]]literature (whose writing on *the [[HL]]knights [[/HL]]of the roundtable was [[HL]]admired [[/HL]]years later by W. H. Auden). Professor Ker invited Sōseki to his office the following day, and beginning on November 7, Sōseki [[HL]]attended [[/HL]]his classes.\n\n② On November 12, Sōseki moved to a more [[HL]]affordable [[/HL]]room at 85 Priory Road, West Hampstead, in northwest London, a neighborhood popular among students and [[HL]]faculty [[/HL]]of the University of London. The *proprietress, Miss Milde, was a *spinster who had grown up in France and, following her mother’s death, had moved to England with her stepfather, a sixty-nine-year-old Prussian named Frederick Milde who owned two clothing shops in the West End specializing in military uniforms. The others at the boarding house were Miss Milde’s stepbrother, who appeared to be on bad terms with his father, and an [[HL]]overworked [[/HL]]housemaid just fifteen, Agnes Brice.\n\n(182 words)",
+    "ja": "*the knights of the roundtable「円卓の騎士(『アーサー王物語』に登場するアーサー王とともに円卓に座ることを許された騎士たち)」\n\n*proprietress「女主人」 *spinster「独身女性」\n\n❶　11月5日，漱石はナショナル・ギャラリーに向かい，そこからユニバーシティ・カレッジ・ロンドンに向かった。そこで彼はウィリアム・ペイトン・ケア教授[[HL]]に[[/HL]]講義を聴講する[[HL]]許可[[/HL]]を[[HL]]請願する[[/HL]]手紙を残した。スコットランド人のケア教授は，イギリス[[HL]]中世[[/HL]]文学の[[HL]]権威[[/HL]]であった（円卓の[[HL]]騎士[[/HL]]に関する彼の著作は，後年W・H・オーデンによって[[HL]]賞賛され[[/HL]]た）。翌日，ケア教授は漱石を研究室に招き，11月7日から漱石は彼の授業に[[HL]]出席した[[/HL]]。\n\n❷　11月12日，漱石はロンドン大学の学生や教職員に人気のある地域である，ロンドン北西部のウェスト・ハムステッドにある，プライオリー・ロード85番地のより[[HL]]手頃な[[/HL]]部屋に移った。女主人のミス・ミルデはフランス育ちの独身女性で，母の死後，継父のフレデリック・ミルデという69歳のプロイセン人とともにイギリスに移り住んだ。彼はウェストエンドで軍服を専門に扱う衣料品店を2軒経営していた。他にその賄い付きの下宿には，父親と仲が悪そうなミス・ミルデの義理の兄と，[[HL]]酷使されている[[/HL]]15歳の女中のアグネス・ブライスがいた。"
+  },
+  "vocabulary": [
+    {
+      "id": 1813,
+      "word": "gallery",
+      "definition": "【名】美術館；〈ゴルフなどの〉観客",
+      "examples": [
+        {
+          "en": "The gallery was holding an exhibition by a famous local artist.",
+          "ja": "（（その美術館は地元の有名な芸術家の展覧会を開いていた。））"
+        }
+      ]
+    },
+    {
+      "id": 1814,
+      "word": "petition",
+      "definition": "【名】請願〔嘆願〕（書）　【他】に嘆願〔請願〕する",
+      "examples": [
+        {
+          "en": "Two thousand people signed the petition against the new power station.",
+          "ja": "（（2,000人が新しい発電所に反対の嘆願書に署名した。））"
+        }
+      ]
+    },
+    {
+      "id": 1815,
+      "word": "permission",
+      "definition": "【名】許可",
+      "examples": [
+        {
+          "en": "The school granted the student permission to be absent for two weeks.",
+          "ja": "（（学校はその生徒に2週間欠席する許可を与えた。））"
+        }
+      ]
+    },
+    {
+      "id": 1816,
+      "word": "authority",
+      "definition": "【名】権威；権限；《しばしばthe -ties》当局",
+      "examples": [
+        {
+          "en": "The local authorities decided to build a new library.",
+          "ja": "（（地方当局は新しい図書館を建設することを決定した。））"
+        }
+      ]
+    },
+    {
+      "id": "1816-1",
+      "word": "authorize",
+      "definition": "【他】に権限を与える",
+      "examples": []
+    },
+    {
+      "id": 1817,
+      "word": "medieval",
+      "definition": "【形】中世の",
+      "examples": [
+        {
+          "en": "In medieval England, people never traveled far from their hometown.",
+          "ja": "（（中世のイングランドでは，人々は故郷から遠くに移動することはなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1817-1",
+      "word": "renaissance",
+      "definition": "【名】《the R-》ルネッサンス；復興",
+      "examples": []
+    },
+    {
+      "id": 1818,
+      "word": "knight",
+      "definition": "【名】騎士",
+      "examples": [
+        {
+          "en": "It’s a story about a knight rescuing a beautiful princess.",
+          "ja": "（（それは騎士が美しいお姫様を救出する話だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1819,
+      "word": "lord",
+      "definition": "【名】貴族；《L-》 ～卿；君主",
+      "examples": [
+        {
+          "en": "He majored in literature and wrote a thesis on Lord Byron.",
+          "ja": "（（彼は文学を専攻し，バイロン卿について論文を書いた。））"
+        }
+      ]
+    },
+    {
+      "id": 1820,
+      "word": "admire",
+      "definition": "【他】を賞賛する；に感心する",
+      "examples": [
+        {
+          "en": "I really admire her for her hard work and dedication.",
+          "ja": "（（私は，その努力と献身があるので彼女を本当に尊敬している。））"
+        }
+      ]
+    },
+    {
+      "id": "1820-1",
+      "word": "admirable",
+      "definition": "【形】賞賛すべき；見事な",
+      "examples": []
+    },
+    {
+      "id": "1820-2",
+      "word": "admiration",
+      "definition": "【名】賞賛（の的）",
+      "examples": []
+    },
+    {
+      "id": 1821,
+      "word": "congratulation",
+      "definition": "【名】祝賀；［複］おめでとう",
+      "examples": [
+        {
+          "en": "Congratulations on passing your examinations.",
+          "ja": "（（試験合格おめでとう。））"
+        }
+      ]
+    },
+    {
+      "id": "1821-1",
+      "word": "congratulate",
+      "definition": "【他】〈人〉を祝う",
+      "examples": []
+    },
+    {
+      "id": "1821-2",
+      "word": "hail",
+      "definition": "【他】を称賛する",
+      "examples": []
+    },
+    {
+      "id": 1822,
+      "word": "sympathy",
+      "definition": "【名】同情；共感",
+      "examples": [
+        {
+          "en": "I have sympathy for him because I have experienced similar situations.",
+          "ja": "（（似たような状況を経験したことがあるので，私は彼に同情している。））"
+        }
+      ]
+    },
+    {
+      "id": "1822-1",
+      "word": "compassion",
+      "definition": "【名】同情；あわれみ",
+      "examples": []
+    },
+    {
+      "id": 1823,
+      "word": "empathy",
+      "definition": "【名】感情移入；共感",
+      "examples": [
+        {
+          "en": "Empathy is the ability to recognize and share another person's feelings.",
+          "ja": "（（共感とは他者の気持ちを認識し，共有する能力のことだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1824,
+      "word": "attend",
+      "definition": "【自】面倒を見る《to》；注意を払う《to》　【他】〈授業など〉に出席する；に通う",
+      "examples": [
+        {
+          "en": "She attended to her sick grandfather.",
+          "ja": "（（彼女は病気の祖父の世話をした。））"
+        }
+      ]
+    },
+    {
+      "id": "1824-1",
+      "word": "attendance",
+      "definition": "【名】出席；出席者（数）",
+      "examples": []
+    },
+    {
+      "id": "1824-2",
+      "word": "attendant",
+      "definition": "【名】係員",
+      "examples": []
+    },
+    {
+      "id": "1824-3",
+      "word": "attentive",
+      "definition": "【形】注意深い",
+      "examples": []
+    },
+    {
+      "id": 1825,
+      "word": "affordable",
+      "definition": "【形】手頃な価格の，購入しやすい",
+      "examples": [
+        {
+          "en": "It’s a good car and quite affordable.",
+          "ja": "（（それはよい車で，とてもお手頃だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1825-1",
+      "word": "feasible",
+      "definition": "【形】実現〔実行〕可能な",
+      "examples": []
+    },
+    {
+      "id": "1825-2",
+      "word": "viable",
+      "definition": "【形】実現可能な",
+      "examples": []
+    },
+    {
+      "id": "1825-3",
+      "word": "plausible",
+      "definition": "【形】もっともらしい",
+      "examples": []
+    },
+    {
+      "id": 1826,
+      "word": "faculty",
+      "definition": "【名】能力；学部；全教員",
+      "examples": [
+        {
+          "en": "I want to join the faculty of science and engineering at university.",
+          "ja": "（（大学の理工学部に入りたい。））"
+        }
+      ]
+    },
+    {
+      "id": 1827,
+      "word": "overwork",
+      "definition": "【他】をこき使う，を酷使する　【名】過労",
+      "examples": [
+        {
+          "en": "Many workers complain of overwork.",
+          "ja": "（（過労に不満を漏らす労働者は多い。））"
+        }
+      ]
+    }
+  ]
+};

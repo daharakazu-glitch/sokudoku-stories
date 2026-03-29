@@ -1,0 +1,438 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "13　遊びを通して学ぶこと (1)　[教育]",
+  "text": {
+    "en": "① When we watch kittens and puppies playing, we [[HL]]realize [[/HL]]that through play they are learning how to live.  They learn various physical skills, such as how to [[HL]]jump [[/HL]]over [[HL]]barriers [[/HL]]without getting [[HL]]hurt[[/HL]].  They also learn social [[HL]]interaction[[/HL]].  For example, if a kitten [[HL]]bites [[/HL]]his sister too hard, she will get [[HL]]angry [[/HL]]and bite him back.  These physical and social skills form part of the training that young animals need [[HL]]in order to [[/HL]]grow up.\n\n② Just as kittens and puppies learn about how to live through play, so do children.  But in present-day Japan, [[HL]]especially [[/HL]]in cities, there is not much [[HL]]space [[/HL]]for children to play in.  Children need to [[HL]]release [[/HL]]their [[HL]]energy [[/HL]]for their [[HL]]mental [[/HL]]and physical health.  They need space, especially outdoors, so that they can run, jump, and [[HL]]yell[[/HL]].\t（132 words）",
+    "ja": "❶　子猫や子犬が遊んでいるのを見ると，彼らが遊びを通して生きる術を学んでいること[[HL]]に気づく[[/HL]]。彼らは，例えば[[HL]]けがをする[[/HL]]ことなく[[HL]]障害物[[/HL]]を[[HL]]跳び[[/HL]]越える方法など，さまざまな[[HL]]身体的な[[/HL]]技能を身に付ける。彼らはまた社会的な[[HL]]交流[[/HL]]も学ぶ。例えば，ある子猫がきょうだい[[HL]]を[[/HL]]強く[[HL]]かみ[[/HL]]過ぎると，そのきょうだいは[[HL]]怒って[[/HL]]かみ返すだろう。こうした身体的，社会的な技能が，動物の子供が成長する[[HL]]ために[[/HL]]必要な訓練の一部となる。\n\n❷　子猫や子犬が遊びを通して生きる術を学ぶのとちょうど同じように（人間の）子供も学ぶ。しかし，現在の日本，[[HL]]特に[[/HL]]都市部では，子供たちが遊ぶための空間はあまりない。子供たちには[[HL]]精神的[[/HL]]，身体的健康のために，その[[HL]]エネルギーを発散する[[/HL]]必要がある。彼らには，走り，跳び，そして[[HL]]大声で叫ぶ[[/HL]]ことができるように，空間，特に屋外の空間が必要なのだ。"
+  },
+  "vocabulary": [
+    {
+      "id": 298,
+      "word": "realize",
+      "definition": "【他】を認識する；を実現する",
+      "examples": [
+        {
+          "en": "I realized that I had made a mistake and felt very embarrassed.",
+          "ja": "（（私は間違えたことに気づき，とても恥ずかしくなった。））"
+        }
+      ]
+    },
+    {
+      "id": "298-1",
+      "word": "realization",
+      "definition": "【名】認識；実現",
+      "examples": []
+    },
+    {
+      "id": 299,
+      "word": "physical",
+      "definition": "【形】身体の；物理的な",
+      "examples": [
+        {
+          "en": "I enjoy physical activity rather than sitting and reading.",
+          "ja": "（（座って本を読むよりも，身体活動〔体を動かすこと〕が好きだ。））"
+        }
+      ]
+    },
+    {
+      "id": "299-1",
+      "word": "metabolic",
+      "definition": "【形】代謝の",
+      "examples": []
+    },
+    {
+      "id": "299-2",
+      "word": "metabolism",
+      "definition": "【名】代謝",
+      "examples": []
+    },
+    {
+      "id": 300,
+      "word": "jump",
+      "definition": "【自】跳ぶ　【他】を跳び越える　【名】跳ぶこと",
+      "examples": [
+        {
+          "en": "The boy tried to jump over the gate.",
+          "ja": "（（少年は門を跳び越えようとした。））"
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "word": "bound",
+      "definition": "【自】はねるように走る；はずむ　【形】～行きの《for》；きっと…する《be ～ to do》",
+      "examples": [
+        {
+          "en": "This is the last train bound for San Francisco.",
+          "ja": "（（これはサンフランシスコ行きの最終電車だ。））"
+        }
+      ]
+    },
+    {
+      "id": "301-1",
+      "word": "bounce",
+      "definition": "【自】【名】はねる（こと）",
+      "examples": []
+    },
+    {
+      "id": 302,
+      "word": "barrier",
+      "definition": "【名】障害（物）；防壁",
+      "examples": [
+        {
+          "en": "There was a barrier across the road to stop cars.",
+          "ja": "（（道路には車を止めるための柵があった。））"
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "word": "obstacle",
+      "definition": "【名】《～に対する》障害（物）《to》",
+      "examples": [
+        {
+          "en": "She faced a number of obstacles before she achieved her dream.",
+          "ja": "（（彼女は夢を実現するまでにいくつもの障害に直面した。））"
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "word": "hurt",
+      "definition": "【他】にけがをさせる；の感情を害する　【自】痛む hurt > hurt",
+      "examples": [
+        {
+          "en": "I hurt her feelings when I said I wouldn't go for coffee with her.",
+          "ja": "（（彼女とコーヒーを飲みに行かないと言った時，彼女の気分を害してしまった。））"
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "word": "interaction",
+      "definition": "【名】〈人との〉交流；相互作用",
+      "examples": [
+        {
+          "en": "Social interaction is really important if a child is to learn and grow.",
+          "ja": "（（子供が学び成長しようとするならば，社会的交流が非常に重要です。））"
+        }
+      ]
+    },
+    {
+      "id": "305-1",
+      "word": "interact",
+      "definition": "【自】交流する；《～と》相互に作用する《with》",
+      "examples": []
+    },
+    {
+      "id": "305-2",
+      "word": "interactive",
+      "definition": "【形】双方向の；対話式の",
+      "examples": []
+    },
+    {
+      "id": 306,
+      "word": "transaction",
+      "definition": "【名】取引；交流",
+      "examples": [
+        {
+          "en": "You can pay for your items through an online banking transaction.",
+          "ja": "（（商品代金はオンラインバンキング取引で支払うことができる。））"
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "word": "bite",
+      "definition": "【他】【自】かむ　【名】かむこと；ひと口；軽食　bit > bitten",
+      "examples": [
+        {
+          "en": "The dog has bitten two children.",
+          "ja": "（（その犬は２人の子供にかみついた。））"
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "word": "angry",
+      "definition": "【形】怒って",
+      "examples": [
+        {
+          "en": "I was so angry when my mother didn't allow me to go to Thailand.",
+          "ja": "（（母が私がタイに行くのを許してくれなかった時，私はとても怒った。））"
+        }
+      ]
+    },
+    {
+      "id": "308-1",
+      "word": "anger",
+      "definition": "【名】怒り",
+      "examples": []
+    },
+    {
+      "id": "308-2",
+      "word": "furious",
+      "definition": "【形】激怒した",
+      "examples": []
+    },
+    {
+      "id": "308-3",
+      "word": "resent",
+      "definition": "【他】に憤慨する",
+      "examples": []
+    },
+    {
+      "id": 309,
+      "word": "irritate",
+      "definition": "【他】をいらいらさせる",
+      "examples": [
+        {
+          "en": "When I am stressed, I get irritated over very small things.",
+          "ja": "（（ストレスが溜まっていると，私はとても些細なことでいらいらしてしまう。））"
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "word": "order",
+      "definition": "【名】命令；注文；順番；秩序　【他】を命令する；に《～せよと》命じる《～ A to do》；を注文する",
+      "examples": [
+        {
+          "en": "We ordered our school books online.",
+          "ja": "（（私たちは学校で使う本をオンラインで注文した。））"
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "word": "disorder",
+      "definition": "【名】〈心身の〉不調；混乱",
+      "examples": [
+        {
+          "en": "Recently many students have had eating disorders.",
+          "ja": "（（最近，摂食障害の学生が多い。））"
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "word": "especially",
+      "definition": "【副】特に",
+      "examples": [
+        {
+          "en": "Reading is especially important if you want to improve your vocabulary.",
+          "ja": "（（語彙を増やしたいなら，読書は特に重要だ。））"
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "word": "namely",
+      "definition": "【副】すなわち（≒that is（to say））",
+      "examples": [
+        {
+          "en": "There are three cities all tourists should visit, namely Tokyo, Osaka and Kyoto.",
+          "ja": "（（すべての観光客が訪れるべき3つの都市がある。すなわち東京，大阪，京都だ。））"
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "word": "space",
+      "definition": "【名】空間；場所；宇宙",
+      "examples": [
+        {
+          "en": "I wanted a bigger house with a lot more space.",
+          "ja": "（（私はもっと多くのスペースがある，もっと大きな家が欲しかった。））"
+        }
+      ]
+    },
+    {
+      "id": "314-1",
+      "word": "spacious",
+      "definition": "【形】広々とした",
+      "examples": []
+    },
+    {
+      "id": "314-2",
+      "word": "spacecraft",
+      "definition": "【名】宇宙船",
+      "examples": []
+    },
+    {
+      "id": 315,
+      "word": "gravity",
+      "definition": "【名】重力；重大さ",
+      "examples": [
+        {
+          "en": "The moon's gravity causes the tides on Earth to rise and fall.",
+          "ja": "（（月の重力によって地球の潮位は上がったり下がったりする。））"
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "word": "release",
+      "definition": "【他】を放つ；を解放する；を公表する；〈本など〉を発売する　【名】放出；公表",
+      "examples": [
+        {
+          "en": "After the bird got better, we released it in the park.",
+          "ja": "（（鳥が元気になったあと，私たちはそれを公園に放した。））"
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "word": "emission",
+      "definition": "【名】〈光・ガスなどの〉放出（量）",
+      "examples": [
+        {
+          "en": "The emissions from factories are a major cause of pollution.",
+          "ja": "（（工場からの排ガスは公害の主な原因だ。））"
+        }
+      ]
+    },
+    {
+      "id": "317-1",
+      "word": "emit",
+      "definition": "【他】〈光・ガスなど〉を出す",
+      "examples": []
+    },
+    {
+      "id": 318,
+      "word": "quit",
+      "definition": "【他】〈仕事など〉をやめる　quit＞quit",
+      "examples": [
+        {
+          "en": "After 20 years my father finally quit smoking.",
+          "ja": "（（20年後，父はついにタバコをやめた。））"
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "word": "retire",
+      "definition": "【自】〈定年などで〉退職〔引退〕する《from》",
+      "examples": [
+        {
+          "en": "I hope to retire when I am 65.",
+          "ja": "（（私は65歳で退職したいと思っている。））"
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "word": "resign",
+      "definition": "【他】〈正式に〉を辞職する；を放棄する　【自】辞任する",
+      "examples": [
+        {
+          "en": "Mr. Donald resigned from his position due to the accident.",
+          "ja": "（（ドナルド氏は事故のため，その職を辞任した。））"
+        }
+      ]
+    },
+    {
+      "id": "320-1",
+      "word": "discharge",
+      "definition": "【他】を放出する；を解雇する",
+      "examples": []
+    },
+    {
+      "id": 321,
+      "word": "dismiss",
+      "definition": "【他】（意見など）を退ける；を解雇する",
+      "examples": [
+        {
+          "en": "He dismissed his daughter's tutor.",
+          "ja": "（（彼は娘の家庭教師を解雇した。））"
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "word": "energy",
+      "definition": "【名】エネルギー（≒power）；活力",
+      "examples": [
+        {
+          "en": "Most of our energy comes from burning fossil fuels.",
+          "ja": "（（ほとんどのエネルギーは化石燃料を燃やすことで生まれる。））"
+        }
+      ]
+    },
+    {
+      "id": "322-1",
+      "word": "energetic",
+      "definition": "【形】精力的な",
+      "examples": []
+    },
+    {
+      "id": 323,
+      "word": "electricity",
+      "definition": "【名】電気；電力",
+      "examples": [
+        {
+          "en": "My car runs on electricity.",
+          "ja": "（（私の車は電気で動いている。））"
+        }
+      ]
+    },
+    {
+      "id": "323-1",
+      "word": "electrical",
+      "definition": "【形】電気に関する",
+      "examples": []
+    },
+    {
+      "id": "323-2",
+      "word": "electronic",
+      "definition": "【形】電子（工学）の",
+      "examples": []
+    },
+    {
+      "id": "323-3",
+      "word": "electron",
+      "definition": "【名】電子",
+      "examples": []
+    },
+    {
+      "id": "323-4",
+      "word": "thermal",
+      "definition": "【形】熱の",
+      "examples": []
+    },
+    {
+      "id": 324,
+      "word": "mental",
+      "definition": "【形】精神の；知能の",
+      "examples": [
+        {
+          "en": "He quit his job as the stress was affecting his mental health.",
+          "ja": "（（彼はストレスが精神の健康に影響を与えていたので仕事を辞めた。））"
+        }
+      ]
+    },
+    {
+      "id": "324-1",
+      "word": "mentally",
+      "definition": "【副】精神的に",
+      "examples": []
+    },
+    {
+      "id": "324-2",
+      "word": "mentality",
+      "definition": "【名】ものの見方；知性",
+      "examples": []
+    },
+    {
+      "id": 325,
+      "word": "yell",
+      "definition": "【自】【他】大声で叫ぶ　【名】大声；エール",
+      "examples": [
+        {
+          "en": "The father yelled at the child to be careful.",
+          "ja": "（（父親は子供に気をつけるよう大声で叫んだ。））"
+        }
+      ]
+    }
+  ]
+};

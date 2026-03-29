@@ -1,0 +1,229 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "34　言葉はどれほど人を傷つけるか (2)　[言語]",
+  "text": {
+    "en": "In the 19th century, the expression taught children to [[HL]]ignore [[/HL]]hurtful words. However, this lesson is being changed in the 21st century. Now, it is important to distinguish between what people say and how they say it. Different opinions said in hurting ways can result in pain. Stephen Fry, the famous English writer, is one of many who have changed the second part of the rhyme; “Sticks and stones may break my bones, but words will always hurt me”. He explains that “bones [[HL]]mend [[/HL]]and become actually stronger in the very place that was broken”. However, he adds that words can hurt “for decades, and the hurt can be re-opened by the [[HL]]quietest whisper[[/HL]]”. Words, rather than being *ineffectual, are truly powerful in their [[HL]]ability [[/HL]]to produce real [[HL]]damage[[/HL]].\n\n(129 words)",
+    "ja": "*ineffectual「効果がない」\n\n19世紀，この表現は子供たちに，人を傷つける言葉[[HL]]は無視す[[/HL]]るように教えていた。しかし，この教えは21世紀になって変わりつつある。今は，人が何を言うかと，どのように言うかを区別することが重要である。人を傷つけるような言い方で異なる意見を言うと，結果的に苦痛につながることがある。イギリスの有名な作家のスティーブン・フライは，「棒や石が私の骨を折ることはあるかもしれないが，言葉は常に私を傷つけるだろう」と，韻文の後半を変えた多くの人々の1人である。彼は，「骨は[[HL]]治り[[/HL]]，実際にはまさにその折れた部分が前より強くなる」と説明する。しかし，言葉は「何十年にもわたって傷つけ，そしてその傷口は[[HL]]この上なく静かなささやき[[/HL]]によっても再び開いてしまうことがある」と付け加える。言葉は，効果がないどころか，実[[HL]]害[[/HL]]をもたらす[[HL]]力[[/HL]]が非常に強いのだ。"
+  },
+  "vocabulary": [
+    {
+      "id": 982,
+      "word": "ignore",
+      "definition": "【他】を無視する",
+      "examples": [
+        {
+          "en": "I tried to ignore the noisy children in the coffee shop.",
+          "ja": "（（喫茶店で騒ぐ子供たちを無視しようとした。））"
+        }
+      ]
+    },
+    {
+      "id": "982-1",
+      "word": "ignorant",
+      "definition": "【形】無知の；知らない《of》",
+      "examples": []
+    },
+    {
+      "id": "982-2",
+      "word": "ignorance",
+      "definition": "【名】無知；知らないこと",
+      "examples": []
+    },
+    {
+      "id": 983,
+      "word": "miss",
+      "definition": "【他】を逃がす；がいなくて寂しく思う　【名】失敗",
+      "examples": [
+        {
+          "en": "I missed the last train home last night.",
+          "ja": "（（昨夜は帰りの終電を逃してしまった。））"
+        }
+      ]
+    },
+    {
+      "id": 984,
+      "word": "abandon",
+      "definition": "【他】を（見）捨てる；をあきらめる",
+      "examples": [
+        {
+          "en": "Too many people abandon their pets in the park.",
+          "ja": "（（ペットを公園に捨てる人が多すぎる。））"
+        }
+      ]
+    },
+    {
+      "id": 985,
+      "word": "neglect",
+      "definition": "【他】を軽視する；を怠る　【名】放置，無視；怠慢",
+      "examples": [
+        {
+          "en": "Don't neglect to make reservations in advance.",
+          "ja": "（（前もって予約することを忘れないように。））"
+        }
+      ]
+    },
+    {
+      "id": 986,
+      "word": "mend",
+      "definition": "【他】を修理する；〈衣服など〉を繕う　【自】〈骨折などが〉治る",
+      "examples": [
+        {
+          "en": "My mother always mends my clothes rather than buying new ones.",
+          "ja": "（（母はいつも私の服を新しいものに買い換える代わりに繕ってくれる。））"
+        }
+      ]
+    },
+    {
+      "id": "986-1",
+      "word": "amend",
+      "definition": "【他】を修正する",
+      "examples": []
+    },
+    {
+      "id": "986-2",
+      "word": "amendment",
+      "definition": "【名】〈法律の〉修正，改正",
+      "examples": []
+    },
+    {
+      "id": 987,
+      "word": "quiet",
+      "definition": "【形】静かな；平穏な",
+      "examples": [
+        {
+          "en": "The library is a nice quiet place to study.",
+          "ja": "（（図書館は勉強するには静かでいいところだ。））"
+        }
+      ]
+    },
+    {
+      "id": "987-1",
+      "word": "quietly",
+      "definition": "【副】静かに，そっと",
+      "examples": []
+    },
+    {
+      "id": 988,
+      "word": "whisper",
+      "definition": "【自】ささやく《to》　【名】ささやき",
+      "examples": [
+        {
+          "en": "The two students kept whispering to each other at the back of the classroom.",
+          "ja": "（（２人の生徒が教室の後ろでひそひそ話を続けていた。））"
+        }
+      ]
+    },
+    {
+      "id": 989,
+      "word": "ability",
+      "definition": "【名】《…する》能力《to do》",
+      "examples": [
+        {
+          "en": "He has the ability to speak four languages.",
+          "ja": "（（彼は4カ国語を話す能力がある。））"
+        }
+      ]
+    },
+    {
+      "id": "989-1",
+      "word": "inability",
+      "definition": "【名】無能",
+      "examples": []
+    },
+    {
+      "id": 990,
+      "word": "capacity",
+      "definition": "【名】能力；容量",
+      "examples": [
+        {
+          "en": "We all have the capacity for rational thought but sometimes fail to use it.",
+          "ja": "（（私たちは誰でも理性的な思考能力を持っているが，時にそれを使いこなせないことがある。））"
+        }
+      ]
+    },
+    {
+      "id": 991,
+      "word": "capable",
+      "definition": "【形】…できる；有能な",
+      "examples": [
+        {
+          "en": "He is capable of entering a top university if he works hard.",
+          "ja": "（（彼は努力すれば一流大学に入ることができる。））"
+        }
+      ]
+    },
+    {
+      "id": "991-1",
+      "word": "incapable",
+      "definition": "【形】能力がない《of》",
+      "examples": []
+    },
+    {
+      "id": 992,
+      "word": "damage",
+      "definition": "【他】に損害を与える；を損なう　【名】損害；損傷",
+      "examples": [
+        {
+          "en": "The storm did a lot of damage to the trees in the park.",
+          "ja": "（（嵐は公園の木々に大きな被害を与えた。））"
+        }
+      ]
+    },
+    {
+      "id": 993,
+      "word": "injury",
+      "definition": "【名】負傷",
+      "examples": [
+        {
+          "en": "His leg injury is getting better slowly.",
+          "ja": "（（彼の足のけがは徐々によくなってきている。））"
+        }
+      ]
+    },
+    {
+      "id": "993-1",
+      "word": "injure",
+      "definition": "【他】にけがをさせる；を傷つける",
+      "examples": []
+    },
+    {
+      "id": "993-2",
+      "word": "scar",
+      "definition": "【名】傷跡，傷",
+      "examples": []
+    },
+    {
+      "id": 994,
+      "word": "vulnerable",
+      "definition": "【形】傷つきやすい；攻撃を受けやすい",
+      "examples": [
+        {
+          "en": "Elderly people are more vulnerable to viruses than younger people.",
+          "ja": "（（年配の人は若い人よりウイルスに弱い。））"
+        }
+      ]
+    },
+    {
+      "id": 995,
+      "word": "fragile",
+      "definition": "【形】壊れやすい；もろい",
+      "examples": [
+        {
+          "en": "Every animal is part of this complex and fragile ecosystem.",
+          "ja": "（（すべての動物がこの複雑でもろい生態系の一部だ。））"
+        }
+      ]
+    },
+    {
+      "id": 996,
+      "word": "delicate",
+      "definition": "【形】繊細な；精巧な",
+      "examples": [
+        {
+          "en": "It is a very delicate flower and can die easily.",
+          "ja": "（（それはとても繊細な花で，簡単に枯れてしまう。））"
+        }
+      ]
+    }
+  ]
+};

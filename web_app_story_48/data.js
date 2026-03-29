@@ -1,0 +1,340 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "48　コーヒーと心臓疾患 (2)　[医療]",
+  "text": {
+    "en": "① Kistler and his team used data from the UK BioBank, a large-scale *prospective database with health information from over half a million people who were followed for at least 10 years. Researchers looked at varying [[HL]]levels [[/HL]]of coffee consumption ranging from up to a cup to more than six cups a day and the relationship with heart rhythm problems (arrhythmias); cardiovascular disease, including *coronary artery disease, heart [[HL]]failure [[/HL]]and [[HL]]stroke[[/HL]]; and [[HL]]total [[/HL]]and heart-related deaths among people both with and without cardiovascular disease. Patients were grouped by how much coffee they [[HL]]reported [[/HL]]drinking each day: 0, <1, 1, 2-3, 4-5, >5 cups/day. Coffee drinking was assessed from questionnaires [[HL]]completed [[/HL]]upon [[HL]]entry [[/HL]]into the registry. Overall, they either found no effect or, in many [[HL]]cases[[/HL]], [[HL]]significant [[/HL]]reductions in cardiovascular risk after controlling for [[HL]]exercise[[/HL]], alcohol, smoking, [[HL]]diabetes [[/HL]]and high blood pressure that could also play a role in heart health and [[HL]]longevity[[/HL]].\n\n② For the first study, researchers examined data from 382,535 individuals without known heart disease to see whether coffee drinking played a role in the [[HL]]development [[/HL]]of heart disease or stroke during the 10 years of follow up. Participants’ average age was 57 years and half were women.\n\n(198 words)",
+    "ja": "*prospective database「前向きデータベース(登録時点から未来に向かって収集されたデータベース)」 *coronary artery「冠動脈」\n\n❶　キスラー氏と彼のチームは，少なくとも10年間追跡された50万人以上の健康情報をもつ大規模な前向きデータベースであるUKバイオバンクのデータを使用した。研究者たちは，1日1杯以下から6杯超までのさまざまな[[HL]]レベル[[/HL]]のコーヒー摂取量に注目し，心調律異常（不整脈），冠動脈疾患および心[[HL]]不全[[/HL]]や[[HL]]脳卒中[[/HL]]を含む心血管疾患，さらに心血管疾患をもつ人ともたない人の両方の[[HL]]総[[/HL]]死亡数と心臓関連での死亡数との関係を調べた。患者は，自分で[[HL]]申告した[[/HL]]1日あたりのコーヒー摂取量によって，1日0杯，1杯未満，1杯，2～3杯，4～5杯，5杯超のグループに分けられた。コーヒー摂取量は，登録の[[HL]]申し込み[[/HL]]時に[[HL]]記入された[[/HL]]アンケートで判断された。コーヒー同様に心臓の健康や[[HL]]長寿[[/HL]]に影響を与える可能性のある[[HL]]運動[[/HL]]，アルコール，喫煙，[[HL]]糖尿病[[/HL]]，高血圧などを考慮して調整したところ，全体でみると，心血管系リスクには影響はないか，多くの[[HL]]場合[[/HL]]，[[HL]]大幅な[[/HL]]減少が見られた。\n\n❷　最初の研究では，研究者たちは10年間の追跡期間中に，コーヒーの飲用が心臓病や脳卒中の[[HL]]発症[[/HL]]に関与しているかどうかを調べるため，心疾患の既往歴のない382,535人のデータを調査した。参加者の平均年齢は57歳で，半数は女性であった。"
+  },
+  "vocabulary": [
+    {
+      "id": 1367,
+      "word": "level",
+      "definition": "【名】水準；程度；高さ",
+      "examples": [
+        {
+          "en": "I would like to improve my level of English.",
+          "ja": "（（私は自分の英語のレベルを上げたい。））"
+        }
+      ]
+    },
+    {
+      "id": 1368,
+      "word": "altitude",
+      "definition": "【名】高度，標高",
+      "examples": [
+        {
+          "en": "As you reach higher altitudes, it becomes more difficult to breathe.",
+          "ja": "（（標高が高くなるにつれて呼吸が難しくなる。））"
+        }
+      ]
+    },
+    {
+      "id": 1369,
+      "word": "failure",
+      "definition": "【名】失敗（⇔success）；機能不全",
+      "examples": [
+        {
+          "en": "A lack of preparation resulted in the failure of his plans.",
+          "ja": "（（準備の欠如によって彼の計画は失敗に終わった。））"
+        }
+      ]
+    },
+    {
+      "id": 1370,
+      "word": "overlook",
+      "definition": "【他】を見落とす；を大目に見る；を見下ろす",
+      "examples": [
+        {
+          "en": "The teacher overlooked a few simple mistakes.",
+          "ja": "（（その先生はいくつかの単純なミスを見落とした。））"
+        }
+      ]
+    },
+    {
+      "id": "1370-1",
+      "word": "omit",
+      "definition": "【他】を除外する",
+      "examples": []
+    },
+    {
+      "id": 1371,
+      "word": "stroke",
+      "definition": "【名】（脳）卒中；一撃　【他】をなでる",
+      "examples": [
+        {
+          "en": "He was unable to move his right arm after the stroke.",
+          "ja": "（（彼は脳卒中後，右腕を動かすことができなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1371-1",
+      "word": "paralysis",
+      "definition": "【名】麻痺",
+      "examples": []
+    },
+    {
+      "id": "1371-2",
+      "word": "pat",
+      "definition": "【他】を軽くたたく",
+      "examples": []
+    },
+    {
+      "id": 1372,
+      "word": "total",
+      "definition": "【形】合計の （⇔partial）；まったくの　【名】合計",
+      "examples": [
+        {
+          "en": "The total number of students in our university has been increasing.",
+          "ja": "（（私たちの大学の学生の総数は増えている。））"
+        }
+      ]
+    },
+    {
+      "id": 1373,
+      "word": "report",
+      "definition": "【名】報告（書）；報道　【他】【自】報告する；報道する；通報する",
+      "examples": [
+        {
+          "en": "I wrote a report for my professor on childcare facilities.",
+          "ja": "（（私は教授に保育施設についてのレポートを書いた。））"
+        }
+      ]
+    },
+    {
+      "id": "1373-1",
+      "word": "allege",
+      "definition": "【他】を（証拠なしに）主張する",
+      "examples": []
+    },
+    {
+      "id": 1374,
+      "word": "register",
+      "definition": "【他】を記録する；を登録する　【自】を登録する　【名】登録簿；レジ",
+      "examples": [
+        {
+          "en": "You need to register for the class at the start of the term.",
+          "ja": "（（学期の初めに授業に登録する必要がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1375,
+      "word": "log",
+      "definition": "【名】丸太　【自】【他】記録する",
+      "examples": [
+        {
+          "en": "There is a small log house on the hill.",
+          "ja": "（（丘の上に小さな丸太小屋がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1376,
+      "word": "complete",
+      "definition": "【形】完全な　【他】を仕上げる；に書き込む",
+      "examples": [
+        {
+          "en": "I managed to complete the puzzle before I went to bed.",
+          "ja": "（（私は寝る前に何とかパズルを完成させた。））"
+        }
+      ]
+    },
+    {
+      "id": "1376-1",
+      "word": "completion",
+      "definition": "【名】完成",
+      "examples": []
+    },
+    {
+      "id": "1376-2",
+      "word": "incomplete",
+      "definition": "【形】不完全な",
+      "examples": []
+    },
+    {
+      "id": 1377,
+      "word": "intact",
+      "definition": "【形】無傷の；手つかずで",
+      "examples": [
+        {
+          "en": "After the war, few buildings in the city remained intact.",
+          "ja": "（（戦後，その都市で無傷で残った建物はほとんどなかった。））"
+        }
+      ]
+    },
+    {
+      "id": 1378,
+      "word": "entry",
+      "definition": "【名】入場；参加（申し込み）",
+      "examples": [
+        {
+          "en": "The company is considering entry into the Asian market.",
+          "ja": "（（その会社はアジア市場への参入を検討している。））"
+        }
+      ]
+    },
+    {
+      "id": 1379,
+      "word": "case",
+      "definition": "【名】症例；場合；《the》事実；事件；主張；箱",
+      "examples": [
+        {
+          "en": "Take an umbrella in case it rains.",
+          "ja": "（（雨が降った時のために傘を持って行ってください。））"
+        }
+      ]
+    },
+    {
+      "id": 1380,
+      "word": "chest",
+      "definition": "【名】胸；箱",
+      "examples": [
+        {
+          "en": "I had to have a chest x-ray before I could start work.",
+          "ja": "（（仕事を始められるようになる前に胸部X線検査を受けなければならなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1380-1",
+      "word": "breast",
+      "definition": "【名】胸；乳房",
+      "examples": []
+    },
+    {
+      "id": 1381,
+      "word": "significant",
+      "definition": "【形】重要な；（数・量が）かなりの",
+      "examples": [
+        {
+          "en": "A significant number of students disagreed with the new rules of the university.",
+          "ja": "（（かなりの数の学生が大学の新しい規則に反対した。））"
+        }
+      ]
+    },
+    {
+      "id": "1381-1",
+      "word": "significance",
+      "definition": "【名】意義；重要性",
+      "examples": []
+    },
+    {
+      "id": "1381-2",
+      "word": "signify",
+      "definition": "【他】を意味する",
+      "examples": []
+    },
+    {
+      "id": 1382,
+      "word": "meaningful",
+      "definition": "【形】意義のある",
+      "examples": [
+        {
+          "en": "This job is so meaningful to me.",
+          "ja": "（（私にとってこの仕事は非常に意義がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1383,
+      "word": "grave",
+      "definition": "【形】重大な　【名】墓",
+      "examples": [
+        {
+          "en": "Humanity has confronted grave danger throughout history.",
+          "ja": "（（人間は歴史を通じて重大な危機に直面してきた。））"
+        }
+      ]
+    },
+    {
+      "id": 1384,
+      "word": "exercise",
+      "definition": "【名】行使；練習；運動　【他】〈権力〉を行使する　【自】運動する",
+      "examples": [
+        {
+          "en": "I try to do some simple exercises every day.",
+          "ja": "（（毎日簡単な運動をするようにしている。））"
+        }
+      ]
+    },
+    {
+      "id": 1385,
+      "word": "diabetes",
+      "definition": "【名】糖尿病",
+      "examples": [
+        {
+          "en": "Diabetes is often caused by an unhealthy diet and a lack of exercise.",
+          "ja": "（（糖尿病は多くの場合，不健康な食事と運動不足によって引き起こされる。））"
+        }
+      ]
+    },
+    {
+      "id": 1386,
+      "word": "dementia",
+      "definition": "【名】認知症",
+      "examples": [
+        {
+          "en": "She studies the mechanism of dementia at university.",
+          "ja": "（（彼女は大学で認知症の仕組みについて研究している。））"
+        }
+      ]
+    },
+    {
+      "id": 1387,
+      "word": "longevity",
+      "definition": "【名】長寿；寿命",
+      "examples": [
+        {
+          "en": "The success and longevity of the scholarship are signs of its popularity.",
+          "ja": "（（この奨学金制度の成功と長く続いていることは，その人気の表れである。））"
+        }
+      ]
+    },
+    {
+      "id": "1387-1",
+      "word": "lifespan",
+      "definition": "【名】寿命；存続期間",
+      "examples": []
+    },
+    {
+      "id": 1388,
+      "word": "span",
+      "definition": "【名】〈時間の〉長さ；期間",
+      "examples": [
+        {
+          "en": "The article said that dark chocolate can improve the attention span.",
+          "ja": "（（その記事にはブラックチョコレートが注意力の持続時間を向上させる可能性があると書かれていた。））"
+        }
+      ]
+    },
+    {
+      "id": 1389,
+      "word": "slot",
+      "definition": "【名】 細長い小穴；時間帯",
+      "examples": [
+        {
+          "en": "Would you be available for the following time slots?",
+          "ja": "（（以下の時間枠は空いていらっしゃいますか。））"
+        }
+      ]
+    },
+    {
+      "id": 1390,
+      "word": "development",
+      "definition": "【名】発達；発展；〈病気などの〉発生",
+      "examples": [
+        {
+          "en": "The development of the country has been rapid.",
+          "ja": "（（その国の発展は急速である。））"
+        }
+      ]
+    },
+    {
+      "id": "1390-1",
+      "word": "developer",
+      "definition": "【名】宅地開発業者；開発者",
+      "examples": []
+    }
+  ]
+};

@@ -1,0 +1,241 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "69　人間とAIの未来予想 (1)　[人間]",
+  "text": {
+    "en": "On December 7th, 2017 a crucial [[HL]]milestone [[/HL]]was reached, not when a computer defeated a human at chess ― that was old news ― but when Google’s AlphaZero program defeated the Stockfish 8 program. Stockfish 8 was the world’s computer chess champion for 2016. It had access to centuries of [[HL]]accumulated [[/HL]]human experience in chess, as well as to decades of computer experience. It was able to calculate 70 million chess positions per second. In [[HL]]contrast[[/HL]], AlphaZero performed only 80,000 such [[HL]]calculations [[/HL]]per second, and its human creators never taught it any chess strategies ― not even standard openings. Rather, AlphaZero used the [[HL]]latest [[/HL]]machine-learning [[HL]]principles [[/HL]]to self-learn chess by playing against itself. [[HL]]Nevertheless[[/HL]], out of a hundred games the *novice AlphaZero played against Stockfish, AlphaZero won twenty-eight and tied seventy-two. It didn’t lose even once. Since AlphaZero learned nothing from any human, many of its winning moves and strategies seemed *unconventional to human eyes. They may well be considered creative, if not downright [[HL]]genius[[/HL]].\n\n(162 words)",
+    "ja": "*novice「初心者の,新参者の」 *unconventional「型破りな」\n\n2017年12月7日，きわめて[[HL]]重要な節目[[/HL]]を迎えた。チェスでコンピュータが人間を破ったのではない。それは昔の話だ。そうではなく，グーグルのAlphaZeroプログラムがStockfish8プログラムを打ち負かしたのだ。Stockfish8は2016年の世界コンピュータチェス選手権のチャンピオンだった。Stockfish8は，数世紀にわたって[[HL]]蓄積された[[/HL]]チェスにおける人間の経験も，数十年にもわたるコンピュータの経験も利用することができた。それは1秒間に7000万もの局面を予測することが可能だった。[[HL]]対照[[/HL]]的に，AlphaZeroは1秒間にわずか8万の局面しかそのような[[HL]]計算[[/HL]]ができず，その人間の開発者らはチェスの戦略を一切，標準的な序盤の展開すらも教えなかった。その代わり，AlphaZeroは[[HL]]最新の[[/HL]]機械学習[[HL]]原理[[/HL]]を用いて，自分自身と対戦することでチェスを独学したのだ。[[HL]]それにもかわらず[[/HL]]，新参者のAlphaZeroがStockfishと対戦した100局のうち，AlphaZeroは28勝72引き分けという結果を出した。一度も負けなかったのだ。AlphaZeroは人間からは何も学んでいないため，勝利に至った決め手や戦略の多くは人間の目には型破りなものに映った。それらは完全なる[[HL]]天才[[/HL]]ではないにしても，創造力があると考えてよいだろう。"
+  },
+  "vocabulary": [
+    {
+      "id": 1828,
+      "word": "milestone",
+      "definition": "【名】重要〔画期的〕な事件；重要な段階",
+      "examples": [
+        {
+          "en": "Learning to walk is probably the first milestone for most children.",
+          "ja": "（（歩けるようになることは，おそらくほとんどの子供にとって最初の節目だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1828-1",
+      "word": "epoch",
+      "definition": "【名】時代；画期的な出来事",
+      "examples": []
+    },
+    {
+      "id": 1829,
+      "word": "advent",
+      "definition": "【名】〈重要な事などの〉到来",
+      "examples": [
+        {
+          "en": "Life returns to the parks with the advent of spring.",
+          "ja": "（（春の到来とともに公園に生命が戻ってくる。））"
+        }
+      ]
+    },
+    {
+      "id": 1830,
+      "word": "accumulate",
+      "definition": "【他】【自】蓄積する",
+      "examples": [
+        {
+          "en": "Her social media post accumulated thousands of likes.",
+          "ja": "（（彼女のソーシャルメディアの投稿が何千ものいいねを集めた。））"
+        }
+      ]
+    },
+    {
+      "id": "1830-1",
+      "word": "accumulation",
+      "definition": "【名】蓄積",
+      "examples": []
+    },
+    {
+      "id": "1830-2",
+      "word": "compile",
+      "definition": "【他】を編集する；をまとめる",
+      "examples": []
+    },
+    {
+      "id": "1830-3",
+      "word": "reunion",
+      "definition": "【名】同窓会；再結集",
+      "examples": []
+    },
+    {
+      "id": 1831,
+      "word": "contrast",
+      "definition": "【名】対比　【他】を対比する　【自】《と》対照をなす《with》",
+      "examples": [
+        {
+          "en": "Summer is very hot here. In contrast, winter is very cold.",
+          "ja": "（（ここの夏はとても暑い。一方，冬はとても寒い。））"
+        }
+      ]
+    },
+    {
+      "id": "1831-1",
+      "word": "versus",
+      "definition": "【前】に対して",
+      "examples": []
+    },
+    {
+      "id": 1832,
+      "word": "calculation",
+      "definition": "【名】計算；推定",
+      "examples": [
+        {
+          "en": "By my calculations, we should arrive at about 3 o’clock.",
+          "ja": "（（私の計算では，私たちは3時ごろに到着するはずだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1832-1",
+      "word": "simulation",
+      "definition": "【名】 シミュレーション",
+      "examples": []
+    },
+    {
+      "id": 1833,
+      "word": "statistics",
+      "definition": "【名】統計学〈不可算〉；［複］統計（値）",
+      "examples": [
+        {
+          "en": "Economists use statistics to see trends in the world economy.",
+          "ja": "（（経済学者は世界経済の動向を見るために統計を使う。））"
+        }
+      ]
+    },
+    {
+      "id": "1833-1",
+      "word": "statistical",
+      "definition": "【形】統計（上）の",
+      "examples": []
+    },
+    {
+      "id": 1834,
+      "word": "compute",
+      "definition": "【自】【他】計算する",
+      "examples": [
+        {
+          "en": "The advances in computing power enabled AI to beat a human at chess.",
+          "ja": "（（計算能力の進歩によりAIはチェスで人間に勝てるようになった。））"
+        }
+      ]
+    },
+    {
+      "id": 1835,
+      "word": "latest",
+      "definition": "【形】最新〔最近〕の",
+      "examples": [
+        {
+          "en": "We report all of the latest news from around the world.",
+          "ja": "（（我々は世界中の最新ニュースを報道している。））"
+        }
+      ]
+    },
+    {
+      "id": "1835-1",
+      "word": "upcoming",
+      "definition": "【形】近く起こる；来るべき",
+      "examples": []
+    },
+    {
+      "id": 1836,
+      "word": "unprecedented",
+      "definition": "【形】先例のない；空前の",
+      "examples": [
+        {
+          "en": "The area was hit by unprecedented rainfall and floods.",
+          "ja": "（（この地域は空前の大雨と洪水に襲われた。））"
+        }
+      ]
+    },
+    {
+      "id": "1836-1",
+      "word": "precede",
+      "definition": "【他】より先に起こる",
+      "examples": []
+    },
+    {
+      "id": 1837,
+      "word": "principle",
+      "definition": "【名】原理；原則；主義；信条",
+      "examples": [
+        {
+          "en": "I understand the basic principles of economics but no more.",
+          "ja": "（（私は経済学の基本原則を理解しているが，それ以上はわからない。））"
+        }
+      ]
+    },
+    {
+      "id": "1837-1",
+      "word": "doctrine",
+      "definition": "【名】教義；〈政治上の〉主義",
+      "examples": []
+    },
+    {
+      "id": 1838,
+      "word": "ideology",
+      "definition": "【名】イデオロギー；思想傾向",
+      "examples": [
+        {
+          "en": "Political ideology sometimes has an influence on the society.",
+          "ja": "（（政治的思想が社会に影響を及ぼすこともある。））"
+        }
+      ]
+    },
+    {
+      "id": "1838-1",
+      "word": "ideological",
+      "definition": "【形】イデオロギー（上）の",
+      "examples": []
+    },
+    {
+      "id": 1839,
+      "word": "regime",
+      "definition": "【名】政権；体制",
+      "examples": [
+        {
+          "en": "A new democratic regime was established in the country.",
+          "ja": "（（その国では新たな民主主義体制が樹立された。））"
+        }
+      ]
+    },
+    {
+      "id": 1840,
+      "word": "nevertheless",
+      "definition": "【副】それにもかかわらず",
+      "examples": [
+        {
+          "en": "I didn’t feel well; nevertheless I went to school.",
+          "ja": "（（私は気分が悪かった，それでも私は学校に行った。））"
+        }
+      ]
+    },
+    {
+      "id": 1841,
+      "word": "nonetheless",
+      "definition": "【副】それにもかかわらず",
+      "examples": [
+        {
+          "en": "The meeting was boring, but important nonetheless.",
+          "ja": "（（その会議は退屈だったが，それでも重要なものだった。））"
+        }
+      ]
+    },
+    {
+      "id": 1842,
+      "word": "genius",
+      "definition": "【名】天才；才能",
+      "examples": [
+        {
+          "en": "He is a genius at mathematics.",
+          "ja": "（（彼は数学の天才だ。））"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "71　人間とAIの未来予想 (3)　[人間]",
+  "text": {
+    "en": "① Consequently, creating new jobs and retraining people to fill them will not be a *one-off effort. The AI [[HL]]revolution [[/HL]]won’t be a single *watershed event after which the job market will just [[HL]]settle [[/HL]]into a new *equilibrium. Rather, it will be a series of ever-bigger [[HL]]disruptions[[/HL]]. Already today few [[HL]]employees expect [[/HL]]to work in the same job for their entire life. By 2050, not just the idea of ‘a job for life’, but even the idea of‘a profession for life’ might seem old.\n\n② Even if we could constantly invent new jobs and retrain the [[HL]]workforce[[/HL]], we may wonder whether the average human will have the emotional stamina necessary for a life of such [[HL]]endless [[/HL]]*upheavals. Change is always stressful, and the exciting world of the early twenty-first century has produced a [[HL]]global epidemic [[/HL]]of stress. As the [[HL]]rapid [[/HL]]changing of the job market and of individual careers increases, would people be able to cope? We would probably need far more effective stress-reduction techniques ― ranging from drugs through neuro-[[HL]]feedback [[/HL]]to [[HL]]meditation [[/HL]]― to prevent our minds from [[HL]]snapping[[/HL]]. By 2050 a ‘useless’ class of people might emerge not [[HL]]merely [[/HL]]because of an absolute lack of jobs or lack of relevant education, but also because of insufficient mental stamina.\n\n(207 words)",
+    "ja": "*one-off「1回限りの」 *watershed「重要な分岐点」 *equilibrium「均衡」\n\n*upheaval「激変」\n\n❶　その結果，新たな雇用を創出し，その雇用に従事させるために人々を再教育することは，単発的な取り組みとはならないだろう。AI[[HL]]革命[[/HL]]は，それが終われば雇用市場が新たな均衡に[[HL]]落ち着く[[/HL]]というような単一の分岐点では終わらないだろう。むしろ，次第に大きくなっていく[[HL]]混乱[[/HL]]が連続して起きていくことになるだろう。すでに現在でも，生涯同じ仕事を続ける[[HL]]と思っている被雇用者[[/HL]]はほとんどいない。2050年までには，「一生の仕事」どころか，「一生の職業」という考えさえ古いと思われるかもしれない。\n\n❷　常に新たな仕事を考案して[[HL]]労働力[[/HL]]を再教育できたとしても，平均的な人間がそのような[[HL]]終わりのない[[/HL]]激変の人生に必要な精神的スタミナをもつことができるのかどうか，私たちは疑問に思うかもしれない。変化は常にストレスを伴い，21世紀初頭の刺激的な世界は，ストレスの[[HL]]世界的蔓延[[/HL]]を生み出している。雇用市場や個人のキャリアの[[HL]]急速な[[/HL]]変化が増す中で，人々は対処できるだろうか。私たちの心が[[HL]]折れ[[/HL]]ないようにするために，薬からニューロ[[HL]]フィードバック[[/HL]]，[[HL]]瞑想[[/HL]]に至る，はるかに効果的なストレス軽減法が必要となるだろう。2050年までには，絶対的な仕事不足や妥当な教育の欠如[[HL]]だけ[[/HL]]でなく，精神的なスタミナ不足という理由からも「役に立たない」階級の人々が現れるかもしれない。"
+  },
+  "vocabulary": [
+    {
+      "id": 1871,
+      "word": "revolution",
+      "definition": "【名】革命；回転",
+      "examples": [
+        {
+          "en": "The invention of the Internet led to a revolution in personal communication.",
+          "ja": "（（インターネットの発明が個人間のコミュニケーションの革命につながった。））"
+        }
+      ]
+    },
+    {
+      "id": "1871-1",
+      "word": "revolutionary",
+      "definition": "【形】革命の",
+      "examples": []
+    },
+    {
+      "id": "1871-2",
+      "word": "revolutionize",
+      "definition": "【他】に大変革をもたらす",
+      "examples": []
+    },
+    {
+      "id": "1871-3",
+      "word": "revolve",
+      "definition": "【自】回転する",
+      "examples": []
+    },
+    {
+      "id": 1872,
+      "word": "orbit",
+      "definition": "【名】軌道　【他】の軌道を回る",
+      "examples": [
+        {
+          "en": "Scientists now say that there are eight planets orbiting the sun.",
+          "ja": "（（科学者たちは現在，太陽を周回する惑星が8つあると言っている。））"
+        }
+      ]
+    },
+    {
+      "id": 1873,
+      "word": "spin",
+      "definition": "【自】回転する；〈頭が〉混乱する　【他】を回転させる；を紡ぐ",
+      "examples": [
+        {
+          "en": "My head was spinning after I heard the news.",
+          "ja": "（（そのニュースを聞いて，私の頭は混乱していました。））"
+        }
+      ]
+    },
+    {
+      "id": "1873-1",
+      "word": "rotate",
+      "definition": "【他】【自】回転する〔させる〕；交換する〔させる〕",
+      "examples": []
+    },
+    {
+      "id": "1873-2",
+      "word": "rotation",
+      "definition": "【名】回転；交替",
+      "examples": []
+    },
+    {
+      "id": 1874,
+      "word": "innovation",
+      "definition": "【名】革新",
+      "examples": [
+        {
+          "en": "The company is known for its innovation and style.",
+          "ja": "（（この会社はその革新性とスタイルで知られている。））"
+        }
+      ]
+    },
+    {
+      "id": "1874-1",
+      "word": "innovative",
+      "definition": "【形】革新的な",
+      "examples": []
+    },
+    {
+      "id": 1875,
+      "word": "dramatic",
+      "definition": "【形】劇的な；演劇の",
+      "examples": [
+        {
+          "en": "The movie was really dramatic and I couldn’t stop watching it.",
+          "ja": "（（その映画は本当にドラマチックで，見るのを止められなかった。））"
+        }
+      ]
+    },
+    {
+      "id": 1876,
+      "word": "settle",
+      "definition": "【自】【他】落ち着く〔かせる〕；定住する　【他】を解決する；を決める",
+      "examples": [
+        {
+          "en": "We decided to settle down in a nice quiet village.",
+          "ja": "（（私たちは素敵な静かな村に定住することにした。））"
+        }
+      ]
+    },
+    {
+      "id": "1876-1",
+      "word": "settlement",
+      "definition": "【名】居留地；合意；和解",
+      "examples": []
+    },
+    {
+      "id": "1876-2",
+      "word": "dwell",
+      "definition": "【自】住む",
+      "examples": []
+    },
+    {
+      "id": "1876-3",
+      "word": "dweller",
+      "definition": "【名】居住者",
+      "examples": []
+    },
+    {
+      "id": "1876-4",
+      "word": "dwelling",
+      "definition": "【名】住居",
+      "examples": []
+    },
+    {
+      "id": 1877,
+      "word": "shelter",
+      "definition": "【名】避難（所）；住まい　【他】を保護する",
+      "examples": [
+        {
+          "en": "The government wants to open a shelter for refugees in the city.",
+          "ja": "（（政府は市内に難民のための避難所を開設したいと考えている。））"
+        }
+      ]
+    },
+    {
+      "id": 1878,
+      "word": "dormitory",
+      "definition": "【名】寮〈くだけて dorm とも〉",
+      "examples": [
+        {
+          "en": "My university is far from my home, so I live in the dormitory.",
+          "ja": "（（大学は家から遠いので，私は寮に住んでいます。））"
+        }
+      ]
+    },
+    {
+      "id": 1879,
+      "word": "flat",
+      "definition": "【形】平らな；パンクした　【名】〈英〉アパート",
+      "examples": [
+        {
+          "en": "He lives in a flat in London.",
+          "ja": "（（彼はロンドンのアパートに住んでいる。））"
+        }
+      ]
+    },
+    {
+      "id": 1880,
+      "word": "disruption",
+      "definition": "【名】中断；混乱；分裂",
+      "examples": [
+        {
+          "en": "We apologize for the disruption in the train service.",
+          "ja": "（（列車の運行が乱れたことをおわびします。））"
+        }
+      ]
+    },
+    {
+      "id": "1880-1",
+      "word": "disrupt",
+      "definition": "【他】を中断させる；を乱す",
+      "examples": []
+    },
+    {
+      "id": "1880-2",
+      "word": "disruptive",
+      "definition": "【形】混乱をもたらす",
+      "examples": []
+    },
+    {
+      "id": 1881,
+      "word": "spoil",
+      "definition": "【他】を台なしにする；を甘やかす",
+      "examples": [
+        {
+          "en": "She really spoils her child and it will cause problems later.",
+          "ja": "（（彼女は本当に子供を甘やかしており，のちに問題になるだろう。））"
+        }
+      ]
+    },
+    {
+      "id": "1881-1",
+      "word": "inflict",
+      "definition": "【他】〈苦しみ･罰など〉をもたらす",
+      "examples": []
+    },
+    {
+      "id": 1882,
+      "word": "employee",
+      "definition": "【名】従業員，被雇用者",
+      "examples": [
+        {
+          "en": "The benefits for employees of this company are very good.",
+          "ja": "（（この会社の従業員への福利厚生は非常によい。））"
+        }
+      ]
+    },
+    {
+      "id": 1883,
+      "word": "employ",
+      "definition": "【他】を雇う；〈方法など〉を使用する",
+      "examples": [
+        {
+          "en": "The company employs around 200 people.",
+          "ja": "（（その会社は約200人の人を雇っている。））"
+        }
+      ]
+    },
+    {
+      "id": "1883-1",
+      "word": "employer",
+      "definition": "【名】雇い主",
+      "examples": []
+    },
+    {
+      "id": "1883-2",
+      "word": "employment",
+      "definition": "【名】雇用",
+      "examples": []
+    },
+    {
+      "id": 1884,
+      "word": "unemployment",
+      "definition": "【名】失業；失業者数；失業率",
+      "examples": [
+        {
+          "en": "The unemployment rate has dropped thanks to the new policy.",
+          "ja": "（（新しい政策のおかげで失業率が下がった。））"
+        }
+      ]
+    },
+    {
+      "id": "1884-1",
+      "word": "unemployed",
+      "definition": "【形】失業した",
+      "examples": []
+    },
+    {
+      "id": 1885,
+      "word": "recruit",
+      "definition": "【名】新人，新入社員　【他】を勧誘する；を新規採用する",
+      "examples": [
+        {
+          "en": "The company plans to recruit about 10 extra engineers this year.",
+          "ja": "（（その会社は今年，エンジニアを追加で約10名採用することを計画している。））"
+        }
+      ]
+    },
+    {
+      "id": 1886,
+      "word": "expect",
+      "definition": "【他】を予期する；を期待する；と思う",
+      "examples": [
+        {
+          "en": "The new design is much better than I expected.",
+          "ja": "（（その新しいデザインは思っていたよりずっといい。））"
+        }
+      ]
+    },
+    {
+      "id": "1886-1",
+      "word": "expectancy",
+      "definition": "【名】見込み；期待",
+      "examples": []
+    },
+    {
+      "id": 1887,
+      "word": "unexpected",
+      "definition": "【形】思いがけない",
+      "examples": [
+        {
+          "en": "The novelist always gives his readers an unexpected surprise.",
+          "ja": "（（その小説家はいつも読者に予想外の驚きを与えてくれる。））"
+        }
+      ]
+    },
+    {
+      "id": "1887-1",
+      "word": "unexpectedly",
+      "definition": "【副】予想外に；意外にも",
+      "examples": []
+    },
+    {
+      "id": 1888,
+      "word": "workforce",
+      "definition": "【名】労働力（≒labor force）；〈通例the〉総労働人口",
+      "examples": [
+        {
+          "en": "Due to the aging population, Japan's workforce is shrinking rapidly.",
+          "ja": "（（高齢化する人口により，日本の労働人口は急速に減少している。））"
+        }
+      ]
+    },
+    {
+      "id": 1889,
+      "word": "overtime",
+      "definition": "【名】残業　【形】【副】時間外の〔で〕",
+      "examples": [
+        {
+          "en": "I get paid for all the overtime that I do at my company.",
+          "ja": "（（私は，私が会社でするすべての残業に対して報酬をもらっている。））"
+        }
+      ]
+    },
+    {
+      "id": 1890,
+      "word": "endless",
+      "definition": "【形】無限の",
+      "examples": [
+        {
+          "en": "The meeting was so boring that it seemed endless.",
+          "ja": "（（その会議はとても退屈で，終わりがないように思えた。））"
+        }
+      ]
+    },
+    {
+      "id": "1890-1",
+      "word": "eternal",
+      "definition": "【形】永遠の",
+      "examples": []
+    },
+    {
+      "id": 1891,
+      "word": "infinite",
+      "definition": "【形】無限の",
+      "examples": [
+        {
+          "en": "There isn't an infinite supply of water.",
+          "ja": "（（無限の水の供給はない。））"
+        }
+      ]
+    },
+    {
+      "id": "1891-1",
+      "word": "finite",
+      "definition": "【形】有限の",
+      "examples": []
+    },
+    {
+      "id": "1891-2",
+      "word": "immortal",
+      "definition": "【形】不死の；〈名声などが〉不滅の",
+      "examples": []
+    },
+    {
+      "id": 1892,
+      "word": "global",
+      "definition": "【形】世界的な；全体的な",
+      "examples": [
+        {
+          "en": "Global markets are watching the situation closely.",
+          "ja": "（（世界市場はこの状況を注視している。））"
+        }
+      ]
+    },
+    {
+      "id": "1892-1",
+      "word": "globalization",
+      "definition": "【名】世界（標準）化",
+      "examples": []
+    },
+    {
+      "id": "1892-2",
+      "word": "globe",
+      "definition": "【名】《the》地球；世界",
+      "examples": []
+    },
+    {
+      "id": "1892-3",
+      "word": "global warming",
+      "definition": "【名】地球温暖化",
+      "examples": []
+    },
+    {
+      "id": 1893,
+      "word": "epidemic",
+      "definition": "【名】〈伝染病などの〉流行；伝染病",
+      "examples": [
+        {
+          "en": "The viral infection broke out in the north and soon became an epidemic.",
+          "ja": "（（そのウイルス感染は北部で発生し，すぐに流行した。））"
+        }
+      ]
+    },
+    {
+      "id": 1894,
+      "word": "plague",
+      "definition": "【名】疫病；やっかいなもの",
+      "examples": [
+        {
+          "en": "The origin of the plague is still unclear.",
+          "ja": "（（その疫病の起源はいまだに不明だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1894-1",
+      "word": "malaria",
+      "definition": "【名】マラリア",
+      "examples": []
+    },
+    {
+      "id": "1894-2",
+      "word": "eradicate",
+      "definition": "【他】〈病気･社会問題など〉を根絶する",
+      "examples": []
+    },
+    {
+      "id": 1895,
+      "word": "microbe",
+      "definition": "【名】微生物；細菌",
+      "examples": [
+        {
+          "en": "The exposure to a variety of microbes helps humans shape their immune system.",
+          "ja": "（（多様な細菌にさらされることが人間が免疫系を形成する助けになる。））"
+        }
+      ]
+    },
+    {
+      "id": 1896,
+      "word": "germ",
+      "definition": "【名】細菌；病原菌",
+      "examples": [
+        {
+          "en": "It is amazing how many germs grow in your bathroom.",
+          "ja": "（（浴室でどれだけの細菌が繁殖するかは驚きです。））"
+        }
+      ]
+    },
+    {
+      "id": 1897,
+      "word": "rapid",
+      "definition": "【形】急な；速い",
+      "examples": [
+        {
+          "en": "There was a rapid rise in the price of oil.",
+          "ja": "（（石油価格が急速に上昇した。））"
+        }
+      ]
+    },
+    {
+      "id": "1897-1",
+      "word": "rapidly",
+      "definition": "【副】急激に；速く",
+      "examples": []
+    },
+    {
+      "id": "1897-2",
+      "word": "fleet",
+      "definition": "【名】艦隊；船団　【形】〈動物などが〉（足が）速い",
+      "examples": []
+    },
+    {
+      "id": 1898,
+      "word": "swift",
+      "definition": "【形】即座の；速い",
+      "examples": [
+        {
+          "en": "I received a very swift response from the company regarding my complaint.",
+          "ja": "（（その会社から私の苦情について非常に迅速な返答を受けた。））"
+        }
+      ]
+    },
+    {
+      "id": "1898-1",
+      "word": "swiftly",
+      "definition": "【副】すばやく",
+      "examples": []
+    },
+    {
+      "id": "1898-2",
+      "word": "abruptly",
+      "definition": "【副】突然に",
+      "examples": []
+    },
+    {
+      "id": 1899,
+      "word": "burst",
+      "definition": "【自】破裂する；《burst out …ingで》突然…し始める　burst＞burst",
+      "examples": [
+        {
+          "en": "The small child started to cry when the balloon burst.",
+          "ja": "（（風船が割れた時，その小さな子供は泣き出した。））"
+        }
+      ]
+    },
+    {
+      "id": 1900,
+      "word": "feedback",
+      "definition": "【名】反応；感想；フィードバック",
+      "examples": [
+        {
+          "en": "We regularly collect feedback on our products from our customers.",
+          "ja": "（（私たちは定期的に顧客から製品に対するフィードバックを集めている。））"
+        }
+      ]
+    },
+    {
+      "id": 1901,
+      "word": "meditation",
+      "definition": "【名】瞑想；〈通例［複］〉熟考《on》",
+      "examples": [
+        {
+          "en": "I have started to take meditation classes to help me relax.",
+          "ja": "（（リラックスできるように，私は瞑想教室に通い始めました。））"
+        }
+      ]
+    },
+    {
+      "id": 1902,
+      "word": "snap",
+      "definition": "【自】ポキンと折れる　【他】をポキンと折る",
+      "examples": [
+        {
+          "en": "He snapped the cookie in half for the two children.",
+          "ja": "（（彼はその2人の子供のためにそのクッキーを半分に割った。））"
+        }
+      ]
+    },
+    {
+      "id": "1902-1",
+      "word": "fracture",
+      "definition": "【名】割れ目；骨折　【他】を折る　【自】折れる",
+      "examples": []
+    },
+    {
+      "id": 1903,
+      "word": "merely",
+      "definition": "【副】単に；〈名詞句の前で〉単なる",
+      "examples": [
+        {
+          "en": "She didn't say anything, but merely smiled at the reporter.",
+          "ja": "（（彼女は何も言わなかったが，ただその記者に微笑んだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1903-1",
+      "word": "mere",
+      "definition": "【形】単なる；ほんの",
+      "examples": []
+    }
+  ]
+}

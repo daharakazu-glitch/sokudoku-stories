@@ -1,0 +1,235 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "04　服のボタンの位置がもつ意味　[社会]",
+  "text": {
+    "en": "[[HL]]Western clothes [[/HL]]have buttons on the right for men.  This is [[HL]]convenient [[/HL]]because the [[HL]]majority [[/HL]]of men are *right-handed.  It is easier for them to use the right hand when buttoning up.  Why, then, do women’s clothes have buttons on the left, even [[HL]]though [[/HL]]most women are also right-handed?  Is this a kind of [[HL]]discrimination[[/HL]]?  In fact, there is a reason why women’s buttons are on that side.  In the [[HL]]past[[/HL]], buttons were [[HL]]quite expensive [[/HL]]and only very rich people could [[HL]]afford [[/HL]]them.  Women in such [[HL]]wealthy [[/HL]]families had [[HL]]servants [[/HL]]who dressed them.  Therefore, to make it easier for the servants, buttons were put on the left.\n\n（107 words）",
+    "ja": "*right-handed「右利きの」\n\n[[HL]]西洋の衣服[[/HL]]は，男性用では右側にボタンがついている。男性の[[HL]]大多数[[/HL]]が右利きであるため，これは[[HL]]都合がよい[[/HL]]。彼らにとって，ボタンを留める時に右手を使う方が簡単なのだ。それではなぜ，大部分の女性もまた右利きである[[HL]]にもかかわらず[[/HL]]，女性の衣服は左側にボタンがついているのだろうか。これは，一種の[[HL]]差別[[/HL]]なのだろうか。実際には，女性のボタンが左側にあるのには理由がある。[[HL]]以前[[/HL]]は，ボタンは[[HL]]かなり高価な[[/HL]]もので，大金持ちの人々だけがそれら[[HL]]を手に入れる余裕があ[[/HL]]った。そのような[[HL]]裕福な[[/HL]]家の女性には，彼女たちに服を着せる[[HL]]召使い[[/HL]]がいた。そのため，召使いがそれをやりやすくするために，ボタンが左側につけられたのである。"
+  },
+  "vocabulary": [
+    {
+      "id": 56,
+      "word": "western",
+      "definition": "【形】西（方）の，西にある；《W-》西洋の",
+      "examples": [
+        {
+          "en": "Western Europe contains many highly advanced countries.",
+          "ja": "（（西ヨーロッパには多くの高度に発展した国がある。））"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "word": "clothes",
+      "definition": "【名】〈複数扱い〉衣服",
+      "examples": [
+        {
+          "en": "I went to the shop and bought some new clothes.",
+          "ja": "（（私は店に行って新しい服を買った。））"
+        }
+      ]
+    },
+    {
+      "id": "57-1",
+      "word": "clothing",
+      "definition": "【名】〈複数扱い〉衣服",
+      "examples": []
+    },
+    {
+      "id": "57-2",
+      "word": "garment",
+      "definition": "【名】衣類〈フォーマルな表現〉",
+      "examples": []
+    },
+    {
+      "id": "57-3",
+      "word": "collar",
+      "definition": "【名】〈シャツ･コートなどの〉えり",
+      "examples": []
+    },
+    {
+      "id": 58,
+      "word": "convenient",
+      "definition": "【形】〈時間・場所・物が〉都合のよい；便利な",
+      "examples": [
+        {
+          "en": "What time is convenient for you to meet me?",
+          "ja": "（（会うのは何時が都合がよいですか。））"
+        }
+      ]
+    },
+    {
+      "id": "58-1",
+      "word": "convenience",
+      "definition": "【名】便利（なもの）",
+      "examples": []
+    },
+    {
+      "id": "58-2",
+      "word": "inconvenient",
+      "definition": "【形】不便な",
+      "examples": []
+    },
+    {
+      "id": 59,
+      "word": "helpful",
+      "definition": "【形】親切な；役に立つ",
+      "examples": [
+        {
+          "en": "He gave me some really helpful advice about university.",
+          "ja": "（（彼は大学について実に役に立つアドバイスをくれた。））"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "word": "majority",
+      "definition": "【名】大多数",
+      "examples": [
+        {
+          "en": "The majority of the students enjoyed the history course.",
+          "ja": "（（生徒の大多数は歴史の授業を楽しんだ。））"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "word": "though",
+      "definition": "【接】…にもかかわらず　【副】〈通例文尾で〉でも",
+      "examples": [
+        {
+          "en": "Though he didn't have enough time to study, he passed the test.",
+          "ja": "（（彼は勉強する十分な時間がなかったにもかかわらず，試験に合格した。））"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "word": "discrimination",
+      "definition": "【名】《に対する》差別《against》；区別",
+      "examples": [
+        {
+          "en": "Many women working in Japan complain about sexual discrimination in the office.",
+          "ja": "（（日本で働く多くの女性が，職場での性的差別について不満を漏らしている。））"
+        }
+      ]
+    },
+    {
+      "id": "62-1",
+      "word": "discriminate",
+      "definition": "【自】《～を》差別する《against》；区別する",
+      "examples": []
+    },
+    {
+      "id": 63,
+      "word": "past",
+      "definition": "【名】《the》過去；昔　【形】過去の；ここ～（年月など）の　【前】を過ぎて",
+      "examples": [
+        {
+          "en": "I have lost over 5kg in the past three months.",
+          "ja": "（（私は過去3カ月で5kg以上痩せた。））"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "word": "previous",
+      "definition": "【形】〈時間・順序が〉前の",
+      "examples": [
+        {
+          "en": "We will begin by reviewing the previous lesson.",
+          "ja": "（（前の授業の復習から始めます。））"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "word": "quite",
+      "definition": "【副】かなり；まったく",
+      "examples": [
+        {
+          "en": "The second movie was quite good, but I think the first one was better.",
+          "ja": "（（2つ目の映画はかなりよかったが，私は最初の映画の方がよかったと思う。））"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "word": "expensive",
+      "definition": "【形】高価な",
+      "examples": [
+        {
+          "en": "I bought my girlfriend an expensive watch for her birthday.",
+          "ja": "（（私はガールフレンドの誕生日に高価な腕時計を買った。））"
+        }
+      ]
+    },
+    {
+      "id": "66-1",
+      "word": "inexpensive",
+      "definition": "【形】費用がかからない，低価格の",
+      "examples": []
+    },
+    {
+      "id": "66-2",
+      "word": "expense",
+      "definition": "【名】費用；犠牲",
+      "examples": []
+    },
+    {
+      "id": 67,
+      "word": "afford",
+      "definition": "【他】《can》を買う〔持つ〕余裕がある；〈機会など〉を与える",
+      "examples": [
+        {
+          "en": "I have no money so I can't afford a new car.",
+          "ja": "（（私はお金がないので新しい車を買う余裕がない。））"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "word": "wealthy",
+      "definition": "【形】裕福な；豊富な",
+      "examples": [
+        {
+          "en": "He comes from a very wealthy family.",
+          "ja": "（（彼はとても裕福な家庭の出身だ。））"
+        }
+      ]
+    },
+    {
+      "id": "68-1",
+      "word": "wealth",
+      "definition": "【名】富；財産；《a wealth of ～》豊富な～",
+      "examples": []
+    },
+    {
+      "id": 69,
+      "word": "servant",
+      "definition": "【名】召使い",
+      "examples": [
+        {
+          "en": "He was very rich, so he had servants to look after him.",
+          "ja": "（（彼はとても裕福だったので，彼の世話をする使用人がいた。））"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "word": "slave",
+      "definition": "【名】奴隷；《～に》とりつかれた人《to》",
+      "examples": [
+        {
+          "en": "The island's population are the descendants of freed slaves.",
+          "ja": "（（この島の住民は解放された奴隷の子孫だ。））"
+        }
+      ]
+    },
+    {
+      "id": "70-1",
+      "word": "slavery",
+      "definition": "【名】奴隷の状態；奴隷制度",
+      "examples": []
+    }
+  ]
+};

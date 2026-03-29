@@ -1,0 +1,320 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "05　drug の定義　[言語]",
+  "text": {
+    "en": "The word “drug” [[HL]]means [[/HL]]anything that, [[HL]]even [[/HL]]in small [[HL]]amounts[[/HL]], produces changes in the body, the [[HL]]mind[[/HL]], or both.  This [[HL]]definition[[/HL]], however, does not [[HL]]clearly separate [[/HL]]drugs from what we usually think of as food.  The difference between a drug and a [[HL]]poison [[/HL]]is also unclear.  All drugs become poisons in large amounts, and many poisons are useful drugs in [[HL]]carefully controlled [[/HL]]amounts.  Is [[HL]]alcohol[[/HL]], for [[HL]]instance[[/HL]], a food, a drug, or a poison?  It can be any of the three, [[HL]]depending [[/HL]]on how we use it. \t（87 words）",
+    "ja": "「薬」という言葉は，[[HL]]たとえ[[/HL]]少[[HL]]量でも[[/HL]]，身体，[[HL]]精神[[/HL]]，あるいはその両方に変化をもたらすものならどのようなもの[[HL]]を[[/HL]]も[[HL]]意味する[[/HL]]。しかし，この[[HL]]定義[[/HL]]は，薬と，私たちが通常食物とみなしているものとを[[HL]]はっきりと区別する[[/HL]]ものではない。薬と[[HL]]毒[[/HL]]との違いもはっきりしていない。いかなる薬も，大量に使うと毒になり，そして多くの毒は，注[[HL]]意深く制御された[[/HL]]量であれば，有益な薬になる。[[HL]]例[[/HL]]を挙げれば〔例えば〕アルコールは食物なのか，薬なのか，それとも毒なのか。私たちがどのように使うか[[HL]]次第で[[/HL]]，アルコールは3つのうちのどれにでもなり得る。"
+  },
+  "vocabulary": [
+    {
+      "id": 71,
+      "word": "mean",
+      "definition": "【他】を意味する；《…する》つもりである《to do》　【形】意地悪な",
+      "examples": [
+        {
+          "en": "Do you know what this word means?",
+          "ja": "（（この言葉が何を意味するか知っていますか。））"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "word": "even",
+      "definition": "【副】…（で）さえ；〈比較級を強調して〉さらに　【形】平らな；偶数の",
+      "examples": [
+        {
+          "en": "The movie was even longer than the last one in the series.",
+          "ja": "（（その映画はシリーズの前作よりさらに長かった。））"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "word": "amount",
+      "definition": "【名】量《of》；総額　【自】総計《～に》達する《to》；等しい《to》",
+      "examples": [
+        {
+          "en": "He lost a large amount of money gambling.",
+          "ja": "（（彼はギャンブルで多額のお金を失った。））"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "word": "mind",
+      "definition": "【名】精神；知性　【自】【他】嫌がる；気をつける",
+      "examples": [
+        {
+          "en": "Do you mind if I open the window?",
+          "ja": "（（窓を開けても構いませんか。））"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "word": "definition",
+      "definition": "【名】定義",
+      "examples": [
+        {
+          "en": "I can't understand the definition of the word that is in the dictionary.",
+          "ja": "（（辞書に載っている言葉の定義がわかりません。））"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "word": "define",
+      "definition": "【他】を定義する；を明瞭に示す；を決定づける",
+      "examples": [
+        {
+          "en": "How does the dictionary define this word?",
+          "ja": "（（辞書はこの単語をどのように定義していますか。））"
+        }
+      ]
+    },
+    {
+      "id": "76-1",
+      "word": "definitely",
+      "definition": "【副】明確に；〈否定語とともに〉絶対に",
+      "examples": []
+    },
+    {
+      "id": "76-2",
+      "word": "definite",
+      "definition": "【形】明確な",
+      "examples": []
+    },
+    {
+      "id": 77,
+      "word": "formula",
+      "definition": "【名】公式；秘訣　[複] -s，（「公式」の意のみ）formulae",
+      "examples": [
+        {
+          "en": "We have to learn a long list of formulae for our science class.",
+          "ja": "（（私たちは科学の授業で数えきれないほどの公式を覚えなければならない。））"
+        }
+      ]
+    },
+    {
+      "id": "77-1",
+      "word": "formulate",
+      "definition": "【他】を明確に述べる；を公式で示す",
+      "examples": []
+    },
+    {
+      "id": "77-2",
+      "word": "theorem",
+      "definition": "【名】定理",
+      "examples": []
+    },
+    {
+      "id": 78,
+      "word": "clearly",
+      "definition": "【副】明らかに，はっきりと",
+      "examples": [
+        {
+          "en": "He speaks very clearly.",
+          "ja": "（（彼はとてもはっきりと話す。））"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "word": "separate",
+      "definition": "【他】を分ける　【形】離れた，別個の",
+      "examples": [
+        {
+          "en": "We have a big house, so my brother and I have separate rooms.",
+          "ja": "（（うちは大きな家なので，兄と私は別々の部屋を持っている。））"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "word": "divide",
+      "definition": "【他】を分割する；を分配する（⇔unite）　【名】隔たり",
+      "examples": [
+        {
+          "en": "They divided the prize money among the team members.",
+          "ja": "（（彼らはチームメンバーの間で賞金を分配した。））"
+        }
+      ]
+    },
+    {
+      "id": "80-1",
+      "word": "division",
+      "definition": "【名】部門；分割；割り算",
+      "examples": []
+    },
+    {
+      "id": 81,
+      "word": "split",
+      "definition": "【他】を分ける《into》　【自】分裂する　【名】分裂；裂け目《in》　split＞split",
+      "examples": [
+        {
+          "en": "We split the bill between us.",
+          "ja": "（（私たちは勘定を折半した。））"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "word": "alone",
+      "definition": "【形】孤独で　【副】1人で",
+      "examples": [
+        {
+          "en": "I walked home alone.",
+          "ja": "（（私は家に１人で歩いて帰った。））"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "word": "poison",
+      "definition": "【名】毒（物）",
+      "examples": [
+        {
+          "en": "The chemical can be poison to the human body under certain conditions.",
+          "ja": "（（その化学物質は特定の条件下で人体にとって毒になり得る。））"
+        }
+      ]
+    },
+    {
+      "id": "83-1",
+      "word": "poisonous",
+      "definition": "【形】有毒な；有害な",
+      "examples": []
+    },
+    {
+      "id": 84,
+      "word": "carefully",
+      "definition": "【副】注意深く",
+      "examples": [
+        {
+          "en": "He carefully opened the door so as not to wake the sleeping child.",
+          "ja": "（（彼は寝ている子供を起こさないように注意深くドアを開けた。））"
+        }
+      ]
+    },
+    {
+      "id": "84-1",
+      "word": "careful",
+      "definition": "【形】注意深い",
+      "examples": []
+    },
+    {
+      "id": "84-2",
+      "word": "careless",
+      "definition": "【形】不注意な",
+      "examples": []
+    },
+    {
+      "id": 85,
+      "word": "control",
+      "definition": "【他】を制御する；を支配する　【名】支配（力）；抑制",
+      "examples": [
+        {
+          "en": "He was able to control the car easily.",
+          "ja": "（（彼は簡単に車を操縦することができた。））"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "word": "alcohol",
+      "definition": "【名】アルコール；酒",
+      "examples": [
+        {
+          "en": "The chocolate contains a little alcohol.",
+          "ja": "（（そのチョコレートは少量のアルコールを含んでいる。））"
+        }
+      ]
+    },
+    {
+      "id": "86-1",
+      "word": "alcoholic",
+      "definition": "【形】アルコール（中毒）の",
+      "examples": []
+    },
+    {
+      "id": 87,
+      "word": "addict",
+      "definition": "【名】中毒者　【他】《be -ed》中毒である",
+      "examples": [
+        {
+          "en": "Some teenagers are addicted to social media.",
+          "ja": "（（10代の若者の中にはSNS中毒な人もいる。））"
+        }
+      ]
+    },
+    {
+      "id": "87-1",
+      "word": "addiction",
+      "definition": "【名】中毒；熱中《to》",
+      "examples": []
+    },
+    {
+      "id": 88,
+      "word": "instance",
+      "definition": "【名】実例；〈特定の〉場合",
+      "examples": [
+        {
+          "en": "There are many great things to do, for instance, skiing or snowboarding.",
+          "ja": "（（例を挙げればスキーやスノーボードなど，楽しいことがたくさんある。））"
+        }
+      ]
+    },
+    {
+      "id": "88-1",
+      "word": "specimen",
+      "definition": "【名】標本；見本",
+      "examples": []
+    },
+    {
+      "id": 89,
+      "word": "depend",
+      "definition": "【自】～次第である；依存する《on》",
+      "examples": [
+        {
+          "en": "Your choice of holiday destination depends on what you want to do.",
+          "ja": "（（休暇の行き先の選択は，あなたが何をしたいか次第だ。））"
+        }
+      ]
+    },
+    {
+      "id": "89-1",
+      "word": "dependence",
+      "definition": "【名】頼ること",
+      "examples": []
+    },
+    {
+      "id": "89-2",
+      "word": "dependent",
+      "definition": "【形】～次第である；依存した《on》",
+      "examples": []
+    },
+    {
+      "id": 90,
+      "word": "independent",
+      "definition": "【形】独立した；関係がない《of》",
+      "examples": [
+        {
+          "en": "These two factors are independent of each other.",
+          "ja": "（（これら2つの要因は互いに無関係である。））"
+        }
+      ]
+    },
+    {
+      "id": "90-1",
+      "word": "independence",
+      "definition": "【名】独立",
+      "examples": []
+    },
+    {
+      "id": "90-2",
+      "word": "parasite",
+      "definition": "【名】寄生虫",
+      "examples": []
+    }
+  ]
+}

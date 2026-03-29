@@ -1,0 +1,590 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "37　真実を使ったうそ (2)　[人間]",
+  "text": {
+    "en": "① *Untrustworthy [[HL]]candidates [[/HL]]in political [[HL]]campaigns [[/HL]]often use such deceptive [[HL]]communication [[/HL]]strategies to trick voters into [[HL]]supporting [[/HL]]them. Let’s say that during [[HL]]Governor [[/HL]]Smith’s [[HL]]last term[[/HL]], her state lost one million jobs but gained three million new ones. Then she [[HL]]seeks [[/HL]]another term in office and enters the election race. One of her opponents in that race [[HL]]subsequently [[/HL]]begins a multimedia [[HL]]advertising [[/HL]]campaign saying, “During Governor Smith’s term, the state lost one million jobs!” That is indeed true but, at the same time, it is intentionally deceptive. A more [[HL]]honest [[/HL]]statement from her [[HL]]opponent [[/HL]]would have been, “During Governor Smith’s term, the state had a *net gain of two million jobs.”\n\n② Advertisers sometimes use half-truths as well. Because it’s [[HL]]illegal [[/HL]]in many countries to openly make false claims about a product or service, some advertisers try to [[HL]]mislead [[/HL]]you with the truth. An [[HL]]ad [[/HL]]might [[HL]]consequently boast[[/HL]], “Nine out of ten doctors [[HL]]recommend [[/HL]]Yucky [[HL]]Pills [[/HL]]to [[HL]]cure [[/HL]]nose *pimples.”  This is also a [[HL]]factual [[/HL]]statement but one which deliberately fails to mention that only ten doctors were asked about Yucky Pills and nine of these actually work for the Yucky [[HL]]Corporation[[/HL]].\n\n（190 words）",
+    "ja": "*untrustworthy「信頼できない」　*net「正味の」　*pimple「にきび，吹き出物」\n\n❶　政治[[HL]]運動[[/HL]]〔選挙活動〕で信頼できない[[HL]]候補者[[/HL]]はよく，有権者をだまして自分[[HL]]を支持さ[[/HL]]せるために，このような人をだますような[[HL]]コミュニケーション[[/HL]]戦略を用いる。仮にスミス[[HL]]州知事[[/HL]]の[[HL]]前任期[[/HL]]中に，彼女の州は100万人分の雇用を失ったが，300万人の新たな雇用を得たとしよう。それから，彼女は再任[[HL]]を目指し[[/HL]]て，選挙戦に参入する。その選挙戦における彼女の対立候補者の1人が[[HL]]その後[[/HL]]，「スミス州知事の任期中に，この州は100万人分の雇用を失ったのです！」と訴えるマルチメディアを使った[[HL]]宣伝[[/HL]]活動を始める。言っていることは確かに真実であるが，同時に，それは故意に人をだますような内容である。彼女の[[HL]]対立候補者[[/HL]]によるより[[HL]]誠実な[[/HL]]声明はさしずめ，「スミス州知事の任期中に，この州では200万人分の雇用の純増だった」というものだっただろう。\n\n❷　広告主も時に，一部だけが真実の話を用いることがある。製品やサービスについて，公然と虚偽の主張をすることは，多くの国で[[HL]]違法な[[/HL]]ため，真実を用いてあなた[[HL]]を誤解させ[[/HL]]ようとする広告主もいる。[[HL]]その結果[[/HL]]ある[[HL]]広告[[/HL]]は，「10人中9人の医者が，鼻のにきび[[HL]]を治す[[/HL]]のにヤッキー・[[HL]]ピルを推薦しています[[/HL]]」[[HL]]と自慢する[[/HL]]かもしれない。これも，[[HL]]事実に基づく[[/HL]]発言ではあるのだが，ヤッキー・ピルについて質問された医者は10人しかいなかったことや，そのうちの9人が実はヤッキー・コーポレーション〔[[HL]]会社[[/HL]]〕に勤めているということに，わざと言及していない発言なのだ。"
+  },
+  "vocabulary": [
+    {
+      "id": 1057,
+      "word": "candidate",
+      "definition": "【名】候補（者）；志願者",
+      "examples": [
+        {
+          "en": "There are three candidates for the new position at our office.",
+          "ja": "（（私たちの事務所の新しい役職には3人の候補者がいる。））"
+        }
+      ]
+    },
+    {
+      "id": 1058,
+      "word": "campaign",
+      "definition": "【名】〈社会的〉運動　【自】運動を起こす",
+      "examples": [
+        {
+          "en": "Social media is one of the most common election campaign tools.",
+          "ja": "（（ソーシャルメディアは最もよくある選挙運動の道具の１つだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1058-1",
+      "word": "slogan",
+      "definition": "【名】スローガン，標語",
+      "examples": []
+    },
+    {
+      "id": 1059,
+      "word": "communication",
+      "definition": "【名】〈情報などの〉伝達；意思疎通；通信",
+      "examples": [
+        {
+          "en": "I have improved my English communication skills.",
+          "ja": "（（私は英語のコミュニケーション能力を向上させた。））"
+        }
+      ]
+    },
+    {
+      "id": "1059-1",
+      "word": "communicate",
+      "definition": "【自】意志の疎通をする《with》　【他】を伝える",
+      "examples": []
+    },
+    {
+      "id": 1060,
+      "word": "support",
+      "definition": "【他】を支持する；を支える　【名】支持；支え",
+      "examples": [
+        {
+          "en": "The political party is supported by about 40 percent of the population.",
+          "ja": "（（その政党は人口の約40%から支持されている。））"
+        }
+      ]
+    },
+    {
+      "id": "1060-1",
+      "word": "supporter",
+      "definition": "【名】支持者；サポーター",
+      "examples": []
+    },
+    {
+      "id": "1060-2",
+      "word": "supportive",
+      "definition": "【形】支えとなる，協力的な",
+      "examples": []
+    },
+    {
+      "id": 1061,
+      "word": "assist",
+      "definition": "【他】を助ける　【自】助ける《in》",
+      "examples": [
+        {
+          "en": "I have to assist the manager in preparing for the presentation.",
+          "ja": "（（私は上司が発表の準備をするのを手伝わなければならない。））"
+        }
+      ]
+    },
+    {
+      "id": "1061-1",
+      "word": "assistance",
+      "definition": "【名】援助；助力",
+      "examples": []
+    },
+    {
+      "id": 1062,
+      "word": "aid",
+      "definition": "【名】支援；救援（物資） 【他】を援助する",
+      "examples": [
+        {
+          "en": "The Japanese government provides a lot of aid to Asian countries.",
+          "ja": "（（日本政府はアジア諸国に多くの支援を提供している。））"
+        }
+      ]
+    },
+    {
+      "id": 1063,
+      "word": "governor",
+      "definition": "【名】（州）知事；支配者",
+      "examples": [
+        {
+          "en": "The Governor of Tokyo has just resigned.",
+          "ja": "（（東京都知事が今辞任したところだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1063-1",
+      "word": "governance",
+      "definition": "【名】統治；運営",
+      "examples": []
+    },
+    {
+      "id": 1064,
+      "word": "last",
+      "definition": "【形】《the》最後の；この前の　【自】続く；長持ちする",
+      "examples": [
+        {
+          "en": "The rain lasted for three days.",
+          "ja": "（（雨は3日間続いた。））"
+        }
+      ]
+    },
+    {
+      "id": 1065,
+      "word": "term",
+      "definition": "【名】（専門）用語；学期；任期；［複］条件；［複］間柄",
+      "examples": [
+        {
+          "en": "During the first term of the year, you will study general subjects.",
+          "ja": "（（年の最初の学期は一般科目を勉強する。））"
+        }
+      ]
+    },
+    {
+      "id": 1066,
+      "word": "semester",
+      "definition": "【名】〈2学期制の〉学期",
+      "examples": [
+        {
+          "en": "You need to take this course during the first semester.",
+          "ja": "（（最初の学期にはこのコースを取る必要がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1067,
+      "word": "terminal",
+      "definition": "【形】末期の　【名】発着場；終着〔始発〕地",
+      "examples": [
+        {
+          "en": "The doctor specializes in terminal care.",
+          "ja": "（（その医師は終末医療を専門としている。））"
+        }
+      ]
+    },
+    {
+      "id": 1068,
+      "word": "duration",
+      "definition": "【名】継続（期間）",
+      "examples": [
+        {
+          "en": "The duration of this contract is three years.",
+          "ja": "（（この契約の期間は3年だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1069,
+      "word": "deadline",
+      "definition": "【名】締切",
+      "examples": [
+        {
+          "en": "I was able to submit the report well before the deadline.",
+          "ja": "（（私は締切よりもかなり前にレポートを提出することができた。））"
+        }
+      ]
+    },
+    {
+      "id": 1070,
+      "word": "seek",
+      "definition": "【他】を探し求める；を得ようとする；…しようと努める《to do》　sought＞sought",
+      "examples": [
+        {
+          "en": "He sought help from a doctor to relieve his headache.",
+          "ja": "（（頭痛を和らげるために彼は医者に助けを求めた。））"
+        }
+      ]
+    },
+    {
+      "id": 1071,
+      "word": "strive",
+      "definition": "【自】努力する《for，to do》",
+      "examples": [
+        {
+          "en": "We strive to improve our service in order to earn customer satisfaction.",
+          "ja": "（（当社は顧客満足を得るためサービスの改善に努力している。））"
+        }
+      ]
+    },
+    {
+      "id": 1072,
+      "word": "inquiry",
+      "definition": "【名】問い合わせ；調査",
+      "examples": [
+        {
+          "en": "Thank you for your inquiry about our product.",
+          "ja": "（（当社の製品についてお問い合わせいただきありがとうございます。））"
+        }
+      ]
+    },
+    {
+      "id": "1072-1",
+      "word": "inquire",
+      "definition": "【自】【他】（事を）尋ねる",
+      "examples": []
+    },
+    {
+      "id": 1073,
+      "word": "subsequently",
+      "definition": "【副】それに続いて；後で〔に〕",
+      "examples": [
+        {
+          "en": "He was subsequently promoted to vice president.",
+          "ja": "（（彼はその後，副社長に昇進した。））"
+        }
+      ]
+    },
+    {
+      "id": "1073-1",
+      "word": "subsequent",
+      "definition": "【形】続いて起こる，その後の",
+      "examples": []
+    },
+    {
+      "id": 1074,
+      "word": "advertise",
+      "definition": "【自】【他】広告する，宣伝する",
+      "examples": [
+        {
+          "en": "Many companies advertise their products on the Internet.",
+          "ja": "（（多くの会社がインターネットで自社の製品を広告している。））"
+        }
+      ]
+    },
+    {
+      "id": "1074-1",
+      "word": "advertisement",
+      "definition": "【名】広告",
+      "examples": []
+    },
+    {
+      "id": 1075,
+      "word": "honest",
+      "definition": "【形】正直な，誠実な；率直な",
+      "examples": [
+        {
+          "en": "To be honest, I am a little nervous.",
+          "ja": "（（正直に言うと少し緊張している。））"
+        }
+      ]
+    },
+    {
+      "id": "1075-1",
+      "word": "honestly",
+      "definition": "【副】正直に；本当に",
+      "examples": []
+    },
+    {
+      "id": 1076,
+      "word": "honor",
+      "definition": "【名】名誉；敬意　【他】を尊敬する",
+      "examples": [
+        {
+          "en": "It is an honor to finally meet you in person.",
+          "ja": "（（ようやくあなたに直接お会いできて光栄です。））"
+        }
+      ]
+    },
+    {
+      "id": 1077,
+      "word": "reputation",
+      "definition": "【名】名声；評判",
+      "examples": [
+        {
+          "en": "The English professor has a great reputation among the students.",
+          "ja": "（（その英国人教授は学生の間でとても評判がよい。））"
+        }
+      ]
+    },
+    {
+      "id": 1078,
+      "word": "celebrity",
+      "definition": "【名】名声；著名人",
+      "examples": [
+        {
+          "en": "The singer is an international celebrity.",
+          "ja": "（（その歌手は国際的な著名人だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1079,
+      "word": "compliment",
+      "definition": "【名】ほめ言葉；お世辞　【他】をほめる",
+      "examples": [
+        {
+          "en": "I feel a little embarrassed when I compliment someone.",
+          "ja": "（（私は誰かをほめる時に少し恥ずかしく感じてしまう。））"
+        }
+      ]
+    },
+    {
+      "id": 1080,
+      "word": "innocent",
+      "definition": "【形】無実の，無罪の；無邪気な",
+      "examples": [
+        {
+          "en": "The police released the man when they realized he was innocent.",
+          "ja": "（（警察は彼が無実であることがわかり釈放した。））"
+        }
+      ]
+    },
+    {
+      "id": 1081,
+      "word": "opponent",
+      "definition": "【名】相手，敵；反対者",
+      "examples": [
+        {
+          "en": "The player looked at his opponent and thought he would easily win.",
+          "ja": "（（その選手は対戦相手を見て簡単に勝てると思った。））"
+        }
+      ]
+    },
+    {
+      "id": 1082,
+      "word": "illegal",
+      "definition": "【形】違法の",
+      "examples": [
+        {
+          "en": "Some types of drugs are illegal in Japan.",
+          "ja": "（（日本では一部に違法な薬もある。））"
+        }
+      ]
+    },
+    {
+      "id": 1083,
+      "word": "justify",
+      "definition": "【他】を正当化する",
+      "examples": [
+        {
+          "en": "You will need to justify your reasons for these actions.",
+          "ja": "（（あなたはこれらの行動の理由を正当化する必要があるだろう。））"
+        }
+      ]
+    },
+    {
+      "id": "1083-1",
+      "word": "justification",
+      "definition": "【名】正当な理由；正当化",
+      "examples": []
+    },
+    {
+      "id": 1084,
+      "word": "mislead",
+      "definition": "【他】を誤解させる；を誤って導く > misled > misled",
+      "examples": [
+        {
+          "en": "Don't be misled by the graph.",
+          "ja": "（（そのグラフに惑わされてはいけない。））"
+        }
+      ]
+    },
+    {
+      "id": "1084-1",
+      "word": "misleading",
+      "definition": "【形】誤解を招く",
+      "examples": []
+    },
+    {
+      "id": 1085,
+      "word": "confuse",
+      "definition": "【他】を当惑させる；を混同する",
+      "examples": [
+        {
+          "en": "Don't confuse liberty with license.",
+          "ja": "（（自由を勝手気ままと混同してはいけない。））"
+        }
+      ]
+    },
+    {
+      "id": "1085-1",
+      "word": "confusion",
+      "definition": "【名】混乱；混同",
+      "examples": []
+    },
+    {
+      "id": "1085-2",
+      "word": "scramble",
+      "definition": "【他】を混乱させる　【名】大あわて",
+      "examples": []
+    },
+    {
+      "id": 1086,
+      "word": "ad",
+      "definition": "【名】広告〈advertisementの短縮形〉",
+      "examples": [
+        {
+          "en": "I looked at the ads in the newspaper for a new apartment.",
+          "ja": "（（私は新聞で新しいアパートの広告を見た。））"
+        }
+      ]
+    },
+    {
+      "id": 1087,
+      "word": "consequently",
+      "definition": "【副】その結果（≒therefore）",
+      "examples": [
+        {
+          "en": "He stole money from the company so, consequently, he lost his job.",
+          "ja": "（（彼は会社からお金を盗んだので，その結果職を失った。））"
+        }
+      ]
+    },
+    {
+      "id": 1088,
+      "word": "consequence",
+      "definition": "【名】結果（≒result, effect）；重要性（≒importance）",
+      "examples": [
+        {
+          "en": "Think of the consequences of your actions before you act.",
+          "ja": "（（行動する前に自分の行動の結果を考えなさい。））"
+        }
+      ]
+    },
+    {
+      "id": 1089,
+      "word": "boast",
+      "definition": "【他】…と自慢げに言う　【自】《～を》自慢する；誇る《of, about》",
+      "examples": [
+        {
+          "en": "He kept boasting to everybody that he had won the tournament.",
+          "ja": "（（彼はトーナメントで勝ったとみんなに自慢し続けた。））"
+        }
+      ]
+    },
+    {
+      "id": 1090,
+      "word": "exaggerate",
+      "definition": "【他】【自】誇張する",
+      "examples": [
+        {
+          "en": "I think this article exaggerates the dangers of social media.",
+          "ja": "（（この記事はソーシャルメディアの危険性を誇張していると思う。））"
+        }
+      ]
+    },
+    {
+      "id": 1091,
+      "word": "recommend",
+      "definition": "【他】を推薦する；を勧める（≒suggest）",
+      "examples": [
+        {
+          "en": "My teacher recommended that I study English hard for the sake of my future.",
+          "ja": "（（私の先生は私に将来のために英語を一生懸命勉強するように勧めた。））"
+        }
+      ]
+    },
+    {
+      "id": "1091-1",
+      "word": "recommendation",
+      "definition": "【名】勧告；推薦（状）",
+      "examples": []
+    },
+    {
+      "id": 1092,
+      "word": "advocate",
+      "definition": "【名】提唱者；支援者　【他】を提唱する",
+      "examples": [
+        {
+          "en": "He is well-known as an advocate of peace in the region.",
+          "ja": "（（彼はその地域の平和の提唱者として有名だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1093,
+      "word": "pill",
+      "definition": "【名】錠剤；ピル",
+      "examples": [
+        {
+          "en": "My elderly mother takes three pills a day for her medical condition.",
+          "ja": "（（私の年老いた母は，病気のために1日に3錠の薬を飲んでいる。））"
+        }
+      ]
+    },
+    {
+      "id": 1094,
+      "word": "cure",
+      "definition": "【他】を治療する　【名】治療",
+      "examples": [
+        {
+          "en": "Doctors think that they have found a cure for the common cold.",
+          "ja": "（（医者は普通の風邪の治療法を見つけたと思っている。））"
+        }
+      ]
+    },
+    {
+      "id": 1095,
+      "word": "heal",
+      "definition": "【他】を治す　【自】〈傷などが〉治る",
+      "examples": [
+        {
+          "en": "Don't worry, your injuries will heal over time.",
+          "ja": "（（けがは時間が経てば治るから心配しないで。））"
+        }
+      ]
+    },
+    {
+      "id": 1096,
+      "word": "factual",
+      "definition": "【形】事実の；事実に基づいた",
+      "examples": [
+        {
+          "en": "We need to find factual evidence to support the hypothesis.",
+          "ja": "（（我々はその仮説を支える事実に基づく証拠を見つける必要がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1097,
+      "word": "corporation",
+      "definition": "【名】企業；株式会社；法人（≒firm）",
+      "examples": [
+        {
+          "en": "He works for a large international corporation in the city.",
+          "ja": "（（彼は市内の大きな国際企業に勤めている。））"
+        }
+      ]
+    },
+    {
+      "id": "1097-1",
+      "word": "corporate",
+      "definition": "【形】法人の；団体の",
+      "examples": []
+    },
+    {
+      "id": 1098,
+      "word": "enterprise",
+      "definition": "【名】企業；事業；企て",
+      "examples": [
+        {
+          "en": "The bank mainly finances small and medium-sized enterprises.",
+          "ja": "（（その銀行は主に中小企業に融資している。））"
+        }
+      ]
+    },
+    {
+      "id": 1099,
+      "word": "pioneer",
+      "definition": "【名】開拓者；先駆者",
+      "examples": [
+        {
+          "en": "Our professor is a pioneer in the field of cloning.",
+          "ja": "（（私たちの教授はクローン技術の分野の先駆者だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1100,
+      "word": "entrepreneur",
+      "definition": "【名】起業家",
+      "examples": [
+        {
+          "en": "He is one of the most famous entrepreneurs in the world.",
+          "ja": "（（彼は世界で最も有名な起業家の1人だ。））"
+        }
+      ]
+    }
+  ]
+};

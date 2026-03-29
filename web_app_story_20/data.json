@@ -1,0 +1,668 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "20　ハエの特殊能力 (2)　[科学]",
+  "text": {
+    "en": "① Dickinson’s laboratory works with *fruit flies.  Researchers put them in [[HL]]chambers [[/HL]]and [[HL]]manipulate [[/HL]]the [[HL]]visual [[/HL]]field, filming the flies in super-slow [[HL]]motion[[/HL]], 6,000 [[HL]]frames [[/HL]]a second.  Dickinson is interested in knowing how flies [[HL]]avoid collisions[[/HL]].  He has found that certain [[HL]]patterns[[/HL]], such as 90-[[HL]]degree [[/HL]]turns, are [[HL]]triggered [[/HL]]by visual [[HL]]cues [[/HL]]and two *equilibrium [[HL]]organs [[/HL]]on their backs that [[HL]]function [[/HL]]like a *gyroscope.\n\n② Flies have only a [[HL]]dozen [[/HL]]muscles for maneuvering, but they’re [[HL]]loaded [[/HL]]with sensors.  In addition to their [[HL]]compound [[/HL]]eyes, which [[HL]]permit [[/HL]]*panoramic *imagery and are [[HL]]excellent [[/HL]]at [[HL]]detecting [[/HL]]motion, they have wind-[[HL]]sensitive [[/HL]]hairs and *antennae.  They also have three light sensors on the tops of their heads, which tell them which way is up.  [[HL]]Roughly [[/HL]]two-thirds of a fly’s entire [[HL]]nervous [[/HL]]system is [[HL]]devoted [[/HL]]to [[HL]]processing [[/HL]]visual images.  They take all this [[HL]]sensory data [[/HL]]and boil it down to a few basic [[HL]]commands[[/HL]], such as “go left” and “go right.”\t（152 words）",
+    "ja": "*fruit fly「ショウジョウバエ」 *equilibrium「平衡」\n\n*gyroscope「ジャイロスコープ〔姿勢制御装置〕」\n\n*panoramic「全景が見渡せる」 *imagery「(目に見える)像」\n\n*antennae「触角(antenna の複数形)」\n\n❶　ディキンソンの研究室はショウジョウバエを扱っている。研究者たちはショウジョウバエを[[HL]]小室[[/HL]]に入れて[[HL]]視野[[/HL]]を[[HL]]操作し[[/HL]]，1秒間に6,000[[HL]]コマ[[/HL]]というスーパースロー[[HL]]モーション[[/HL]]でハエを撮影する。ディキンソンは，ハエがどのように[[HL]]衝突を避ける[[/HL]]かを知ることに関心をもっている。彼は，90[[HL]]度[[/HL]]の方向転換などの特定の[[HL]]パターン[[/HL]]が，視覚への[[HL]]刺激[[/HL]]や，ハエの背中にあってジャイロスコープのように[[HL]]機能する[[/HL]]2つの平衡[[HL]]器官[[/HL]]によって[[HL]]引き起こされ[[/HL]]ることを発見した。\n\n❷　ハエには飛行のための筋肉は[[HL]]12[[/HL]]しかないが，[[HL]]センサーをたくさん備えて[[/HL]]いる。全景を見渡す像（を作り出すこと）[[HL]]を可能にし[[/HL]]，動き[[HL]]を探知する[[/HL]]のに[[HL]]秀でた複[[/HL]]眼に加え，風に[[HL]]敏感な[[/HL]]体毛と触角を持っている。頭頂部には光を感じ取るセンサーも3つ持っており，それらがどの方向が上なのかを教えてくれる。ハエの全[[HL]]神経[[/HL]]系の[[HL]]およそ[[/HL]]3分の2は，視覚映像[[HL]]を処理する[[/HL]]ことに[[HL]]充てられ[[/HL]]ている。ハエはこうした[[HL]]感覚情報[[/HL]]をすべて取り入れ，それを「左へ行け」，「右へ行け」といったほんの数個の基本的な[[HL]]指令[[/HL]]に集約するのである。"
+  },
+  "vocabulary": [
+    {
+      "id": 507,
+      "word": "chamber",
+      "definition": "【名】〈動植物などの内部の〉空間，小室；部屋；会議所",
+      "examples": [
+        {
+          "en": "The heart consists of four chambers.",
+          "ja": "（（心臓は４つの小室で構成されている。））"
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "word": "cabin",
+      "definition": "【名】小屋；船室",
+      "examples": [
+        {
+          "en": "We stayed at a log cabin that night.",
+          "ja": "（（私たちはその夜，丸太小屋に泊まった。））"
+        }
+      ]
+    },
+    {
+      "id": "508-1",
+      "word": "hut",
+      "definition": "【名】小屋",
+      "examples": []
+    },
+    {
+      "id": 509,
+      "word": "manipulate",
+      "definition": "【他】〈人・世論・機械など〉を操る",
+      "examples": [
+        {
+          "en": "He finds it easy to manipulate people into doing what he wants.",
+          "ja": "（（彼は人を操って自分の思い通りのことをさせるのは簡単だと思っている。））"
+        }
+      ]
+    },
+    {
+      "id": "509-1",
+      "word": "manipulation",
+      "definition": "【名】改ざん；巧みな操作",
+      "examples": []
+    },
+    {
+      "id": 510,
+      "word": "visual",
+      "definition": "【形】視覚の；目に見える",
+      "examples": [
+        {
+          "en": "The Internet provides us with many visual images of the world.",
+          "ja": "（（インターネットは私たちに世界の多くの視覚映像を与えてくれる。））"
+        }
+      ]
+    },
+    {
+      "id": "510-1",
+      "word": "vision",
+      "definition": "【名】視力；見通す力；未来像；空想",
+      "examples": []
+    },
+    {
+      "id": "510-2",
+      "word": "envision",
+      "definition": "【他】を思い描く",
+      "examples": []
+    },
+    {
+      "id": 511,
+      "word": "motion",
+      "definition": "【名】運動；動議；動作",
+      "examples": [
+        {
+          "en": "He made some quick motions with his hands.",
+          "ja": "（（彼は両手で素早い動きをした。））"
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "word": "movement",
+      "definition": "【名】運動（団体）；動き；移動",
+      "examples": [
+        {
+          "en": "The terrible weather restricted everybody's movement.",
+          "ja": "（（ひどい天候のせいで，全員の移動が制限された。））"
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "word": "frame",
+      "definition": "【名】枠；骨組み；体格；〈映画などの〉コマ　【他】を枠にはめる",
+      "examples": [
+        {
+          "en": "He put his painting in a beautiful frame.",
+          "ja": "（（彼は絵を美しい額に入れた。））"
+        }
+      ]
+    },
+    {
+      "id": "513-1",
+      "word": "framework",
+      "definition": "【名】枠組み；構造",
+      "examples": []
+    },
+    {
+      "id": 514,
+      "word": "avoid",
+      "definition": "【他】を避ける",
+      "examples": [
+        {
+          "en": "You should avoid spending too much time on one thing.",
+          "ja": "（（１つのことに時間を使いすぎるのは避けるべきだ。））"
+        }
+      ]
+    },
+    {
+      "id": "514-1",
+      "word": "avoidance",
+      "definition": "【名】回避；控えること",
+      "examples": []
+    },
+    {
+      "id": 515,
+      "word": "refrain",
+      "definition": "【自】差し控える《from》",
+      "examples": [
+        {
+          "en": "I will refrain from commenting on that matter.",
+          "ja": "（（その件についてコメントを差し控えます。））"
+        }
+      ]
+    },
+    {
+      "id": 516,
+      "word": "collision",
+      "definition": "【名】衝突",
+      "examples": [
+        {
+          "en": "The collision between the two trucks blocked the road for hours.",
+          "ja": "（（2台のトラックの衝突は何時間も道路を塞いだ。））"
+        }
+      ]
+    },
+    {
+      "id": "516-1",
+      "word": "collide",
+      "definition": "【自】衝突する《with》",
+      "examples": []
+    },
+    {
+      "id": 517,
+      "word": "crash",
+      "definition": "【自】【他】衝突〔墜落〕する〔させる〕　【名】衝突；故障",
+      "examples": [
+        {
+          "en": "The car crashed into the wall of the house.",
+          "ja": "（（車は家の壁に衝突した。））"
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "word": "bump",
+      "definition": "【自】ぶつかる　【名】でこぼこ；減速帯",
+      "examples": [
+        {
+          "en": "When the train suddenly stopped, I bumped into a stranger.",
+          "ja": "（（電車が急に止まった時，知らない人にぶつかった。））"
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "word": "pattern",
+      "definition": "【名】傾向，パターン，様式；模様",
+      "examples": [
+        {
+          "en": "This wallpaper has a really interesting pattern on it.",
+          "ja": "（（この壁紙には実におもしろい模様が描かれている。））"
+        }
+      ]
+    },
+    {
+      "id": 520,
+      "word": "degree",
+      "definition": "【名】程度；（角度・温度などの）度；学位",
+      "examples": [
+        {
+          "en": "He achieved a degree of success at his chosen career.",
+          "ja": "（（彼は自分の選んだ職業である程度の成功を収めた。））"
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "word": "trigger",
+      "definition": "【他】のきっかけになる　【名】〈銃の〉引き金；誘因",
+      "examples": [
+        {
+          "en": "The pollen from cedar trees can trigger an allergic reaction in many people.",
+          "ja": "（（杉の木の花粉は多くの人にアレルギー反応を引き起こす可能性がある。））"
+        }
+      ]
+    },
+    {
+      "id": "521-1",
+      "word": "bullet",
+      "definition": "【名】弾丸",
+      "examples": []
+    },
+    {
+      "id": 522,
+      "word": "cue",
+      "definition": "【名】合図；刺激；きっかけ；ヒント",
+      "examples": [
+        {
+          "en": "She started tidying the room, so I took the cue and went home.",
+          "ja": "（（彼女が部屋を片付け始めたので，私はそれを合図に家に帰った。））"
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "word": "clue",
+      "definition": "【名】手がかり《to》",
+      "examples": [
+        {
+          "en": "By adding all the clues together you can solve the puzzle.",
+          "ja": "（（すべてのヒントを足し合わせるとパズルが解ける。））"
+        }
+      ]
+    },
+    {
+      "id": "523-1",
+      "word": "hint",
+      "definition": "【名】ヒント　【他】をほのめかす",
+      "examples": []
+    },
+    {
+      "id": 524,
+      "word": "signal",
+      "definition": "【名】合図；信号（機）　【他】に合図する；《…ということ》を合図する《that ...》",
+      "examples": [
+        {
+          "en": "The car signaled that it was going to turn left.",
+          "ja": "（（車は左折の合図をした。））"
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "word": "organ",
+      "definition": "【名】器官，臓器；組織",
+      "examples": [
+        {
+          "en": "I decided to become an organ donor when I die.",
+          "ja": "（（私は死んだら臓器提供者になろうと決めた。））"
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "word": "tissue",
+      "definition": "【名】〈生物の〉組織；ティッシュペーパー",
+      "examples": [
+        {
+          "en": "Skin tissue does not completely heal after a serious burn.",
+          "ja": "（（大やけどの後，皮膚組織は完全には治らない。））"
+        }
+      ]
+    },
+    {
+      "id": "526-1",
+      "word": "cortex",
+      "definition": "【名】〈脳などの〉皮質",
+      "examples": []
+    },
+    {
+      "id": 527,
+      "word": "transplant",
+      "definition": "【他】〈臓器など〉を移植する；を移動させる　【名】移植",
+      "examples": [
+        {
+          "en": "My uncle had a heart transplant last year.",
+          "ja": "（（私のおじは昨年心臓移植を受けた。））"
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "word": "function",
+      "definition": "【名】機能；役割　【自】機能する",
+      "examples": [
+        {
+          "en": "The smartphone now has many different functions.",
+          "ja": "（（スマートフォンは今やさまざまな機能を持っている。））"
+        }
+      ]
+    },
+    {
+      "id": "528-1",
+      "word": "functional",
+      "definition": "【形】機能上の；役に立つ",
+      "examples": []
+    },
+    {
+      "id": 529,
+      "word": "dozen",
+      "definition": "【名】ダース〔12個〕；10あまり",
+      "examples": [
+        {
+          "en": "I bought half a dozen apples at the store.",
+          "ja": "（（私は店で半ダースのリンゴを買った。））"
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "word": "load",
+      "definition": "【他】〈荷〉を積む；にいっぱい載せる　【名】積み荷；重荷",
+      "examples": [
+        {
+          "en": "We loaded all our furniture onto the truck.",
+          "ja": "（（私たちはトラックにすべての家具を積み込んだ。））"
+        }
+      ]
+    },
+    {
+      "id": "530-1",
+      "word": "cargo",
+      "definition": "【名】貨物",
+      "examples": []
+    },
+    {
+      "id": 531,
+      "word": "compound",
+      "definition": "【名】混合物；化合物　【形】複合的な　【他】を悪化させる",
+      "examples": [
+        {
+          "en": "Scientists are continually finding new chemical compounds.",
+          "ja": "（（科学者たちは絶えず新しい化合物を発見している。））"
+        }
+      ]
+    },
+    {
+      "id": 532,
+      "word": "hybrid",
+      "definition": "【形】混成の　【名】混成物；交配種；ハイブリッド（車）",
+      "examples": [
+        {
+          "en": "The new government campaign encourages people to buy hybrid cars.",
+          "ja": "（（新しい政府のキャンペーンは人々にハイブリッド車の購入を奨励している。））"
+        }
+      ]
+    },
+    {
+      "id": 533,
+      "word": "permit",
+      "definition": "【他】を許可する",
+      "examples": [
+        {
+          "en": "Smoking is not permitted in this building.",
+          "ja": "（（この建物では喫煙は許可されていない。））"
+        }
+      ]
+    },
+    {
+      "id": 534,
+      "word": "ban",
+      "definition": "【他】〈公式に〉を禁止する　【名】禁止（令）",
+      "examples": [
+        {
+          "en": "The school tried to ban smartphones in the classroom.",
+          "ja": "（（学校は教室でのスマートフォンを禁止しようとした。））"
+        }
+      ]
+    },
+    {
+      "id": 535,
+      "word": "prohibit",
+      "definition": "【他】を禁止する",
+      "examples": [
+        {
+          "en": "Bringing dairy or meat products into the country is prohibited.",
+          "ja": "（（その国への乳製品や肉製品の持ち込みは禁止されている。））"
+        }
+      ]
+    },
+    {
+      "id": 536,
+      "word": "excellent",
+      "definition": "【形】非常に優れた",
+      "examples": [
+        {
+          "en": "I got excellent grades in my end-of-year tests.",
+          "ja": "（（私は学年末テストで非常に優れた成績をとった。））"
+        }
+      ]
+    },
+    {
+      "id": "536-1",
+      "word": "excellence",
+      "definition": "【名】優秀さ",
+      "examples": []
+    },
+    {
+      "id": "536-2",
+      "word": "excel",
+      "definition": "【自】秀でている",
+      "examples": []
+    },
+    {
+      "id": 537,
+      "word": "detect",
+      "definition": "【他】を検知する；を見抜く",
+      "examples": [
+        {
+          "en": "The earthquake was so small that it was difficult to detect.",
+          "ja": "（（その地震はとても小さかったので，感知するのは難しかった。））"
+        }
+      ]
+    },
+    {
+      "id": "537-1",
+      "word": "detection",
+      "definition": "【名】発見",
+      "examples": []
+    },
+    {
+      "id": 538,
+      "word": "expose",
+      "definition": "【他】をさらす；を暴露する",
+      "examples": [
+        {
+          "en": "The garden is exposed to the sun all day.",
+          "ja": "（（庭は一日中日光にさらされている。））"
+        }
+      ]
+    },
+    {
+      "id": "538-1",
+      "word": "exposure",
+      "definition": "【名】〈危険などに〉さらされること；暴露",
+      "examples": []
+    },
+    {
+      "id": 539,
+      "word": "sensitive",
+      "definition": "【形】敏感な；神経質な《to》",
+      "examples": [
+        {
+          "en": "I have very sensitive skin, so I must be careful on sunny days.",
+          "ja": "（（私は肌がとても敏感なので，晴れの日には気をつけなければならない。））"
+        }
+      ]
+    },
+    {
+      "id": "539-1",
+      "word": "sensitivity",
+      "definition": "【名】感じやすさ",
+      "examples": []
+    },
+    {
+      "id": 540,
+      "word": "roughly",
+      "definition": "【副】おおよそ；乱暴に",
+      "examples": [
+        {
+          "en": "It will take me roughly two hours to finish the job.",
+          "ja": "（（その仕事を終えるのにおおよそ2時間かかるだろう。））"
+        }
+      ]
+    },
+    {
+      "id": "540-1",
+      "word": "rough",
+      "definition": "【形】ざらざらした；粗野な；おおよその",
+      "examples": []
+    },
+    {
+      "id": 541,
+      "word": "approximately",
+      "definition": "【副】おおよそ，約",
+      "examples": [
+        {
+          "en": "There were approximately 25 people at the meeting.",
+          "ja": "（（ミーティングには約25人が参加した。））"
+        }
+      ]
+    },
+    {
+      "id": 542,
+      "word": "nervous",
+      "definition": "【形】神経の；神経質な；心配した",
+      "examples": [
+        {
+          "en": "He was feeling nervous before the important job interview.",
+          "ja": "（（彼は大事な採用面接を前に緊張していた。））"
+        }
+      ]
+    },
+    {
+      "id": "542-1",
+      "word": "nerve",
+      "definition": "【名】神経；勇気",
+      "examples": []
+    },
+    {
+      "id": "542-2",
+      "word": "neuron",
+      "definition": "【名】神経単位〔ニューロン〕",
+      "examples": []
+    },
+    {
+      "id": "542-3",
+      "word": "neural",
+      "definition": "【形】神経（系統）の",
+      "examples": []
+    },
+    {
+      "id": "542-4",
+      "word": "neuroscientist",
+      "definition": "【名】神経科学者",
+      "examples": []
+    },
+    {
+      "id": "542-5",
+      "word": "chemist",
+      "definition": "【名】化学者",
+      "examples": []
+    },
+    {
+      "id": 543,
+      "word": "tense",
+      "definition": "【形】緊張した　【名】時制",
+      "examples": [
+        {
+          "en": "The relation between the two countries is tense.",
+          "ja": "（（その２国間の関係は緊迫している。））"
+        }
+      ]
+    },
+    {
+      "id": "543-1",
+      "word": "gut",
+      "definition": "【名】[複] 根性；内臓",
+      "examples": []
+    },
+    {
+      "id": 544,
+      "word": "devote",
+      "definition": "【他】を充てる；をささげる《to》",
+      "examples": [
+        {
+          "en": "Since he stopped working, he has devoted his time to his hobbies.",
+          "ja": "（（仕事をやめてから，彼は趣味に時間を注いでいる。））"
+        }
+      ]
+    },
+    {
+      "id": "544-1",
+      "word": "devotion",
+      "definition": "【名】献身；専念",
+      "examples": []
+    },
+    {
+      "id": 545,
+      "word": "process",
+      "definition": "【名】過程；手順　【他】を処理〔加工〕する",
+      "examples": [
+        {
+          "en": "If you follow this simple process, you will save a lot of time.",
+          "ja": "（（この簡単な手順に従えば，多くの時間を節約することができる。））"
+        }
+      ]
+    },
+    {
+      "id": 546,
+      "word": "procedure",
+      "definition": "【名】手順；手続き",
+      "examples": [
+        {
+          "en": "Please follow the official procedure to apply for the position.",
+          "ja": "（（正式な手続きに従ってその職に応募してください。））"
+        }
+      ]
+    },
+    {
+      "id": "546-1",
+      "word": "proceed",
+      "definition": "【自】進む；続ける《with》；次に…する《to do》",
+      "examples": []
+    },
+    {
+      "id": 547,
+      "word": "sensory",
+      "definition": "【形】感覚の",
+      "examples": [
+        {
+          "en": "I am interested in how the brain processes sensory information.",
+          "ja": "（（私は脳がどのように感覚情報を処理するかに興味がある。））"
+        }
+      ]
+    },
+    {
+      "id": "547-1",
+      "word": "texture",
+      "definition": "【名】触感；質感",
+      "examples": []
+    },
+    {
+      "id": 548,
+      "word": "data",
+      "definition": "【名】〈単複両扱い〉情報，データ〈単数形は datum〉",
+      "examples": [
+        {
+          "en": "We need a powerful computer to analyze all this data.",
+          "ja": "（（このデータをすべて分析するには，高性能なコンピューターが必要だ。））"
+        }
+      ]
+    },
+    {
+      "id": 549,
+      "word": "output",
+      "definition": "【名】出力；生産高　【他】を出力する",
+      "examples": [
+        {
+          "en": "The industrial output of the country has doubled over the past few decades.",
+          "ja": "（（その国の工業生産高は過去数十年で2倍になった。））"
+        }
+      ]
+    },
+    {
+      "id": "549-1",
+      "word": "input",
+      "definition": "【名】入力（情報）　【他】を入力する",
+      "examples": []
+    },
+    {
+      "id": 550,
+      "word": "command",
+      "definition": "【名】命令；〈言語の〉運用力　【他】を命令する；〈景色〉を見渡す",
+      "examples": [
+        {
+          "en": "The scientist gave the robot some commands to complete simple tasks.",
+          "ja": "（（科学者はロボットに簡単な仕事を完了させる命令を出した。））"
+        }
+      ]
+    },
+    {
+      "id": "550-1",
+      "word": "dictate",
+      "definition": "【他】を命令する；を書き取らせる",
+      "examples": []
+    }
+  ]
+}

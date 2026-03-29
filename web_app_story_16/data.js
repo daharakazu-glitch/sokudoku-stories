@@ -1,0 +1,632 @@
+window.APP_DATA = {
+  "title": "速読英単語 必修編",
+  "subTitle": "16　竹は不思議な植物 (2)　[科学]",
+  "text": {
+    "en": "These bamboos [[HL]]exhibit [[/HL]]another strange behavior ― they all flower at the same time, all over the world, irrespective of [[HL]]geographic location [[/HL]]and [[HL]]climate[[/HL]], as long as they were [[HL]]derived [[/HL]]from the same mother plant. It is as if the plants [[HL]]carry [[/HL]]an [[HL]]internal [[/HL]]clock *ticking away until the *preset [[HL]]alarm [[/HL]]*goes off [[HL]]simultaneously[[/HL]]. This [[HL]]mass [[/HL]]flowering phenomenon also [[HL]]attracts [[/HL]]small animals, [[HL]]mainly [[/HL]]rats. The [[HL]]sudden availability [[/HL]]of fruit in [[HL]]huge [[/HL]]quantities in the [[HL]]forest [[/HL]]brings in tens of millions of [[HL]]hungry [[/HL]]rats who [[HL]]feed[[/HL]], grow and [[HL]]multiply [[/HL]]at alarming [[HL]]rates[[/HL]]. After they eat all the bamboo fruit, the rats start [[HL]]consuming crops [[/HL]]― both in [[HL]]storage [[/HL]]as well as in the field. So, a bamboo flowering event is almost always [[HL]]followed [[/HL]]by [[HL]]famine [[/HL]]and [[HL]]disease [[/HL]]in [[HL]]nearby [[/HL]]villages. In the northeastern Indian [[HL]]state [[/HL]]of Mizoram, the [[HL]]terrible [[/HL]]event, known in the local language as mantam or “bamboo [[HL]]death[[/HL]]” [[HL]]occurs [[/HL]]almost like *clockwork every 48 to 50 years, when the local bamboo species [[HL]]blooms [[/HL]]and produces fruit.\n\n(165 words)",
+    "ja": "*tick away「(時計が)チクタクと鳴る」 *preset「あらかじめ設定された」\n\n*go off「(警報などが)大きな音を立てる」 *clockwork「時計仕掛け」\n\nこれらの竹は，もう1つの奇妙な習性[[HL]]を示す[[/HL]]。同じ母株に[[HL]]由来し[[/HL]]たものであれば，[[HL]]地理的な位置[[/HL]]や[[HL]]気候[[/HL]]に関係なく世界中で同じ時期に一斉に開花するのだ。それはまるで竹が，あらかじめ設定された[[HL]]アラーム[[/HL]]が[[HL]]同時に[[/HL]]鳴り響くまで時を刻む[[HL]]体内[[/HL]]時計を[[HL]]携えている[[/HL]]かのようである。この[[HL]]大量[[/HL]]開花の現象はまた，小型動物，[[HL]]主に[[/HL]]ネズミ[[HL]]を引き寄せる[[/HL]]。[[HL]]森[[/HL]]で[[HL]]膨大な[[/HL]]量の果実が[[HL]]突然手に入るようになること[[/HL]]で，何千万匹もの[[HL]]腹を空かせた[[/HL]]ネズミがやって来て，[[HL]]餌を食べ[[/HL]]，成長し，驚異的な[[HL]]速さ[[/HL]]で[[HL]]増加する[[/HL]]のだ。竹の果実を食べ尽くすと，ネズミは[[HL]]作物を食べ[[/HL]]始める。畑になっているものだけでなく[[HL]]保管[[/HL]]してあるもの両方をだ。そのため，竹の開花が起こったあとには，近隣の村々でほぼ必ず[[HL]]飢饉[[/HL]]や[[HL]]病気[[/HL]]が[[HL]]続いて起きる[[/HL]]。インド北東部のミゾラム[[HL]]州[[/HL]]では，まるで時計仕掛けのように48年から50年の周期で，その土地の竹の種が[[HL]]花を咲かせて[[/HL]]実をつけると，現地語で「マンタム」，すなわち「竹の[[HL]]死[[/HL]]」として知られる[[HL]]恐ろしい[[/HL]]出来事が[[HL]]発生する[[/HL]]。"
+  },
+  "vocabulary": [
+    {
+      "id": 368,
+      "word": "exhibit",
+      "definition": "【他】を展示する；〈感情や能力〉を示す　【名】展示（品）",
+      "examples": [
+        {
+          "en": "Flies exhibit varied behaviors when exposed to light.",
+          "ja": "（（ハエは光にさらされるとさまざまな行動を示す。））"
+        }
+      ]
+    },
+    {
+      "id": 369,
+      "word": "geographic",
+      "definition": "【形】地理的な",
+      "examples": [
+        {
+          "en": "The borders between countries are often based on geographic features such as rivers.",
+          "ja": "（（国と国との境界はしばしば川などの地理的特徴に基づいている。））"
+        }
+      ]
+    },
+    {
+      "id": "369-1",
+      "word": "geographical",
+      "definition": "【形】地理的な；地理学の（=geographic）",
+      "examples": []
+    },
+    {
+      "id": 370,
+      "word": "location",
+      "definition": "【名】場所；位置",
+      "examples": [
+        {
+          "en": "Our stores can be found in a lot of different locations around the country.",
+          "ja": "（（私たちの店は，国内のさまざまな場所にある。））"
+        }
+      ]
+    },
+    {
+      "id": 371,
+      "word": "climate",
+      "definition": "【名】〈年間を通じての〉気候；〈社会･時代の〉傾向",
+      "examples": [
+        {
+          "en": "England has a very mild climate.",
+          "ja": "（（イングランドはとても穏やかな気候だ。））"
+        }
+      ]
+    },
+    {
+      "id": 372,
+      "word": "derive",
+      "definition": "【自】《～に》由来する《from》　【他】を引き出す",
+      "examples": [
+        {
+          "en": "This word is derived from Latin.",
+          "ja": "（（この単語はラテン語に由来する。））"
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "word": "carry",
+      "definition": "【他】を運ぶ；を携帯する",
+      "examples": [
+        {
+          "en": "I had to carry a heavy bag to school today.",
+          "ja": "（（今日は重いカバンを持って学校に行かなければならなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "373-1",
+      "word": "carriage",
+      "definition": "【名】馬車；車両",
+      "examples": []
+    },
+    {
+      "id": 374,
+      "word": "internal",
+      "definition": "【形】内部の；国内の；〈心の〉内面の；体内の",
+      "examples": [
+        {
+          "en": "The car crash caused damage to some of his internal organs.",
+          "ja": "（（彼は自動車事故で内臓の一部に怪我を負った。））"
+        }
+      ]
+    },
+    {
+      "id": "374-1",
+      "word": "external",
+      "definition": "【形】外（側）の　【名】外部",
+      "examples": []
+    },
+    {
+      "id": 375,
+      "word": "alarm",
+      "definition": "【名】恐れ；目覚まし時計；警報，アラーム　【他】をぎょっとさせる",
+      "examples": [
+        {
+          "en": "My alarm clock rings at 6:30 every morning.",
+          "ja": "（（私の目覚まし時計は毎朝6時半に鳴る。））"
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "word": "simultaneously",
+      "definition": "【副】《～と》同時に《with》",
+      "examples": [
+        {
+          "en": "We both started to speak simultaneously.",
+          "ja": "（（私たちは２人とも同時に話し始めた。））"
+        }
+      ]
+    },
+    {
+      "id": "376-1",
+      "word": "simultaneous",
+      "definition": "【形】同時の",
+      "examples": []
+    },
+    {
+      "id": 377,
+      "word": "mass",
+      "definition": "【名】かたまり；多数；〈the -es〉一般大衆；質量　【形】大量の",
+      "examples": [
+        {
+          "en": "The 1950's are said to have been an era of mass production in Japan.",
+          "ja": "（（1950年代は日本における大量生産の時代だったと言われている。））"
+        }
+      ]
+    },
+    {
+      "id": "377-1",
+      "word": "massive",
+      "definition": "【形】巨大な",
+      "examples": []
+    },
+    {
+      "id": 378,
+      "word": "numerous",
+      "definition": "【形】多数の",
+      "examples": [
+        {
+          "en": "Our journey finally started after numerous delays.",
+          "ja": "（（私たちの旅は何度も遅れてようやく始まった。））"
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "word": "attract",
+      "definition": "【他】〈興味・人〉を引きつける",
+      "examples": [
+        {
+          "en": "Magnets attract things that are made of iron.",
+          "ja": "（（磁石は鉄でできているものを引き寄せる。））"
+        }
+      ]
+    },
+    {
+      "id": "379-1",
+      "word": "attraction",
+      "definition": "【名】魅力；呼び物",
+      "examples": []
+    },
+    {
+      "id": "379-2",
+      "word": "attractive",
+      "definition": "【形】魅力的な",
+      "examples": []
+    },
+    {
+      "id": 380,
+      "word": "mainly",
+      "definition": "【副】主として",
+      "examples": [
+        {
+          "en": "I mainly spend my day studying for the exam.",
+          "ja": "（（私は主に試験のための勉強をして１日を過ごしている。））"
+        }
+      ]
+    },
+    {
+      "id": "380-1",
+      "word": "main",
+      "definition": "【形】主要な",
+      "examples": []
+    },
+    {
+      "id": 381,
+      "word": "sudden",
+      "definition": "【形】突然の",
+      "examples": [
+        {
+          "en": "There was a sudden noise that surprised everyone.",
+          "ja": "（（突然の騒音に皆が驚いた。））"
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "word": "availability",
+      "definition": "【名】利用できること；入手可能性",
+      "examples": [
+        {
+          "en": "The city prospered due to the availability of natural resources.",
+          "ja": "（（天然資源が手に入ることによってその都市は栄えた。））"
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "word": "available",
+      "definition": "【形】手に入る；利用できる",
+      "examples": [
+        {
+          "en": "Tickets for the concert will be available on our website from Monday.",
+          "ja": "（（コンサートのチケットは月曜日から我々のウェブサイトで購入できる。））"
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "word": "huge",
+      "definition": "【形】巨大な；膨大な",
+      "examples": [
+        {
+          "en": "He invested a huge amount of money in this project.",
+          "ja": "（（彼はこの計画に膨大な額のお金を投資した。））"
+        }
+      ]
+    },
+    {
+      "id": 385,
+      "word": "forest",
+      "definition": "【名】森林",
+      "examples": [
+        {
+          "en": "The side of the mountain is covered in thick forest.",
+          "ja": "（（山の側面は深い森に覆われている。））"
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "word": "deforestation",
+      "definition": "【名】森林伐採",
+      "examples": [
+        {
+          "en": "The deforestation of the Amazon is causing a lot of environmental damage.",
+          "ja": "（（アマゾンの森林伐採は多くの環境被害を引き起こしている。））"
+        }
+      ]
+    },
+    {
+      "id": "386-1",
+      "word": "desertification",
+      "definition": "【名】砂漠化",
+      "examples": []
+    },
+    {
+      "id": 387,
+      "word": "hungry",
+      "definition": "【形】空腹の；渇望〔熱望〕して",
+      "examples": [
+        {
+          "en": "I was so hungry when I got home.",
+          "ja": "（（家に帰った時，とてもお腹が空いていた。））"
+        }
+      ]
+    },
+    {
+      "id": "387-1",
+      "word": "hunger",
+      "definition": "【名】飢え；渇望",
+      "examples": []
+    },
+    {
+      "id": 388,
+      "word": "starve",
+      "definition": "【自】餓死する，飢える；《be －ing》（死にそうなほど）お腹が空いて",
+      "examples": [
+        {
+          "en": "People are surprised to hear about starving children in Japan.",
+          "ja": "（（日本の飢餓に苦しむ子供たちのことを聞くと，人々は驚く。））"
+        }
+      ]
+    },
+    {
+      "id": "388-1",
+      "word": "starvation",
+      "definition": "【名】飢え；餓死",
+      "examples": []
+    },
+    {
+      "id": 389,
+      "word": "feed",
+      "definition": "【他】〈家族など〉を養う；に食べ物を与える　【自】餌を食べる　 fed＞fed",
+      "examples": [
+        {
+          "en": "I promised to feed my friend's cat while he is away on holiday.",
+          "ja": "（（友人が休暇でいない間，彼の猫に餌をやる約束をした。））"
+        }
+      ]
+    },
+    {
+      "id": "389-1",
+      "word": "graze",
+      "definition": "【自】牧草を食べる　【他】に牧草を食べさせる",
+      "examples": []
+    },
+    {
+      "id": 390,
+      "word": "multiply",
+      "definition": "【他】を増やす；〈数〉を掛ける　【自】増殖する",
+      "examples": [
+        {
+          "en": "Multiply ¥3,000 each by 6 as there are 6 of us.",
+          "ja": "（（6人いるので，一人あたり3,000円を6倍してください。））"
+        }
+      ]
+    },
+    {
+      "id": "390-1",
+      "word": "multiple",
+      "definition": "【形】多様な；倍数の　【名】倍数",
+      "examples": []
+    },
+    {
+      "id": 391,
+      "word": "rate",
+      "definition": "【名】割合（≒ratio）；速度；料金　【他】を評価する",
+      "examples": [
+        {
+          "en": "The marriage rate among young Japanese people is still falling.",
+          "ja": "（（日本の若者を婚姻率は今なお低下している。））"
+        }
+      ]
+    },
+    {
+      "id": "391-1",
+      "word": "rating",
+      "definition": "【名】評価；格付け",
+      "examples": []
+    },
+    {
+      "id": 392,
+      "word": "estimate",
+      "definition": "【他】を見積もる；を評価する　【名】見積もり（書）",
+      "examples": [
+        {
+          "en": "The total cost of the project is estimated to be over 5,000 dollars.",
+          "ja": "（（そのプロジェクトの費用の総額は5,000ドル以上と見積もられている。））"
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "word": "underestimate",
+      "definition": "【自】【他】過小評価する",
+      "examples": [
+        {
+          "en": "You should not underestimate the importance of face-to-face communication.",
+          "ja": "（（直接対面してのコミュニケーションの重要性を過小評価するべきではない。））"
+        }
+      ]
+    },
+    {
+      "id": "393-1",
+      "word": "overestimate",
+      "definition": "【自】【他】過大評価する",
+      "examples": []
+    },
+    {
+      "id": 394,
+      "word": "consume",
+      "definition": "【他】〈エネルギーなど〉を消費する；を食べる（⇔produce）",
+      "examples": [
+        {
+          "en": "The average Japanese consumes 34 kilograms of meat in a year.",
+          "ja": "（（日本人は平均して1年間に34kgの肉を消費する。））"
+        }
+      ]
+    },
+    {
+      "id": "394-1",
+      "word": "consumption",
+      "definition": "【名】消費（量）",
+      "examples": []
+    },
+    {
+      "id": "394-2",
+      "word": "consumer",
+      "definition": "【名】消費者",
+      "examples": []
+    },
+    {
+      "id": 395,
+      "word": "crop",
+      "definition": "【名】作物；収穫高",
+      "examples": [
+        {
+          "en": "The main crop in many parts of Japan is rice.",
+          "ja": "（（日本の多くの地域の主要作物は米である。））"
+        }
+      ]
+    },
+    {
+      "id": 396,
+      "word": "storage",
+      "definition": "【名】保管；貯蔵",
+      "examples": [
+        {
+          "en": "Our house has a lot of storage space.",
+          "ja": "（（私たちの家には保管場所がたくさんある。））"
+        }
+      ]
+    },
+    {
+      "id": 397,
+      "word": "store",
+      "definition": "【名】店　【他】を蓄える",
+      "examples": [
+        {
+          "en": "I use this room to store all my winter clothes.",
+          "ja": "（（私は冬物の服をすべて保管するためにこの部屋を使っている。））"
+        }
+      ]
+    },
+    {
+      "id": 398,
+      "word": "follow",
+      "definition": "【他】【自】後について行く；従う；後に続く",
+      "examples": [
+        {
+          "en": "I decided to follow my teacher's advice and study business at university.",
+          "ja": "（（私は先生の助言に従い，大学で経営を学ぶことに決めた。））"
+        }
+      ]
+    },
+    {
+      "id": 399,
+      "word": "obey",
+      "definition": "【他】〈命令・指示など〉に従う",
+      "examples": [
+        {
+          "en": "If you obey the rules, you won't have any problems.",
+          "ja": "（（ルールに従えば問題はないだろう。））"
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "word": "famine",
+      "definition": "【名】飢饉；〈物資の〉不足",
+      "examples": [
+        {
+          "en": "The famine in East Africa affects millions of people.",
+          "ja": "（（東アフリカの飢饉は何百万人もの人々に影響を及ぼしている。））"
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "word": "drought",
+      "definition": "【名】干ばつ",
+      "examples": [
+        {
+          "en": "The drought caused a lot of damage in that area.",
+          "ja": "（（干ばつはその地域に大きな損害をもたらした。））"
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "word": "disease",
+      "definition": "【名】〈病名が明確な〉病気",
+      "examples": [
+        {
+          "en": "Millions of people suffer from heart disease in the UK.",
+          "ja": "（（イギリスでは何百万人もの人々が心臓病を患っている。））"
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "word": "illness",
+      "definition": "【名】〈広く〉病気",
+      "examples": [
+        {
+          "en": "He missed a couple of days' work because of an illness.",
+          "ja": "（（彼は病気で2，3日仕事を休んだ。））"
+        }
+      ]
+    },
+    {
+      "id": "403-1",
+      "word": "sickness",
+      "definition": "【名】〈一時的な〉病気",
+      "examples": []
+    },
+    {
+      "id": 404,
+      "word": "nearby",
+      "definition": "【形】〈【名】の前で〉近くの　【副】近くで",
+      "examples": [
+        {
+          "en": "We visited a nearby restaurant for lunch.",
+          "ja": "（（私たちは昼食に近くのレストランを訪れた。））"
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "word": "state",
+      "definition": "【名】州；国家；状態　【他】を述べる",
+      "examples": [
+        {
+          "en": "The house is in a terrible state and needs repairing.",
+          "ja": "（（その家はひどい状態で，修理する必要がある。））"
+        }
+      ]
+    },
+    {
+      "id": "405-1",
+      "word": "statement",
+      "definition": "【名】声明；明細書",
+      "examples": []
+    },
+    {
+      "id": 406,
+      "word": "terrible",
+      "definition": "【形】〈状況などが〉ひどい；恐ろしい",
+      "examples": [
+        {
+          "en": "It was a terrible movie and I left before it ended.",
+          "ja": "（（それはひどい映画だったので私は終わる前に出てしまった。））"
+        }
+      ]
+    },
+    {
+      "id": "406-1",
+      "word": "terribly",
+      "definition": "【副】ひどく",
+      "examples": []
+    },
+    {
+      "id": "406-2",
+      "word": "terrific",
+      "definition": "【形】すごい；素晴らしい",
+      "examples": []
+    },
+    {
+      "id": 407,
+      "word": "frighten",
+      "definition": "【他】を怖がらせる",
+      "examples": [
+        {
+          "en": "My sister is frightened of dogs.",
+          "ja": "（（私の妹は犬が怖い。））"
+        }
+      ]
+    },
+    {
+      "id": 408,
+      "word": "terrify",
+      "definition": "【他】をひどく怖がらせる",
+      "examples": [
+        {
+          "en": "The idea of failing the exam terrified me.",
+          "ja": "（（試験に落ちるという考えが私を怖がらせた。））"
+        }
+      ]
+    },
+    {
+      "id": 409,
+      "word": "death",
+      "definition": "【名】死（亡）",
+      "examples": [
+        {
+          "en": "There is no death penalty in the UK.",
+          "ja": "（（イギリスには死刑がない。））"
+        }
+      ]
+    },
+    {
+      "id": "409-1",
+      "word": "dead",
+      "definition": "【形】死んでいる",
+      "examples": []
+    },
+    {
+      "id": "409-2",
+      "word": "deadly",
+      "definition": "【形】致命的な　【副】とても",
+      "examples": []
+    },
+    {
+      "id": 410,
+      "word": "occur",
+      "definition": "【自】起こる；〈考えなどが〉思い浮かぶ《to》　occurred＞occurred＞occurring",
+      "examples": [
+        {
+          "en": "Mistakes often occur when you are tired.",
+          "ja": "（（間違いは疲れているときによく起こる。））"
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "word": "bloom",
+      "definition": "【自】〈花が〉咲く；繁栄する　【名】花；花盛り",
+      "examples": [
+        {
+          "en": "In spring, the cherry trees all bloom.",
+          "ja": "（（春になると桜の木が一斉に開花する。））"
+        }
+      ]
+    }
+  ]
+};

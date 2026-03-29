@@ -1,0 +1,235 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "49　コーヒーと心臓疾患 (3)　[医療]",
+  "text": {
+    "en": "In general, having two to three cups of coffee a day was associated with the greatest benefit, translating to a 10%-15% lower risk of developing coronary heart disease, heart failure, a heart rhythm problem, or dying for any reason. The risk of stroke or heart-related death was lowest among people who drank one cup of coffee a day. Researchers did observe a U-[[HL]]shaped [[/HL]]relationship with coffee intake and new heart rhythm problems. The [[HL]]maximum [[/HL]]benefit was seen among people drinking two to three cups of coffee a day with less benefit seen among those drinking more or less.\n\n② The second study included 34,279 individuals who had some form of cardiovascular disease at baseline. Coffee intake at two to three cups a day was associated with lower odds of dying compared with having no coffee. [[HL]]Importantly[[/HL]], consuming any amount of coffee was not associated with a higher risk of heart rhythm problems, including *atrial fibrillation (AFib) or *atrial flutter, which Kistler said is often what [[HL]]clinicians [[/HL]]are concerned about. Of the 24,111 people included in the [[HL]]analysis [[/HL]]who had an arrhythmia at baseline, drinking coffee was associated with a lower risk of death. For example, people with AFib who drank one cup of coffee a day were nearly 20% less likely to die than non-coffee drinkers.\n\n(215 words)",
+    "ja": "*atrial fibrillation (AFib)「心房細動」 *atrial flutter「心房粗動」\n\n概して，1日2～3杯のコーヒーを飲むことが最も高い効果を伴い，冠動脈性心疾患，心不全，心調律異常の発症のリスク，あるいは何らかの理由による死亡リスクが10～15%低下した。脳卒中もしくは心臓に関連した死亡リスクは，コーヒーを1日1杯飲む人が一番低かった。研究者たちは，コーヒー摂取量と新たな心調律異常との間にU字[[HL]]形[[/HL]]の関係を確かに認めた。[[HL]]最大の[[/HL]]効果は1日2～3杯のコーヒーを飲む人見られ，それ以上またはそれ以下の人に見られた効果はそれを下回るものだった。\n\n❷　2つ目の研究は，ベースライン時〔追跡開始時点〕に何らかの心血管疾患をもつ34,279人を対象に行った。1日2～3杯のコーヒーを摂取すると，まったく飲まない場合と比較して死亡確率が低下した。[[HL]]重要なこととしては[[/HL]]，コーヒー摂取がどの程度の量であっても，キスラー氏いわく[[HL]]臨床医[[/HL]]がしばしば懸念することである，心房細動(AFib)や心房粗動を含む心調律異常のリスクの上昇との関連性はなかった。ベースライン時に不整脈があった[[HL]]分析[[/HL]]対象者24,111人において，コーヒーを飲むことは死亡リスクの低下と関連していた。例えば，1日1杯のコーヒーを飲む心房細動を患う患者は，コーヒーをまったく飲まない患者よりも死亡率が20%近く低かった。"
+  },
+  "vocabulary": [
+    {
+      "id": 1391,
+      "word": "shape",
+      "definition": "【名】状態（≒condition）；（体）形　【他】を形作る　>-shaped【形】《～の》形をした",
+      "examples": [
+        {
+          "en": "She made a heart shape with her hands.",
+          "ja": "（（彼女は手でハートの形を作った。））"
+        }
+      ]
+    },
+    {
+      "id": 1392,
+      "word": "mold",
+      "definition": "【名】型　【他】を形成する",
+      "examples": [
+        {
+          "en": "She poured the jelly into heart-shaped molds.",
+          "ja": "（（彼女はハートの形をした型にゼリーを流し込んだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1393,
+      "word": "bend",
+      "definition": "【他】を曲げる　【自】曲がる；かがむ　bent＞bent",
+      "examples": [
+        {
+          "en": "She bent over the desk and looked at the screen.",
+          "ja": "（（彼女は机に前かがみになり画面を見た。））"
+        }
+      ]
+    },
+    {
+      "id": 1394,
+      "word": "twist",
+      "definition": "【他】をひねる；を曲げる　【名】ねじれ",
+      "examples": [
+        {
+          "en": "When I was running, I twisted my ankle and it really hurts.",
+          "ja": "（（走っていたら足首をひねってしまって，本当に痛いんです。））"
+        }
+      ]
+    },
+    {
+      "id": 1395,
+      "word": "curve",
+      "definition": "【自】【名】曲線（を描く）",
+      "examples": [
+        {
+          "en": "The graph shows a U-shaped curve.",
+          "ja": "（（グラフはU字形の曲線を示している。））"
+        }
+      ]
+    },
+    {
+      "id": 1396,
+      "word": "carve",
+      "definition": "【自】【他】彫る",
+      "examples": [
+        {
+          "en": "Two students carved their names into their desks.",
+          "ja": "（（２人の生徒が机に自分の名前を彫った。））"
+        }
+      ]
+    },
+    {
+      "id": 1397,
+      "word": "vertical",
+      "definition": "【形】垂直の",
+      "examples": [
+        {
+          "en": "He climbed the vertical wall very quickly.",
+          "ja": "（（彼はその垂直の壁をあっという間に登った。））"
+        }
+      ]
+    },
+    {
+      "id": "1397-1",
+      "word": "parallel",
+      "definition": "【形】平行な；類似の　【名】類似（物）",
+      "examples": []
+    },
+    {
+      "id": 1398,
+      "word": "maximum",
+      "definition": "【名】【形】最大限（の）",
+      "examples": [
+        {
+          "en": "The maximum number of students for this course is 25.",
+          "ja": "（（このコースにおける学生の最大人数は25名だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1398-1",
+      "word": "maximize",
+      "definition": "【他】を最大（限）にする",
+      "examples": []
+    },
+    {
+      "id": "1398-2",
+      "word": "enlarge",
+      "definition": "【他】を大きくする；を拡大する",
+      "examples": []
+    },
+    {
+      "id": 1399,
+      "word": "importantly",
+      "definition": "【副】重要なことには；重大に",
+      "examples": [
+        {
+          "en": "Most importantly, you must have the motivation to succeed.",
+          "ja": "（（最も重要なこととして，成功するためのモチベーションを持たなければならない。））"
+        }
+      ]
+    },
+    {
+      "id": 1400,
+      "word": "profound",
+      "definition": "【形】深刻な；深い",
+      "examples": [
+        {
+          "en": "The accident had a profound impact on his attitude to life.",
+          "ja": "（（この事故は彼の命に対する考え方に大きな影響を与えた。））"
+        }
+      ]
+    },
+    {
+      "id": "1400-1",
+      "word": "profoundly",
+      "definition": "【副】大いに；深刻に",
+      "examples": []
+    },
+    {
+      "id": 1401,
+      "word": "clinician",
+      "definition": "【名】臨床医",
+      "examples": [
+        {
+          "en": "The clinician studied the blood test results.",
+          "ja": "（（その臨床医は血液検査の結果を調べた。））"
+        }
+      ]
+    },
+    {
+      "id": 1402,
+      "word": "clinic",
+      "definition": "【名】診療所",
+      "examples": [
+        {
+          "en": "The clinic was so crowded that I had to wait for hours.",
+          "ja": "（（診療所が非常に混んでいたため，何時間も待たなければならなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1402-1",
+      "word": "clinical",
+      "definition": "【形】臨床の；病院の",
+      "examples": []
+    },
+    {
+      "id": 1403,
+      "word": "diagnose",
+      "definition": "【他】を診断する",
+      "examples": [
+        {
+          "en": "The doctor diagnosed the patient as having influenza.",
+          "ja": "（（医師はその患者をインフルエンザと診断した。））"
+        }
+      ]
+    },
+    {
+      "id": "1403-1",
+      "word": "diagnosis",
+      "definition": "【名】診断　[複] diagnoses",
+      "examples": []
+    },
+    {
+      "id": 1404,
+      "word": "scan",
+      "definition": "【自】【他】細かく調べる；ざっと見る；X線検査をする；スキャンする　【名】X線検査",
+      "examples": [
+        {
+          "en": "Scan this code to access the Internet site.",
+          "ja": "（（インターネットサイトにアクセスするためにこのコードをスキャンしてください。））"
+        }
+      ]
+    },
+    {
+      "id": 1405,
+      "word": "analysis",
+      "definition": "【名】分析　［複］analyses",
+      "examples": [
+        {
+          "en": "Something is wrong with our analysis.",
+          "ja": "（（私たちの分析には何か間違いがある。））"
+        }
+      ]
+    },
+    {
+      "id": "1405-1",
+      "word": "analyze",
+      "definition": "【他】を分析する",
+      "examples": []
+    },
+    {
+      "id": "1405-2",
+      "word": "analytic",
+      "definition": "【形】分析的な",
+      "examples": []
+    },
+    {
+      "id": "1405-3",
+      "word": "analyst",
+      "definition": "【名】分析家，アナリスト",
+      "examples": []
+    },
+    {
+      "id": "1405-4",
+      "word": "anatomy",
+      "definition": "【名】解剖学；構造",
+      "examples": []
+    }
+  ]
+}

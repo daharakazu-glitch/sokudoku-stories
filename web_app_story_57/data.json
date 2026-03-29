@@ -1,0 +1,441 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "57　コティングリー妖精事件 (3)　[歴史]",
+  "text": {
+    "en": "① Yet, it is important to note that fantastical things have always [[HL]]fascinated [[/HL]]human beings. It was relatively common for well-[[HL]]educated [[/HL]]people in the late 19th and early 20th centuries to take an interest in supernatural phenomena. For example, they enjoyed [[HL]]spiritual gatherings [[/HL]]in which they would [[HL]]attempt [[/HL]]to [[HL]]contact [[/HL]]ghosts. World War I (1914-1918) was one key factor that [[HL]]contributed [[/HL]]to this trend, for an [[HL]]enormous [[/HL]]number of people were killed in the war and people who lost family members and [[HL]]close [[/HL]]friends [[HL]]relied [[/HL]]on various types of spiritual counselling to [[HL]]ease [[/HL]]their [[HL]]sadness[[/HL]]. Conan Doyle was one of them. We tend to judge people in the past according to our own point of view and regard them as ignorant, but people who experienced World War I needed that kind of help, or some kind of escape from reality. Perhaps we, too, will be considered ignorant by people in the future, even though we just follow trends and try to cope with our problems as best we can.\n\n② The truth behind the fake fairy photographs was later [[HL]]revealed[[/HL]], and this [[HL]]incident [[/HL]]became known as the “Cottingley Fairy” incident. If you loved fairies, ghosts, or yōkai as a child and keep [[HL]]fond [[/HL]]memories of them in your heart, you could be easily tricked by fake fairy photographs, too. After all, even the creator of the great Sherlock Holmes was deceived.\n\n(229 words)",
+    "ja": "❶　しかし，空想的なものは常に人間[[HL]]を魅了してきた[[/HL]]ことに注意を向けるのは重要である。19世紀後半から20世紀初期にかけて，高度な[[HL]]教育を受けた[[/HL]]人たちの間で，超自然現象に関心をもつことは比較的よくあることだった。例として，彼らは幽霊[[HL]]と接触する[[/HL]]こと[[HL]]を試みる霊的な集会[[/HL]]〔交霊会〕を楽しんだ。第一次世界大戦（1914-1918年）は，この流行に[[HL]]寄与した[[/HL]]1つの大きな要因である。というのも，戦争で[[HL]]膨大な[[/HL]]数の人々が亡くなり，家族や[[HL]]親しい[[/HL]]友人を失った人々は[[HL]]悲しみを和らげる[[/HL]]ためにさまざまな形の霊的な助言に[[HL]]頼った[[/HL]]からだ。コナン・ドイルもその1人だった。私たちは，私たち自身のものの見方によって過去の人たちを判断し，彼らを無知だとみなす傾向があるが，第一次世界大戦を経験した人々は，そのような助けや何らかの現実逃避を必要としていたのだ。おそらくは私たちも，とにかく流行を追いかけ，私たちにとっては最善の形で問題に対処しようとしてはいるのだが，未来の人たちからは無知だと思われるのだろう。\n\n❷　妖精の偽造写真の真相はのちに[[HL]]明らかになり[[/HL]]，この[[HL]]事件[[/HL]]は「コティングリーの妖精」事件として知られるようになった。幼少時に妖精，霊や妖怪が大好きで，その[[HL]]楽しい[[/HL]]思い出を心に抱いているなら，あなたもたやすく妖精の偽造写真に騙されてしまうかもしれない。何しろ，かの偉大なシャーロック・ホームズの生みの親でさえ騙されたのだから。"
+  },
+  "vocabulary": [
+    {
+      "id": 1580,
+      "word": "fascinate",
+      "definition": "【他】を魅了する",
+      "examples": [
+        {
+          "en": "I was fascinated by the beautiful song.",
+          "ja": "（（私はその美しい歌に魅了された。））"
+        }
+      ]
+    },
+    {
+      "id": 1581,
+      "word": "fascinating",
+      "definition": "【形】魅力的な",
+      "examples": [
+        {
+          "en": "The country was fascinating and I wanted to stay much longer.",
+          "ja": "（（その国は魅力的で，私はもっと長く滞在したかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1581-1",
+      "word": "fascination",
+      "definition": "【名】魅力",
+      "examples": []
+    },
+    {
+      "id": 1582,
+      "word": "tempt",
+      "definition": "【他】〈人〉を誘惑する；…したくなる《be -ed to do》",
+      "examples": [
+        {
+          "en": "The boy was tempted to press the button.",
+          "ja": "（（その少年はボタンを押したくなった。））"
+        }
+      ]
+    },
+    {
+      "id": "1582-1",
+      "word": "temptation",
+      "definition": "【名】誘惑（物）",
+      "examples": []
+    },
+    {
+      "id": 1583,
+      "word": "educate",
+      "definition": "【他】を教育する　>-educated〈連結要素〉…な教育を受けた",
+      "examples": [
+        {
+          "en": "She decided to educate her children at home.",
+          "ja": "（（彼女は子供たちを家庭で教育することに決めた。））"
+        }
+      ]
+    },
+    {
+      "id": 1584,
+      "word": "spiritual",
+      "definition": "【形】精神（上）の；霊的な；宗教（上）の",
+      "examples": [
+        {
+          "en": "He is the spiritual leader of millions of people all over the world.",
+          "ja": "（（彼は世界中の何百万人もの人々の精神的指導者である。））"
+        }
+      ]
+    },
+    {
+      "id": 1585,
+      "word": "ritual",
+      "definition": "【名】（宗教的）儀式；日常の習慣",
+      "examples": [
+        {
+          "en": "Religious rituals once played an important role in ruling the community.",
+          "ja": "（（かつては宗教的な儀式が集団の統治において重要な役割を果たした。））"
+        }
+      ]
+    },
+    {
+      "id": 1586,
+      "word": "gathering",
+      "definition": "【名】集会，集まり；収集物",
+      "examples": [
+        {
+          "en": "There was a gathering of fans at the musician's house.",
+          "ja": "（（そのミュージシャンの家でファンの集会があった。））"
+        }
+      ]
+    },
+    {
+      "id": "1586-1",
+      "word": "gather",
+      "definition": "【自】【他】集まる〔集める〕",
+      "examples": []
+    },
+    {
+      "id": 1587,
+      "word": "reception",
+      "definition": "【名】接待；受付；反応；宴会",
+      "examples": [
+        {
+          "en": "The company is holding a reception to welcome the new manager.",
+          "ja": "（（その会社は新しいマネージャーを歓迎する宴会を開いている。））"
+        }
+      ]
+    },
+    {
+      "id": "1587-1",
+      "word": "receptionist",
+      "definition": "【名】受付係",
+      "examples": []
+    },
+    {
+      "id": 1588,
+      "word": "attempt",
+      "definition": "【名】試み　【他】を試みる；…しようとする《to do》",
+      "examples": [
+        {
+          "en": "He attempted to swim across the river, but the current was too strong.",
+          "ja": "（（彼は川を泳いで渡ろうとしたが，流れが強すぎた。））"
+        }
+      ]
+    },
+    {
+      "id": 1589,
+      "word": "trial",
+      "definition": "【名】試み；裁判；試練",
+      "examples": [
+        {
+          "en": "At the end of the trial, the man was found guilty of shoplifting.",
+          "ja": "（（その裁判の終わりに，その男は万引きで有罪となった。））"
+        }
+      ]
+    },
+    {
+      "id": 1590,
+      "word": "penalty",
+      "definition": "【名】罰（金）",
+      "examples": [
+        {
+          "en": "The penalty for robbery is a term in prison.",
+          "ja": "（（強盗に対する罰は実刑である。））"
+        }
+      ]
+    },
+    {
+      "id": 1591,
+      "word": "punish",
+      "definition": "【他】を罰する",
+      "examples": [
+        {
+          "en": "He was punished for telling a lie.",
+          "ja": "（（彼はうそをついたことで罰せられた。））"
+        }
+      ]
+    },
+    {
+      "id": "1591-1",
+      "word": "punishment",
+      "definition": "【名】罰",
+      "examples": []
+    },
+    {
+      "id": "1591-2",
+      "word": "conviction",
+      "definition": "【名】自信；信念；有罪判決",
+      "examples": []
+    },
+    {
+      "id": "1591-3",
+      "word": "convict",
+      "definition": "【他】に有罪を宣告する",
+      "examples": []
+    },
+    {
+      "id": 1592,
+      "word": "contact",
+      "definition": "【名】接触；連絡　【他】と連絡を取る",
+      "examples": [
+        {
+          "en": "I still make contact with my friends from high school.",
+          "ja": "（（私は今でも高校時代の友人と連絡を取る。））"
+        }
+      ]
+    },
+    {
+      "id": 1593,
+      "word": "contribute",
+      "definition": "【自】貢献する《to》；一因となる；寄付する",
+      "examples": [
+        {
+          "en": "The student wanted to contribute to the discussion, but he had no confidence.",
+          "ja": "（（その学生は議論に貢献したかったが，自信がなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1593-1",
+      "word": "contribution",
+      "definition": "【名】貢献；寄付",
+      "examples": []
+    },
+    {
+      "id": 1594,
+      "word": "enormous",
+      "definition": "【形】莫大な；巨大な",
+      "examples": [
+        {
+          "en": "I had an enormous steak for dinner and I am still full.",
+          "ja": "（（私は夕食に巨大なステーキを食べて，まだ満腹だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1594-1",
+      "word": "enormously",
+      "definition": "【副】非常に；ものすごく",
+      "examples": []
+    },
+    {
+      "id": 1595,
+      "word": "close",
+      "definition": "【形】接近した；親密な；綿密な　【副】接近して　【他】を閉める　【自】閉まる",
+      "examples": [
+        {
+          "en": "I live quite close to the station.",
+          "ja": "（（私は駅のかなり近くに住んでいます。））"
+        }
+      ]
+    },
+    {
+      "id": 1596,
+      "word": "disclose",
+      "definition": "【他】を暴く；を公表する",
+      "examples": [
+        {
+          "en": "The press disclosed the name of the suspect.",
+          "ja": "（（報道機関がその容疑者の名前を公表した。））"
+        }
+      ]
+    },
+    {
+      "id": "1596-1",
+      "word": "disclosure",
+      "definition": "【名】暴露；発表；発覚",
+      "examples": []
+    },
+    {
+      "id": 1597,
+      "word": "enclose",
+      "definition": "【他】を同封する；を囲む",
+      "examples": [
+        {
+          "en": "I have enclosed a copy of the book for you to read.",
+          "ja": "（（あなたが読むために，その本１部を同封しました。））"
+        }
+      ]
+    },
+    {
+      "id": "1597-1",
+      "word": "enclosure",
+      "definition": "【名】囲まれた場所；囲い込み",
+      "examples": []
+    },
+    {
+      "id": 1598,
+      "word": "sanctuary",
+      "definition": "【名】保護区域；聖域",
+      "examples": [
+        {
+          "en": "The government built a bird sanctuary near the coast.",
+          "ja": "（（政府は海岸近くに鳥獣保護区を建設した。））"
+        }
+      ]
+    },
+    {
+      "id": 1599,
+      "word": "rely",
+      "definition": "【自】頼る《on》（≒depend）",
+      "examples": [
+        {
+          "en": "The manager started to rely on his new assistant.",
+          "ja": "（（マネージャーは新しい助手に頼り始めた。））"
+        }
+      ]
+    },
+    {
+      "id": "1599-1",
+      "word": "reliance",
+      "definition": "【名】依存；信頼",
+      "examples": []
+    },
+    {
+      "id": 1600,
+      "word": "resort",
+      "definition": "【自】〈ある手段に〉訴える《to》　【名】行楽地",
+      "examples": [
+        {
+          "en": "Don't resort to violence.",
+          "ja": "（（暴力に訴えてはいけない。））"
+        }
+      ]
+    },
+    {
+      "id": 1601,
+      "word": "ease",
+      "definition": "【名】容易さ；安楽さ　【他】を和らげる",
+      "examples": [
+        {
+          "en": "You can complete the introductory course with ease.",
+          "ja": "（（君なら初心者コースは簡単に修了できるよ。））"
+        }
+      ]
+    },
+    {
+      "id": 1602,
+      "word": "relieve",
+      "definition": "【他】を取り除く；を安心させる",
+      "examples": [
+        {
+          "en": "This medicine will relieve your headaches.",
+          "ja": "（（この薬は頭痛を和らげる。））"
+        }
+      ]
+    },
+    {
+      "id": "1602-1",
+      "word": "relief",
+      "definition": "【名】安心（感）",
+      "examples": []
+    },
+    {
+      "id": 1603,
+      "word": "sadness",
+      "definition": "【名】悲しみ",
+      "examples": [
+        {
+          "en": "I sensed sadness on his face when he looked at me.",
+          "ja": "（（彼が私を見た時，私は彼の表情に悲しみを感じた。））"
+        }
+      ]
+    },
+    {
+      "id": 1604,
+      "word": "desperate",
+      "definition": "【形】必死の；絶望的な；（欲しくて）たまらない《for，to do》",
+      "examples": [
+        {
+          "en": "The man was desperate to know the truth of the incident.",
+          "ja": "（（その男は事件の真相を知りたくてたまらなかった。））"
+        }
+      ]
+    },
+    {
+      "id": 1605,
+      "word": "grief",
+      "definition": "【名】深い悲しみ",
+      "examples": [
+        {
+          "en": "The musician expressed grief through his new song.",
+          "ja": "（（そのミュージシャンは新曲を通して深い悲しみを表現した。））"
+        }
+      ]
+    },
+    {
+      "id": 1606,
+      "word": "reveal",
+      "definition": "【他】を明らかにする",
+      "examples": [
+        {
+          "en": "Recent research has revealed that there are some exceptions to the theory.",
+          "ja": "（（近年の研究はその理論には例外があることを明らかにした。））"
+        }
+      ]
+    },
+    {
+      "id": "1606-1",
+      "word": "revelation",
+      "definition": "【名】驚くべき新事実；暴露",
+      "examples": []
+    },
+    {
+      "id": 1607,
+      "word": "unlock",
+      "definition": "【他】の鍵を開ける",
+      "examples": [
+        {
+          "en": "I unlocked the door and entered the room.",
+          "ja": "（（私はドアの鍵を開けて，部屋に入った。））"
+        }
+      ]
+    },
+    {
+      "id": 1608,
+      "word": "incident",
+      "definition": "【名】出来事；事件",
+      "examples": [
+        {
+          "en": "The actor was involved in an incident with a member of the press.",
+          "ja": "（（その俳優は，報道機関の一員との事件に関与していた。））"
+        }
+      ]
+    },
+    {
+      "id": 1609,
+      "word": "accidentally",
+      "definition": "【副】偶然に；うっかり；〈文修飾〉偶然にも",
+      "examples": [
+        {
+          "en": "I accidentally broke my mother's favorite dish.",
+          "ja": "（（母のお気に入りの皿を誤って割ってしまった。））"
+        }
+      ]
+    },
+    {
+      "id": "1609-1",
+      "word": "accidental",
+      "definition": "【形】偶然の",
+      "examples": []
+    },
+    {
+      "id": 1610,
+      "word": "fond",
+      "definition": "【形】《～が》大好きで《of》；楽しい",
+      "examples": [
+        {
+          "en": "He was very fond of his grandchildren.",
+          "ja": "（（彼は孫が大好きだった。））"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "18　胸やけにはレモンを (2)　[医療]",
+  "text": {
+    "en": "① Being a common problem, a variety of [[HL]]remedies [[/HL]]are sold in [[HL]]drugstores[[/HL]], and in some countries, you can even get remedies at convenience stores. One [[HL]]widespread myth [[/HL]]about acid indigestion is that the best way to [[HL]]reduce [[/HL]]the [[HL]]symptoms [[/HL]]is by drinking milk. This is probably because milk is viewed as a [[HL]]comfort [[/HL]]food, and it is often considered to be good for the stomach. However, milk actually [[HL]]contains [[/HL]]acid, so it is not the best remedy for reducing stomach acid. [[HL]]Despite [[/HL]]this, many still believe in the milk myth.\n\n② One [[HL]]scientifically [[/HL]]surprising phenomenon is that freshly [[HL]]squeezed [[/HL]]lemon juice is much more effective for acid indigestion than milk. Everyone knows lemons are high in acid, so how could they [[HL]]possibly [[/HL]]be good for reducing acid? Oddly enough, when consumed, fresh lemon juice magically *neutralizes the acid in our [[HL]]system[[/HL]]. So, if you are ever suffering from acid indigestion, instead of drinking milk, try fresh lemon juice mixed with cold or hot water. Make sure it is juice from fresh lemons because canned or bottled lemon juice usually has [[HL]]added [[/HL]]sugar, which can make acid indigestion worse. Fresh lemons may be one of the best ways to reduce acid in the stomach.\n\n(202 words)",
+    "ja": "*neutralize「を中和する」\n\n❶　よくある問題であるため，さまざまな[[HL]]薬[[/HL]]が[[HL]]ドラッグストア[[/HL]]で販売され，国によってはコンビニエンスストアで薬を購入することもできる。胃酸過多について[[HL]]一般に広まっている俗説[[/HL]]の１つに，[[HL]]症状を軽減する[[/HL]]最良の方法は牛乳を飲むことだというものがある。これはおそらく，牛乳が[[HL]]安心感をもたらす[[/HL]]食品とみなされており，胃によいとみなされることも多々あるからであろう。しかし，牛乳は実のところ酸[[HL]]を含む[[/HL]]ので，胃酸を減らすための最善策ではない。これ[[HL]]にもかかわらず[[/HL]]，多くの人々はいまだに牛乳神話を信じているのだ。\n\n❷　[[HL]]科学的に[[/HL]]驚くべき現象の１つは，胃酸過多には牛乳よりも[[HL]]搾り[[/HL]]たてのレモン汁のほうがずっと効果的であるということだ。レモンが酸を多く含むことは誰もが知っているが，[[HL]]一体[[/HL]]なぜ酸を減らすのによいのだろうか。不思議なことに，搾りたてのレモン汁は，摂取されると，[[HL]]体[[/HL]]内の酸を魔法のように中和する。そのため，胃酸過多を患った時は，牛乳を飲む代わりに，水やお湯と混ぜた搾りたてのレモン汁を飲んでみるとよい。（飲むのは）必ず新鮮なレモンから取ったレモン汁にしよう。缶やビンに入ったレモンジュースはたいてい[[HL]]添加[[/HL]]糖類が入っており，胃酸過多を悪化させることがあるからだ。新鮮なレモンは，胃の中の酸を減らす最善の方法の１つかもしれない。"
+  },
+  "vocabulary": [
+    {
+      "id": 437,
+      "word": "remedy",
+      "definition": "【名】《～の》治療；薬；解決法《for》",
+      "examples": [
+        {
+          "en": "The best remedy for a cold is a good night's sleep.",
+          "ja": "（（風邪の一番の治療薬は夜ぐっすり眠ることだ。））"
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "word": "antibiotic",
+      "definition": "【名】[複] 抗生物質",
+      "examples": [
+        {
+          "en": "The doctor gave him some antibiotics.",
+          "ja": "（（医者は彼に抗生物質を投与した。））"
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "word": "drugstore",
+      "definition": "【名】ドラッグストア；薬局",
+      "examples": [
+        {
+          "en": "I went to the drugstore to buy some medicine.",
+          "ja": "（（私は薬を買いにドラッグストアに行った。））"
+        }
+      ]
+    },
+    {
+      "id": "439-1",
+      "word": "pharmacy",
+      "definition": "【名】薬局",
+      "examples": []
+    },
+    {
+      "id": "439-2",
+      "word": "pharmaceutical",
+      "definition": "【形】薬学の；調剤の",
+      "examples": []
+    },
+    {
+      "id": 440,
+      "word": "prescription",
+      "definition": "【名】処方（箋）",
+      "examples": [
+        {
+          "en": "The doctor gave me a prescription for some medicine for my headaches.",
+          "ja": "（（その医師は頭痛の薬の処方箋をくれた。））"
+        }
+      ]
+    },
+    {
+      "id": "440-1",
+      "word": "prescribe",
+      "definition": "【他】を処方する；を指示する",
+      "examples": []
+    },
+    {
+      "id": 441,
+      "word": "widespread",
+      "definition": "【形】広範囲にわたる",
+      "examples": [
+        {
+          "en": "The typhoon caused widespread damage.",
+          "ja": "（（その台風は広範囲にわたる被害をもたらした。））"
+        }
+      ]
+    },
+    {
+      "id": 442,
+      "word": "myth",
+      "definition": "【名】神話；俗説",
+      "examples": [
+        {
+          "en": "A common myth is that people use only 10% of their brain.",
+          "ja": "（（よくある俗説に，人は脳の10％しか使っていないというものがある。））"
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "word": "folk",
+      "definition": "【形】民族の；民衆の　【名】〈複数扱い〉人々",
+      "examples": [
+        {
+          "en": "I didn't know that this was an American folk song.",
+          "ja": "（（これがアメリカの民謡だとは知らなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "443-1",
+      "word": "folklore",
+      "definition": "【名】民間伝承；民俗学",
+      "examples": []
+    },
+    {
+      "id": 444,
+      "word": "fiction",
+      "definition": "【名】作り話；小説（⇔fact）",
+      "examples": [
+        {
+          "en": "Most people read less fiction as they get older.",
+          "ja": "（（ほとんどの人は，年を取るにつれて小説を読まなくなる。））"
+        }
+      ]
+    },
+    {
+      "id": "444-1",
+      "word": "fictional",
+      "definition": "【形】架空の",
+      "examples": []
+    },
+    {
+      "id": 445,
+      "word": "tale",
+      "definition": "【名】話，物語",
+      "examples": [
+        {
+          "en": "Children from all countries love to hear fairy tales.",
+          "ja": "（（どの国の子供たちもおとぎ話を聞くのが大好きだ。））"
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "word": "plot",
+      "definition": "【名】〈物語などの〉筋；陰謀",
+      "examples": [
+        {
+          "en": "The plot of the movie was OK, but the visual effects were fantastic.",
+          "ja": "（（その映画の筋書きはまあまあだったが，視覚効果は素晴らしかった。））"
+        }
+      ]
+    },
+    {
+      "id": 447,
+      "word": "reduce",
+      "definition": "【他】を減らす（≒decrease）；《be -ed》〈よくない状態に〉変えられる《to》",
+      "examples": [
+        {
+          "en": "Doctors suggest we should reduce the amount of meat that we eat.",
+          "ja": "（（医師は肉を食べる量を減らすべきだと提案している。））"
+        }
+      ]
+    },
+    {
+      "id": "447-1",
+      "word": "reduction",
+      "definition": "【名】減少；削減",
+      "examples": []
+    },
+    {
+      "id": 448,
+      "word": "decline",
+      "definition": "【自】減少する；衰退する　【他】を断る　【名】減少；衰退",
+      "examples": [
+        {
+          "en": "The government is worried about the declining birth rate.",
+          "ja": "（（政府は出生率の低下を心配している。））"
+        }
+      ]
+    },
+    {
+      "id": "448-1",
+      "word": "eclipse",
+      "definition": "【名】〈太陽･月の〉食",
+      "examples": []
+    },
+    {
+      "id": 449,
+      "word": "symptom",
+      "definition": "【名】症状；兆候",
+      "examples": [
+        {
+          "en": "The symptoms of influenza and COVID-19 are very similar.",
+          "ja": "（（インフルエンザと新型コロナウイルスの症状はよく似ている。））"
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "word": "comfort",
+      "definition": "【名】快適さ；慰め　【他】を慰める",
+      "examples": [
+        {
+          "en": "We tried to comfort the woman over the sad loss of her dog.",
+          "ja": "（（私たちは愛犬との悲しい別れを乗り越えられるようにその女性を慰めようとした。））"
+        }
+      ]
+    },
+    {
+      "id": "450-1",
+      "word": "comfortably",
+      "definition": "【副】心地よく",
+      "examples": []
+    },
+    {
+      "id": "450-2",
+      "word": "discomfort",
+      "definition": "【名】不快（感）；不安",
+      "examples": []
+    },
+    {
+      "id": 451,
+      "word": "reassure",
+      "definition": "【他】を安心させる",
+      "examples": [
+        {
+          "en": "The company tried to reassure investors that there was no problem.",
+          "ja": "（（会社は問題はないと言って投資家たちを安心させようとした。））"
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "word": "contain",
+      "definition": "【他】を含む（≒include）；〈感情など〉を抑える",
+      "examples": [
+        {
+          "en": "Many soft drinks contain high levels of sugar.",
+          "ja": "（（多くの清涼飲料水は大量の砂糖を含む。））"
+        }
+      ]
+    },
+    {
+      "id": "452-1",
+      "word": "container",
+      "definition": "【名】容器；コンテナ",
+      "examples": []
+    },
+    {
+      "id": 453,
+      "word": "closet",
+      "definition": "【名】戸棚，クローゼット",
+      "examples": [
+        {
+          "en": "I put my clothes into the closet.",
+          "ja": "（（私は服をクローゼットにしまった。））"
+        }
+      ]
+    },
+    {
+      "id": "453-1",
+      "word": "cupboard",
+      "definition": "【名】戸棚",
+      "examples": []
+    },
+    {
+      "id": 454,
+      "word": "cabinet",
+      "definition": "【名】戸棚；《the C-》内閣",
+      "examples": [
+        {
+          "en": "We keep all our glasses in a small cabinet on the wall.",
+          "ja": "（（グラスはすべて壁側の小さな戸棚にしまっている。））"
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "word": "despite",
+      "definition": "【前】にもかかわらず（≒in spite of）",
+      "examples": [
+        {
+          "en": "Despite the cold weather, he was walking around in a T-shirt.",
+          "ja": "（（寒い天候にもかかわらず，彼はTシャツで歩き回っていた。））"
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "word": "scientifically",
+      "definition": "【副】科学的に（言えば）",
+      "examples": [
+        {
+          "en": "This fact is scientifically proven.",
+          "ja": "（（この事実は科学的に証明されている。））"
+        }
+      ]
+    },
+    {
+      "id": "456-1",
+      "word": "scientific",
+      "definition": "【形】科学の；科学的な",
+      "examples": []
+    },
+    {
+      "id": 457,
+      "word": "squeeze",
+      "definition": "【他】を搾る；を《～に》詰め込む《in, into》",
+      "examples": [
+        {
+          "en": "I drink a glass of freshly-squeezed orange juice every morning.",
+          "ja": "（（私は毎朝搾りたてのオレンジジュースをコップ一杯飲む。））"
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "word": "pack",
+      "definition": "【他】を詰める　【名】1箱",
+      "examples": [
+        {
+          "en": "I have packed my suitcase ready for my trip.",
+          "ja": "（（旅行のためにスーツケースに荷物を詰め込んだ。））"
+        }
+      ]
+    },
+    {
+      "id": "458-1",
+      "word": "cram",
+      "definition": "【他】を詰め込む《into》　【名】【自】詰め込み勉強（をする）",
+      "examples": []
+    },
+    {
+      "id": 459,
+      "word": "possibly",
+      "definition": "【副】〈文修飾〉ひょっとすると；〈can, couldを伴った疑問文･否定文で〉一体どうして；〈疑問文で〉よろしければ",
+      "examples": [
+        {
+          "en": "Could you possibly help me complete this form?",
+          "ja": "（（よろしければこの書類の記入を手伝っていただけますか。））"
+        }
+      ]
+    },
+    {
+      "id": "459-1",
+      "word": "possibility",
+      "definition": "【名】可能性",
+      "examples": []
+    },
+    {
+      "id": 460,
+      "word": "somehow",
+      "definition": "【副】〈動詞修飾〉なんとかして；〈文修飾〉どういうわけか",
+      "examples": [
+        {
+          "en": "I have to get to the airport somehow.",
+          "ja": "（（どうにかして空港に行かなければならない。））"
+        }
+      ]
+    },
+    {
+      "id": 461,
+      "word": "system",
+      "definition": "【名】体系；制度，組織；方式；（人の）体",
+      "examples": [
+        {
+          "en": "Many people complain about the education system in our country.",
+          "ja": "（（多くの人々が私たちの国の教育制度について不満を述べている。））"
+        }
+      ]
+    },
+    {
+      "id": "461-1",
+      "word": "systematic",
+      "definition": "【形】体系的な；組織的な",
+      "examples": []
+    },
+    {
+      "id": 462,
+      "word": "add",
+      "definition": "【他】を加える《A to B》",
+      "examples": [
+        {
+          "en": "To make it taste nice, add some sugar.",
+          "ja": "（（美味しくするために砂糖を加えて。））"
+        }
+      ]
+    }
+  ]
+}

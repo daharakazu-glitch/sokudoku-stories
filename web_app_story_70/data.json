@@ -1,0 +1,450 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "70　人間とAIの未来予想 (2)　[人間]",
+  "text": {
+    "en": "① Can you guess how long it took AlphaZero to learn chess [[HL]]from scratch[[/HL]], [[HL]]prepare [[/HL]]for the match against Stockfish 8, and develop its genius instincts? Four hours. For centuries, chess was considered one of the greatest tests of human intelligence. AlphaZero went from [[HL]]utter [[/HL]]ignorance to creative mastery in four hours, without the help of any human [[HL]]guide[[/HL]].\n\n② AlphaZero is not the only [[HL]]imaginative [[/HL]]software out there. Many programs now [[HL]]routinely [[/HL]]*outperform human chess players not just in [[HL]]brute [[/HL]]calculation, but even in ‘creativity.’ In human-only chess tournaments, judges are constantly *on the lookout for players who try to [[HL]]cheat [[/HL]]by secretly getting help from computers. One of the ways to catch cheats is to monitor the level of [[HL]]originality [[/HL]]players [[HL]]display[[/HL]]. If they play an [[HL]]exceptionally [[/HL]]creative move, the judges will often [[HL]]suspect [[/HL]]that this cannot possibly be a human move ― it must be a computer move. At least in chess, creativity is already the trademark of computers rather than humans! [[HL]]Hence[[/HL]], if chess is our window into the future, we are [[HL]]fully warned [[/HL]]that [[HL]]AI [[/HL]]will outpace humans in many areas. What is happening today to human-AI chess teams might happen down the road to human-AI teams in policing, [[HL]]medicine[[/HL]], and banking, too.\n\n[[HL]](205 words)[[/HL]]",
+    "ja": "*outperform「をしのぐ」 *on the lookout for ~「~を警戒して」\n\n❶　AlphaZeroが[[HL]]ゼロから[[/HL]]チェスを学び，Stockfish8との対戦に[[HL]]備え[[/HL]]，天才的な勘を磨くのにどれだけの時間がかかったか推測できるだろうか。4時間である。何世紀もの間，チェスは人間の知能を測る有数の優れた試金石の1つとされていた。AlphaZeroは人間によるいかなる[[HL]]指導[[/HL]]の助けもなく，[[HL]]まったくの[[/HL]]無知の状態から独創的な名人の域にまで4時間で達したのである。\n\n❷　世の中に存在する[[HL]]創意に富んだ[[/HL]]ソフトウェアはAlphaZeroだけではない。いまや多くのプログラムが，[[HL]]しらみつぶしの[[/HL]]計算においてだけでなく，「創造性」においても，[[HL]]当たり前のように[[/HL]]人間のチェス・プレイヤーを上回る。人間だけのチェストーナメントでは，審判員が常に，こっそりとコンピュータの手を借りて[[HL]]不正をし[[/HL]]ようとするプレイヤーがいないか見張っている。不正を見つけるための方法の１つは，プレイヤーが[[HL]]示す独創性[[/HL]]のレベルを監視することである。もしプレイヤーが[[HL]]ひときわ[[/HL]]創造的な一手を指すと，これはとても人間に指せるような手ではない，コンピュータの手に違いない，[[HL]]と[[/HL]]審判員はしばしば[[HL]]疑う[[/HL]]のである。少なくともチェスの世界では，創造性はすでに人間ではなくコンピュータに顕著な特質なのである！[[HL]]したがって[[/HL]]，チェスが未来へと開かれた窓だとするならば，[[HL]]人工知能（AI）[[/HL]]が多くの分野で人間を凌駕することは[[HL]]完全に警告されて[[/HL]]いるということになる。人間とAI のチェスチームに今日起きていることが，ゆくゆくは警察活動，[[HL]]医療[[/HL]]，銀行業における人間とAI のチームでも起こるかもしれない。"
+  },
+  "vocabulary": [
+    {
+      "id": 1843,
+      "word": "scratch",
+      "definition": "【名】ひっかき傷　【自】【他】ひっかく",
+      "examples": [
+        {
+          "en": "The cat scratched me when I tried to stroke it.",
+          "ja": "（（その猫は，私が撫でようとしたら引っかいてきた。））"
+        }
+      ]
+    },
+    {
+      "id": 1844,
+      "word": "stain",
+      "definition": "【名】《～についた》汚れ《on》　【他】を汚す",
+      "examples": [
+        {
+          "en": "I spilled red wine on the carpet and stained it.",
+          "ja": "（（カーペットに赤ワインをこぼして汚してしまった。））"
+        }
+      ]
+    },
+    {
+      "id": 1845,
+      "word": "prepare",
+      "definition": "【他】の準備をする《A for B》；に《～の/…する》覚悟をさせる《for/to do》　【自】準備をする《for，against》",
+      "examples": [
+        {
+          "en": "I need to prepare for tomorrow’s lesson.",
+          "ja": "（（私は明日の授業の準備をする必要がある。））"
+        }
+      ]
+    },
+    {
+      "id": "1845-1",
+      "word": "preparation",
+      "definition": "【名】準備",
+      "examples": []
+    },
+    {
+      "id": "1845-2",
+      "word": "preliminary",
+      "definition": "【形】予備の",
+      "examples": []
+    },
+    {
+      "id": 1846,
+      "word": "utter",
+      "definition": "【他】〈ため息・言葉〉を発する　【形】まったくの",
+      "examples": [
+        {
+          "en": "He didn't utter a single word during the interview.",
+          "ja": "（（彼はインタビューの間，一言も発しなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1846-1",
+      "word": "utterance",
+      "definition": "【名】言葉に出すこと〔発声〕",
+      "examples": []
+    },
+    {
+      "id": "1846-2",
+      "word": "recite",
+      "definition": "【他】【自】暗唱する",
+      "examples": []
+    },
+    {
+      "id": 1847,
+      "word": "oral",
+      "definition": "【形】口頭での；口（内）の",
+      "examples": [
+        {
+          "en": "Good oral health is an important key to good general health.",
+          "ja": "（（口内の健康状態がよいことは全身の健康の重要なカギだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1848,
+      "word": "verbal",
+      "definition": "【形】言葉の；口頭の",
+      "examples": [
+        {
+          "en": "Verbal communication is not the only way to convey information.",
+          "ja": "（（言葉によるコミュニケーションは情報を伝える唯一の方法ではない。））"
+        }
+      ]
+    },
+    {
+      "id": "1848-1",
+      "word": "nonverbal",
+      "definition": "【形】言葉を用いない",
+      "examples": []
+    },
+    {
+      "id": 1849,
+      "word": "guide",
+      "definition": "【他】【自】案内する；指導する　【名】案内人〔書〕；指針",
+      "examples": [
+        {
+          "en": "I will guide you around the town.",
+          "ja": "（（私が君にその町を案内するよ。））"
+        }
+      ]
+    },
+    {
+      "id": "1849-1",
+      "word": "guidance",
+      "definition": "【名】指導",
+      "examples": []
+    },
+    {
+      "id": 1850,
+      "word": "guideline",
+      "definition": "【名】指針；目標",
+      "examples": [
+        {
+          "en": "The group set guidelines for healthy eating habits.",
+          "ja": "（（その団体は健康的な食生活の指針を設定した。））"
+        }
+      ]
+    },
+    {
+      "id": "1850-1",
+      "word": "mentor",
+      "definition": "【名】指導者；助言者",
+      "examples": []
+    },
+    {
+      "id": 1851,
+      "word": "imaginative",
+      "definition": "【形】想像力に富む；創造的な",
+      "examples": [
+        {
+          "en": "She’s so imaginative and tells fantastic stories.",
+          "ja": "（（彼女はとても想像力豊かで，素敵な話をする。））"
+        }
+      ]
+    },
+    {
+      "id": 1852,
+      "word": "conceive",
+      "definition": "【他】を思いつく；…だと思う　【自】想像する《of》",
+      "examples": [
+        {
+          "en": "As I got older, I couldn't conceive of the idea of not working.",
+          "ja": "（（年をとるにつれ，働かないという考えを想像できなくなった。））"
+        }
+      ]
+    },
+    {
+      "id": 1853,
+      "word": "fantasy",
+      "definition": "【名】空想；幻想",
+      "examples": [
+        {
+          "en": "His story sounds like a fantasy.",
+          "ja": "（（彼の話は空想のように聞こえる。））"
+        }
+      ]
+    },
+    {
+      "id": 1854,
+      "word": "illusion",
+      "definition": "【名】幻想；錯覚",
+      "examples": [
+        {
+          "en": "He has the illusion that he is the smartest in his class.",
+          "ja": "（（彼は，自分がクラスで一番頭がいいと錯覚している。））"
+        }
+      ]
+    },
+    {
+      "id": 1855,
+      "word": "routinely",
+      "definition": "【副】いつものように，日常的に",
+      "examples": [
+        {
+          "en": "I routinely visit the dentist.",
+          "ja": "（（私は定期的に歯医者に通っている。））"
+        }
+      ]
+    },
+    {
+      "id": "1855-1",
+      "word": "routine",
+      "definition": "【名】日課　【形】型通りの",
+      "examples": []
+    },
+    {
+      "id": 1856,
+      "word": "brute",
+      "definition": "【形】残酷な；野蛮な；純然たる　【名】冷酷な人",
+      "examples": [
+        {
+          "en": "We managed to move the car by sheer brute force.",
+          "ja": "（（私たちは力ずくで車を動かすことができた。））"
+        }
+      ]
+    },
+    {
+      "id": "1856-1",
+      "word": "brutal",
+      "definition": "【形】残忍な",
+      "examples": []
+    },
+    {
+      "id": "1856-2",
+      "word": "beast",
+      "definition": "【名】獣，動物",
+      "examples": []
+    },
+    {
+      "id": "1856-3",
+      "word": "outrage",
+      "definition": "【名】暴力；激怒",
+      "examples": []
+    },
+    {
+      "id": 1857,
+      "word": "cheat",
+      "definition": "【他】をだます　【自】いかさま〔カンニング〕をする",
+      "examples": [
+        {
+          "en": "The teacher caught the boy cheating in an exam.",
+          "ja": "（（先生はその少年が試験でカンニングしているのを見つけた。））"
+        }
+      ]
+    },
+    {
+      "id": 1858,
+      "word": "originality",
+      "definition": "【名】独創性；斬新さ",
+      "examples": [
+        {
+          "en": "There is no originality here as it’s the same plan as last year.",
+          "ja": "（（去年と同じ計画なので，ここに斬新さはない。））"
+        }
+      ]
+    },
+    {
+      "id": 1859,
+      "word": "display",
+      "definition": "【他】を展示する；〈感情など〉を表す；を発揮する　【名】展示；表現",
+      "examples": [
+        {
+          "en": "Emojis are useful for displaying emotions in text messages.",
+          "ja": "（（絵文字は携帯メールで感情を表現するのに便利だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1860,
+      "word": "exceptionally",
+      "definition": "【副】並みはずれて；例外的に",
+      "examples": [
+        {
+          "en": "He is an exceptionally talented musician.",
+          "ja": "（（彼は並外れて才能のあるミュージシャンだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1860-1",
+      "word": "exceptional",
+      "definition": "【形】卓越した；例外的な",
+      "examples": []
+    },
+    {
+      "id": "1860-2",
+      "word": "exception",
+      "definition": "【名】例外",
+      "examples": []
+    },
+    {
+      "id": 1861,
+      "word": "except",
+      "definition": "【前】を除いて（は）",
+      "examples": [
+        {
+          "en": "I will buy them all except the black one.",
+          "ja": "（（その黒いものを除いてそれらすべてを買います。））"
+        }
+      ]
+    },
+    {
+      "id": 1862,
+      "word": "suspect",
+      "definition": "【他】だと思う《that》；を疑う　【名】容疑者",
+      "examples": [
+        {
+          "en": "The police suspect that the robber had help.",
+          "ja": "（（警察はその強盗が手助けを受けたと疑っている。））"
+        }
+      ]
+    },
+    {
+      "id": "1862-1",
+      "word": "suspicious",
+      "definition": "【形】疑い深い《of》；疑わしい",
+      "examples": []
+    },
+    {
+      "id": "1862-2",
+      "word": "suspicion",
+      "definition": "【名】疑惑；不信感",
+      "examples": []
+    },
+    {
+      "id": "1862-3",
+      "word": "questionable",
+      "definition": "【形】疑わしい",
+      "examples": []
+    },
+    {
+      "id": 1863,
+      "word": "deem",
+      "definition": "【他】《である》と考える《that節》",
+      "examples": [
+        {
+          "en": "After the earthquake many of the buildings were deemed to be unsafe.",
+          "ja": "（（その地震のあと，多くの建物が安全ではないとみなされた。））"
+        }
+      ]
+    },
+    {
+      "id": "1863-1",
+      "word": "distrust",
+      "definition": "【名】不信　【他】を信用しない",
+      "examples": []
+    },
+    {
+      "id": 1864,
+      "word": "hence",
+      "definition": "【副】〈文修飾〉したがって",
+      "examples": [
+        {
+          "en": "The engineer got the procedure wrong, hence the accident.",
+          "ja": "（（そのエンジニアは手順を誤った。ゆえに事故が起こった。））"
+        }
+      ]
+    },
+    {
+      "id": 1865,
+      "word": "fully",
+      "definition": "【副】十分に，完全に",
+      "examples": [
+        {
+          "en": "I didn’t fully understand what he was saying.",
+          "ja": "（（私は彼が何を言っているのか十分に理解できなかった。））"
+        }
+      ]
+    },
+    {
+      "id": 1866,
+      "word": "warn",
+      "definition": "【他】に警告する",
+      "examples": [
+        {
+          "en": "He warned us not to enter the room.",
+          "ja": "（（彼は我々に部屋に入らないようにと警告した。））"
+        }
+      ]
+    },
+    {
+      "id": "1866-1",
+      "word": "warning",
+      "definition": "【名】警告",
+      "examples": []
+    },
+    {
+      "id": 1867,
+      "word": "AI",
+      "definition": "【名】人工知能（artificial intelligenceの略）",
+      "examples": [
+        {
+          "en": "The company is trying to develop ways of using AI.",
+          "ja": "（（その会社はAIを使う方法を開発しようとしている。））"
+        }
+      ]
+    },
+    {
+      "id": 1868,
+      "word": "medicine",
+      "definition": "【名】薬；医学；医療（≒medical science）",
+      "examples": [
+        {
+          "en": "I have to take the medicine three times a day.",
+          "ja": "（（私は1日3回その薬を飲まなければならない。））"
+        }
+      ]
+    },
+    {
+      "id": "1868-1",
+      "word": "hygiene",
+      "definition": "【名】衛生（状態）",
+      "examples": []
+    },
+    {
+      "id": "1868-2",
+      "word": "sanitation",
+      "definition": "【名】衛生",
+      "examples": []
+    },
+    {
+      "id": 1869,
+      "word": "nutrition",
+      "definition": "【名】栄養（物；摂取）",
+      "examples": [
+        {
+          "en": "Some people think that there is very little nutrition in lettuce.",
+          "ja": "（（レタスには栄養がほとんどないと考える人もいる。））"
+        }
+      ]
+    },
+    {
+      "id": "1869-1",
+      "word": "nutritious",
+      "definition": "【形】栄養のある",
+      "examples": []
+    },
+    {
+      "id": "1869-2",
+      "word": "carbohydrate",
+      "definition": "【名】炭水化物；糖質",
+      "examples": []
+    },
+    {
+      "id": 1870,
+      "word": "nourish",
+      "definition": "【他】に栄養を与える；〈考えなど〉を抱く",
+      "examples": [
+        {
+          "en": "To grow healthy vegetables, you need to nourish the soil.",
+          "ja": "（（健康な野菜を育てるには土に栄養を与える必要がある。））"
+        }
+      ]
+    }
+  ]
+}

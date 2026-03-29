@@ -1,0 +1,478 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "41　メルボルンのデジタル緑化活動 (2)　[環境]",
+  "text": {
+    "en": "① One creative [[HL]]approach [[/HL]]to maintenance through [[HL]]community [[/HL]]involvement was [[HL]]implemented [[/HL]]in Melbourne, Australia. The city [[HL]]adopted [[/HL]]the unique [[HL]]scheme [[/HL]]of encouraging its [[HL]]citizens [[/HL]]to *befriend local trees to [[HL]]improve [[/HL]]the [[HL]]ecology [[/HL]]of the city. The idea was that if citizens[[HL]] [[/HL]]had a deeper [[HL]]connection [[/HL]]with the [[HL]]neighborhood [[/HL]]trees, the city would be more *proactive in implementing [[HL]]policies [[/HL]]and programs to take better care of their trees. When citizens get involved in taking care of the community’s trees, it shows their local government that the natural urban ecology is [[HL]]valuable [[/HL]]to them.\n\n② Melbourne took a digital approach to community involvement with its trees. The city gave each tree in a [[HL]]designated [[/HL]]area an identification [[HL]]code[[/HL]]. People can help [[HL]]monitor [[/HL]]the trees by [[HL]]alerting [[/HL]]local officials [[HL]]via [[/HL]]email if there are any problems with a specific tree. This project, called the Urban Forest Visual, includes a map which shows each tree’s age, species, and health [[HL]]status[[/HL]]. If a tree has any work performed on it, like branches being trimmed, this information is also made available. Through email communication and status [[HL]]updates [[/HL]]on the tree map, residents are able to stay [[HL]]informed[[/HL]], and the trees can be kept in a healthy condition.\n\n(199 words)",
+    "ja": "*befriend「~を助ける」 *proactive「先を見越して」\n\n❶　[[HL]]地域社会[[/HL]]の参加を通じた維持管理への創造的な[[HL]]取り組み[[/HL]]の1つに，オートラリアのメルボルンで[[HL]]実施され[[/HL]]たものがある。メルボルン市は，街の[[HL]]生態系を改善する[[/HL]]ために，[[HL]]市民[[/HL]]が地域の樹木を助けることを奨励する独自の[[HL]]計画を採用した[[/HL]]。その意図は，市民が[[HL]]近隣[[/HL]]の樹木とより深い[[HL]]つながり[[/HL]]をもてば，樹木をよりしっかり手入れする[[HL]]政策[[/HL]]や計画を，市がより先を見越して実施するだろうというものだった。市民が地域の樹木の世話に関われば，自然な都市生態系が市民にとって[[HL]]貴重な[[/HL]]ものであることを地方自治体に示すことになる。\n\n❷　メルボルンは，住民がその地域の木々と関わるようにするために，デジタルな手法を取った。市は，[[HL]]指定された[[/HL]]区域の木々の1本1本に識別[[HL]]コード[[/HL]]を付与した。住民は，特定の木に何か問題が見られたら地元職員[[HL]]に[[/HL]]Eメール[[HL]]を通じて通報すること[[/HL]]で，樹木[[HL]]を見守る[[/HL]]手助けをすることができる。このプロジェクトは「アーバン・フォレスト・ビジュアル」と呼ばれ，各樹木の樹齢，種，健康[[HL]]状態[[/HL]]を示す地図を含んでいる。枝の剪定など，樹木に何らかの作業が行われれば，その情報も入手できるようになっている。Eメールでのコミュニケーションや樹木マップの状態の[[HL]]更新[[/HL]]を通じて，住民は常に[[HL]]情報を得る[[/HL]]ことができ，また，樹木も健康な状態に保たれることが可能になる。"
+  },
+  "vocabulary": [
+    {
+      "id": 1186,
+      "word": "approach",
+      "definition": "【名】取り組み（方）；接近　【他】に近づく",
+      "examples": [
+        {
+          "en": "The man quietly approached the fox.",
+          "ja": "（（男は静かにキツネに近づいた。））"
+        }
+      ]
+    },
+    {
+      "id": 1187,
+      "word": "manner",
+      "definition": "【名】方法；行儀；態度",
+      "examples": [
+        {
+          "en": "She has a very gentle manner with the smaller children.",
+          "ja": "（（彼女は小さい子供たちにとても優しい態度で接する。））"
+        }
+      ]
+    },
+    {
+      "id": 1188,
+      "word": "mode",
+      "definition": "【名】方式；流行",
+      "examples": [
+        {
+          "en": "Please put your mobile phones into silent mode while on the train.",
+          "ja": "（（電車に乗っている間は携帯電話をマナーモードにしてください。））"
+        }
+      ]
+    },
+    {
+      "id": 1189,
+      "word": "community",
+      "definition": "【名】地域社会；共同体",
+      "examples": [
+        {
+          "en": "Our neighborhood feels like a comfortable community as everybody is so friendly.",
+          "ja": "（（私たちの地域は，みんながとても友好的で，快適な社会のように感じる。））"
+        }
+      ]
+    },
+    {
+      "id": "1189-1",
+      "word": "communal",
+      "definition": "【形】共同社会の；共有の",
+      "examples": []
+    },
+    {
+      "id": "1189-2",
+      "word": "communist",
+      "definition": "【名】共産主義者",
+      "examples": []
+    },
+    {
+      "id": 1190,
+      "word": "implement",
+      "definition": "【他】〈政策など〉を実行する　【名】《しばしば［複］》道具；手段",
+      "examples": [
+        {
+          "en": "The school will implement the new rules from the beginning of the new school year.",
+          "ja": "（（その学校は新学期の開始から新しい規則を実施する。））"
+        }
+      ]
+    },
+    {
+      "id": "1190-1",
+      "word": "implementation",
+      "definition": "【名】実行，実施",
+      "examples": []
+    },
+    {
+      "id": 1191,
+      "word": "machinery",
+      "definition": "【名】〈集合的に〉機械",
+      "examples": [
+        {
+          "en": "The machinery in this factory is really loud.",
+          "ja": "（（この工場の機械は本当にうるさい。））"
+        }
+      ]
+    },
+    {
+      "id": 1192,
+      "word": "adopt",
+      "definition": "【他】を採用する；を養子にする",
+      "examples": [
+        {
+          "en": "We are trying to adopt a new system of management for the school.",
+          "ja": "（（私たちは学校管理のための新しいシステムを採用しようとしている。））"
+        }
+      ]
+    },
+    {
+      "id": "1192-1",
+      "word": "adoption",
+      "definition": "【名】採択；養子縁組",
+      "examples": []
+    },
+    {
+      "id": 1193,
+      "word": "foster",
+      "definition": "【他】〈才能など〉を育む；を養育する　【形】里親の",
+      "examples": [
+        {
+          "en": "The school is very good at fostering students' interests and dreams.",
+          "ja": "（（この学校は生徒の興味と夢を育てるのがとても上手だ。））"
+        }
+      ]
+    },
+    {
+      "id": "1193-1",
+      "word": "nursery",
+      "definition": "【名】育児室；養殖場",
+      "examples": []
+    },
+    {
+      "id": "1193-2",
+      "word": "toddler",
+      "definition": "【名】歩き始めの幼児",
+      "examples": []
+    },
+    {
+      "id": 1194,
+      "word": "scheme",
+      "definition": "【名】計画；陰謀",
+      "examples": [
+        {
+          "en": "Before you start work, we have a training scheme that you need to complete.",
+          "ja": "（（仕事を始める前に，皆さんが修了する必要がある研修計画があります。））"
+        }
+      ]
+    },
+    {
+      "id": 1195,
+      "word": "citizen",
+      "definition": "【名】市民，国民",
+      "examples": [
+        {
+          "en": "The government should protect and care for its citizens.",
+          "ja": "（（政府は国民を保護し，配慮すべきだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1195-1",
+      "word": "citizenship",
+      "definition": "【名】市民権；国籍",
+      "examples": []
+    },
+    {
+      "id": 1196,
+      "word": "improve",
+      "definition": "【他】を改善する，を向上させる　【自】よくなる",
+      "examples": [
+        {
+          "en": "My math skills have really improved with our new teacher.",
+          "ja": "（（新しい先生になって，私の数学の技能は本当に向上した。））"
+        }
+      ]
+    },
+    {
+      "id": "1196-1",
+      "word": "improvement",
+      "definition": "【名】改善",
+      "examples": []
+    },
+    {
+      "id": 1197,
+      "word": "ecology",
+      "definition": "【名】生態（学）；環境（保護）",
+      "examples": [
+        {
+          "en": "The school has introduced a course on ecology.",
+          "ja": "（（その学校は生態学に関するコースを導入した。））"
+        }
+      ]
+    },
+    {
+      "id": "1197-1",
+      "word": "ecological",
+      "definition": "【形】生態学の",
+      "examples": []
+    },
+    {
+      "id": "1197-2",
+      "word": "ecologist",
+      "definition": "【名】生態学者",
+      "examples": []
+    },
+    {
+      "id": 1198,
+      "word": "ecosystem",
+      "definition": "【名】生態系",
+      "examples": [
+        {
+          "en": "The ecosystems of the rainforests are being destroyed by human activities.",
+          "ja": "（（熱帯雨林の生態系は人間の活動によって破壊されつつある。））"
+        }
+      ]
+    },
+    {
+      "id": 1199,
+      "word": "biology",
+      "definition": "【名】生物学",
+      "examples": [
+        {
+          "en": "I want to study biology and the evolution of plants.",
+          "ja": "（（私は生物学と植物の進化を研究したい。））"
+        }
+      ]
+    },
+    {
+      "id": "1199-1",
+      "word": "biological",
+      "definition": "【形】生物（学）の",
+      "examples": []
+    },
+    {
+      "id": 1200,
+      "word": "connection",
+      "definition": "【名】関係；連絡；接続",
+      "examples": [
+        {
+          "en": "The Internet connection here is really bad.",
+          "ja": "（（ここのインターネット接続は本当に悪い。））"
+        }
+      ]
+    },
+    {
+      "id": "1200-1",
+      "word": "connect",
+      "definition": "【他】をつなぐ〔関係づける〕《to，with》　【自】つながる",
+      "examples": []
+    },
+    {
+      "id": "1200-2",
+      "word": "disconnect",
+      "definition": "【他】（電源）を切る；を取りはずす",
+      "examples": []
+    },
+    {
+      "id": 1201,
+      "word": "neighborhood",
+      "definition": "【名】近所，地域",
+      "examples": [
+        {
+          "en": "I have just moved into a new neighborhood.",
+          "ja": "（（私は新しい地域に引っ越したばかりだ。））"
+        }
+      ]
+    },
+    {
+      "id": "1201-1",
+      "word": "neighboring",
+      "definition": "【形】近くの；隣〔近所〕の",
+      "examples": []
+    },
+    {
+      "id": 1202,
+      "word": "policy",
+      "definition": "【名】政策；信条",
+      "examples": [
+        {
+          "en": "I believe in the idea that honesty is the best policy.",
+          "ja": "（（正直は最善の策という考えは正しいと思う。））"
+        }
+      ]
+    },
+    {
+      "id": 1203,
+      "word": "valuable",
+      "definition": "【形】貴重な；高価な　【名】［複］貴重品",
+      "examples": [
+        {
+          "en": "My father gave me a really valuable watch.",
+          "ja": "（（父は本当に貴重な時計を私にくれた。））"
+        }
+      ]
+    },
+    {
+      "id": 1204,
+      "word": "designate",
+      "definition": "【他】を《～に》指定する《as, for》",
+      "examples": [
+        {
+          "en": "Smoking is only allowed in designated areas.",
+          "ja": "（（喫煙は指定された場所でのみ許可されている。））"
+        }
+      ]
+    },
+    {
+      "id": 1205,
+      "word": "assign",
+      "definition": "【他】〈人〉に割り当てる；〈人〉を任命する",
+      "examples": [
+        {
+          "en": "The professor assigned his students a report on the topic of the lecture.",
+          "ja": "（（教授は講義のテーマについて学生にレポートを課した。））"
+        }
+      ]
+    },
+    {
+      "id": "1205-1",
+      "word": "quota",
+      "definition": "【名】割り当て；分け前",
+      "examples": []
+    },
+    {
+      "id": 1206,
+      "word": "code",
+      "definition": "【名】規定；暗号；符号　【他】をコード化する",
+      "examples": [
+        {
+          "en": "The bank has introduced a code of conduct for employees interacting with clients.",
+          "ja": "（（銀行は顧客とやり取りする従業員の行動規定を導入した。））"
+        }
+      ]
+    },
+    {
+      "id": "1206-1",
+      "word": "encode",
+      "definition": "【他】を暗号化する",
+      "examples": []
+    },
+    {
+      "id": "1206-2",
+      "word": "decode",
+      "definition": "【他】を解読する",
+      "examples": []
+    },
+    {
+      "id": "1206-3",
+      "word": "protocol",
+      "definition": "【名】議定書；プロトコル",
+      "examples": []
+    },
+    {
+      "id": 1207,
+      "word": "monitor",
+      "definition": "【他】を監視する　【名】（監視）モニター",
+      "examples": [
+        {
+          "en": "The government is monitoring the situation, and if things get worse, they will act.",
+          "ja": "（（政府は状況を監視しており，事態が悪化すれば行動を起こすだろう。））"
+        }
+      ]
+    },
+    {
+      "id": 1208,
+      "word": "alert",
+      "definition": "【形】用心深い《to》　【名】警戒警報　【他】に通報する",
+      "examples": [
+        {
+          "en": "Kazue was alert to signs of disease in her child.",
+          "ja": "（（カズエは自分の子供の病気の兆候に注意していた。））"
+        }
+      ]
+    },
+    {
+      "id": 1209,
+      "word": "aware",
+      "definition": "【形】《～に》気づいて《of，that》",
+      "examples": [
+        {
+          "en": "He was not aware that his name was called.",
+          "ja": "（（彼は自分の名前が呼ばれたことに気づかなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1209-1",
+      "word": "awareness",
+      "definition": "【名】意識；認識",
+      "examples": []
+    },
+    {
+      "id": "1209-2",
+      "word": "unaware",
+      "definition": "【形】気がつかない",
+      "examples": []
+    },
+    {
+      "id": 1210,
+      "word": "conscious",
+      "definition": "【形】気づいて《of，that》；意識的な",
+      "examples": [
+        {
+          "en": "I was not conscious of her presence.",
+          "ja": "（（私は彼女がいたことに気づかなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1210-1",
+      "word": "consciousness",
+      "definition": "【名】意識",
+      "examples": []
+    },
+    {
+      "id": "1210-2",
+      "word": "consciously",
+      "definition": "【副】故意に；意識して",
+      "examples": []
+    },
+    {
+      "id": "1210-3",
+      "word": "unconscious",
+      "definition": "【形】無意識の",
+      "examples": []
+    },
+    {
+      "id": 1211,
+      "word": "conscience",
+      "definition": "【名】良心；後ろめたさ",
+      "examples": [
+        {
+          "en": "Follow your conscience and do what you think is right.",
+          "ja": "（（自分の良心に従って，正しいと思うことをしなさい。））"
+        }
+      ]
+    },
+    {
+      "id": 1212,
+      "word": "via",
+      "definition": "【前】を経由して（≒by way of）；によって（≒by means of）",
+      "examples": [
+        {
+          "en": "I traveled to Rome via Dubai.",
+          "ja": "（（私はドバイ経由でローマに行った。））"
+        }
+      ]
+    },
+    {
+      "id": 1213,
+      "word": "status",
+      "definition": "【名】地位；状態",
+      "examples": [
+        {
+          "en": "The gigantic tomb shows the social status of the ruler at that time.",
+          "ja": "（（その巨大な墓は当時の統治者の社会的地位を示している。））"
+        }
+      ]
+    },
+    {
+      "id": 1214,
+      "word": "update",
+      "definition": "【他】を更新する　【名】最新情報；アップデート",
+      "examples": [
+        {
+          "en": "Please update your phone's operating system as soon as possible.",
+          "ja": "（（できるだけ早く電話の操作システムを更新してください。））"
+        }
+      ]
+    },
+    {
+      "id": 1215,
+      "word": "inform",
+      "definition": "【他】《～を》〈人など〉に知らせる《of》",
+      "examples": [
+        {
+          "en": "He informed me that he had succeeded.",
+          "ja": "（（彼は私にうまくいったと知らせてきた。））"
+        }
+      ]
+    }
+  ]
+}

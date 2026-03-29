@@ -1,0 +1,246 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "36　真実を使ったうそ (1)　[人間]",
+  "text": {
+    "en": "① *Beware of those who [[HL]]deliberately [[/HL]]use [[HL]]aspects [[/HL]]of the [[HL]]truth [[/HL]]to [[HL]]deceive [[/HL]]you and others.  When someone tells you something that is true, but intentionally leaves out important information that should be included for full comprehension on your part to take place, they can create a false [[HL]]impression[[/HL]].\n\n② For example, an [[HL]]acquaintance [[/HL]]might tell you, “I just won a hundred dollars in the state [[HL]]lottery [[/HL]]and it was fantastic when I took that one dollar ticket back to the store and turned it in for one hundred *bucks!”  This woman’s a winner, right?  Maybe, maybe not.  In fact, you later learn that she had [[HL]]purchased [[/HL]]not one ticket but instead two hundred for this specific lottery — and only one of these a winner!  Eventually, you realize this woman, who you thought was ‘lucky’ or ‘fortunate’ is, in fact, a huge loser.  Although she didn’t say anything false, she clearly left out important information and [[HL]]likely [[/HL]]did so on purpose.  That’s called a *half-truth, which is not [[HL]]technically [[/HL]]a lie, but it’s just as [[HL]]dishonest[[/HL]].\n\n（174 words）",
+    "ja": "*beware「気をつける」　*buck「ドル」　*half-truth「一部だけが真実の話」\n\n❶　あなたや他の人たち[[HL]]をだます[[/HL]]ために，[[HL]]故意に真実[[/HL]]の[[HL]]側面[[/HL]]を使うような人たちには，気をつけた方がよい。誰かがあなたに真実であることを話していても，その人が，あなたの側での理解が完全なものとなるために含まれるべき重要な情報を意図的に省いていると，誤った[[HL]]印象[[/HL]]を作り出すことができる。\n\n❷　例えば，ある[[HL]]知り合い[[/HL]]が，あなたにこう言ってくるかもしれない。「私は州の[[HL]]宝くじ[[/HL]]で100ドル当たったばかりでしてね，その1ドルで買った宝くじ券を店に持って行ってそれを渡して100ドルに引き換えた時は，気分最高でしたよ！」と。この女性は勝者だろうか。そうかもしれないし，そうではないかもしれない。実際には，あなたがあとになって知ったことには，彼女がこの特定の宝くじで1枚ではなく200枚の宝くじ券[[HL]]を購入して[[/HL]]いたということであり，そのうちの1枚だけが当たりくじだったのである！結局のところ，「ついている」あるいは「幸運である」とあなたが思っていたこの女性は，実は大損をした人だということに，あなたは気づくのである。彼女は何も事実に反することは言わなかったのだが，明らかに重要な情報を省き，そして[[HL]]おそらく[[/HL]]故意にそうしたのだ。そういうものは一部だけが真実の話と呼ばれ，[[HL]]厳密には[[/HL]]うそではないが，（うそと）同程度に[[HL]]不誠実な[[/HL]]ものである。"
+  },
+  "vocabulary": [
+    {
+      "id": 1041,
+      "word": "deliberately",
+      "definition": "【副】故意に",
+      "examples": [
+        {
+          "en": "The man deliberately walked into the policeman and didn't say sorry.",
+          "ja": "（（その男はわざと警官にぶつかり，謝りもしなかった。））"
+        }
+      ]
+    },
+    {
+      "id": "1041-1",
+      "word": "deliberate",
+      "definition": "【形】故意の；慎重な",
+      "examples": []
+    },
+    {
+      "id": 1042,
+      "word": "aspect",
+      "definition": "【名】側面；観点；様相",
+      "examples": [
+        {
+          "en": "The situation has taken on a new aspect.",
+          "ja": "（（情勢は新しい局面を呈した。））"
+        }
+      ]
+    },
+    {
+      "id": 1043,
+      "word": "dimension",
+      "definition": "【名】側面；次元；〈通例［複］〉寸法",
+      "examples": [
+        {
+          "en": "Let's measure the dimensions of the window before buying a curtain.",
+          "ja": "（（カーテンを買う前に窓の寸法を測ろう。））"
+        }
+      ]
+    },
+    {
+      "id": "1043-1",
+      "word": "dimensional",
+      "definition": "【形】〈複合語で〉～次元の",
+      "examples": []
+    },
+    {
+      "id": 1044,
+      "word": "truth",
+      "definition": "【名】真実，事実",
+      "examples": [
+        {
+          "en": "The mother told the young child to tell the truth.",
+          "ja": "（（母親は幼い子供に本当のことを言うように言った。））"
+        }
+      ]
+    },
+    {
+      "id": 1045,
+      "word": "deceive",
+      "definition": "【他】をだます（≒take in）",
+      "examples": [
+        {
+          "en": "He was deceived by the false information.",
+          "ja": "（（彼はその誤った情報にだまされた。））"
+        }
+      ]
+    },
+    {
+      "id": "1045-1",
+      "word": "deception",
+      "definition": "【名】だますこと；詐欺",
+      "examples": []
+    },
+    {
+      "id": "1045-2",
+      "word": "deceptive",
+      "definition": "【形】人をだますような",
+      "examples": []
+    },
+    {
+      "id": 1046,
+      "word": "impression",
+      "definition": "【名】印象；感動",
+      "examples": [
+        {
+          "en": "What was your first impression of the US?",
+          "ja": "（（アメリカの第一印象はどうでしたか。））"
+        }
+      ]
+    },
+    {
+      "id": "1046-1",
+      "word": "impress",
+      "definition": "【他】によい印象を与える",
+      "examples": []
+    },
+    {
+      "id": "1046-2",
+      "word": "impressive",
+      "definition": "【形】印象的な",
+      "examples": []
+    },
+    {
+      "id": 1047,
+      "word": "acquaintance",
+      "definition": "【名】知人；面識",
+      "examples": [
+        {
+          "en": "I have made a lot of new acquaintances at my new job.",
+          "ja": "（（私は新しい職場でたくさんの新しい知り合いを作った。））"
+        }
+      ]
+    },
+    {
+      "id": 1048,
+      "word": "lottery",
+      "definition": "【名】宝くじ",
+      "examples": [
+        {
+          "en": "He bought tickets for the national lottery.",
+          "ja": "（（彼は国の宝くじのチケットを買った。））"
+        }
+      ]
+    },
+    {
+      "id": "1048-1",
+      "word": "gamble",
+      "definition": "【名】賭け　【自】賭け事をする",
+      "examples": []
+    },
+    {
+      "id": 1049,
+      "word": "purchase",
+      "definition": "【他】〈高額な物〉を買う　【名】購入（品）",
+      "examples": [
+        {
+          "en": "If you can prove that you purchased that here, we will replace it.",
+          "ja": "（（ここでそれを購入したことを証明できれば取り替えます。））"
+        }
+      ]
+    },
+    {
+      "id": "1049-1",
+      "word": "expenditure",
+      "definition": "【名】支出（額）",
+      "examples": []
+    },
+    {
+      "id": 1050,
+      "word": "subscribe",
+      "definition": "【自】《を》購読する；署名する；寄付する；《疑問文・否定文で》同意する《to》",
+      "examples": [
+        {
+          "en": "I subscribe to a monthly science magazine.",
+          "ja": "（（私は月刊の科学雑誌を購読している。））"
+        }
+      ]
+    },
+    {
+      "id": 1051,
+      "word": "commercial",
+      "definition": "【形】商業の　【名】コマーシャル",
+      "examples": [
+        {
+          "en": "The movie was a commercial success because of the great acting.",
+          "ja": "（（その映画は素晴らしい演技のおかげで商業的な成功を収めた。））"
+        }
+      ]
+    },
+    {
+      "id": 1052,
+      "word": "retail",
+      "definition": "【名】小売り　【他】を小売りする",
+      "examples": [
+        {
+          "en": "The retail price of the product is $15.",
+          "ja": "（（その製品の小売価格は15ドルです。））"
+        }
+      ]
+    },
+    {
+      "id": 1053,
+      "word": "commodity",
+      "definition": "【名】商品；日用品",
+      "examples": [
+        {
+          "en": "Oil is a globally-traded commodity.",
+          "ja": "（（石油は国際的に取り引きされる商品だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1054,
+      "word": "likely",
+      "definition": "【形】ありそうな　【副】たぶん",
+      "examples": [
+        {
+          "en": "He is likely to study physics at university.",
+          "ja": "（（彼はたぶん大学で物理学を学ぶだろう。））"
+        }
+      ]
+    },
+    {
+      "id": 1055,
+      "word": "technically",
+      "definition": "【副】専門的〔厳密〕に言うと；技術的には",
+      "examples": [
+        {
+          "en": "Our company’s products are technically more advanced than those of our competitors.",
+          "ja": "（（わが社の製品は技術的に競合他社より進んでいる。））"
+        }
+      ]
+    },
+    {
+      "id": "1055-1",
+      "word": "technical",
+      "definition": "【形】専門の；技術的な",
+      "examples": []
+    },
+    {
+      "id": "1055-2",
+      "word": "technician",
+      "definition": "【名】技術者；技師",
+      "examples": []
+    },
+    {
+      "id": 1056,
+      "word": "dishonest",
+      "definition": "【形】不正直な，不誠実な",
+      "examples": [
+        {
+          "en": "I regret having made a dishonest excuse.",
+          "ja": "（（私は不誠実な言い訳をしたことを後悔している。））"
+        }
+      ]
+    }
+  ]
+}

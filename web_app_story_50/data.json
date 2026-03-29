@@ -1,0 +1,444 @@
+{
+  "title": "速読英単語 必修編",
+  "subTitle": "50　ウナギの生態 (1)　[科学]",
+  "text": {
+    "en": "① If you [[HL]]travel [[/HL]]by boat up the River Thames in London, you will pass a small island called *Eel Pie Island. It is said that in the 16th century a woman living on that island made such delicious eel pies that the King and his *court always stopped there for a snack when going from London to his country [[HL]]palace [[/HL]]upstream.\n\n② For many centuries, since at least the time of the [[HL]]ancient [[/HL]]Greeks, and probably longer, eels, both fresh and smoked, have been appreciated in Europe as food. The tough skin was also used in place of [[HL]]leather [[/HL]]as a *thong to tie together certain [[HL]]tools[[/HL]], while children used it for *whipping their tops.\n\n③ The European freshwater eel is found in all waters of western Europe and the [[HL]]Mediterranean [[/HL]]area. By day it *burrows into the mud of lakes and [[HL]]streams[[/HL]], and emerges at night to feed on whatever kinds of animal food it can find. Eel traps are therefore set in the evening in rivers where it lives. Long and slim, they are [[HL]]woven [[/HL]]of *willow *twigs in such a way that the eel swims into the basket-like trap following the [[HL]]current [[/HL]]of the river, and cannot thereafter [[HL]]escape[[/HL]]. Early the following morning, the traps are [[HL]]inspected [[/HL]]to see what the night’s catch has been.\n\n(216 words)",
+    "ja": "*eel「ウナギ」 *court 「廷臣」 *thong「ひも」 *whip a top「コマを回す」 *burrow「潜る」 *willow「柳」 *twig「小枝」\n\n❶　ロンドンのテムズ川を船で上流に[[HL]]進む[[/HL]]と，イールパイ島という小さな島を通り過ぎる。16世紀，その島に住む女性が作るウナギパイがとてもおいしかったので，国王とその廷臣たちはロンドンから川の上流の郊外にある[[HL]]宮殿[[/HL]]に行く時，いつも軽食を求めてそこに立ち寄ったと言われている。\n\n❷　何世紀もの間，少なくとも[[HL]]古代[[/HL]]ギリシャの時代から，おそらくはもっと前から，ウナギは，鮮魚としても燻製としても，ヨーロッパでは食用魚として重宝されてきた。その丈夫な皮は，[[HL]]道具[[/HL]]を束ねるひもとして[[HL]]革[[/HL]]の代わりに使用され，一方，子供たちはコマを回すのに使った。\n\n❸　ヨーロッパの淡水生のウナギは，西ヨーロッパおよび[[HL]]地中海[[/HL]]地域のあらゆる水域で見られる。日中は，湖や[[HL]]小川[[/HL]]の[[HL]]泥[[/HL]]の中に潜り，夜になると姿を現し，見つけることができる動物性の食物は何でも餌にする。そのため，ウナギのわなは，ウナギが生息する川に夕方仕掛けられる。細長いそのわなは，柳の小枝で[[HL]]編まれ[[/HL]]，ウナギは川の[[HL]]流れ[[/HL]]に従ってそのカゴ状のわなの中へ泳ぎ込むと，もうそこからは[[HL]]逃げら[[/HL]]れないようになっている。翌朝早くに，夜のうちにかかった獲物が何かを確認するためにわなが[[HL]]調べられ[[/HL]]る。"
+  },
+  "vocabulary": [
+    {
+      "id": 1406,
+      "word": "travel",
+      "definition": "【他】【自】旅行する；進む；〈光・音などが〉伝わる　【名】旅行",
+      "examples": [
+        {
+          "en": "It takes me 30 minutes to travel to school every day.",
+          "ja": "（（毎日学校まで行くのに30分かかる。））"
+        }
+      ]
+    },
+    {
+      "id": 1407,
+      "word": "depart",
+      "definition": "【自】出発する　【他】から出発する",
+      "examples": [
+        {
+          "en": "Your train departs at 11 o'clock.",
+          "ja": "（（君が乗る列車は11時に出発する。））"
+        }
+      ]
+    },
+    {
+      "id": "1407-1",
+      "word": "departure",
+      "definition": "【名】出発（便）",
+      "examples": []
+    },
+    {
+      "id": 1408,
+      "word": "expedition",
+      "definition": "【名】遠征；探検隊",
+      "examples": [
+        {
+          "en": "The researchers set off on the expedition to the Antarctic a month ago.",
+          "ja": "（（その研究者たちは１カ月前に南極の探検に出発した。））"
+        }
+      ]
+    },
+    {
+      "id": 1409,
+      "word": "voyage",
+      "definition": "【名】航海；船旅",
+      "examples": [
+        {
+          "en": "We decided to go on a long sea voyage as a special holiday.",
+          "ja": "（（私たちは特別休暇として長い船旅に出ることにした。））"
+        }
+      ]
+    },
+    {
+      "id": 1410,
+      "word": "palace",
+      "definition": "【名】宮殿",
+      "examples": [
+        {
+          "en": "The tourists took lots of pictures of Buckingham Palace.",
+          "ja": "（（その観光客たちはバッキンガム宮殿の写真をたくさん撮った。））"
+        }
+      ]
+    },
+    {
+      "id": 1411,
+      "word": "ancient",
+      "definition": "【形】古代の；昔からの",
+      "examples": [
+        {
+          "en": "My dream holiday would be to see the pyramids of ancient Egypt.",
+          "ja": "（（私の夢の休暇は，古代エジプトのピラミッドを見ることだ。））"
+        }
+      ]
+    },
+    {
+      "id": 1412,
+      "word": "primitive",
+      "definition": "【形】原始的な；原始（時代）の",
+      "examples": [
+        {
+          "en": "The museum now features life in primitive societies.",
+          "ja": "（（その博物館では現在，原始社会の生活をテーマとして展示を行っている。））"
+        }
+      ]
+    },
+    {
+      "id": 1413,
+      "word": "archaeologist",
+      "definition": "【名】考古学者",
+      "examples": [
+        {
+          "en": "Archaeologists have recently discovered new rooms in the Pyramid of Giza.",
+          "ja": "（（考古学者は最近，ギザのピラミッドで新しい部屋を発見した。））"
+        }
+      ]
+    },
+    {
+      "id": "1413-1",
+      "word": "archaeology",
+      "definition": "【名】考古学",
+      "examples": []
+    },
+    {
+      "id": "1413-2",
+      "word": "archaeological",
+      "definition": "【形】考古学（上）の",
+      "examples": []
+    },
+    {
+      "id": "1413-3",
+      "word": "mammoth",
+      "definition": "【名】マンモス",
+      "examples": []
+    },
+    {
+      "id": 1414,
+      "word": "leather",
+      "definition": "【名】革；革製品　【形】革製の",
+      "examples": [
+        {
+          "en": "He looked great in his new leather jacket.",
+          "ja": "（（彼は新しい革のジャケットがよく似合っていた。））"
+        }
+      ]
+    },
+    {
+      "id": 1415,
+      "word": "fur",
+      "definition": "【名】毛；毛皮",
+      "examples": [
+        {
+          "en": "The woman in the fur coat over there is my mother.",
+          "ja": "（（あそこにいる毛皮のコートの女性は私の母です。））"
+        }
+      ]
+    },
+    {
+      "id": 1416,
+      "word": "tool",
+      "definition": "【名】道具；手段",
+      "examples": [
+        {
+          "en": "You need the right tools to do the job correctly.",
+          "ja": "（（きちんと仕事をするにはそれにふさわしい道具が必要だ。））"
+        }
+      ]
+    },
+    {
+      "id": 1417,
+      "word": "instrument",
+      "definition": "【名】器具；楽器",
+      "examples": [
+        {
+          "en": "Can you play any musical instruments?",
+          "ja": "（（何か楽器を弾けますか。））"
+        }
+      ]
+    },
+    {
+      "id": "1417-1",
+      "word": "gear",
+      "definition": "【名】歯車；装置；道具一式",
+      "examples": []
+    },
+    {
+      "id": 1418,
+      "word": "Mediterranean",
+      "definition": "【形】地中海の",
+      "examples": [
+        {
+          "en": "The Mediterranean coast of Spain is really beautiful.",
+          "ja": "（（スペインの地中海沿岸は本当に美しい。））"
+        }
+      ]
+    },
+    {
+      "id": 1419,
+      "word": "mud",
+      "definition": "【名】泥",
+      "examples": [
+        {
+          "en": "Take your shoes off as they have mud on them.",
+          "ja": "（（泥がついているから靴を脱ぎなさい。））"
+        }
+      ]
+    },
+    {
+      "id": 1420,
+      "word": "dirt",
+      "definition": "【名】汚れ；泥",
+      "examples": [
+        {
+          "en": "He removed the dirt from the shoes with a brush.",
+          "ja": "（（彼はブラシで靴の汚れを取り除いた。））"
+        }
+      ]
+    },
+    {
+      "id": 1421,
+      "word": "clay",
+      "definition": "【名】粘土",
+      "examples": [
+        {
+          "en": "In class we made our own mugs using clay.",
+          "ja": "（（私たちは，授業で粘土を使って自分のマグカップを作った。））"
+        }
+      ]
+    },
+    {
+      "id": 1422,
+      "word": "stream",
+      "definition": "【名】小川；流れ",
+      "examples": [
+        {
+          "en": "There was a steady stream of people headed for the concert hall.",
+          "ja": "（（そのコンサートホールに向かって絶え間ない人の流れがあった。））"
+        }
+      ]
+    },
+    {
+      "id": 1423,
+      "word": "tide",
+      "definition": "【名】潮（の干満）；潮流；傾向；多数《の～》《of》",
+      "examples": [
+        {
+          "en": "The city is making efforts to cope with the rising tide of tourists.",
+          "ja": "（（その都市は増加し続ける多数の観光客に対処するよう努力している。））"
+        }
+      ]
+    },
+    {
+      "id": 1424,
+      "word": "weave",
+      "definition": "【他】を織る；〈計画など〉を作り上げる；〈巣〉を張る",
+      "examples": [
+        {
+          "en": "I watched a demonstration of traditional silk weaving.",
+          "ja": "（（伝統的な絹織りの実演を見た。））"
+        }
+      ]
+    },
+    {
+      "id": "1424-1",
+      "word": "hive",
+      "definition": "【名】ミツバチの巣",
+      "examples": []
+    },
+    {
+      "id": 1425,
+      "word": "textile",
+      "definition": "【名】織物，布地",
+      "examples": [
+        {
+          "en": "The textile industry in Japan has a long history.",
+          "ja": "（（日本の織物産業は長い歴史を有する。））"
+        }
+      ]
+    },
+    {
+      "id": 1426,
+      "word": "dye",
+      "definition": "【他】を染める　【名】染料",
+      "examples": [
+        {
+          "en": "He decided to dye his hair brown when he started college.",
+          "ja": "（（彼は大学に通い始めた時，髪を茶色に染めることを決めた。））"
+        }
+      ]
+    },
+    {
+      "id": 1427,
+      "word": "current",
+      "definition": "【形】現在の；流通している　【名】流れ",
+      "examples": [
+        {
+          "en": "The current leader is not very popular at the moment.",
+          "ja": "（（現在の指導者は今のところあまり人気ではない。））"
+        }
+      ]
+    },
+    {
+      "id": "1427-1",
+      "word": "breeze",
+      "definition": "【名】そよ風",
+      "examples": []
+    },
+    {
+      "id": 1428,
+      "word": "currency",
+      "definition": "【名】通貨；普及",
+      "examples": [
+        {
+          "en": "I need to change my money into the local currency.",
+          "ja": "（（私は自分のお金を現地通貨に両替する必要がある。））"
+        }
+      ]
+    },
+    {
+      "id": 1429,
+      "word": "contemporary",
+      "definition": "【形】現代の；同時代の　【名】同時代の人",
+      "examples": [
+        {
+          "en": "I am not that fond of contemporary music.",
+          "ja": "（（私は現代音楽がそれほど好きではない。））"
+        }
+      ]
+    },
+    {
+      "id": 1430,
+      "word": "escape",
+      "definition": "【自】逃げる　【他】を免れる　【名】逃亡",
+      "examples": [
+        {
+          "en": "I wanted to escape from the city for a few days.",
+          "ja": "（（私は数日間都会から離れたかった。））"
+        }
+      ]
+    },
+    {
+      "id": 1431,
+      "word": "flee",
+      "definition": "【自】【他】逃げる　fled＞fled",
+      "examples": [
+        {
+          "en": "The refugees fled from Cuba to the United States.",
+          "ja": "（（難民はキューバからアメリカへ逃げた。））"
+        }
+      ]
+    },
+    {
+      "id": 1432,
+      "word": "refugee",
+      "definition": "【名】難民",
+      "examples": [
+        {
+          "en": "A boat carrying 50 refugees sank and only a few survived.",
+          "ja": "（（50人の難民を乗せたボートが沈没し，数人だけが生き残った。））"
+        }
+      ]
+    },
+    {
+      "id": "1432-1",
+      "word": "refuge",
+      "definition": "【名】避難（所）",
+      "examples": []
+    },
+    {
+      "id": 1433,
+      "word": "inspect",
+      "definition": "【他】を検査する",
+      "examples": [
+        {
+          "en": "We carefully inspect all our goods before we ship them to our customers.",
+          "ja": "（（私たちは商品を顧客に発送する前に，すべての商品を注意深く検査する。））"
+        }
+      ]
+    },
+    {
+      "id": "1433-1",
+      "word": "inspection",
+      "definition": "【名】監査；検査",
+      "examples": []
+    },
+    {
+      "id": "1433-2",
+      "word": "canyon",
+      "definition": "【名】峡谷；深い谷",
+      "examples": []
+    },
+    {
+      "id": "1433-3",
+      "word": "valley",
+      "definition": "【名】谷（間）；《the》～流域",
+      "examples": []
+    },
+    {
+      "id": "1433-4",
+      "word": "gulf",
+      "definition": "【名】湾",
+      "examples": []
+    },
+    {
+      "id": "1433-5",
+      "word": "coastal",
+      "definition": "【形】沿岸の",
+      "examples": []
+    },
+    {
+      "id": "1433-6",
+      "word": "reef",
+      "definition": "【名】岩礁",
+      "examples": []
+    },
+    {
+      "id": "1433-7",
+      "word": "isle",
+      "definition": "【名】島",
+      "examples": []
+    },
+    {
+      "id": "1433-8",
+      "word": "mainland",
+      "definition": "【名】〈島や半島と区別して〉本土",
+      "examples": []
+    },
+    {
+      "id": "1433-9",
+      "word": "glacier",
+      "definition": "【名】氷河",
+      "examples": []
+    },
+    {
+      "id": "1433-10",
+      "word": "pole",
+      "definition": "【名】棒；〈地球・天体の〉極",
+      "examples": []
+    },
+    {
+      "id": "1433-11",
+      "word": "polar",
+      "definition": "【形】極（地）の",
+      "examples": []
+    },
+    {
+      "id": "1433-12",
+      "word": "Antarctica",
+      "definition": "【名】南極大陸",
+      "examples": []
+    },
+    {
+      "id": "1433-13",
+      "word": "wilderness",
+      "definition": "【名】《the》荒野",
+      "examples": []
+    }
+  ]
+}
