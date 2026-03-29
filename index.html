@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>速読英単語 ストーリー一覧</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; line-height: 1.6; background-color: #f8fafc; }
+        h1 { color: #1e3a8a; text-align: center; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px; max-width: 800px; margin: 0 auto; }
+        a { display: block; padding: 15px; text-align: center; background-color: white; color: #3b82f6; text-decoration: none; border-radius: 8px; font-weight: bold; border: 1px solid #e2e8f0; transition: all 0.2s; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        a:hover { background-color: #3b82f6; color: white; transform: translateY(-2px); box-shadow: 0 4px 6px rgba(0,0,0,0.15); }
+        .notice { text-align: center; color: #64748b; margin-bottom: 30px; }
+    </style>
+</head>
+<body>
+
+    <h1>速読英単語 ストーリー一覧</h1>
+    <p class="notice">※GitHub Pagesの設定後、反映までに数分かかる場合があります。<br>「File not found」となる場合は、1〜2分待ってからページを再読み込みしてください。</p>
+    
+    <div class="grid" id="story-grid">
+        <!-- JS will populate hyperlinks -->
+    </div>
+
+    <script>
+        const grid = document.getElementById('story-grid');
+        for (let i = 1; i <= 71; i++) {
+            const numStr = i.toString().padStart(2, '0');
+            const link = document.createElement('a');
+            link.href = `web_app_story_${numStr}/index.html`;
+            link.textContent = `Story ${numStr}`;
+            grid.appendChild(link);
+        }
+    </script>
+</body>
+</html>
