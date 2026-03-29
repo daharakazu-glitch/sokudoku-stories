@@ -12,6 +12,20 @@
         a:hover { background-color: #3b82f6; color: white; transform: translateY(-2px); box-shadow: 0 4px 6px rgba(0,0,0,0.15); }
         .notice { text-align: center; color: #64748b; margin-bottom: 30px; }
     </style>
+
+    <meta name="robots" content="noindex, nofollow">
+    <script>
+        const pass = sessionStorage.getItem('authorized');
+        if (pass !== 'nankou') {
+            let input = prompt("このページは限定公開です。パスワードを入力してください：");
+            if (input === 'nankou') {
+                sessionStorage.setItem('authorized', 'nankou');
+            } else {
+                document.documentElement.innerHTML = "<body style='display:flex; justify-content:center; align-items:center; height:100vh; font-family:sans-serif; background:#f8fafc;'><div style='text-align:center;'><h1 style='color:#ef4444; font-size: 2rem; margin-bottom: 10px;'>Access Denied</h1><p style='color:#475569;'>正しいパスワードが入力されませんでした。</p><button onclick='location.reload()' style='margin-top:20px; padding:10px 20px; cursor:pointer; background:#3b82f6; color:white; border:none; border-radius:5px; font-weight:bold;'>再入力する</button></div></body>";
+                throw new Error("Unauthorized");
+            }
+        }
+    </script>
 </head>
 <body>
 
