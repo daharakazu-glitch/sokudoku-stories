@@ -181,8 +181,19 @@ function setTab(tab) {
 }
 
 function toggleSelect(id) {
+  // Coerce string ID from HTML back to Number if it's numeric to match the Set's strict equality
+  const parsedId = isNaN(Number(id)) ? String(id) : Number(id);
+  
   const newSet = new Set(state.selectedIds);
-  if (newSet.has(id)) newSet.delete(id); else newSet.add(id);
+  // Try deleting both string and number representations just in case
+  if (newSet.has(parsedId)) {
+    newSet.delete(parsedId);
+  } else if (newSet.has(String(parsedId))) {
+    newSet.delete(String(parsedId));
+  } else {
+    newSet.add(parsedId);
+  }
+  
   setState({ selectedIds: newSet });
   debouncedSave();
 }
