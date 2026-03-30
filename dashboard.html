@@ -79,6 +79,7 @@
                     const storiesSnap = await getDocs(collection(db, "users", uid, "stories"));
                     
                     let totalCheckedWords = 0;
+                    let totalPronouncedWords = 0;
                     let storiesStarted = storiesSnap.size;
                     let scores = [];
                     
@@ -91,6 +92,8 @@
                             Object.values(sData.pronunciationScores).forEach(score => {
                                 if (typeof score === 'number') scores.push(score);
                             });
+                            const pronouncedIds = new Set(Object.keys(sData.pronunciationScores).map(k => k.split('_')[0]));
+                            totalPronouncedWords += pronouncedIds.size;
                         }
                     });
 
@@ -108,7 +111,8 @@
                         storiesStarted,
                         totalCheckedWords,
                         avgScore,
-                        totalPronunciations: scores.length
+                        totalPronunciations: scores.length,
+                        totalPronouncedWords
                     });
                 }
 
@@ -145,6 +149,9 @@
                     </td>
                     <td class="py-4 px-4 text-center">
                         <span class="font-bold text-lg text-slate-700">${s.totalCheckedWords} <span class="text-xs text-slate-400 font-normal">words</span></span>
+                    </td>
+                    <td class="py-4 px-4 text-center">
+                        <span class="font-bold text-lg text-indigo-600">${s.totalPronouncedWords} <span class="text-xs text-indigo-300 font-normal">words</span></span>
                     </td>
                     <td class="py-4 px-4 text-center">
                         <div class="flex flex-col items-center">
@@ -204,6 +211,7 @@
                                 <th class="py-3 px-4">Student</th>
                                 <th class="py-3 px-4 text-center">Stories Started</th>
                                 <th class="py-3 px-4 text-center">Vocabulary Checks</th>
+                                <th class="py-3 px-4 text-center">Words Pronounced</th>
                                 <th class="py-3 px-4 text-center">Pronunciation Avg Score</th>
                                 <th class="py-3 px-4 text-right">Last Login</th>
                             </tr>

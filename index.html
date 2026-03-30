@@ -65,6 +65,7 @@
 
                 // Fetch student progress
                 let totalWords = 0;
+                let totalWordsPronounced = 0;
                 let scores = [];
                 let startedStories = new Set();
                 try {
@@ -76,6 +77,8 @@
                         if (data.selectedIds) totalWords += data.selectedIds.length;
                         if (data.pronunciationScores) {
                             Object.values(data.pronunciationScores).forEach(s => { if(typeof s === 'number') scores.push(s); });
+                            const pronouncedIds = new Set(Object.keys(data.pronunciationScores).map(k => k.split('_')[0]));
+                            totalWordsPronounced += pronouncedIds.size;
                         }
                     });
                 } catch (err) { console.error("Error fetching progress", err); }
@@ -95,15 +98,19 @@
                             <button id="btn-logout" style="background:#f1f5f9; color:#475569; border:none; padding:10px 20px; border-radius:8px; font-weight:bold; cursor:pointer; transition:all 0.2s;" onmouseover="this.style.background='#e2e8f0'" onmouseout="this.style.background='#f1f5f9'">Logout</button>
                         </div>
                         <div style="display:flex; gap:15px; justify-content:space-between;">
-                            <div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:20px 15px; text-align:center;">
+                            <div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:20px 10px; text-align:center;">
                                 <div style="font-size:0.75rem; color:#64748b; font-weight:bold; margin-bottom:8px; text-transform:uppercase;">Checkmarks</div>
                                 <div style="font-size:1.8rem; font-weight:bold; color:#3b82f6; line-height:1;">${totalWords}</div>
                             </div>
-                            <div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:20px 15px; text-align:center;">
+                            <div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:20px 10px; text-align:center;">
+                                <div style="font-size:0.75rem; color:#64748b; font-weight:bold; margin-bottom:8px; text-transform:uppercase;">Pronounced</div>
+                                <div style="font-size:1.8rem; font-weight:bold; color:#8b5cf6; line-height:1;">${totalWordsPronounced}</div>
+                            </div>
+                            <div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:20px 10px; text-align:center;">
                                 <div style="font-size:0.75rem; color:#64748b; font-weight:bold; margin-bottom:8px; text-transform:uppercase;">Stories Started</div>
                                 <div style="font-size:1.8rem; font-weight:bold; color:#10b981; line-height:1;">${startedStories.size}</div>
                             </div>
-                            <div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:20px 15px; text-align:center;">
+                            <div style="flex:1; background:#f8fafc; border:1px solid #e2e8f0; border-radius:10px; padding:20px 10px; text-align:center;">
                                 <div style="font-size:0.75rem; color:#64748b; font-weight:bold; margin-bottom:8px; text-transform:uppercase;">Avg Score</div>
                                 <div style="font-size:1.8rem; font-weight:bold; color:#f59e0b; line-height:1;">${avgScore}</div>
                             </div>
