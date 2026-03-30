@@ -849,7 +849,8 @@ function renderPrintView() {
              subParts.forEach(w => {
                 if (w.trim().length > 0) {
                    if (isHidden) {
-                     output += '<span class="inline-block relative top-[6px] border-b border-black text-transparent mx-1 bg-white px-6">_</span>'; 
+                     const paddingClass = w.length > 8 ? 'px-16' : (w.length > 4 ? 'px-12' : 'px-8');
+                     output += `<span class="inline-block relative top-[6px] border-b-[1.5px] border-black text-transparent mx-2 bg-white ${paddingClass}">${w}</span>`; 
                    } else {
                      output += `<span class="font-bold underline px-1">${w}</span>`;
                    }
@@ -871,7 +872,7 @@ function renderPrintView() {
 
     contentHtml = `
       <div class="max-w-4xl mx-auto p-4 md:p-8">
-         <h2 class="text-2xl font-bold mb-8 text-center border-b-[3px] border-slate-800 pb-4">${STORY.title} - ${STORY.subTitle}</h2>
+         <h2 class="text-2xl font-bold mb-8 text-center border-b-[3px] border-slate-800 pb-4">${window.APP_DATA.title} - ${window.APP_DATA.subTitle}</h2>
          <div class="mt-8 text-slate-900 font-serif">
             ${paragraphs}
          </div>
