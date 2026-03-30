@@ -181,17 +181,17 @@ function setTab(tab) {
 }
 
 function toggleSelect(id) {
-  // Coerce string ID from HTML back to Number if it's numeric to match the Set's strict equality
-  const parsedId = isNaN(Number(id)) ? String(id) : Number(id);
+  // Find the exact original object reference primitive from VOCAB_LIST to bypass all type coercion issues
+  const actualItem = VOCAB_LIST.find(v => String(v.id) === String(id));
+  if (!actualItem) return;
   
+  const realId = actualItem.id;
   const newSet = new Set(state.selectedIds);
-  // Try deleting both string and number representations just in case
-  if (newSet.has(parsedId)) {
-    newSet.delete(parsedId);
-  } else if (newSet.has(String(parsedId))) {
-    newSet.delete(String(parsedId));
+  
+  if (newSet.has(realId)) {
+    newSet.delete(realId);
   } else {
-    newSet.add(parsedId);
+    newSet.add(realId);
   }
   
   setState({ selectedIds: newSet });
