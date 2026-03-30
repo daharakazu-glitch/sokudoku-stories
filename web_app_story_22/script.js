@@ -590,8 +590,13 @@ function renderTextComponent() {
     return output;
   };
   
-  const formattedEn = STORY.en.split(/\n+/).map(p => formatText(p, false)).join('<br><br>');
-  const formattedJp = STORY.jp.split(/\n+/).map(p => formatText(p, true)).join('<br><br>');
+  const formattedEn = STORY.en.split(/\n+/)
+    .map(p => p.trim()).filter(p => p.length > 0)
+    .map(p => `<p class="mb-6 last:mb-0">${formatText(p, false)}</p>`).join('');
+    
+  const formattedJp = STORY.jp.split(/\n+/)
+    .map(p => p.trim()).filter(p => p.length > 0)
+    .map(p => `<p class="mb-6 last:mb-0">${formatText(p, true)}</p>`).join('');
 
   return `
     <div class="space-y-6">
@@ -615,15 +620,15 @@ function renderTextComponent() {
             <i data-lucide="${state.isPlaying ? 'pause' : 'play'}" class="w-5 h-5"></i> ${state.isPlaying ? 'Stop' : (state.isPaused ? 'Resume' : 'Listen')}
           </button>
         </div>
-        <p class="text-2xl leading-loose text-left text-slate-800 font-serif tracking-wide">
+        <div class="text-2xl leading-loose text-left text-slate-800 font-serif tracking-wide">
           ${formattedEn}
-        </p>
+        </div>
       </div>
 
       ${state.showTranslation ? `
       <div class="bg-slate-100 p-6 rounded-lg border-l-4 border-slate-400 animate-in fade-in slide-in-from-top-4 duration-300">
         <h2 class="text-lg font-bold text-slate-600 mb-3">日本語訳</h2>
-        <p class="leading-loose text-slate-700 text-lg">${formattedJp}</p>
+        <div class="leading-loose text-slate-700 text-lg">${formattedJp}</div>
       </div>
       ` : ''}
     </div>
