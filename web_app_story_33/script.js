@@ -868,13 +868,23 @@ function renderPrintView() {
 
     const paragraphs = STORY.en.split(/\n+/)
       .map(p => p.trim()).filter(p => p.length > 0)
-      .map(p => `<p class="mb-6 text-xl leading-loose">${formatStoryPara(p)}</p>`).join('');
+      .map(p => `<p class="mb-8 text-xl leading-loose">${formatStoryPara(p)}</p>`).join('');
+
+    const jpParagraphs = STORY.jp.split(/\n+/)
+      .map(p => p.trim()).filter(p => p.length > 0)
+      .map(p => `<p class="mb-4 text-base leading-relaxed">${p.replace(/\[\[\/?HL\]\]/g, '')}</p>`).join('');
 
     contentHtml = `
       <div class="max-w-4xl mx-auto p-4 md:p-8">
          <h2 class="text-2xl font-bold mb-8 text-center border-b-[3px] border-slate-800 pb-4">${window.APP_DATA.title} - ${window.APP_DATA.subTitle}</h2>
          <div class="mt-8 text-slate-900 font-serif">
             ${paragraphs}
+         </div>
+         <div class="mt-16 pt-8 border-t-[2px] border-dashed border-slate-300">
+            <h3 class="text-lg font-bold mb-6 text-slate-600">【 日本語訳 】</h3>
+            <div class="text-slate-800 font-serif">
+                ${jpParagraphs}
+            </div>
          </div>
       </div>
     `;
