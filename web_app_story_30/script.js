@@ -590,8 +590,8 @@ function renderTextComponent() {
     return output;
   };
   
-  const formattedEn = STORY.en.split('\n').map(p => formatText(p, false)).join('<br><br>');
-  const formattedJp = STORY.jp.split('\n').map(p => formatText(p, true)).join('<br><br>');
+  const formattedEn = STORY.en.split(/\n+/).map(p => formatText(p, false)).join('<br><br>');
+  const formattedJp = STORY.jp.split(/\n+/).map(p => formatText(p, true)).join('<br><br>');
 
   return `
     <div class="space-y-6">
