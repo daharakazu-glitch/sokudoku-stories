@@ -20,6 +20,7 @@ let state = {
   textData: null,
   vocabList: [],
   showMenu: false,
+  showTextMenu: false,
   expandedVocabIds: new Set(),
   // New Features State
   showHighlights: true,
@@ -209,6 +210,18 @@ function toggleAll() {
 
 function toggleMenu() {
   setState({ showMenu: !state.showMenu });
+}
+
+function toggleTextMenu() {
+  setState({ showTextMenu: !state.showTextMenu });
+}
+
+function onPrintTextRequest(modetype) {
+  setState({
+    viewMode: 'print',
+    printSettings: { format: 'text-' + modetype, items: [] },
+    showTextMenu: false
+  });
 }
 
 function toggleHighlights() {
@@ -602,15 +615,33 @@ function renderTextComponent() {
     <div class="space-y-6">
       
       <!-- Text Controls -->
-      <div class="flex flex-wrap gap-4 mb-2">
-        <button onclick="toggleHighlights()" class="px-4 py-2 rounded-full text-sm font-bold border transition-colors flex items-center gap-2 ${state.showHighlights ? 'bg-yellow-100 border-yellow-300 text-yellow-800' : 'bg-slate-100 border-slate-300 text-slate-500'}">
-          <i data-lucide="${state.showHighlights ? 'eye' : 'eye-off'}" class="w-4 h-4"></i>
-          Vocab: ${state.showHighlights ? 'Visible' : 'Hidden'}
-        </button>
-        <button onclick="toggleTranslation()" class="px-4 py-2 rounded-full text-sm font-bold border transition-colors flex items-center gap-2 ${state.showTranslation ? 'bg-blue-100 border-blue-300 text-blue-800' : 'bg-white border-slate-300 text-slate-500'}">
-          <i data-lucide="${state.showTranslation ? 'languages' : 'minus'}" class="w-4 h-4"></i>
-          Original/Translation
-        </button>
+      <div class="flex flex-wrap gap-4 mb-2 justify-between items-center">
+        <div class="flex flex-wrap gap-4">
+          <button onclick="toggleHighlights()" class="px-4 py-2 rounded-full text-sm font-bold border transition-colors flex items-center gap-2 ${state.showHighlights ? 'bg-yellow-100 border-yellow-300 text-yellow-800' : 'bg-slate-100 border-slate-300 text-slate-500'}">
+            <i data-lucide="${state.showHighlights ? 'eye' : 'eye-off'}" class="w-4 h-4"></i>
+            Vocab: ${state.showHighlights ? 'Visible' : 'Hidden'}
+          </button>
+          <button onclick="toggleTranslation()" class="px-4 py-2 rounded-full text-sm font-bold border transition-colors flex items-center gap-2 ${state.showTranslation ? 'bg-blue-100 border-blue-300 text-blue-800' : 'bg-white border-slate-300 text-slate-500'}">
+            <i data-lucide="${state.showTranslation ? 'languages' : 'minus'}" class="w-4 h-4"></i>
+            Original/Translation
+          </button>
+        </div>
+        <div class="relative">
+            <button onclick="toggleTextMenu()" class="bg-blue-700 text-white px-6 py-2 rounded shadow font-bold text-sm flex items-center gap-2 hover:bg-blue-800 transition-colors">
+              <i data-lucide="printer" class="w-5 h-5"></i> プリント作成
+            </button>
+            ${state.showTextMenu ? `
+              <div class="absolute right-0 top-full mt-2 w-64 bg-white rounded shadow-xl border border-slate-200 z-30 animate-in fade-in zoom-in duration-200">
+                <div class="bg-slate-100 p-3 text-sm font-bold text-slate-500 border-b">本文印刷タイプ</div>
+                <button onclick="onPrintTextRequest('visible')" class="w-full text-left px-4 py-3 hover:bg-blue-50 flex items-center gap-3 border-b text-slate-700 text-sm">
+                    <span class="text-blue-500"><i data-lucide="file-text" class="w-4 h-4"></i></span> 重要語句表示
+                </button>
+                <button onclick="onPrintTextRequest('hidden')" class="w-full text-left px-4 py-3 hover:bg-blue-50 flex items-center gap-3 text-slate-700 text-sm">
+                    <span class="text-blue-500"><i data-lucide="file-question" class="w-4 h-4"></i></span> 重要語句空欄
+                </button>
+              </div>
+            ` : ''}
+        </div>
       </div>
 
       <div class="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-800">
@@ -792,13 +823,61 @@ function renderPrintView() {
       case 'test-example': return '例文テスト';
       case 'cards': return '単語カード';
       case 'foldable': return '折りたたみシート';
+      case 'text-visible': return '本文（重要語句表示）';
+      case 'text-hidden': return '本文（重要語句空欄）';
       default: return '印刷';
     }
   };
 
   let contentHtml = '';
 
-  if (format === 'list') {
+  if (format.startsWith('text-')) {
+    const isHidden = format === 'text-hidden';
+    const formatStoryPara = (textStr) => {
+      if (!textStr) return "";
+      const parts = textStr.split(/(\[\[\/?HL\]\])/g);
+      let output = "";
+      let isHighlighted = false;
+      for (const part of parts) {
+        if (part === "[[HL]]") {
+          isHighlighted = true;
+        } else if (part === "[[/HL]]") {
+          isHighlighted = false;
+        } else {
+          if (isHighlighted) {
+             const subParts = part.split(/(\s+)/);
+             subParts.forEach(w => {
+                if (w.trim().length > 0) {
+                   if (isHidden) {
+                     output += '<span class="inline-block relative top-[6px] border-b border-black text-transparent mx-1 bg-white px-6">_</span>'; 
+                   } else {
+                     output += `<span class="font-bold underline px-1">${w}</span>`;
+                   }
+                } else {
+                   output += w;
+                }
+             });
+          } else {
+             output += part;
+          }
+        }
+      }
+      return output;
+    };
+
+    const paragraphs = STORY.en.split(/\n+/)
+      .map(p => p.trim()).filter(p => p.length > 0)
+      .map(p => `<p class="mb-6 text-xl leading-loose">${formatStoryPara(p)}</p>`).join('');
+
+    contentHtml = `
+      <div class="max-w-4xl mx-auto p-4 md:p-8">
+         <h2 class="text-2xl font-bold mb-8 text-center border-b-[3px] border-slate-800 pb-4">${STORY.title} - ${STORY.subTitle}</h2>
+         <div class="mt-8 text-slate-900 font-serif">
+            ${paragraphs}
+         </div>
+      </div>
+    `;
+  } else if (format === 'list') {
     contentHtml = `
           <table class="w-full text-sm border-collapse">
             <thead>
@@ -942,7 +1021,7 @@ function renderPrintView() {
           <div class="h-6 w-px bg-slate-600"></div>
           <div>
             <h2 class="font-bold">${getTitle()}</h2>
-            <p class="text-xs text-slate-400">${items.length}件</p>
+            ${!format.startsWith('text-') ? `<p class="text-xs text-slate-400">${items.length}件</p>` : ''}
           </div>
         </div>
         <button onclick="window.print()" class="bg-blue-600 hover:bg-blue-500 text-white px-6 py-2 rounded font-bold shadow flex items-center gap-2">
