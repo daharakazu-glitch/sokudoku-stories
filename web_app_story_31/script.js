@@ -552,7 +552,7 @@ function renderTabNav() {
 
 function renderTextComponent() {
   // Use [[HL]] tokens parsed from script rather than doing naive regex mapping
-  const formatText = (textStr) => {
+  const formatText = (textStr, isJapanese = false) => {
     if (!textStr) return "";
     
     // Split by [[HL]] and [[/HL]] markers
@@ -573,7 +573,7 @@ function renderTextComponent() {
            const subParts = part.split(/(\s+)/);
            subParts.forEach(w => {
               if (w.trim().length > 0) {
-                 if (state.showHighlights) {
+                 if (state.showHighlights || isJapanese) {
                    output += `<span class="bg-yellow-200 text-blue-900 font-bold px-1 mx-[2px] rounded transition-all duration-300 inline-block">${w}</span>`;
                  } else {
                    output += `<span class="bg-slate-300 text-transparent font-bold px-1 mx-[2px] rounded select-none cursor-pointer transition-all duration-300 inline-block" onclick="toggleHighlights()">${w}</span>`;
@@ -590,8 +590,8 @@ function renderTextComponent() {
     return output;
   };
   
-  const formattedEn = STORY.en.split('\n').map(p => formatText(p)).join('<br><br>');
-  const formattedJp = STORY.jp.split('\n').map(p => formatText(p)).join('<br><br>');
+  const formattedEn = STORY.en.split('\n').map(p => formatText(p, false)).join('<br><br>');
+  const formattedJp = STORY.jp.split('\n').map(p => formatText(p, true)).join('<br><br>');
 
   return `
     <div class="space-y-6">
