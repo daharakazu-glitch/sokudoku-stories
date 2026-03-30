@@ -858,14 +858,16 @@ function renderPrintView() {
           <div class="space-y-6">
             ${items.map((item, i) => {
       if (!item.sentence) return '';
-      const masked = item.sentence.replace(new RegExp(`\\b${item.word}\\b`, 'gi'), '_______');
+      const regexValid = new RegExp(`\\b${item.word}[a-z]*\\b`, 'gi');
+      const fallbackRegex = new RegExp(`${item.word}[a-z]*`, 'gi');
+      const masked = item.sentence.replace(regexValid, '_______')
       return `
                 <div class="avoid-break border-b border-slate-300 pb-4">
                   <div class="flex gap-4">
                     <span class="font-bold w-6 text-center">${i + 1}.</span>
                     <div class="flex-1">
                       <p class="text-lg mb-1 leading-relaxed">
-                        ${masked.includes('_______') ? masked : item.sentence.replace(item.word, '_______')}
+                        ${masked.includes('_______') ? masked : item.sentence.replace(fallbackRegex, '_______')}
                       </p>
                       <p class="text-xs text-slate-500">${item.translation}</p>
                     </div>
