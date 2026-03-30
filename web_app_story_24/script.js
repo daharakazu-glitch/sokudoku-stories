@@ -559,11 +559,18 @@ function renderTextComponent() {
         isHighlighted = false;
       } else {
         if (isHighlighted) {
-           if (state.showHighlights) {
-             output += `<span class="bg-yellow-200 text-blue-900 font-bold px-1 mx-[2px] rounded transition-all duration-300 inline-block">${part}</span>`;
-           } else {
-             output += `<span class="bg-slate-300 text-transparent font-bold px-1 mx-[2px] rounded select-none cursor-pointer transition-all duration-300 inline-block" onclick="toggleHighlights()">${part}</span>`;
-           }
+           const subParts = part.split(/(\s+)/);
+           subParts.forEach(w => {
+              if (w.trim().length > 0) {
+                 if (state.showHighlights) {
+                   output += `<span class="bg-yellow-200 text-blue-900 font-bold px-1 mx-[2px] rounded transition-all duration-300 inline-block">${w}</span>`;
+                 } else {
+                   output += `<span class="bg-slate-300 text-transparent font-bold px-1 mx-[2px] rounded select-none cursor-pointer transition-all duration-300 inline-block" onclick="toggleHighlights()">${w}</span>`;
+                 }
+              } else {
+                 output += w;
+              }
+           });
         } else {
            output += part;
         }
