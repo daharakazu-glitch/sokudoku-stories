@@ -688,7 +688,7 @@ function renderVocabCard(item) {
             <div class="mt-4 pt-4 border-t border-slate-100">
               <div class="flex items-center gap-3 mb-2">
                 <span class="text-xs bg-slate-200 px-2 py-1 rounded font-bold text-slate-600">EX</span>
-                <button onclick="playWord('${item.sentence.replace(/'/g, "\\'")}')" class="text-sm flex items-center gap-2 border px-3 py-1 rounded bg-white hover:bg-slate-50 font-bold transition-colors">
+                <button onclick="playWord('${item.sentence.replace(/'/g, "\\'").replace(/"/g, '&quot;').replace(/\n/g, ' ')}')" class="text-sm flex items-center gap-2 border px-3 py-1 rounded bg-white hover:bg-slate-50 font-bold transition-colors">
                     <i data-lucide="play" class="w-4 h-4"></i> Listen
                 </button>
               </div>
@@ -728,7 +728,7 @@ function renderRecorder(id, type, targetText) {
   const score = isCurrent ? state.recordingState.score : null;
   const feedback = isCurrent ? state.recordingState.feedback : null;
   const transcript = isCurrent ? state.recordingState.transcript : '';
-  const safeText = targetText.replace(/'/g, "\\'");
+  const safeText = targetText.replace(/'/g, "\\'").replace(/"/g, '&quot;').replace(/\n/g, ' ');
 
   if (isCurrent && isRec) {
     return `
