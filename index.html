@@ -150,6 +150,8 @@
             const link = document.createElement('a');
             link.id = `link-story-${numStr}`;
             link.href = `web_app_story_${numStr}/index.html`;
+            link.target = "_blank";
+            link.rel = "noopener noreferrer";
             link.textContent = `Story ${numStr}`;
             grid.appendChild(link);
         }
